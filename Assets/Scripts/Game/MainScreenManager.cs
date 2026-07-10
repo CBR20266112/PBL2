@@ -15,6 +15,14 @@ public class MainScreenManager : MonoBehaviour
 
     private PlayerHUD _playerHUD;
 
+    public void Initialize(Button waitCustomerButton, Button shopButton, Button collectionButton, Button settingsButton)
+    {
+        _waitCustomerButton = waitCustomerButton;
+        _shopButton = shopButton;
+        _collectionButton = collectionButton;
+        _settingsButton = settingsButton;
+    }
+
     private void OnEnable()
     {
         // 버튼 이벤트 등록
@@ -47,9 +55,11 @@ public class MainScreenManager : MonoBehaviour
 
     private void OnWaitCustomerClicked()
     {
-        Debug.Log("손님 등장");
-        
-        // 손님 등장 화면 표시
+        Debug.Log("손님 대기 클릭");
+
+        // 손님 생성 후 등장 화면 표시
+        CustomerManager.Instance.SpawnRandomCustomer();
+
         Canvas canvas = FindObjectOfType<Canvas>();
         if (canvas != null)
         {

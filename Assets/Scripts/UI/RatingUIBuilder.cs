@@ -287,14 +287,6 @@ public class RatingUIBuilder
             
             // 평가 화면 숨기기
             _uiManager.HidePanel("RatingPanel");
-            
-            // 메인 화면 다시 표시
-            Canvas canvas = FindObjectOfType<Canvas>();
-            if (canvas != null)
-            {
-                MainScreenUIBuilder mainUI = new MainScreenUIBuilder(canvas, _uiManager);
-                mainUI.Build();
-            }
         });
     }
 }

@@ -13,7 +13,12 @@ public class UIManager : Singleton<UIManager>
     {
         if (_mainCanvas == null)
         {
-            Debug.LogWarning("UIManager: MainCanvas is not assigned!");
+            _mainCanvas = FindObjectOfType<Canvas>();
+            if (_mainCanvas == null)
+            {
+                Debug.LogWarning("UIManager: MainCanvas is not assigned and no Canvas found in scene!");
+                return;
+            }
         }
     }
 
@@ -22,6 +27,12 @@ public class UIManager : Singleton<UIManager>
     /// </summary>
     public void ShowPanel(string panelName)
     {
+        if (_mainCanvas == null)
+        {
+            Debug.LogWarning("UIManager.ShowPanel: MainCanvas is not initialized");
+            return;
+        }
+
         Transform panel = _mainCanvas.transform.Find(panelName);
         if (panel != null)
         {

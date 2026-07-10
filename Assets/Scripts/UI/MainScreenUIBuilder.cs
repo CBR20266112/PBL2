@@ -113,17 +113,18 @@ public class MainScreenUIBuilder : MonoBehaviour
         navRect.offsetMax = Vector2.zero;
 
         // 4개 버튼 생성
-        CreateNavButton(navObj, "WaitCustomerBtn", "손님\n대기", 0, 4);
-        CreateNavButton(navObj, "ShopBtn", "상점", 1, 4);
-        CreateNavButton(navObj, "CollectionBtn", "컬렉션", 2, 4);
-        CreateNavButton(navObj, "SettingsBtn", "설정", 3, 4);
+        Button waitButton = CreateNavButton(navObj, "WaitCustomerBtn", "손님\n대기", 0, 4);
+        Button shopButton = CreateNavButton(navObj, "ShopBtn", "상점", 1, 4);
+        Button collectionButton = CreateNavButton(navObj, "CollectionBtn", "컬렉션", 2, 4);
+        Button settingsButton = CreateNavButton(navObj, "SettingsBtn", "설정", 3, 4);
 
         // MainScreenManager 추가
         MainScreenManager manager = navObj.AddComponent<MainScreenManager>();
+        manager.Initialize(waitButton, shopButton, collectionButton, settingsButton);
         manager.enabled = true;
     }
 
-    private void CreateNavButton(GameObject parent, string name, string label, int index, int totalCount)
+    private Button CreateNavButton(GameObject parent, string name, string label, int index, int totalCount)
     {
         GameObject btnObj = new GameObject(name);
         btnObj.transform.SetParent(parent.transform, false);
@@ -141,6 +142,7 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         // 버튼 텍스트
         CreateText(btnObj, "Label", label, Vector2.zero, TextAnchor.MiddleCenter);
+        return button;
     }
 
     private void CreateHUDText(GameObject parent, string name, string text, Vector2 position, TextAnchor anchor)

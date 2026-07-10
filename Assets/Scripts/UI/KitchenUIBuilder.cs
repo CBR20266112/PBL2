@@ -75,10 +75,13 @@ public class KitchenUIBuilder
     private void OnBrewingComplete()
     {
         Debug.Log("Brewing complete! Showing rating screen");
-        
+
+        // 이벤트 리스너 제거
+        _brewingManager.OnBrewingComplete -= OnBrewingComplete;
+
         // 주방 화면 숨기기
         _uiManager.HidePanel("KitchenPanel");
-        
+
         // 평가 화면 표시
         RatingUIBuilder ratingUI = new RatingUIBuilder(_canvas, _uiManager);
         ratingUI.Build();
