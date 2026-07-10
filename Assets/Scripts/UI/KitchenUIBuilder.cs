@@ -67,6 +67,21 @@ public class KitchenUIBuilder
 
         // 돌아가기 버튼
         CreateBackButton(panelObj);
+
+        // 제조 완료 이벤트 리스너 등록
+        _brewingManager.OnBrewingComplete += OnBrewingComplete;
+    }
+
+    private void OnBrewingComplete()
+    {
+        Debug.Log("Brewing complete! Showing rating screen");
+        
+        // 주방 화면 숨기기
+        _uiManager.HidePanel("KitchenPanel");
+        
+        // 평가 화면 표시
+        RatingUIBuilder ratingUI = new RatingUIBuilder(_canvas, _uiManager);
+        ratingUI.Build();
     }
 
     private void CreateTitle(GameObject parent, string title)

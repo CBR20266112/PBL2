@@ -29,6 +29,10 @@ public class BrewingManager : Singleton<BrewingManager>
 {
     public BrewingData CurrentBrewingData { get; private set; } = new BrewingData();
 
+    // 제조 완료 이벤트
+    public delegate void BrewingCompleteHandler();
+    public event BrewingCompleteHandler OnBrewingComplete;
+
     private float _brewingDuration = 5f; // 기본 우림시간 5초
     private float _brewingTimer = 0f;
     private bool _isBrewing = false;
@@ -44,7 +48,14 @@ public class BrewingManager : Singleton<BrewingManager>
         {
             _isBrewing = false;
             _brewingTimer = 0f;
+            
+            // 평가 계산
+            CalculateQuality();
+            
             Debug.Log($"Brewing complete! Quality: {CurrentBrewingData.brewingQuality}");
+            
+            // 제조 완료 이벤트 발생
+            OnBrewingComplete?.Invoke();
         }
     }
 
@@ -99,6 +110,25 @@ public class BrewingManager : Singleton<BrewingManager>
     public void SetQuality(int quality)
     {
         CurrentBrewingData.brewingQuality = Mathf.Clamp(quality, 1, 5);
+    }
+
+    /// <summary>
+    /// 평가 계산 (손님 선호도와 플레이어 선택 비교)
+    /// </summary>
+    private void CalculateQuality()
+    {
+        Customer customer = CustomerManager.Instance.GetCurrentCustomer();
+        if (customer == null)
+        {
+            CurrentBrewingData.brewingQuality = 3;
+            return;
+        }
+
+        CurrentBrewingData.brewingQuality = customer.GetRating(
+            CurrentBrewingData.selectedTea,
+            CurrentBrewingData.temperature,
+            CurrentBrewingData.steepTime
+        );
     }
 
     /// <summary>

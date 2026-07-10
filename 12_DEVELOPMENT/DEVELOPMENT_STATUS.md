@@ -406,4 +406,75 @@ Assets/Scripts/UI/KitchenUIBuilder.cs (수정)
 
 ---
 
-**상태**: Step 8 완료, Step 9 준비 중
+## Step 9: 차 제조 시스템 (평가) 구현 ✅
+
+### 완료 항목
+
+#### A. 제조 완료 이벤트
+- `BrewingManager.OnBrewingComplete` - 제조 완료 시 발동
+- 자동 평가 계산 (Customer.GetRating)
+- 손님 선호도 vs 플레이어 선택 비교
+
+#### B. 평가 시스템
+- `RatingUIBuilder` - 평가 화면 동적 생성
+  - 별점 표시 (★★★☆☆)
+  - 평가 메시지 (5=완벽해요, 1=이게 뭐죠?)
+  - 보상 계산 (기본 1000원 + 별점 * 500원)
+  - 경험치 보상 (100 + 별점 * 50)
+
+#### C. 보상 적용
+- 플레이어 돈 추가 (PlayerDataManager.AddMoney)
+- 플레이어 경험치 추가 (PlayerDataManager.AddExp)
+- 손님 친숙도 증가 (Customer.IncreaseFamiliarity)
+- 플레이어 데이터 자동 저장
+
+#### D. 흐름
+1. 주방 화면 → "제조 시작" 버튼
+2. 진행률 바 진행 (5초)
+3. 제조 완료 → OnBrewingComplete 이벤트
+4. 평가 화면 표시
+5. 별점 + 메시지 + 보상 표시
+6. "계속" 버튼 → 메인 화면으로 돌아감
+
+### 파일 목록
+```
+Assets/Scripts/Game/BrewingManager.cs (수정 - 이벤트 추가)
+Assets/Scripts/UI/KitchenUIBuilder.cs (수정 - 이벤트 리스너)
+Assets/Scripts/UI/RatingUIBuilder.cs (새로 생성)
+```
+
+### 평가 화면 레이아웃
+```
+[평가]
+
+Luna님이 선택한 차:
+
+   ★★★★☆
+
+"완벽해요! 또 와야겠어요!"
+
+┌──────────────────────────┐
+│ 보상                     │
+│ 💰 3500원  ⭐ 250EXP    │
+└──────────────────────────┘
+
+     [계속]
+```
+
+### 별점 레벨
+- 5별: 완벽해요! 또 와야겠어요!
+- 4별: 정말 맛있어요! 감사합니다!
+- 3별: 괜찮네요. 고마워요.
+- 2별: 흠... 별로네요.
+- 1별: 이게 뭐죠?
+
+### 다음 단계
+**Step 10: 최종 완성**
+- 메인 화면 개선
+- 아이콘/이미지 placeholder 정리
+- 게임 흐름 테스트
+- 버그 수정
+
+---
+
+**상태**: Step 9 완료, MVP 구현 완료!
