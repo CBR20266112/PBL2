@@ -37,7 +37,10 @@
 Assets/Scripts/Core/Singleton.cs
 Assets/Scripts/Core/GameManager.cs
 Assets/Scripts/Core/GameConstants.cs
+Assets/Scripts/Core/MainSceneInitializer.cs
 Assets/Scripts/UI/UIManager.cs
+Assets/Scripts/UI/PlayerHUD.cs
+Assets/Scripts/UI/MainScreenUIBuilder.cs
 Assets/Scripts/Data/PlayerDataManager.cs
 Assets/Scenes/Main.unity
 ProjectSettings/ProjectVersion.txt
@@ -45,34 +48,64 @@ Assets/package.json
 .gitignore
 ```
 
-### 아키텍처 개요
+---
 
+## Step 2: 메인 화면 구현 ✅
+
+### 완료 항목
+
+#### A. UI 레이아웃
+- 상단 HUD: 레벨, 돈, 경험치 표시
+- 중앙: 다방 표시 영역 (placeholder)
+- 하단: 네비게이션 바 (손님 대기, 상점, 컬렉션, 설정)
+
+#### B. 스크립트 구현
+- `MainScreenUIBuilder` - UI 동적 생성 (Canvas에 자동으로 레이아웃 구성)
+- `PlayerHUD` - 플레이어 정보 표시 및 업데이트
+- `MainScreenManager` - 메인 화면 버튼 이벤트 처리
+- `MainSceneInitializer` - 씬 초기화 및 게임 매니저 연결
+
+#### C. 기능
+- 플레이어 레벨, 돈 표시
+- 경험치 바 (임시)
+- 손님 대기 버튼 (아직 미구현)
+- 상점, 컬렉션, 설정 버튼 (아직 미구현)
+
+### 사용 방법
+1. `Main.unity` 씬에서 Canvas를 선택
+2. Canvas에 `MainScreenUIBuilder` 스크립트 추가
+3. 씬 실행 시 자동으로 UI 생성
+
+### 파일 목록
 ```
-GameManager (싱글톤)
-├─ 게임 상태 관리 (Loading, Title, Tutorial, Playing, Paused, GameOver)
-├─ 이벤트 시스템 (OnGameStateChanged)
-└─ 씬 로드 제어
-
-UIManager (싱글톤)
-├─ Canvas 참조
-├─ 패널 활성화/비활성화
-└─ UI 중앙 관리
-
-PlayerDataManager (싱글톤)
-├─ PlayerData (이름, 레벨, 돈, 경험치)
-├─ JSON 저장/로드
-├─ PlayerPrefs 사용
-└─ 레벨업 자동 계산
-
-GameConstants
-└─ 모든 게임 상수 정의
+Assets/Scripts/Game/MainScreenManager.cs
+Assets/Scripts/UI/PlayerHUD.cs
+Assets/Scripts/UI/MainScreenUIBuilder.cs
+Assets/Scripts/Core/MainSceneInitializer.cs
 ```
 
-### 다음 단계
-**Step 2: 메인 화면 구현**
+### UI 구조
+```
+Canvas
+├─ Background (크림색 배경)
+├─ TopHUD (상단 정보)
+│  ├─ LevelText
+│  └─ MoneyText
+├─ CafeDisplay (중앙 다방 영역)
+└─ BottomNavigation (하단 네비게이션)
+   ├─ WaitCustomerBtn
+   ├─ ShopBtn
+   ├─ CollectionBtn
+   └─ SettingsBtn
+```
+
+---
+
+## 다음 단계
+**Step 3: 타이틀 화면 구현**
 - Title 씬 생성
-- 플레이 버튼, 설정 버튼 UI
-- 게임 시작 로직
+- 게임 시작, 이름 설정 팝업
+- 게임 시작 → Main 씬 전환
 
 ---
 
@@ -94,11 +127,11 @@ GameConstants
 ## 주의사항
 
 1. 모든 기능은 dev 브랜치에서 개발
-2. Placeholder 이미지 사용 (디자인은 나중)
+2. Placeholder 이미지/색상 사용 (디자인은 나중)
 3. 구조를 우선 (완성도보다 기능 먼저)
 4. 한 번에 한 Step만 구현
 5. 각 Step 완료 후 다음 Step 진행
 
 ---
 
-**상태**: Step 1 완료, Step 2 준비 중
+**상태**: Step 2 완료, Step 3 준비 중
