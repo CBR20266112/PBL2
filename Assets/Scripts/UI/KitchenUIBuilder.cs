@@ -47,6 +47,9 @@ public class KitchenUIBuilder
         // 제목
         CreateTitle(panelObj, "주방");
 
+        // 손님 주문 정보
+        CreateCustomerOrderSection(panelObj);
+
         // 온도 선택 섹션
         CreateTemperatureSection(panelObj);
 
@@ -83,13 +86,63 @@ public class KitchenUIBuilder
         titleText.color = new Color(0.42f, 0.27f, 0.14f, 1f); // 갈색
     }
 
+    private void CreateCustomerOrderSection(GameObject parent)
+    {
+        Customer customer = CustomerManager.Instance.GetCurrentCustomer();
+        if (customer == null) return;
+
+        // 배경
+        GameObject bgObj = new GameObject("OrderBg");
+        bgObj.transform.SetParent(parent.transform, false);
+        RectTransform bgRect = bgObj.AddComponent<RectTransform>();
+        bgRect.anchoredPosition = new Vector2(0, 760);
+        bgRect.sizeDelta = new Vector2(900, 100);
+
+        Image bgImage = bgObj.AddComponent<Image>();
+        bgImage.color = new Color(1f, 0.9f, 0.8f, 1f); // 연주황색 배경
+
+        // 라벨
+        GameObject labelObj = new GameObject("Label");
+        labelObj.transform.SetParent(bgObj.transform, false);
+        RectTransform labelRect = labelObj.AddComponent<RectTransform>();
+        labelRect.anchoredPosition = new Vector2(-300, 30);
+        labelRect.sizeDelta = new Vector2(200, 50);
+
+        Text labelText = labelObj.AddComponent<Text>();
+        labelText.text = $"{customer.data.customerName}의 주문:";
+        labelText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        labelText.fontSize = 28;
+        labelText.fontStyle = FontStyle.Bold;
+        labelText.alignment = TextAnchor.MiddleLeft;
+        labelText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
+
+        // 주문 내용
+        string orderText = $"{BrewingManager.GetTeaLabel(customer.data.preferredTea)} " +
+                          $"({BrewingManager.GetTemperatureLabel(customer.data.preferredTemperature)}, " +
+                          $"{BrewingManager.GetSteepTimeLabel(customer.data.preferredSteepTime)})";
+
+        GameObject orderObj = new GameObject("Order");
+        orderObj.transform.SetParent(bgObj.transform, false);
+        RectTransform orderRect = orderObj.AddComponent<RectTransform>();
+        orderRect.anchoredPosition = new Vector2(200, 30);
+        orderRect.sizeDelta = new Vector2(500, 50);
+
+        Text orderTextComponent = orderObj.AddComponent<Text>();
+        orderTextComponent.text = orderText;
+        orderTextComponent.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        orderTextComponent.fontSize = 28;
+        orderTextComponent.fontStyle = FontStyle.Bold;
+        orderTextComponent.alignment = TextAnchor.MiddleLeft;
+        orderTextComponent.color = new Color(1f, 0.63f, 0.26f, 1f); // 주황색
+    }
+
     private void CreateTemperatureSection(GameObject parent)
     {
         // 라벨
         GameObject labelObj = new GameObject("TempLabel");
         labelObj.transform.SetParent(parent.transform, false);
         RectTransform labelRect = labelObj.AddComponent<RectTransform>();
-        labelRect.anchoredPosition = new Vector2(-400, 700);
+        labelRect.anchoredPosition = new Vector2(-400, 600);
         labelRect.sizeDelta = new Vector2(300, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
@@ -103,7 +156,7 @@ public class KitchenUIBuilder
         string[] tempLabels = { "낮음", "중간", "높음" };
         for (int i = 0; i < 3; i++)
         {
-            CreateToggleButton(parent, $"TempBtn_{i}", tempLabels[i], -300 + i * 250, 600, i, true);
+            CreateToggleButton(parent, $"TempBtn_{i}", tempLabels[i], -300 + i * 250, 500, i, true);
         }
     }
 
@@ -113,7 +166,7 @@ public class KitchenUIBuilder
         GameObject labelObj = new GameObject("TimeLabel");
         labelObj.transform.SetParent(parent.transform, false);
         RectTransform labelRect = labelObj.AddComponent<RectTransform>();
-        labelRect.anchoredPosition = new Vector2(-400, 400);
+        labelRect.anchoredPosition = new Vector2(-400, 300);
         labelRect.sizeDelta = new Vector2(300, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
@@ -127,7 +180,7 @@ public class KitchenUIBuilder
         string[] timeLabels = { "짧음", "중간", "길음" };
         for (int i = 0; i < 3; i++)
         {
-            CreateToggleButton(parent, $"TimeBtn_{i}", timeLabels[i], -300 + i * 250, 300, i, false);
+            CreateToggleButton(parent, $"TimeBtn_{i}", timeLabels[i], -300 + i * 250, 200, i, false);
         }
     }
 
