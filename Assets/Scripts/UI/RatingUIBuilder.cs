@@ -287,6 +287,13 @@ public class RatingUIBuilder
             
             // 평가 화면 숨기기
             _uiManager.HidePanel("RatingPanel");
+            
+            // 메인 HUD 업데이트
+            PlayerHUD playerHUD = Object.FindObjectOfType<PlayerHUD>();
+            if (playerHUD != null)
+            {
+                playerHUD.RefreshUI();
+            }
         });
     }
 }

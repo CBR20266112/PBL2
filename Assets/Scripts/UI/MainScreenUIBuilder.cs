@@ -71,12 +71,35 @@ public class MainScreenUIBuilder : MonoBehaviour
         hudRect.offsetMax = Vector2.zero;
 
         // 플레이어 정보
-        CreateHUDText(hudObj, "LevelText", "Lv.1", new Vector2(20, -40), TextAnchor.MiddleLeft);
-        CreateHUDText(hudObj, "MoneyText", "₩10,000", new Vector2(-20, -40), TextAnchor.MiddleRight);
+        Text levelText = CreateHUDText(hudObj, "LevelText", "Lv.1", new Vector2(20, -40), TextAnchor.MiddleLeft);
+        Text moneyText = CreateHUDText(hudObj, "MoneyText", "₩10,000", new Vector2(-20, -40), TextAnchor.MiddleRight);
 
-        // PlayerHUD 스크립트 추가
+        // 경험치 바
+        GameObject expBarBg = new GameObject("ExpBarBg");
+        expBarBg.transform.SetParent(hudObj.transform, false);
+        Image expBarBgImage = expBarBg.AddComponent<Image>();
+        expBarBgImage.color = new Color(0.95f, 0.95f, 0.95f, 1f);
+
+        RectTransform expBarBgRect = expBarBg.GetComponent<RectTransform>();
+        expBarBgRect.anchorMin = new Vector2(0.25f, 0);
+        expBarBgRect.anchorMax = new Vector2(0.75f, 0);
+        expBarBgRect.anchoredPosition = new Vector2(0, 10);
+        expBarBgRect.sizeDelta = new Vector2(500, 10);
+
+        GameObject expBar = new GameObject("ExpBarFill");
+        expBar.transform.SetParent(expBarBg.transform, false);
+        Image expBarImage = expBar.AddComponent<Image>();
+        expBarImage.color = new Color(1f, 0.63f, 0.26f, 1f);
+
+        RectTransform expBarRect = expBar.GetComponent<RectTransform>();
+        expBarRect.anchorMin = new Vector2(0, 0);
+        expBarRect.anchorMax = new Vector2(0, 1);
+        expBarRect.offsetMin = Vector2.zero;
+        expBarRect.offsetMax = Vector2.zero;
+        expBarRect.sizeDelta = new Vector2(0, 10);
+
         PlayerHUD playerHUD = hudObj.AddComponent<PlayerHUD>();
-        playerHUD.enabled = true;
+        playerHUD.Initialize(levelText, moneyText, expBarImage);
     }
 
     private void CreateCafeDisplay()
@@ -145,7 +168,7 @@ public class MainScreenUIBuilder : MonoBehaviour
         return button;
     }
 
-    private void CreateHUDText(GameObject parent, string name, string text, Vector2 position, TextAnchor anchor)
+    private Text CreateHUDText(GameObject parent, string name, string text, Vector2 position, TextAnchor anchor)
     {
         GameObject textObj = new GameObject(name);
         textObj.transform.SetParent(parent.transform, false);
@@ -161,6 +184,8 @@ public class MainScreenUIBuilder : MonoBehaviour
         RectTransform textRect = textObj.GetComponent<RectTransform>();
         textRect.anchoredPosition = position;
         textRect.sizeDelta = new Vector2(200, 60);
+
+        return textComponent;
     }
 
     private Text CreateText(GameObject parent, string name, string text, Vector2 position, TextAnchor anchor)
