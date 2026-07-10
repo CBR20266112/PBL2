@@ -48,7 +48,12 @@ public class MainScreenManager : MonoBehaviour
     private void OnWaitCustomerClicked()
     {
         Debug.Log("손님 대기 클릭");
-        // TODO: 손님 등장 로직 (Step 7)
+        
+        // 손님 매니저에서 손님 생성
+        CustomerManager.Instance.SpawnRandomCustomer();
+
+        // TODO: Step 8에서 주문 시스템 구현 후 손님 호출
+        // Customer customer = CustomerManager.Instance.CallNextCustomer();
     }
 
     private void OnShopClicked()

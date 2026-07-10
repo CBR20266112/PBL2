@@ -147,4 +147,68 @@ TutorialPanel (반투명 배경)
 
 ---
 
-**상태**: Step 4 완료, Step 5 준비 중
+## Step 5: 손님 시스템 구현 ✅
+
+### 완료 항목
+
+#### A. 손님 데이터 구조
+- `CustomerData` - ScriptableObject 기반 손님 데이터
+  - 이름, 캐릭터 타입
+  - 선호하는 차, 온도, 우림시간
+  - 성격, 스토리
+- `Customer` - 게임 중 나타나는 손님 인스턴스
+  - 친숙도 레벨 (0~5)
+  - 방문 횟수
+  - 만족도 계산
+
+#### B. 손님 매니저
+- `CustomerManager` (싱글톤) - 모든 손님 관리
+  - 손님 데이터 로드 (Resources 또는 기본값)
+  - 무작위 손님 생성
+  - 손님 호출 (대기 큐 → 현재 손님)
+  - 손님 제거 (서빙 완료)
+- `CustomerDataHelper` - 기본 손님 데이터 생성
+
+#### C. 기본 5가지 손님
+1. **Luna** (토끼) - 유자차, 낮은 온도, 짧은 우림
+2. **Hyuntae** (사자) - 차이, 높은 온도, 긴 우림
+3. **Wei** (판다) - 보이차, 중간 온도, 긴 우림
+4. **Sakura** (여우) - 말차, 중간 온도, 짧은 우림
+5. **Denu** (독수리) - 차이, 높은 온도, 긴 우림
+
+#### D. 통합
+- MainScreenManager: 손님 대기 버튼 → CustomerManager.SpawnRandomCustomer()
+- CustomerManager: 게임 시작 시 자동으로 손님 데이터 로드
+
+### 파일 목록
+```
+Assets/Scripts/Data/CustomerData.cs
+Assets/Scripts/Data/CustomerDataHelper.cs
+Assets/Scripts/Game/Customer.cs
+Assets/Scripts/Game/CustomerManager.cs
+Assets/Scripts/Game/MainScreenManager.cs (수정)
+```
+
+### 손님 시스템 아키텍처
+```
+CustomerManager (싱글톤)
+├─ _allCustomers (모든 손님 데이터)
+├─ _waitingCustomers (대기 중인 손님 큐)
+└─ _currentCustomer (현재 서빙 중인 손님)
+
+Customer (게임 중 인스턴스)
+├─ data (CustomerData 참조)
+├─ familiarityLevel (친숙도)
+└─ _totalVisits (방문 횟수)
+```
+
+### 다음 단계
+**Step 6: 주문 시스템 구현**
+- 손님 주문 화면 (선택할 차 표시)
+- 손님의 요청사항 표시 (온도, 우림시간)
+- 손님 대화 (대사)
+- 선택 완료 → 제조 화면으로 이동
+
+---
+
+**상태**: Step 5 완료, Step 6 준비 중
