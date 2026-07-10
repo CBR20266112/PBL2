@@ -48,6 +48,7 @@ public class GameManager : Singleton<GameManager>
     {
         // 타이틀 화면으로 이동
         CurrentState = GameState.Title;
+        LoadScene(GameConstants.SCENE_TITLE);
     }
 
     public void LoadScene(string sceneName)

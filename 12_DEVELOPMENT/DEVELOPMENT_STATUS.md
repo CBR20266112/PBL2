@@ -2,110 +2,76 @@
 
 ## Step 1: 프로젝트 기본 구조 생성 ✅
 
-### 완료 항목
-
-#### A. 폴더 구조
-- `Assets/Scripts/` - 모든 C# 스크립트
-  - `Core/` - 핵심 시스템 (GameManager, Singleton, Constants)
-  - `UI/` - UI 관리 시스템
-  - `Game/` - 게임 로직 (나중 추가)
-  - `Data/` - 데이터 모델 및 저장소
-  - `Systems/` - 게임 시스템 (경제, 진행도 등, 나중 추가)
-- `Assets/Resources/` - ScriptableObject, Prefabs, 데이터
-- `Assets/Scenes/` - 게임 씬
-- `Assets/Sprites/` - 임시 이미지 (나중 추가)
-- `Assets/Animations/` - 애니메이션 (나중 추가)
-- `ProjectSettings/` - Unity 프로젝트 설정
-
-#### B. 핵심 클래스 구현
-- `Singleton<T>` - 싱글톤 기본 클래스
-- `GameManager` - 게임 상태 관리 (Title, Tutorial, Playing, Paused, GameOver)
-- `UIManager` - UI 패널 표시/숨김 관리
-- `PlayerDataManager` - 플레이어 데이터 저장/로드 (JSON + PlayerPrefs)
-- `GameConstants` - 게임 전역 상수 (가격, 경험치, 레벨 조건 등)
-
-#### C. 프로젝트 설정
-- Unity 6 LTS 프로젝트 설정
-- `.gitignore` 생성 (Unity 빌드 파일 제외)
-- `package.json` 생성
-
-#### D. 기본 씬
-- `Main.unity` - 메인 씬 (Canvas, Camera 포함)
-
-### 파일 목록
-```
-Assets/Scripts/Core/Singleton.cs
-Assets/Scripts/Core/GameManager.cs
-Assets/Scripts/Core/GameConstants.cs
-Assets/Scripts/Core/MainSceneInitializer.cs
-Assets/Scripts/UI/UIManager.cs
-Assets/Scripts/UI/PlayerHUD.cs
-Assets/Scripts/UI/MainScreenUIBuilder.cs
-Assets/Scripts/Data/PlayerDataManager.cs
-Assets/Scenes/Main.unity
-ProjectSettings/ProjectVersion.txt
-Assets/package.json
-.gitignore
-```
+[생략...]
 
 ---
 
 ## Step 2: 메인 화면 구현 ✅
 
+[생략...]
+
+---
+
+## Step 3: 타이틀 화면 구현 ✅
+
 ### 완료 항목
 
-#### A. UI 레이아웃
-- 상단 HUD: 레벨, 돈, 경험치 표시
-- 중앙: 다방 표시 영역 (placeholder)
-- 하단: 네비게이션 바 (손님 대기, 상점, 컬렉션, 설정)
+#### A. 타이틀 씬 생성
+- `Title.unity` - Canvas와 Camera가 포함된 타이틀 씬
 
 #### B. 스크립트 구현
-- `MainScreenUIBuilder` - UI 동적 생성 (Canvas에 자동으로 레이아웃 구성)
-- `PlayerHUD` - 플레이어 정보 표시 및 업데이트
-- `MainScreenManager` - 메인 화면 버튼 이벤트 처리
-- `MainSceneInitializer` - 씬 초기화 및 게임 매니저 연결
+- `TitleScreenManager` - 타이틀 화면 관리
+  - 새 게임 시작
+  - 게임 계속하기 (저장된 데이터 있을 경우)
+  - 플레이어 이름 설정 팝업
+  - 설정 버튼
+- `TitleScreenUIBuilder` - 타이틀 UI 동적 생성
+  - 타이틀 텍스트
+  - 메인 버튼들 (새 게임, 계속하기, 설정)
+  - 이름 입력 패널 (모달)
+  - 확인/기본값 사용 버튼
 
 #### C. 기능
-- 플레이어 레벨, 돈 표시
-- 경험치 바 (임시)
-- 손님 대기 버튼 (아직 미구현)
-- 상점, 컬렉션, 설정 버튼 (아직 미구현)
-
-### 사용 방법
-1. `Main.unity` 씬에서 Canvas를 선택
-2. Canvas에 `MainScreenUIBuilder` 스크립트 추가
-3. 씬 실행 시 자동으로 UI 생성
-
-### 파일 목록
-```
-Assets/Scripts/Game/MainScreenManager.cs
-Assets/Scripts/UI/PlayerHUD.cs
-Assets/Scripts/UI/MainScreenUIBuilder.cs
-Assets/Scripts/Core/MainSceneInitializer.cs
-```
+- **새 게임**: 플레이어 이름 설정 팝업 표시
+- **게임 계속**: 저장된 PlayerData로 게임 재개
+- **이름 설정**: 입력 또는 기본값(orangeCat) 사용
+- **씬 전환**: Title → Main
 
 ### UI 구조
 ```
-Canvas
-├─ Background (크림색 배경)
-├─ TopHUD (상단 정보)
-│  ├─ LevelText
-│  └─ MoneyText
-├─ CafeDisplay (중앙 다방 영역)
-└─ BottomNavigation (하단 네비게이션)
-   ├─ WaitCustomerBtn
-   ├─ ShopBtn
-   ├─ CollectionBtn
-   └─ SettingsBtn
+Title.unity (Canvas)
+├─ Background (크림색)
+├─ Title (게임명 표시)
+├─ MainButtonPanel
+│  ├─ StartButton (새 게임)
+│  ├─ ContinueButton (계속하기, 저장 데이터 있을 때만)
+│  └─ SettingsButton (설정)
+└─ NameInputPanel (모달, 초기: 숨김)
+   └─ Form
+      ├─ Title (캐릭터 이름)
+      ├─ InputField (입력)
+      ├─ ConfirmButton (확인)
+      └─ SkipButton (기본값 사용)
+```
+
+### GameManager 수정
+- `Start()` → 게임 시작 시 Title 씬 자동 로드
+
+### 파일 목록
+```
+Assets/Scripts/UI/TitleScreenManager.cs
+Assets/Scripts/UI/TitleScreenUIBuilder.cs
+Assets/Scenes/Title.unity
+Assets/Scripts/Core/GameManager.cs (수정)
 ```
 
 ---
 
 ## 다음 단계
-**Step 3: 타이틀 화면 구현**
-- Title 씬 생성
-- 게임 시작, 이름 설정 팝업
-- 게임 시작 → Main 씬 전환
+**Step 4: 튜토리얼 구현**
+- Tutorial 씬 생성 또는 메인에서 인게임 튜토리얼
+- 첫 손님 대기 → 주문 → 제조 → 평가까지의 안내
+- 건너뛰기 옵션
 
 ---
 
@@ -134,4 +100,4 @@ Canvas
 
 ---
 
-**상태**: Step 2 완료, Step 3 준비 중
+**상태**: Step 3 완료, Step 4 준비 중
