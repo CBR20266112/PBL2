@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## v0.3.0 (2026-07-11)
+
+### Added
+- MVP 구현 완료: Title → Main → Tutorial → Customer → Kitchen → Rating
+- Customer system, brewing mechanics, order and rating flow
+- Player save/load, money, experience, and level progression
+- Dynamic UI builder implementation for all core screens
+
+### Changed
+- 버전업: MVP 단계 구현 완료, dev 브랜치에 커밋
+
+### Documentation
+- 개발 상태 파일 업데이트 및 버전 관리 적용
+
+---
+
 ## v0.2.0 (2026-07-11)
 
 ### Added
