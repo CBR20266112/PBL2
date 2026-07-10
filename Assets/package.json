@@ -1,0 +1,14 @@
+{
+  "name": "com.teaculture.game",
+  "version": "0.2.0",
+  "displayName": "Asian Tea Culture Simulation Game",
+  "description": "xx다방 - 게임 패키지",
+  "unity": "6000.0",
+  "unityRelease": "0f1 LTS",
+  "author": {
+    "name": "Tea Culture Team",
+    "email": "dev@teaculture.local"
+  },
+  "keywords": ["simulation", "tycoon", "mobile", "tea", "culture"],
+  "category": "Mobile Game"
+}
