@@ -47,13 +47,15 @@ public class MainScreenManager : MonoBehaviour
 
     private void OnWaitCustomerClicked()
     {
-        Debug.Log("손님 대기 클릭");
+        Debug.Log("주방 진입");
         
-        // 손님 매니저에서 손님 생성
-        CustomerManager.Instance.SpawnRandomCustomer();
-
-        // TODO: Step 8에서 주문 시스템 구현 후 손님 호출
-        // Customer customer = CustomerManager.Instance.CallNextCustomer();
+        // 주방 화면 표시
+        Canvas canvas = FindObjectOfType<Canvas>();
+        if (canvas != null)
+        {
+            KitchenUIBuilder kitchenUI = new KitchenUIBuilder(canvas, UIManager.Instance);
+            kitchenUI.Build();
+        }
     }
 
     private void OnShopClicked()
