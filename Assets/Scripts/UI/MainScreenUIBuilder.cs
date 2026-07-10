@@ -35,6 +35,9 @@ public class MainScreenUIBuilder : MonoBehaviour
         // 하단 네비게이션
         CreateBottomNavigation();
 
+        // 튜토리얼 UI 추가
+        _mainCanvas.gameObject.AddComponent<TutorialUIBuilder>();
+
         Debug.Log("Main Screen UI built successfully");
     }
 

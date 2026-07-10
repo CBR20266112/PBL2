@@ -100,4 +100,51 @@ Assets/Scripts/Core/GameManager.cs (수정)
 
 ---
 
-**상태**: Step 3 완료, Step 4 준비 중
+## Step 4: 튜토리얼 구현 ✅
+
+### 완료 항목
+
+#### A. 튜토리얼 시스템
+- `TutorialManager` - 튜토리얼 진행 관리
+  - PlayerPrefs로 완료 여부 저장
+  - 단계별 대사 진행
+  - 다음/건너뛰기 버튼
+- `TutorialUIBuilder` - 튜토리얼 UI 동적 생성
+  - 반투명 배경 (포커스)
+  - 대화 박스 (하단)
+  - 다음/건너뛰기 버튼
+
+#### B. 기능
+- **첫 플레이만 표시**: PlayerPrefs.HasKey("TutorialCompleted") 확인
+- **5단계 대사**:
+  1. 환영 인사
+  2. 할머니로부터 물려받은 다방
+  3. 손님 주문 → 정확히 만들기
+  4. 손님 대기 버튼 누르기
+  5. 준비 완료
+- **다음/건너뛰기**: 선택 가능
+- **완료 후**: GameState.Playing으로 변경
+
+#### C. 통합
+- MainScreenUIBuilder에서 TutorialUIBuilder 자동 실행
+- Main 씬 실행 시 자동으로 UI 생성
+
+### 파일 목록
+```
+Assets/Scripts/UI/TutorialManager.cs
+Assets/Scripts/UI/TutorialUIBuilder.cs
+Assets/Scripts/UI/MainScreenUIBuilder.cs (수정)
+```
+
+### 튜토리얼 UI 구조
+```
+TutorialPanel (반투명 배경)
+└─ DialogBox (하단 대화 박스)
+   ├─ Text (튜토리얼 메시지)
+   ├─ NextButton (다음)
+   └─ SkipButton (건너뛰기)
+```
+
+---
+
+**상태**: Step 4 완료, Step 5 준비 중
