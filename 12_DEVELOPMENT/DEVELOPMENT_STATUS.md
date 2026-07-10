@@ -281,4 +281,66 @@ Assets/Scripts/Game/MainScreenManager.cs (수정)
 
 ---
 
-**상태**: Step 6 완료, Step 7 준비 중
+## Step 7: 손님 등장 구현 ✅
+
+### 완료 항목
+
+#### A. 손님 등장 UI
+- `CustomerAppearanceUIBuilder` - 손님 등장 화면 동적 생성
+  - 손님 캐릭터 표시 (색상으로 구분)
+  - 손님 이름 + 인사말
+  - 손님 대사 (스토리 비트)
+  - 선호도 표시 (차, 온도, 우림시간, 성격)
+  - 주방으로 가기 버튼
+  - 거절 버튼
+
+#### B. 캐릭터 색상
+- Luna (토끼): 황금색
+- Hyuntae (사자): 주황색
+- Wei (판다): 연초록색
+- Sakura (여우): 분홍색
+- Denu (독수리): 베이지색
+
+#### C. 흐름
+1. 메인 화면 → 손님 대기 버튼 클릭
+2. 손님 등장 화면 (선호도 표시)
+3. "주방으로 가기" → 주방 화면으로 이동
+4. "거절" → 손님 제거, 메인 화면으로 돌아감
+
+#### D. 통합
+- MainScreenManager: 손님 대기 버튼 → 손님 등장 화면
+- CustomerAppearanceUIBuilder: 주방으로 가기 → KitchenUIBuilder 호출
+- CustomerManager: CallNextCustomer() 실행
+
+### 파일 목록
+```
+Assets/Scripts/UI/CustomerAppearanceUIBuilder.cs
+Assets/Scripts/Game/MainScreenManager.cs (수정)
+```
+
+### 손님 등장 UI 레이아웃
+```
+┌─────────────────────────────────┐
+│  [황금색 박스]                   │
+│   LUNA                          │
+│                                 │
+│ "과제 때문에 밤 늦게 방문"      │
+│                                 │
+│ 선호도                          │
+│ [선호하는 차: 유자차]           │
+│ [온도: 낮음] [우림시간: 짧음]  │
+│ [성격: 수줍음, 예민함]         │
+│                                 │
+│  [주방으로 가기]  [거절]        │
+└─────────────────────────────────┘
+```
+
+### 다음 단계
+**Step 8: 주문 시스템**
+- 손님이 실제로 주문 요청 (차 선택)
+- 주방에서 손님 요청사항 표시
+- 손님 선택과 플레이어 선택 비교
+
+---
+
+**상태**: Step 7 완료, Step 8 준비 중

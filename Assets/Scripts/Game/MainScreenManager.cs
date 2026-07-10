@@ -47,14 +47,14 @@ public class MainScreenManager : MonoBehaviour
 
     private void OnWaitCustomerClicked()
     {
-        Debug.Log("주방 진입");
+        Debug.Log("손님 등장");
         
-        // 주방 화면 표시
+        // 손님 등장 화면 표시
         Canvas canvas = FindObjectOfType<Canvas>();
         if (canvas != null)
         {
-            KitchenUIBuilder kitchenUI = new KitchenUIBuilder(canvas, UIManager.Instance);
-            kitchenUI.Build();
+            CustomerAppearanceUIBuilder customerUI = new CustomerAppearanceUIBuilder(canvas, UIManager.Instance);
+            customerUI.Build();
         }
     }
 
