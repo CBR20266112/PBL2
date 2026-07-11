@@ -20,6 +20,7 @@ public class MainScreenUIBuilder : MonoBehaviour
         }
 
         EnsureEventSystemExists();
+        EnsureCanvasHasGraphicRaycaster();
         BuildUI();
     }
 
@@ -57,6 +58,15 @@ public class MainScreenUIBuilder : MonoBehaviour
         Debug.Log("MainScreenUIBuilder: Created missing EventSystem for UI interaction.");
     }
 
+    private void EnsureCanvasHasGraphicRaycaster()
+    {
+        if (_mainCanvas.GetComponent<GraphicRaycaster>() == null)
+        {
+            _mainCanvas.gameObject.AddComponent<GraphicRaycaster>();
+            Debug.Log("MainScreenUIBuilder: Added missing GraphicRaycaster to Canvas.");
+        }
+    }
+
     private void CreateBackground()
     {
         GameObject bgObj = new GameObject("Background");
@@ -80,6 +90,7 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         Image hudBg = hudObj.AddComponent<Image>();
         hudBg.color = new Color(1f, 1f, 1f, 0.9f);
+        hudBg.raycastTarget = false;
 
         RectTransform hudRect = hudObj.GetComponent<RectTransform>();
         hudRect.anchorMin = new Vector2(0, 1);
@@ -126,6 +137,7 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         Image cafeImage = cafeObj.AddComponent<Image>();
         cafeImage.color = new Color(1f, 0.8f, 0.6f, 0.5f); // ?꾩떆 ?됱긽 (二쇳솴)
+        cafeImage.raycastTarget = false;
 
         RectTransform cafeRect = cafeObj.GetComponent<RectTransform>();
         cafeRect.anchorMin = new Vector2(0, 0.15f);
@@ -145,6 +157,7 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         Image navBg = navObj.AddComponent<Image>();
         navBg.color = new Color(1f, 0.98f, 0.85f, 1f);
+        navBg.raycastTarget = false;
 
         RectTransform navRect = navObj.GetComponent<RectTransform>();
         navRect.anchorMin = new Vector2(0, 0);

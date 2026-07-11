@@ -21,6 +21,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         }
 
         EnsureEventSystemExists();
+        EnsureCanvasHasGraphicRaycaster();
         BuildUI();
     }
 
@@ -89,6 +90,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
 
         Image panelImage = panelObj.AddComponent<Image>();
         panelImage.color = Color.clear;
+        panelImage.raycastTarget = false;
 
         RectTransform panelRect = panelObj.GetComponent<RectTransform>();
         panelRect.anchorMin = new Vector2(0.5f, 0.3f);
@@ -191,6 +193,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
 
         Image inputBg = inputObj.AddComponent<Image>();
         inputBg.color = Color.white;
+        inputBg.raycastTarget = true;
 
         InputField inputField = inputObj.AddComponent<InputField>();
         inputField.text = "orangeCat";
@@ -294,6 +297,15 @@ public class TitleScreenUIBuilder : MonoBehaviour
         eventSystemObj.AddComponent<StandaloneInputModule>();
         DontDestroyOnLoad(eventSystemObj);
         Debug.Log("TitleScreenUIBuilder: Created missing EventSystem for UI interaction.");
+    }
+
+    private void EnsureCanvasHasGraphicRaycaster()
+    {
+        if (_mainCanvas.GetComponent<GraphicRaycaster>() == null)
+        {
+            _mainCanvas.gameObject.AddComponent<GraphicRaycaster>();
+            Debug.Log("TitleScreenUIBuilder: Added missing GraphicRaycaster to Canvas.");
+        }
     }
 }
 
