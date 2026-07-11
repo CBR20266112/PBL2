@@ -1,9 +1,9 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
-/// 튜토리얼 UI 빌더
-/// Main 씬의 Canvas에 튜토리얼 UI 동적 생성
+/// ?쒗넗由ъ뼹 UI 鍮뚮뜑
+/// Main ?ъ쓽 Canvas???쒗넗由ъ뼹 UI ?숈쟻 ?앹꽦
 /// </summary>
 public class TutorialUIBuilder : MonoBehaviour
 {
@@ -23,7 +23,7 @@ public class TutorialUIBuilder : MonoBehaviour
 
     private void BuildTutorialUI()
     {
-        // 튜토리얼 패널 (반투명 배경 + 대화 박스)
+        // ?쒗넗由ъ뼹 ?⑤꼸 (諛섑닾紐?諛곌꼍 + ???諛뺤뒪)
         GameObject tutorialObj = new GameObject("TutorialPanel");
         tutorialObj.transform.SetParent(_mainCanvas.transform, false);
 
@@ -36,7 +36,7 @@ public class TutorialUIBuilder : MonoBehaviour
         tutorialRect.offsetMin = Vector2.zero;
         tutorialRect.offsetMax = Vector2.zero;
 
-        // 대화 박스 (하단)
+        // ???諛뺤뒪 (?섎떒)
         GameObject dialogObj = new GameObject("DialogBox");
         dialogObj.transform.SetParent(tutorialObj.transform, false);
 
@@ -49,13 +49,13 @@ public class TutorialUIBuilder : MonoBehaviour
         dialogRect.offsetMin = Vector2.zero;
         dialogRect.offsetMax = Vector2.zero;
 
-        // 텍스트
+        // ?띿뒪??
         GameObject textObj = new GameObject("Text");
         textObj.transform.SetParent(dialogObj.transform, false);
 
         Text tutorialText = textObj.AddComponent<Text>();
-        tutorialText.text = "튜토리얼 텍스트";
-        tutorialText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        tutorialText.text = "?쒗넗由ъ뼹 ?띿뒪??;
+        tutorialText.font = FontHelper.GetDefaultFont();
         tutorialText.fontSize = 20;
         tutorialText.alignment = TextAnchor.MiddleLeft;
         tutorialText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
@@ -68,7 +68,7 @@ public class TutorialUIBuilder : MonoBehaviour
         textRect.offsetMin = new Vector2(20, 20);
         textRect.offsetMax = new Vector2(-120, -20);
 
-        // Next 버튼
+        // Next 踰꾪듉
         GameObject nextBtnObj = new GameObject("NextButton");
         nextBtnObj.transform.SetParent(dialogObj.transform, false);
 
@@ -82,13 +82,13 @@ public class TutorialUIBuilder : MonoBehaviour
         nextBtnRect.anchorMax = new Vector2(1, 0.5f);
         nextBtnRect.anchoredPosition = new Vector2(-20, 0);
 
-        // Next 버튼 텍스트
+        // Next 踰꾪듉 ?띿뒪??
         GameObject nextTextObj = new GameObject("Text");
         nextTextObj.transform.SetParent(nextBtnObj.transform, false);
 
         Text nextText = nextTextObj.AddComponent<Text>();
-        nextText.text = "다음";
-        nextText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        nextText.text = "?ㅼ쓬";
+        nextText.font = FontHelper.GetDefaultFont();
         nextText.fontSize = 16;
         nextText.fontStyle = FontStyle.Bold;
         nextText.alignment = TextAnchor.MiddleCenter;
@@ -100,7 +100,7 @@ public class TutorialUIBuilder : MonoBehaviour
         nextTextRect.offsetMin = Vector2.zero;
         nextTextRect.offsetMax = Vector2.zero;
 
-        // Skip 버튼
+        // Skip 踰꾪듉
         GameObject skipBtnObj = new GameObject("SkipButton");
         skipBtnObj.transform.SetParent(dialogObj.transform, false);
 
@@ -114,13 +114,13 @@ public class TutorialUIBuilder : MonoBehaviour
         skipBtnRect.anchorMax = new Vector2(1, 0.5f);
         skipBtnRect.anchoredPosition = new Vector2(-130, 0);
 
-        // Skip 버튼 텍스트
+        // Skip 踰꾪듉 ?띿뒪??
         GameObject skipTextObj = new GameObject("Text");
         skipTextObj.transform.SetParent(skipBtnObj.transform, false);
 
         Text skipText = skipTextObj.AddComponent<Text>();
-        skipText.text = "건너뛰기";
-        skipText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        skipText.text = "嫄대꼫?곌린";
+        skipText.font = FontHelper.GetDefaultFont();
         skipText.fontSize = 14;
         skipText.fontStyle = FontStyle.Bold;
         skipText.alignment = TextAnchor.MiddleCenter;
@@ -132,11 +132,11 @@ public class TutorialUIBuilder : MonoBehaviour
         skipTextRect.offsetMin = Vector2.zero;
         skipTextRect.offsetMax = Vector2.zero;
 
-        // TutorialManager 추가
+        // TutorialManager 異붽?
         TutorialManager tutorialManager = tutorialObj.AddComponent<TutorialManager>();
         tutorialManager.enabled = true;
 
-        // 참조 할당
+        // 李몄“ ?좊떦
         tutorialManager.GetType().GetField("_tutorialPanel", 
             System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance)
             .SetValue(tutorialManager, tutorialObj);
@@ -153,3 +153,4 @@ public class TutorialUIBuilder : MonoBehaviour
         Debug.Log("Tutorial UI built successfully");
     }
 }
+

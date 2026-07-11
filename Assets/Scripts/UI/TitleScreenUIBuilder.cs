@@ -1,9 +1,9 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
-/// 타이틀 화면 UI 빌더
-/// 타이틀 씬의 모든 UI 동적 생성
+/// ??댄? ?붾㈃ UI 鍮뚮뜑
+/// ??댄? ?ъ쓽 紐⑤뱺 UI ?숈쟻 ?앹꽦
 /// </summary>
 public class TitleScreenUIBuilder : MonoBehaviour
 {
@@ -24,19 +24,19 @@ public class TitleScreenUIBuilder : MonoBehaviour
 
     private void BuildUI()
     {
-        // 배경
+        // 諛곌꼍
         CreateBackground();
 
-        // 타이틀 텍스트
+        // ??댄? ?띿뒪??
         CreateTitleText();
 
-        // 메인 버튼들
+        // 硫붿씤 踰꾪듉??
         GameObject mainButtonPanel = CreateMainButtonPanel();
 
-        // 이름 입력 패널 (처음에는 숨김)
+        // ?대쫫 ?낅젰 ?⑤꼸 (泥섏쓬?먮뒗 ?④?)
         GameObject nameInputPanel = CreateNameInputPanel();
 
-        // TitleScreenManager 추가
+        // TitleScreenManager 異붽?
         _titleScreenManager = _mainCanvas.gameObject.AddComponent<TitleScreenManager>();
         AssignUIReferences(mainButtonPanel, nameInputPanel);
 
@@ -64,8 +64,8 @@ public class TitleScreenUIBuilder : MonoBehaviour
         titleObj.transform.SetParent(_mainCanvas.transform, false);
 
         Text titleText = titleObj.AddComponent<Text>();
-        titleText.text = "xx다방\n(v0.3.0)";
-        titleText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        titleText.text = "xx?ㅻ갑\n(v0.3.0)";
+        titleText.font = FontHelper.GetDefaultFont();
         titleText.fontSize = 50;
         titleText.fontStyle = FontStyle.Bold;
         titleText.alignment = TextAnchor.MiddleCenter;
@@ -92,14 +92,14 @@ public class TitleScreenUIBuilder : MonoBehaviour
         panelRect.sizeDelta = new Vector2(400, 300);
         panelRect.anchoredPosition = Vector2.zero;
 
-        // 새 게임 버튼
-        CreateMainButton(panelObj, "StartButton", "새 게임", 0, 3);
+        // ??寃뚯엫 踰꾪듉
+        CreateMainButton(panelObj, "StartButton", "??寃뚯엫", 0, 3);
 
-        // 계속하기 버튼
-        CreateMainButton(panelObj, "ContinueButton", "계속하기", 1, 3);
+        // 怨꾩냽?섍린 踰꾪듉
+        CreateMainButton(panelObj, "ContinueButton", "怨꾩냽?섍린", 1, 3);
 
-        // 설정 버튼
-        CreateMainButton(panelObj, "SettingsButton", "설정", 2, 3);
+        // ?ㅼ젙 踰꾪듉
+        CreateMainButton(panelObj, "SettingsButton", "?ㅼ젙", 2, 3);
 
         return panelObj;
     }
@@ -117,13 +117,13 @@ public class TitleScreenUIBuilder : MonoBehaviour
         btnRect.sizeDelta = new Vector2(300, 70);
         btnRect.anchoredPosition = new Vector2(0, -index * 90);
 
-        // 버튼 텍스트
+        // 踰꾪듉 ?띿뒪??
         GameObject textObj = new GameObject("Text");
         textObj.transform.SetParent(btnObj.transform, false);
 
         Text btnText = textObj.AddComponent<Text>();
         btnText.text = label;
-        btnText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        btnText.font = FontHelper.GetDefaultFont();
         btnText.fontSize = 24;
         btnText.fontStyle = FontStyle.Bold;
         btnText.alignment = TextAnchor.MiddleCenter;
@@ -142,7 +142,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         panelObj.transform.SetParent(_mainCanvas.transform, false);
         panelObj.SetActive(false);
 
-        // 반투명 배경 (모달)
+        // 諛섑닾紐?諛곌꼍 (紐⑤떖)
         Image panelBg = panelObj.AddComponent<Image>();
         panelBg.color = new Color(0, 0, 0, 0.5f);
 
@@ -152,7 +152,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         panelRect.offsetMin = Vector2.zero;
         panelRect.offsetMax = Vector2.zero;
 
-        // 입력 폼 (흰색 박스)
+        // ?낅젰 ??(?곗깋 諛뺤뒪)
         GameObject formObj = new GameObject("Form");
         formObj.transform.SetParent(panelObj.transform, false);
 
@@ -165,13 +165,13 @@ public class TitleScreenUIBuilder : MonoBehaviour
         formRect.anchorMax = new Vector2(0.5f, 0.5f);
         formRect.anchoredPosition = Vector2.zero;
 
-        // 제목
+        // ?쒕ぉ
         GameObject titleObj = new GameObject("Title");
         titleObj.transform.SetParent(formObj.transform, false);
 
         Text titleText = titleObj.AddComponent<Text>();
-        titleText.text = "캐릭터 이름";
-        titleText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        titleText.text = "罹먮┃???대쫫";
+        titleText.font = FontHelper.GetDefaultFont();
         titleText.fontSize = 24;
         titleText.fontStyle = FontStyle.Bold;
         titleText.alignment = TextAnchor.MiddleCenter;
@@ -181,7 +181,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         titleRect.anchoredPosition = new Vector2(0, 100);
         titleRect.sizeDelta = new Vector2(350, 40);
 
-        // 입력 필드
+        // ?낅젰 ?꾨뱶
         GameObject inputObj = new GameObject("InputField");
         inputObj.transform.SetParent(formObj.transform, false);
 
@@ -197,13 +197,13 @@ public class TitleScreenUIBuilder : MonoBehaviour
         inputRect.sizeDelta = new Vector2(300, 50);
         inputRect.anchoredPosition = new Vector2(0, 40);
 
-        // 입력 필드의 텍스트 컴포넌트
+        // ?낅젰 ?꾨뱶???띿뒪??而댄룷?뚰듃
         GameObject inputTextObj = new GameObject("Text");
         inputTextObj.transform.SetParent(inputObj.transform, false);
 
         Text inputText = inputTextObj.AddComponent<Text>();
         inputText.text = "orangeCat";
-        inputText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        inputText.font = FontHelper.GetDefaultFont();
         inputText.fontSize = 18;
         inputText.alignment = TextAnchor.MiddleLeft;
 
@@ -215,11 +215,11 @@ public class TitleScreenUIBuilder : MonoBehaviour
 
         inputField.textComponent = inputText;
 
-        // Confirm 버튼
-        CreateNameInputButton(formObj, "ConfirmButton", "확인", -75);
+        // Confirm 踰꾪듉
+        CreateNameInputButton(formObj, "ConfirmButton", "?뺤씤", -75);
 
-        // Skip 버튼
-        CreateNameInputButton(formObj, "SkipButton", "기본값 사용", -150);
+        // Skip 踰꾪듉
+        CreateNameInputButton(formObj, "SkipButton", "湲곕낯媛??ъ슜", -150);
 
         return panelObj;
     }
@@ -237,13 +237,13 @@ public class TitleScreenUIBuilder : MonoBehaviour
         btnRect.sizeDelta = new Vector2(140, 50);
         btnRect.anchoredPosition = new Vector2(0, yPos);
 
-        // 버튼 텍스트
+        // 踰꾪듉 ?띿뒪??
         GameObject textObj = new GameObject("Text");
         textObj.transform.SetParent(btnObj.transform, false);
 
         Text btnText = textObj.AddComponent<Text>();
         btnText.text = label;
-        btnText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        btnText.font = FontHelper.GetDefaultFont();
         btnText.fontSize = 16;
         btnText.fontStyle = FontStyle.Bold;
         btnText.alignment = TextAnchor.MiddleCenter;
@@ -276,3 +276,4 @@ public class TitleScreenUIBuilder : MonoBehaviour
             nameSkipButton);
     }
 }
+

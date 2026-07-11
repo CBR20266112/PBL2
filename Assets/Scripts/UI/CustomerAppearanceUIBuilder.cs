@@ -1,9 +1,9 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
-/// 손님 등장 화면
-/// 손님 스프라이트, 대사, 선호도 표시
+/// ?먮떂 ?깆옣 ?붾㈃
+/// ?먮떂 ?ㅽ봽?쇱씠?? ??? ?좏샇???쒖떆
 /// </summary>
 public class CustomerAppearanceUIBuilder
 {
@@ -20,7 +20,7 @@ public class CustomerAppearanceUIBuilder
 
     public void Build()
     {
-        // 기존 패널 제거
+        // 湲곗〈 ?⑤꼸 ?쒓굅
         foreach (Transform child in _canvas.transform)
         {
             if (child.name == "CustomerPanel")
@@ -29,7 +29,7 @@ public class CustomerAppearanceUIBuilder
             }
         }
 
-        // 메인 패널
+        // 硫붿씤 ?⑤꼸
         GameObject panelObj = new GameObject("CustomerPanel");
         panelObj.transform.SetParent(_canvas.transform, false);
         RectTransform panelRect = panelObj.AddComponent<RectTransform>();
@@ -39,9 +39,9 @@ public class CustomerAppearanceUIBuilder
         panelRect.offsetMax = Vector2.zero;
 
         Image panelImage = panelObj.AddComponent<Image>();
-        panelImage.color = new Color(0.99f, 0.98f, 0.96f, 1f); // 크림 배경
+        panelImage.color = new Color(0.99f, 0.98f, 0.96f, 1f); // ?щ┝ 諛곌꼍
 
-        // 손님 호출
+        // ?먮떂 ?몄텧
         Customer customer = _customerManager.CallNextCustomer();
         if (customer == null)
         {
@@ -49,22 +49,22 @@ public class CustomerAppearanceUIBuilder
             return;
         }
 
-        // 손님 캐릭터 표시 (플레이스홀더: 컬러 박스)
+        // ?먮떂 罹먮┃???쒖떆 (?뚮젅?댁뒪??? 而щ윭 諛뺤뒪)
         CreateCustomerDisplay(panelObj, customer);
 
-        // 손님 이름
+        // ?먮떂 ?대쫫
         CreateCustomerName(panelObj, customer);
 
-        // 손님 대사
+        // ?먮떂 ???
         CreateCustomerDialogue(panelObj, customer);
 
-        // 선호도 표시
+        // ?좏샇???쒖떆
         CreatePreferences(panelObj, customer);
 
-        // 주방으로 가기 버튼
+        // 二쇰갑?쇰줈 媛湲?踰꾪듉
         CreateCookButton(panelObj);
 
-        // 거절 버튼
+        // 嫄곗젅 踰꾪듉
         CreateDeclineButton(panelObj);
     }
 
@@ -78,11 +78,11 @@ public class CustomerAppearanceUIBuilder
 
         Image displayImage = displayObj.AddComponent<Image>();
         
-        // 캐릭터 타입별 색상
+        // 罹먮┃????낅퀎 ?됱긽
         Color characterColor = GetCharacterColor(customer.data.characterType);
         displayImage.color = characterColor;
 
-        // 캐릭터 이름 텍스트
+        // 罹먮┃???대쫫 ?띿뒪??
         GameObject textObj = new GameObject("CharacterType");
         textObj.transform.SetParent(displayObj.transform, false);
         RectTransform textRect = textObj.AddComponent<RectTransform>();
@@ -93,7 +93,7 @@ public class CustomerAppearanceUIBuilder
 
         Text text = textObj.AddComponent<Text>();
         text.text = customer.data.characterType.ToUpper();
-        text.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        text.font = FontHelper.GetDefaultFont();
         text.fontSize = 40;
         text.fontStyle = FontStyle.Bold;
         text.alignment = TextAnchor.MiddleCenter;
@@ -109,8 +109,8 @@ public class CustomerAppearanceUIBuilder
         nameRect.sizeDelta = new Vector2(600, 80);
 
         Text nameText = nameObj.AddComponent<Text>();
-        nameText.text = $"안녕하세요! {customer.data.customerName}입니다.";
-        nameText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        nameText.text = $"?덈뀞?섏꽭?? {customer.data.customerName}?낅땲??";
+        nameText.font = FontHelper.GetDefaultFont();
         nameText.fontSize = 40;
         nameText.fontStyle = FontStyle.Bold;
         nameText.alignment = TextAnchor.MiddleCenter;
@@ -127,12 +127,12 @@ public class CustomerAppearanceUIBuilder
 
         Text dialogueText = dialogueObj.AddComponent<Text>();
         dialogueText.text = $"\"{customer.data.storyBit}\"";
-        dialogueText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        dialogueText.font = FontHelper.GetDefaultFont();
         dialogueText.fontSize = 32;
         dialogueText.alignment = TextAnchor.MiddleCenter;
         dialogueText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
         
-        // 텍스트 줄 바꿈 허용
+        // ?띿뒪??以?諛붽퓞 ?덉슜
         dialogueText.horizontalOverflow = HorizontalWrapMode.Wrap;
         dialogueText.verticalOverflow = VerticalWrapMode.Truncate;
     }
@@ -145,7 +145,7 @@ public class CustomerAppearanceUIBuilder
         prefRect.anchoredPosition = new Vector2(0, -200);
         prefRect.sizeDelta = new Vector2(800, 200);
 
-        // 라벨
+        // ?쇰꺼
         GameObject labelObj = new GameObject("Label");
         labelObj.transform.SetParent(prefObj.transform, false);
         RectTransform labelRect = labelObj.AddComponent<RectTransform>();
@@ -153,24 +153,24 @@ public class CustomerAppearanceUIBuilder
         labelRect.sizeDelta = new Vector2(600, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "선호도";
-        labelText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        labelText.text = "?좏샇??;
+        labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 35;
         labelText.fontStyle = FontStyle.Bold;
         labelText.alignment = TextAnchor.MiddleCenter;
         labelText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
 
-        // 차
-        CreatePreferenceItem(prefObj, "선호하는 차", BrewingManager.GetTeaLabel(customer.data.preferredTea), -350, 0);
+        // 李?
+        CreatePreferenceItem(prefObj, "?좏샇?섎뒗 李?, BrewingManager.GetTeaLabel(customer.data.preferredTea), -350, 0);
 
-        // 온도
-        CreatePreferenceItem(prefObj, "온도", BrewingManager.GetTemperatureLabel(customer.data.preferredTemperature), 0, 0);
+        // ?⑤룄
+        CreatePreferenceItem(prefObj, "?⑤룄", BrewingManager.GetTemperatureLabel(customer.data.preferredTemperature), 0, 0);
 
-        // 우림시간
-        CreatePreferenceItem(prefObj, "우림시간", BrewingManager.GetSteepTimeLabel(customer.data.preferredSteepTime), 350, 0);
+        // ?곕┝?쒓컙
+        CreatePreferenceItem(prefObj, "?곕┝?쒓컙", BrewingManager.GetSteepTimeLabel(customer.data.preferredSteepTime), 350, 0);
 
-        // 성격
-        CreatePreferenceItem(prefObj, "성격", customer.data.personality, 0, -80);
+        // ?깃꺽
+        CreatePreferenceItem(prefObj, "?깃꺽", customer.data.personality, 0, -80);
     }
 
     private void CreatePreferenceItem(GameObject parent, string title, string value, float x, float y)
@@ -181,7 +181,7 @@ public class CustomerAppearanceUIBuilder
         itemRect.anchoredPosition = new Vector2(x, y);
         itemRect.sizeDelta = new Vector2(250, 100);
 
-        // 제목
+        // ?쒕ぉ
         GameObject titleObj = new GameObject("Title");
         titleObj.transform.SetParent(itemObj.transform, false);
         RectTransform titleRect = titleObj.AddComponent<RectTransform>();
@@ -190,13 +190,13 @@ public class CustomerAppearanceUIBuilder
 
         Text titleText = titleObj.AddComponent<Text>();
         titleText.text = title;
-        titleText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        titleText.font = FontHelper.GetDefaultFont();
         titleText.fontSize = 22;
         titleText.fontStyle = FontStyle.Bold;
         titleText.alignment = TextAnchor.MiddleCenter;
         titleText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
 
-        // 값
+        // 媛?
         GameObject valueObj = new GameObject("Value");
         valueObj.transform.SetParent(itemObj.transform, false);
         RectTransform valueRect = valueObj.AddComponent<RectTransform>();
@@ -205,11 +205,11 @@ public class CustomerAppearanceUIBuilder
 
         Text valueText = valueObj.AddComponent<Text>();
         valueText.text = value;
-        valueText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        valueText.font = FontHelper.GetDefaultFont();
         valueText.fontSize = 28;
         valueText.fontStyle = FontStyle.Bold;
         valueText.alignment = TextAnchor.MiddleCenter;
-        valueText.color = new Color(1f, 0.63f, 0.26f, 1f); // 주황색
+        valueText.color = new Color(1f, 0.63f, 0.26f, 1f); // 二쇳솴??
     }
 
     private void CreateCookButton(GameObject parent)
@@ -221,7 +221,7 @@ public class CustomerAppearanceUIBuilder
         btnRect.sizeDelta = new Vector2(400, 80);
 
         Image btnImage = btnObj.AddComponent<Image>();
-        btnImage.color = new Color(1f, 0.63f, 0.26f, 1f); // 주황색
+        btnImage.color = new Color(1f, 0.63f, 0.26f, 1f); // 二쇳솴??
 
         Button btn = btnObj.AddComponent<Button>();
         btn.targetGraphic = btnImage;
@@ -240,8 +240,8 @@ public class CustomerAppearanceUIBuilder
         textRect.offsetMax = Vector2.zero;
 
         Text text = textObj.AddComponent<Text>();
-        text.text = "주방으로 가기";
-        text.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        text.text = "二쇰갑?쇰줈 媛湲?;
+        text.font = FontHelper.GetDefaultFont();
         text.fontSize = 35;
         text.fontStyle = FontStyle.Bold;
         text.alignment = TextAnchor.MiddleCenter;
@@ -249,11 +249,11 @@ public class CustomerAppearanceUIBuilder
 
         btn.onClick.AddListener(() =>
         {
-            Debug.Log("주방으로 가기");
-            // 손님 등장 화면 숨기기
+            Debug.Log("二쇰갑?쇰줈 媛湲?);
+            // ?먮떂 ?깆옣 ?붾㈃ ?④린湲?
             _uiManager.HidePanel("CustomerPanel");
                 
-            // 주방 화면 표시
+            // 二쇰갑 ?붾㈃ ?쒖떆
             Canvas canvas = UnityEngine.Object.FindObjectOfType<Canvas>();
             if (canvas != null)
             {
@@ -286,8 +286,8 @@ public class CustomerAppearanceUIBuilder
         textRect.offsetMax = Vector2.zero;
 
         Text text = textObj.AddComponent<Text>();
-        text.text = "거절";
-        text.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        text.text = "嫄곗젅";
+        text.font = FontHelper.GetDefaultFont();
         text.fontSize = 35;
         text.fontStyle = FontStyle.Bold;
         text.alignment = TextAnchor.MiddleCenter;
@@ -295,7 +295,7 @@ public class CustomerAppearanceUIBuilder
 
         btn.onClick.AddListener(() =>
         {
-            Debug.Log("손님 거절");
+            Debug.Log("?먮떂 嫄곗젅");
             CustomerManager.Instance.RemoveCurrentCustomer();
             _uiManager.HidePanel("CustomerPanel");
         });
@@ -305,12 +305,13 @@ public class CustomerAppearanceUIBuilder
     {
         return characterType switch
         {
-            "luna" => new Color(1f, 0.9f, 0.7f, 1f), // 황금색
-            "hyuntae" => new Color(1f, 0.8f, 0.6f, 1f), // 주황색
-            "wei" => new Color(0.8f, 0.9f, 0.8f, 1f), // 연초록색
-            "sakura" => new Color(1f, 0.85f, 0.9f, 1f), // 분홍색
-            "denu" => new Color(0.9f, 0.85f, 0.8f, 1f), // 베이지색
-            _ => new Color(0.9f, 0.9f, 0.9f, 1f) // 회색
+            "luna" => new Color(1f, 0.9f, 0.7f, 1f), // ?⑷툑??
+            "hyuntae" => new Color(1f, 0.8f, 0.6f, 1f), // 二쇳솴??
+            "wei" => new Color(0.8f, 0.9f, 0.8f, 1f), // ?곗큹濡앹깋
+            "sakura" => new Color(1f, 0.85f, 0.9f, 1f), // 遺꾪솉??
+            "denu" => new Color(0.9f, 0.85f, 0.8f, 1f), // 踰좎씠吏??
+            _ => new Color(0.9f, 0.9f, 0.9f, 1f) // ?뚯깋
         };
     }
 }
+

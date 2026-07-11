@@ -1,9 +1,9 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
-/// 메인 화면 UI 빌더
-/// Canvas, 버튼, 텍스트 등 UI 요소 동적 생성
+/// 硫붿씤 ?붾㈃ UI 鍮뚮뜑
+/// Canvas, 踰꾪듉, ?띿뒪????UI ?붿냼 ?숈쟻 ?앹꽦
 /// </summary>
 public class MainScreenUIBuilder : MonoBehaviour
 {
@@ -23,19 +23,19 @@ public class MainScreenUIBuilder : MonoBehaviour
 
     private void BuildUI()
     {
-        // 배경 이미지
+        // 諛곌꼍 ?대?吏
         CreateBackground();
 
-        // 상단 HUD
+        // ?곷떒 HUD
         CreateTopHUD();
 
-        // 중앙 다방 표시
+        // 以묒븰 ?ㅻ갑 ?쒖떆
         CreateCafeDisplay();
 
-        // 하단 네비게이션
+        // ?섎떒 ?ㅻ퉬寃뚯씠??
         CreateBottomNavigation();
 
-        // 튜토리얼 UI 추가
+        // ?쒗넗由ъ뼹 UI 異붽?
         _mainCanvas.gameObject.AddComponent<TutorialUIBuilder>();
 
         Debug.Log("Main Screen UI built successfully");
@@ -47,7 +47,7 @@ public class MainScreenUIBuilder : MonoBehaviour
         bgObj.transform.SetParent(_mainCanvas.transform, false);
 
         Image bgImage = bgObj.AddComponent<Image>();
-        bgImage.color = new Color(0.99f, 0.98f, 0.96f, 1f); // 크림색
+        bgImage.color = new Color(0.99f, 0.98f, 0.96f, 1f); // ?щ┝??
 
         RectTransform bgRect = bgObj.GetComponent<RectTransform>();
         bgRect.anchorMin = Vector2.zero;
@@ -70,11 +70,11 @@ public class MainScreenUIBuilder : MonoBehaviour
         hudRect.offsetMin = new Vector2(0, -80);
         hudRect.offsetMax = Vector2.zero;
 
-        // 플레이어 정보
+        // ?뚮젅?댁뼱 ?뺣낫
         Text levelText = CreateHUDText(hudObj, "LevelText", "Lv.1", new Vector2(20, -40), TextAnchor.MiddleLeft);
-        Text moneyText = CreateHUDText(hudObj, "MoneyText", "₩10,000", new Vector2(-20, -40), TextAnchor.MiddleRight);
+        Text moneyText = CreateHUDText(hudObj, "MoneyText", "??0,000", new Vector2(-20, -40), TextAnchor.MiddleRight);
 
-        // 경험치 바
+        // 寃쏀뿕移?諛?
         GameObject expBarBg = new GameObject("ExpBarBg");
         expBarBg.transform.SetParent(hudObj.transform, false);
         Image expBarBgImage = expBarBg.AddComponent<Image>();
@@ -108,7 +108,7 @@ public class MainScreenUIBuilder : MonoBehaviour
         cafeObj.transform.SetParent(_mainCanvas.transform, false);
 
         Image cafeImage = cafeObj.AddComponent<Image>();
-        cafeImage.color = new Color(1f, 0.8f, 0.6f, 0.5f); // 임시 색상 (주황)
+        cafeImage.color = new Color(1f, 0.8f, 0.6f, 0.5f); // ?꾩떆 ?됱긽 (二쇳솴)
 
         RectTransform cafeRect = cafeObj.GetComponent<RectTransform>();
         cafeRect.anchorMin = new Vector2(0, 0.15f);
@@ -116,8 +116,8 @@ public class MainScreenUIBuilder : MonoBehaviour
         cafeRect.offsetMin = Vector2.zero;
         cafeRect.offsetMax = Vector2.zero;
 
-        // 임시 텍스트
-        Text cafeText = CreateText(cafeObj, "CafeText", "다방\n(Placeholder)", cafeRect.rect.center, TextAnchor.MiddleCenter);
+        // ?꾩떆 ?띿뒪??
+        Text cafeText = CreateText(cafeObj, "CafeText", "?ㅻ갑\n(Placeholder)", cafeRect.rect.center, TextAnchor.MiddleCenter);
         cafeText.fontSize = 30;
     }
 
@@ -135,13 +135,13 @@ public class MainScreenUIBuilder : MonoBehaviour
         navRect.offsetMin = Vector2.zero;
         navRect.offsetMax = Vector2.zero;
 
-        // 4개 버튼 생성
-        Button waitButton = CreateNavButton(navObj, "WaitCustomerBtn", "손님\n대기", 0, 4);
-        Button shopButton = CreateNavButton(navObj, "ShopBtn", "상점", 1, 4);
-        Button collectionButton = CreateNavButton(navObj, "CollectionBtn", "컬렉션", 2, 4);
-        Button settingsButton = CreateNavButton(navObj, "SettingsBtn", "설정", 3, 4);
+        // 4媛?踰꾪듉 ?앹꽦
+        Button waitButton = CreateNavButton(navObj, "WaitCustomerBtn", "?먮떂\n?湲?, 0, 4);
+        Button shopButton = CreateNavButton(navObj, "ShopBtn", "?곸젏", 1, 4);
+        Button collectionButton = CreateNavButton(navObj, "CollectionBtn", "而щ젆??, 2, 4);
+        Button settingsButton = CreateNavButton(navObj, "SettingsBtn", "?ㅼ젙", 3, 4);
 
-        // MainScreenManager 추가
+        // MainScreenManager 異붽?
         MainScreenManager manager = navObj.AddComponent<MainScreenManager>();
         manager.Initialize(waitButton, shopButton, collectionButton, settingsButton);
         manager.enabled = true;
@@ -154,7 +154,7 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         Button button = btnObj.AddComponent<Button>();
         Image btnImage = btnObj.AddComponent<Image>();
-        btnImage.color = new Color(1f, 0.63f, 0.26f, 1f); // 주황색
+        btnImage.color = new Color(1f, 0.63f, 0.26f, 1f); // 二쇳솴??
 
         RectTransform btnRect = btnObj.GetComponent<RectTransform>();
         float width = 1f / totalCount;
@@ -163,7 +163,7 @@ public class MainScreenUIBuilder : MonoBehaviour
         btnRect.offsetMin = Vector2.zero;
         btnRect.offsetMax = Vector2.zero;
 
-        // 버튼 텍스트
+        // 踰꾪듉 ?띿뒪??
         CreateText(btnObj, "Label", label, Vector2.zero, TextAnchor.MiddleCenter);
         return button;
     }
@@ -175,11 +175,11 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         Text textComponent = textObj.AddComponent<Text>();
         textComponent.text = text;
-        textComponent.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        textComponent.font = FontHelper.GetDefaultFont();
         textComponent.fontSize = 18;
         textComponent.fontStyle = FontStyle.Bold;
         textComponent.alignment = anchor;
-        textComponent.color = new Color(0.42f, 0.27f, 0.14f, 1f); // 갈색
+        textComponent.color = new Color(0.42f, 0.27f, 0.14f, 1f); // 媛덉깋
 
         RectTransform textRect = textObj.GetComponent<RectTransform>();
         textRect.anchoredPosition = position;
@@ -195,7 +195,7 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         Text textComponent = textObj.AddComponent<Text>();
         textComponent.text = text;
-        textComponent.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        textComponent.font = FontHelper.GetDefaultFont();
         textComponent.fontSize = 20;
         textComponent.alignment = anchor;
         textComponent.color = new Color(0.42f, 0.27f, 0.14f, 1f);
@@ -207,3 +207,4 @@ public class MainScreenUIBuilder : MonoBehaviour
         return textComponent;
     }
 }
+

@@ -1,9 +1,9 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
-/// 평가 화면 UI
-/// 별점, 보상 (돈/경험치), 다음 버튼
+/// ?됯? ?붾㈃ UI
+/// 蹂꾩젏, 蹂댁긽 (??寃쏀뿕移?, ?ㅼ쓬 踰꾪듉
 /// </summary>
 public class RatingUIBuilder
 {
@@ -24,7 +24,7 @@ public class RatingUIBuilder
 
     public void Build()
     {
-        // 기존 패널 제거
+        // 湲곗〈 ?⑤꼸 ?쒓굅
         foreach (Transform child in _canvas.transform)
         {
             if (child.name == "RatingPanel")
@@ -33,7 +33,7 @@ public class RatingUIBuilder
             }
         }
 
-        // 메인 패널
+        // 硫붿씤 ?⑤꼸
         GameObject panelObj = new GameObject("RatingPanel");
         panelObj.transform.SetParent(_canvas.transform, false);
         RectTransform panelRect = panelObj.AddComponent<RectTransform>();
@@ -43,21 +43,21 @@ public class RatingUIBuilder
         panelRect.offsetMax = Vector2.zero;
 
         Image panelImage = panelObj.AddComponent<Image>();
-        panelImage.color = new Color(0.99f, 0.98f, 0.96f, 1f); // 크림 배경
+        panelImage.color = new Color(0.99f, 0.98f, 0.96f, 1f); // ?щ┝ 諛곌꼍
 
-        // 제목
+        // ?쒕ぉ
         CreateTitle(panelObj);
 
-        // 손님 이름
+        // ?먮떂 ?대쫫
         CreateCustomerName(panelObj);
 
-        // 별점 표시
+        // 蹂꾩젏 ?쒖떆
         CreateRating(panelObj);
 
-        // 보상 정보
+        // 蹂댁긽 ?뺣낫
         CreateRewards(panelObj);
 
-        // 다음 버튼
+        // ?ㅼ쓬 踰꾪듉
         CreateNextButton(panelObj);
     }
 
@@ -70,8 +70,8 @@ public class RatingUIBuilder
         titleRect.sizeDelta = new Vector2(1080, 100);
 
         Text titleText = titleObj.AddComponent<Text>();
-        titleText.text = "평가";
-        titleText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        titleText.text = "?됯?";
+        titleText.font = FontHelper.GetDefaultFont();
         titleText.fontSize = 50;
         titleText.fontStyle = FontStyle.Bold;
         titleText.alignment = TextAnchor.MiddleCenter;
@@ -90,8 +90,8 @@ public class RatingUIBuilder
         nameRect.sizeDelta = new Vector2(600, 80);
 
         Text nameText = nameObj.AddComponent<Text>();
-        nameText.text = $"{customer.data.customerName}님이 선택한 차:";
-        nameText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        nameText.text = $"{customer.data.customerName}?섏씠 ?좏깮??李?";
+        nameText.font = FontHelper.GetDefaultFont();
         nameText.fontSize = 35;
         nameText.alignment = TextAnchor.MiddleCenter;
         nameText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
@@ -101,7 +101,7 @@ public class RatingUIBuilder
     {
         int quality = _brewingManager.CurrentBrewingData.brewingQuality;
 
-        // 별점 라벨
+        // 蹂꾩젏 ?쇰꺼
         GameObject labelObj = new GameObject("RatingLabel");
         labelObj.transform.SetParent(parent.transform, false);
         RectTransform labelRect = labelObj.AddComponent<RectTransform>();
@@ -109,14 +109,14 @@ public class RatingUIBuilder
         labelRect.sizeDelta = new Vector2(600, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "평가";
-        labelText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        labelText.text = "?됯?";
+        labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 40;
         labelText.fontStyle = FontStyle.Bold;
         labelText.alignment = TextAnchor.MiddleCenter;
         labelText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
 
-        // 별 표시 (텍스트로)
+        // 蹂??쒖떆 (?띿뒪?몃줈)
         GameObject starsObj = new GameObject("Stars");
         starsObj.transform.SetParent(parent.transform, false);
         RectTransform starsRect = starsObj.AddComponent<RectTransform>();
@@ -124,21 +124,21 @@ public class RatingUIBuilder
         starsRect.sizeDelta = new Vector2(600, 100);
 
         Text starsText = starsObj.AddComponent<Text>();
-        string starDisplay = new string('★', quality) + new string('☆', 5 - quality);
+        string starDisplay = new string('??, quality) + new string('??, 5 - quality);
         starsText.text = starDisplay;
-        starsText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        starsText.font = FontHelper.GetDefaultFont();
         starsText.fontSize = 80;
         starsText.alignment = TextAnchor.MiddleCenter;
-        starsText.color = new Color(1f, 0.63f, 0.26f, 1f); // 주황색
+        starsText.color = new Color(1f, 0.63f, 0.26f, 1f); // 二쇳솴??
 
-        // 평가 메시지
+        // ?됯? 硫붿떆吏
         string message = quality switch
         {
-            5 => "완벽해요! 또 와야겠어요!",
-            4 => "정말 맛있어요! 감사합니다!",
-            3 => "괜찮네요. 고마워요.",
-            2 => "흠... 별로네요.",
-            _ => "이게 뭐죠?"
+            5 => "?꾨꼍?댁슂! ????쇨쿋?댁슂!",
+            4 => "?뺣쭚 留쏆엳?댁슂! 媛먯궗?⑸땲??",
+            3 => "愿쒖갖?ㅼ슂. 怨좊쭏?뚯슂.",
+            2 => "??.. 蹂꾨줈?ㅼ슂.",
+            _ => "?닿쾶 萸먯짛?"
         };
 
         GameObject messageObj = new GameObject("Message");
@@ -149,7 +149,7 @@ public class RatingUIBuilder
 
         Text messageText = messageObj.AddComponent<Text>();
         messageText.text = $"\"{message}\"";
-        messageText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        messageText.font = FontHelper.GetDefaultFont();
         messageText.fontSize = 32;
         messageText.alignment = TextAnchor.MiddleCenter;
         messageText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
@@ -160,12 +160,12 @@ public class RatingUIBuilder
     {
         int quality = _brewingManager.CurrentBrewingData.brewingQuality;
         
-        // 기본 보상 (GameConstants 참고)
-        int baseReward = 1000; // TODO: GameConstants에서 가져오기
+        // 湲곕낯 蹂댁긽 (GameConstants 李멸퀬)
+        int baseReward = 1000; // TODO: GameConstants?먯꽌 媛?몄삤湲?
         int moneyReward = baseReward + (quality * 500);
         int expReward = 100 + (quality * 50);
 
-        // 배경
+        // 諛곌꼍
         GameObject bgObj = new GameObject("RewardBg");
         bgObj.transform.SetParent(parent.transform, false);
         RectTransform bgRect = bgObj.AddComponent<RectTransform>();
@@ -175,7 +175,7 @@ public class RatingUIBuilder
         Image bgImage = bgObj.AddComponent<Image>();
         bgImage.color = new Color(1f, 0.9f, 0.8f, 1f);
 
-        // 라벨
+        // ?쇰꺼
         GameObject labelObj = new GameObject("RewardLabel");
         labelObj.transform.SetParent(bgObj.transform, false);
         RectTransform labelRect = labelObj.AddComponent<RectTransform>();
@@ -183,14 +183,14 @@ public class RatingUIBuilder
         labelRect.sizeDelta = new Vector2(600, 50);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "보상";
-        labelText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        labelText.text = "蹂댁긽";
+        labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 35;
         labelText.fontStyle = FontStyle.Bold;
         labelText.alignment = TextAnchor.MiddleCenter;
         labelText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
 
-        // 돈
+        // ??
         GameObject moneyObj = new GameObject("Money");
         moneyObj.transform.SetParent(bgObj.transform, false);
         RectTransform moneyRect = moneyObj.AddComponent<RectTransform>();
@@ -198,14 +198,14 @@ public class RatingUIBuilder
         moneyRect.sizeDelta = new Vector2(300, 60);
 
         Text moneyText = moneyObj.AddComponent<Text>();
-        moneyText.text = $"💰 {moneyReward} 원";
-        moneyText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        moneyText.text = $"?뮥 {moneyReward} ??;
+        moneyText.font = FontHelper.GetDefaultFont();
         moneyText.fontSize = 30;
         moneyText.fontStyle = FontStyle.Bold;
         moneyText.alignment = TextAnchor.MiddleCenter;
         moneyText.color = new Color(1f, 0.63f, 0.26f, 1f);
 
-        // 경험치
+        // 寃쏀뿕移?
         GameObject expObj = new GameObject("Exp");
         expObj.transform.SetParent(bgObj.transform, false);
         RectTransform expRect = expObj.AddComponent<RectTransform>();
@@ -213,14 +213,14 @@ public class RatingUIBuilder
         expRect.sizeDelta = new Vector2(300, 60);
 
         Text expText = expObj.AddComponent<Text>();
-        expText.text = $"⭐ {expReward} EXP";
-        expText.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        expText.text = $"狩?{expReward} EXP";
+        expText.font = FontHelper.GetDefaultFont();
         expText.fontSize = 30;
         expText.fontStyle = FontStyle.Bold;
         expText.alignment = TextAnchor.MiddleCenter;
         expText.color = new Color(1f, 0.63f, 0.26f, 1f);
 
-        // 보상 적용
+        // 蹂댁긽 ?곸슜
         ApplyRewards(moneyReward, expReward);
     }
 
@@ -247,7 +247,7 @@ public class RatingUIBuilder
         btnRect.sizeDelta = new Vector2(400, 80);
 
         Image btnImage = btnObj.AddComponent<Image>();
-        btnImage.color = new Color(1f, 0.63f, 0.26f, 1f); // 주황색
+        btnImage.color = new Color(1f, 0.63f, 0.26f, 1f); // 二쇳솴??
 
         Button btn = btnObj.AddComponent<Button>();
         btn.targetGraphic = btnImage;
@@ -266,8 +266,8 @@ public class RatingUIBuilder
         textRect.offsetMax = Vector2.zero;
 
         Text text = textObj.AddComponent<Text>();
-        text.text = "계속";
-        text.font = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        text.text = "怨꾩냽";
+        text.font = FontHelper.GetDefaultFont();
         text.fontSize = 35;
         text.fontStyle = FontStyle.Bold;
         text.alignment = TextAnchor.MiddleCenter;
@@ -277,16 +277,16 @@ public class RatingUIBuilder
         {
             Debug.Log("Next button clicked");
             
-            // 손님 제거
+            // ?먮떂 ?쒓굅
             _customerManager.RemoveCurrentCustomer();
             
-            // 제조 초기화
+            // ?쒖“ 珥덇린??
             _brewingManager.ResetBrewing();
             
-            // 평가 화면 숨기기
+            // ?됯? ?붾㈃ ?④린湲?
             _uiManager.HidePanel("RatingPanel");
             
-            // 메인 HUD 업데이트
+            // 硫붿씤 HUD ?낅뜲?댄듃
             PlayerHUD playerHUD = UnityEngine.Object.FindObjectOfType<PlayerHUD>();
             if (playerHUD != null)
             {
@@ -295,3 +295,4 @@ public class RatingUIBuilder
         });
     }
 }
+
