@@ -54,7 +54,7 @@ public class TutorialUIBuilder : MonoBehaviour
         textObj.transform.SetParent(dialogObj.transform, false);
 
         Text tutorialText = textObj.AddComponent<Text>();
-        tutorialText.text = "?쒗넗由ъ뼹 ?띿뒪??;
+        tutorialText.text = "튜토리얼 텍스트";
         tutorialText.font = FontHelper.GetDefaultFont();
         tutorialText.fontSize = 20;
         tutorialText.alignment = TextAnchor.MiddleLeft;
