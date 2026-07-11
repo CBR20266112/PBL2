@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+using System;
+using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
@@ -52,6 +53,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         bgObj.transform.SetParent(_mainCanvas.transform, false);
 
         Image bgImage = bgObj.AddComponent<Image>();
+        FontHelper.ApplyDefaultUISprite(bgImage);
         bgImage.color = new Color(0.99f, 0.98f, 0.96f, 1f);
         bgImage.raycastTarget = false;
 
@@ -89,6 +91,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         panelObj.transform.SetParent(_mainCanvas.transform, false);
 
         Image panelImage = panelObj.AddComponent<Image>();
+        FontHelper.ApplyDefaultUISprite(panelImage);
         panelImage.color = Color.clear;
         panelImage.raycastTarget = false;
 
@@ -117,7 +120,9 @@ public class TitleScreenUIBuilder : MonoBehaviour
 
         Button button = btnObj.AddComponent<Button>();
         Image btnImage = btnObj.AddComponent<Image>();
+        FontHelper.ApplyDefaultUISprite(btnImage);
         btnImage.color = new Color(1f, 0.63f, 0.26f, 1f);
+        btnImage.raycastTarget = true;
 
         RectTransform btnRect = btnObj.GetComponent<RectTransform>();
         btnRect.sizeDelta = new Vector2(300, 70);
@@ -239,7 +244,9 @@ public class TitleScreenUIBuilder : MonoBehaviour
 
         Button button = btnObj.AddComponent<Button>();
         Image btnImage = btnObj.AddComponent<Image>();
+        FontHelper.ApplyDefaultUISprite(btnImage);
         btnImage.color = new Color(1f, 0.63f, 0.26f, 1f);
+        btnImage.raycastTarget = true;
 
         RectTransform btnRect = btnObj.GetComponent<RectTransform>();
         btnRect.sizeDelta = new Vector2(140, 50);
@@ -294,9 +301,23 @@ public class TitleScreenUIBuilder : MonoBehaviour
 
         GameObject eventSystemObj = new GameObject("EventSystem");
         eventSystemObj.AddComponent<EventSystem>();
-        eventSystemObj.AddComponent<StandaloneInputModule>();
+
+        Type inputModuleType = Type.GetType("UnityEngine.InputSystem.UI.InputSystemUIInputModule, Unity.InputSystem")
+                             ?? Type.GetType("UnityEngine.InputSystem.UI.InputSystemUIInputModule, Unity.InputSystem.UI")
+                             ?? typeof(StandaloneInputModule);
+
+        if (inputModuleType != null && inputModuleType != typeof(StandaloneInputModule))
+        {
+            eventSystemObj.AddComponent(inputModuleType);
+            Debug.Log("TitleScreenUIBuilder: Created EventSystem with InputSystemUIInputModule.");
+        }
+        else
+        {
+            eventSystemObj.AddComponent<StandaloneInputModule>();
+            Debug.Log("TitleScreenUIBuilder: Created EventSystem with StandaloneInputModule.");
+        }
+
         DontDestroyOnLoad(eventSystemObj);
-        Debug.Log("TitleScreenUIBuilder: Created missing EventSystem for UI interaction.");
     }
 
     private void EnsureCanvasHasGraphicRaycaster()

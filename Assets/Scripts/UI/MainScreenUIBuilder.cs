@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+using System;
+using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
@@ -53,9 +54,23 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         GameObject eventSystemObj = new GameObject("EventSystem");
         eventSystemObj.AddComponent<EventSystem>();
-        eventSystemObj.AddComponent<StandaloneInputModule>();
+
+        Type inputModuleType = Type.GetType("UnityEngine.InputSystem.UI.InputSystemUIInputModule, Unity.InputSystem")
+                             ?? Type.GetType("UnityEngine.InputSystem.UI.InputSystemUIInputModule, Unity.InputSystem.UI")
+                             ?? typeof(StandaloneInputModule);
+
+        if (inputModuleType != null && inputModuleType != typeof(StandaloneInputModule))
+        {
+            eventSystemObj.AddComponent(inputModuleType);
+            Debug.Log("MainScreenUIBuilder: Created EventSystem with InputSystemUIInputModule.");
+        }
+        else
+        {
+            eventSystemObj.AddComponent<StandaloneInputModule>();
+            Debug.Log("MainScreenUIBuilder: Created EventSystem with StandaloneInputModule.");
+        }
+
         DontDestroyOnLoad(eventSystemObj);
-        Debug.Log("MainScreenUIBuilder: Created missing EventSystem for UI interaction.");
     }
 
     private void EnsureCanvasHasGraphicRaycaster()
@@ -73,6 +88,7 @@ public class MainScreenUIBuilder : MonoBehaviour
         bgObj.transform.SetParent(_mainCanvas.transform, false);
 
         Image bgImage = bgObj.AddComponent<Image>();
+        FontHelper.ApplyDefaultUISprite(bgImage);
         bgImage.color = new Color(0.99f, 0.98f, 0.96f, 1f); // ?щ┝??
         bgImage.raycastTarget = false;
 
@@ -89,7 +105,9 @@ public class MainScreenUIBuilder : MonoBehaviour
         hudObj.transform.SetParent(_mainCanvas.transform, false);
 
         Image hudBg = hudObj.AddComponent<Image>();
+        FontHelper.ApplyDefaultUISprite(hudBg);
         hudBg.color = new Color(1f, 1f, 1f, 0.9f);
+        hudBg.raycastTarget = false;
         hudBg.raycastTarget = false;
 
         RectTransform hudRect = hudObj.GetComponent<RectTransform>();
@@ -106,7 +124,9 @@ public class MainScreenUIBuilder : MonoBehaviour
         GameObject expBarBg = new GameObject("ExpBarBg");
         expBarBg.transform.SetParent(hudObj.transform, false);
         Image expBarBgImage = expBarBg.AddComponent<Image>();
+        FontHelper.ApplyDefaultUISprite(expBarBgImage);
         expBarBgImage.color = new Color(0.95f, 0.95f, 0.95f, 1f);
+        expBarBgImage.raycastTarget = false;
 
         RectTransform expBarBgRect = expBarBg.GetComponent<RectTransform>();
         expBarBgRect.anchorMin = new Vector2(0.25f, 0);
@@ -136,7 +156,9 @@ public class MainScreenUIBuilder : MonoBehaviour
         cafeObj.transform.SetParent(_mainCanvas.transform, false);
 
         Image cafeImage = cafeObj.AddComponent<Image>();
+        FontHelper.ApplyDefaultUISprite(cafeImage);
         cafeImage.color = new Color(1f, 0.8f, 0.6f, 0.5f); // ?꾩떆 ?됱긽 (二쇳솴)
+        cafeImage.raycastTarget = false;
         cafeImage.raycastTarget = false;
 
         RectTransform cafeRect = cafeObj.GetComponent<RectTransform>();
@@ -156,7 +178,9 @@ public class MainScreenUIBuilder : MonoBehaviour
         navObj.transform.SetParent(_mainCanvas.transform, false);
 
         Image navBg = navObj.AddComponent<Image>();
+        FontHelper.ApplyDefaultUISprite(navBg);
         navBg.color = new Color(1f, 0.98f, 0.85f, 1f);
+        navBg.raycastTarget = false;
         navBg.raycastTarget = false;
 
         RectTransform navRect = navObj.GetComponent<RectTransform>();
@@ -184,7 +208,9 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         Button button = btnObj.AddComponent<Button>();
         Image btnImage = btnObj.AddComponent<Image>();
+        FontHelper.ApplyDefaultUISprite(btnImage);
         btnImage.color = new Color(1f, 0.63f, 0.26f, 1f); // 二쇳솴??
+        btnImage.raycastTarget = true;
 
         RectTransform btnRect = btnObj.GetComponent<RectTransform>();
         float width = 1f / totalCount;
