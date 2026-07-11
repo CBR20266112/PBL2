@@ -305,8 +305,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!SceneHierarchyHooks &7
-SceneHierarchyHooks:
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_isLocked: 0

@@ -292,8 +292,3 @@ Canvas:
     m_BlockingMask:
       serializedVersion: 2
       m_Bits: 4294967295
---- !u!SceneHierarchyHooks &7
-SceneHierarchyHooks:
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_isLocked: 0
