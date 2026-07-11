@@ -16,7 +16,6 @@ public class TitleScreenManager : MonoBehaviour
     [SerializeField] private Button _nameSkipButton;
 
     private bool _hasSavedData = false;
-    private bool _eventsRegistered = false;
 
     private void OnEnable()
     {
@@ -49,24 +48,32 @@ public class TitleScreenManager : MonoBehaviour
 
     private void RegisterButtonEvents()
     {
-        if (_eventsRegistered)
-            return;
-
         if (_startButton != null)
+        {
+            _startButton.onClick.RemoveListener(OnStartClicked);
             _startButton.onClick.AddListener(OnStartClicked);
+        }
         if (_continueButton != null)
         {
+            _continueButton.onClick.RemoveListener(OnContinueClicked);
             _continueButton.onClick.AddListener(OnContinueClicked);
             _continueButton.gameObject.SetActive(_hasSavedData);
         }
         if (_settingsButton != null)
+        {
+            _settingsButton.onClick.RemoveListener(OnSettingsClicked);
             _settingsButton.onClick.AddListener(OnSettingsClicked);
+        }
         if (_nameConfirmButton != null)
+        {
+            _nameConfirmButton.onClick.RemoveListener(OnNameConfirmClicked);
             _nameConfirmButton.onClick.AddListener(OnNameConfirmClicked);
+        }
         if (_nameSkipButton != null)
+        {
+            _nameSkipButton.onClick.RemoveListener(OnNameSkipClicked);
             _nameSkipButton.onClick.AddListener(OnNameSkipClicked);
-
-        _eventsRegistered = true;
+        }
     }
 
     private void OnDisable()
