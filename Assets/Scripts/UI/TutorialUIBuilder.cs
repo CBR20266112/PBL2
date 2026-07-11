@@ -87,7 +87,7 @@ public class TutorialUIBuilder : MonoBehaviour
         nextTextObj.transform.SetParent(nextBtnObj.transform, false);
 
         Text nextText = nextTextObj.AddComponent<Text>();
-        nextText.text = "Next";
+        nextText.text = "다음";
         nextText.font = FontHelper.GetDefaultFont();
         nextText.fontSize = 16;
         nextText.fontStyle = FontStyle.Bold;
@@ -119,7 +119,7 @@ public class TutorialUIBuilder : MonoBehaviour
         skipTextObj.transform.SetParent(skipBtnObj.transform, false);
 
         Text skipText = skipTextObj.AddComponent<Text>();
-        skipText.text = "Skip";
+        skipText.text = "건너뛰기";
         skipText.font = FontHelper.GetDefaultFont();
         skipText.fontSize = 14;
         skipText.fontStyle = FontStyle.Bold;

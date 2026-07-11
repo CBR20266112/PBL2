@@ -109,7 +109,7 @@ public class CustomerAppearanceUIBuilder
         nameRect.sizeDelta = new Vector2(600, 80);
 
         Text nameText = nameObj.AddComponent<Text>();
-        nameText.text = $"Customer {customer.data.customerName}";
+        nameText.text = $"손님 {customer.data.customerName}";
         nameText.font = FontHelper.GetDefaultFont();
         nameText.fontSize = 40;
         nameText.fontStyle = FontStyle.Bold;
@@ -163,14 +163,14 @@ public class CustomerAppearanceUIBuilder
         // 차
         CreatePreferenceItem(prefObj, "선호하는 차", BrewingManager.GetTeaLabel(customer.data.preferredTea), -350, 0);
 
-        // Temperature
-        CreatePreferenceItem(prefObj, "Temperature", BrewingManager.GetTemperatureLabel(customer.data.preferredTemperature), 0, 0);
+        // 온도
+        CreatePreferenceItem(prefObj, "온도", BrewingManager.GetTemperatureLabel(customer.data.preferredTemperature), 0, 0);
 
-        // Steep time
-        CreatePreferenceItem(prefObj, "Steep Time", BrewingManager.GetSteepTimeLabel(customer.data.preferredSteepTime), 350, 0);
+        // 우림 시간
+        CreatePreferenceItem(prefObj, "우림 시간", BrewingManager.GetSteepTimeLabel(customer.data.preferredSteepTime), 350, 0);
 
-        // Personality
-        CreatePreferenceItem(prefObj, "Personality", customer.data.personality, 0, -80);
+        // 성격
+        CreatePreferenceItem(prefObj, "성격", customer.data.personality, 0, -80);
     }
 
     private void CreatePreferenceItem(GameObject parent, string title, string value, float x, float y)

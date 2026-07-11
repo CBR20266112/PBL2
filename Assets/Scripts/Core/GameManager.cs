@@ -46,6 +46,9 @@ public class GameManager : Singleton<GameManager>
 
     private void Start()
     {
+        // 배경음악 매니저를 미리 생성해서 씬 전환 시 음악을 재생할 수 있도록 준비
+        _ = AudioManager.Instance;
+
         // 타이틀 화면으로 이동
         CurrentState = GameState.Title;
         LoadScene(GameConstants.SCENE_TITLE);

@@ -20,23 +20,41 @@ public class MainScreenManager : MonoBehaviour
         _shopButton = shopButton;
         _collectionButton = collectionButton;
         _settingsButton = settingsButton;
+
+        RegisterButtonEvents();
     }
 
     private void OnEnable()
     {
-        // 버튼 이벤트 등록
-        if (_waitCustomerButton != null)
-            _waitCustomerButton.onClick.AddListener(OnWaitCustomerClicked);
-        if (_shopButton != null)
-            _shopButton.onClick.AddListener(OnShopClicked);
-        if (_collectionButton != null)
-            _collectionButton.onClick.AddListener(OnCollectionClicked);
-        if (_settingsButton != null)
-            _settingsButton.onClick.AddListener(OnSettingsClicked);
+        RegisterButtonEvents();
 
         _playerHUD = GetComponentInChildren<PlayerHUD>();
         if (_playerHUD != null)
             _playerHUD.RefreshUI();
+    }
+
+    private void RegisterButtonEvents()
+    {
+        if (_waitCustomerButton != null)
+        {
+            _waitCustomerButton.onClick.RemoveListener(OnWaitCustomerClicked);
+            _waitCustomerButton.onClick.AddListener(OnWaitCustomerClicked);
+        }
+        if (_shopButton != null)
+        {
+            _shopButton.onClick.RemoveListener(OnShopClicked);
+            _shopButton.onClick.AddListener(OnShopClicked);
+        }
+        if (_collectionButton != null)
+        {
+            _collectionButton.onClick.RemoveListener(OnCollectionClicked);
+            _collectionButton.onClick.AddListener(OnCollectionClicked);
+        }
+        if (_settingsButton != null)
+        {
+            _settingsButton.onClick.RemoveListener(OnSettingsClicked);
+            _settingsButton.onClick.AddListener(OnSettingsClicked);
+        }
     }
 
     private void OnDisable()
@@ -82,6 +100,6 @@ public class MainScreenManager : MonoBehaviour
     private void OnSettingsClicked()
     {
         Debug.Log("설정 클릭");
-        // TODO: 설정 화면 이동 (Step ?)
+        UIManager.Instance.ShowPanel("SettingsPanel");
     }
 }

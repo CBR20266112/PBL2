@@ -44,6 +44,8 @@ public class TitleScreenUIBuilder : MonoBehaviour
         _titleScreenManager = _mainCanvas.gameObject.AddComponent<TitleScreenManager>();
         AssignUIReferences(mainButtonPanel, nameInputPanel);
 
+        _mainCanvas.gameObject.AddComponent<SettingsUIBuilder>();
+
         Debug.Log("Title Screen UI built successfully");
     }
 
@@ -70,7 +72,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         titleObj.transform.SetParent(_mainCanvas.transform, false);
 
         Text titleText = titleObj.AddComponent<Text>();
-        titleText.text = "Tea Cafe\n(v0.3.0)";
+        titleText.text = "티 카페\n(v0.3.0)";
         titleText.font = FontHelper.GetDefaultFont();
         titleText.fontSize = 50;
         titleText.fontStyle = FontStyle.Bold;
@@ -102,13 +104,13 @@ public class TitleScreenUIBuilder : MonoBehaviour
         panelRect.anchoredPosition = Vector2.zero;
 
         // Start button
-        CreateMainButton(panelObj, "StartButton", "Start", 0, 3);
+        CreateMainButton(panelObj, "StartButton", "시작", 0, 3);
 
         // Continue button
-        CreateMainButton(panelObj, "ContinueButton", "Continue", 1, 3);
+        CreateMainButton(panelObj, "ContinueButton", "계속하기", 1, 3);
 
         // Settings button
-        CreateMainButton(panelObj, "SettingsButton", "Settings", 2, 3);
+        CreateMainButton(panelObj, "SettingsButton", "설정", 2, 3);
 
         return panelObj;
     }
@@ -181,7 +183,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         titleObj.transform.SetParent(formObj.transform, false);
 
         Text titleText = titleObj.AddComponent<Text>();
-        titleText.text = "Enter Your Name";
+        titleText.text = "이름을 입력하세요";
         titleText.font = FontHelper.GetDefaultFont();
         titleText.fontSize = 24;
         titleText.fontStyle = FontStyle.Bold;
@@ -201,8 +203,8 @@ public class TitleScreenUIBuilder : MonoBehaviour
         inputBg.raycastTarget = true;
 
         InputField inputField = inputObj.AddComponent<InputField>();
-        inputField.text = "orangeCat";
-        inputField.characterValidation = InputField.CharacterValidation.Alphanumeric;
+        inputField.text = string.Empty;
+        inputField.characterValidation = InputField.CharacterValidation.None;
         inputField.characterLimit = 20;
 
         RectTransform inputRect = inputObj.GetComponent<RectTransform>();
@@ -214,7 +216,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         inputTextObj.transform.SetParent(inputObj.transform, false);
 
         Text inputText = inputTextObj.AddComponent<Text>();
-        inputText.text = "orangeCat";
+        inputText.text = string.Empty;
         inputText.font = FontHelper.GetDefaultFont();
         inputText.fontSize = 18;
         inputText.alignment = TextAnchor.MiddleLeft;
@@ -229,10 +231,10 @@ public class TitleScreenUIBuilder : MonoBehaviour
         inputField.textComponent = inputText;
 
         // Confirm button
-        CreateNameInputButton(formObj, "ConfirmButton", "Confirm", -75);
+        CreateNameInputButton(formObj, "ConfirmButton", "확인", -75);
 
         // Skip button
-        CreateNameInputButton(formObj, "SkipButton", "Skip", -150);
+        CreateNameInputButton(formObj, "SkipButton", "건너뛰기", -150);
 
         return panelObj;
     }

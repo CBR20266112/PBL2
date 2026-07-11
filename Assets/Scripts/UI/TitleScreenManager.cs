@@ -106,7 +106,7 @@ public class TitleScreenManager : MonoBehaviour
     private void OnSettingsClicked()
     {
         Debug.Log("설정");
-        // TODO: 설정 화면 표시
+        UIManager.Instance.ShowPanel("SettingsPanel");
     }
 
     private void ShowNameInputPanel()
@@ -116,7 +116,7 @@ public class TitleScreenManager : MonoBehaviour
             _nameInputPanel.SetActive(true);
             if (_nameInputField != null)
             {
-                _nameInputField.text = "orangeCat";
+                _nameInputField.text = string.Empty;
                 _nameInputField.Select();
                 _nameInputField.ActivateInputField();
             }
@@ -128,7 +128,7 @@ public class TitleScreenManager : MonoBehaviour
         string playerName = _nameInputField.text.Trim();
         if (string.IsNullOrEmpty(playerName))
         {
-            playerName = "orangeCat";
+            playerName = "게스트";
         }
 
         PlayerDataManager.Instance.SetPlayerName(playerName);
@@ -138,7 +138,7 @@ public class TitleScreenManager : MonoBehaviour
 
     private void OnNameSkipClicked()
     {
-        PlayerDataManager.Instance.SetPlayerName("orangeCat");
+        PlayerDataManager.Instance.SetPlayerName("게스트");
         HideNameInputPanel();
         StartGame();
     }

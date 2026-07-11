@@ -1,0 +1,365 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.5/staging' branch; Version is '6000.5.3f1 (c2eb47b3a2a9) revision 12774215'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-vipgo" at "2026-07-11T06:37:06.3242504Z"
+OS: 'Windows 11  (10.0.26200) Core' Language: 'ko' Physical Memory: 15776 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-07-11T06:37:06Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.5.3f1\Editor\Unity.exe
+-batchmode
+-nographics
+-quit
+-projectPath
+.
+-logFile
+UnityBuild13.log
+Successfully changed project path to: C:/Users/vipgo/Dev/PBL2
+C:/Users/vipgo/Dev/PBL2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=0"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Logging is directed to a specific file, skipping project log.Player connection [95844]  Target information:
+
+Player connection [95844]  * "[IP] 192.168.45.153 [Port] 55504 [Flags] 2 [Guid] 3718227742 [EditorId] 3718227742 [Version] 1048832 [Id] WindowsEditor(7,T1grianthus) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [95844] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [95844] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-13044" after 0.6 seconds.
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-vipgo"
+[Licensing::IpcConnector] LicenseClient-vipgo channel disconnected successfully.
+[Licensing::IpcConnector] Channel LicenseClient-vipgo-6000.5.3 doesn't exist
+[Licensing::Module] Successfully launched the LicensingClient (PId: 101756)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-vipgo-6000.5.3" at "2026-07-11T06:37:10.9414245Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 101756, path: "C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              9f760c7c844342dfb262814aec7ad114
+  Correlation Id:          2a15f9d1776cb1cc95177e45dca7703c
+  External correlation Id: 6764174874529594885
+  Machine Id:              ODM7uYFPUhyn56Da4Y+F+Y1CjuM=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-vipgo-6000.5.3" (connect: 1.29s, validation: 0.34s, handshake: 0.02s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-vipgo-6000.5.3-notifications" at "2026-07-11T06:37:11.2983763Z"
+[Licensing::Module] Connected to LicensingClient (PId: 101756, launch time: 0.01, total connection time: 1.65s)
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 14569777524809-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.02
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 5.07s
+[Licensing::Module] Licensing is initialized (took 3.69s).
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.5.3f1 (c2eb47b3a2a9)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/vipgo/Dev/PBL2/Assets
+Forcing GfxDevice: Null
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56044
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008895 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.199 seconds
+Domain Reload Profiling: 2739ms
+	BeginReloadAssembly (429ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (17ms)
+	RebuildNativeTypeToScriptingClass (40ms)
+	initialDomainReloadingComplete (215ms)
+	LoadAllAssembliesAndSetupDomain (831ms)
+		LoadAssemblies (397ms)
+		AnalyzeDomain (583ms)
+			TypeCache.Refresh (578ms)
+				TypeCache.ScanAssembly (539ms)
+	FinalizeReload (1207ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			BeforeProcessingInitializeOnLoad (280ms)
+			ProcessInitializeOnLoadAttributes (321ms)
+			ProcessInitializeOnLoadMethodAttributes (368ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 38 packages:
+  Built-in packages:
+    com.unity.multiplayer.center@1.0.1 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.multiplayer.center@b860850997d0)
+    com.unity.modules.accessibility@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.terrainphysics)
+    com.unity.modules.tilemap@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.tilemap)
+    com.unity.modules.ui@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.ui)
+    com.unity.ugui@2.5.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.ugui@377fd60ad87b)
+    com.unity.modules.uielements@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: C:\Users\vipgo\Dev\PBL2\Library\PackageCache\com.unity.modules.hierarchycore)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.05 seconds
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+Starting: C:\Program Files\Unity\Hub\Editor\6000.5.3f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/vipgo/Dev/PBL2
+DisplayProgressbar: Compiling Scripts
+ExitCode: 4 Duration: 6s370ms
+Rebuilding DAG because FileSignature timestamp changed: Library/Bee/1900b0aE-inputdata.json
+*** Tundra requires additional run (6.15 seconds), 1 items updated, 228 evaluated
+Starting: C:\Program Files\Unity\Hub\Editor\6000.5.3f1\Editor\Data\netcorerun\netcorerun.exe "C:\Program Files\Unity\Hub\Editor\6000.5.3f1\Editor\Data\Tools\BuildPipeline\ScriptCompilationBuildProgram.exe" "Library/Bee/1900b0aE.dag.json" "Library/Bee/1900b0aE-inputdata.json" "Library\Bee\buildprogram0.traceevents"
+WorkingDir: C:/Users/vipgo/Dev/PBL2
+ExitCode: 0 Duration: 0s855ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.5.3f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --dagfilejson="Library\Bee\1900b0aE.dag.json" --profile="Library/Bee/backend2.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/vipgo/Dev/PBL2
+ExitCode: 0 Duration: 1s639ms
+Finished compiling graph: 235 nodes, 1982 flattened edges (1880 ToBuild, 18 ToUse), maximum node priority 104
+[186/232    0s] WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp
+[229/232    1s] Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)
+Assets\Scripts\Audio\AudioManager.cs(35,18): warning CS0114: 'AudioManager.OnDestroy()' hides inherited member 'Singleton<AudioManager>.OnDestroy()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+Assets\Scripts\Core\Singleton.cs(17,29): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+
+Assets\Scripts\Game\MainScreenManager.cs(80,25): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+
+Assets\Scripts\UI\UIManager.cs(16,27): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+
+Assets\Scripts\UI\MainScreenUIBuilder.cs(50,13): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+
+Assets\Scripts\UI\RatingUIBuilder.cs(290,35): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+
+Assets\Scripts\UI\CustomerAppearanceUIBuilder.cs(257,29): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+
+Assets\Scripts\UI\TitleScreenUIBuilder.cs(297,13): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+[230/232    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[231/232    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+*** Tundra build success (1.57 seconds), 4 items updated, 232 evaluated
+Assets\Scripts\Audio\AudioManager.cs(35,18): warning CS0114: 'AudioManager.OnDestroy()' hides inherited member 'Singleton<AudioManager>.OnDestroy()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+Assets\Scripts\Core\Singleton.cs(17,29): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+Assets\Scripts\Game\MainScreenManager.cs(80,25): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+Assets\Scripts\UI\UIManager.cs(16,27): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+Assets\Scripts\UI\MainScreenUIBuilder.cs(50,13): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+Assets\Scripts\UI\RatingUIBuilder.cs(290,35): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+Assets\Scripts\UI\CustomerAppearanceUIBuilder.cs(257,29): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+Assets\Scripts\UI\TitleScreenUIBuilder.cs(297,13): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindAnyObjectByType instead.'
+Total cache size 27369576
+Total cache size after purge 27369576, took 00:00:00.1506915
+AssetDatabase: script compilation time: 11.166827s
+Begin MonoManager ReloadAssembly
+Importing 'GUID: 840a5d297c70cc8429f685d919297ba2 - Path: Assets/Scripts/Audio' with importer (DefaultImporter)
+Imported 'GUID: 840a5d297c70cc8429f685d919297ba2' -> (Import Result ID: '07169eb568da457bafb699229a79e970') in 0.079 seconds [static dependencies only]. Details - ImportResultOutputID=63a7f68705b29c6679abf7e495bc07cb DependenciesID=ac5f4d5c0e505a57ffda77b055844535 StaticDependenciesID=ddc307225ff525771dc9b0d110667526 
+Importing 'GUID: ea87d38211f1995449bcb0b589b2529a - Path: Assets/Resources/Audio' with importer (DefaultImporter)
+Imported 'GUID: ea87d38211f1995449bcb0b589b2529a' -> (Import Result ID: 'd2a7c553e2db22cc4837050f8d8fab6d') in 0.035 seconds [static dependencies only]. Details - ImportResultOutputID=3f8c13a318402f702b28d671c02c0d47 DependenciesID=7ad4116569c3621662d9045435506c2a StaticDependenciesID=28105ada35300406209886696d2693fd 
+Importing 'GUID: f133ef89a34b55d44b4d2d61b48bf11e - Path: Assets/Resources/Audio/SFX' with importer (DefaultImporter)
+Imported 'GUID: f133ef89a34b55d44b4d2d61b48bf11e' -> (Import Result ID: '693f051027b54df40430582f4cf7928d') in 0.031 seconds [static dependencies only]. Details - ImportResultOutputID=f9a191f8353a2b48eb40832efd15c8bd DependenciesID=db617748cbfdf53628fad3cd6302983f StaticDependenciesID=5b1f00cd9be339b7c9cf5bb72b5b0756 
+Importing 'GUID: ad0c4f08368d5b64f8bb71c2edb195c3 - Path: Assets/Resources/Audio/Music' with importer (DefaultImporter)
+Imported 'GUID: ad0c4f08368d5b64f8bb71c2edb195c3' -> (Import Result ID: 'b3a81a62ac3d5d539c1b13e5f0039685') in 0.026 seconds [static dependencies only]. Details - ImportResultOutputID=138258e416ce5ae98b8a583aae5d1246 DependenciesID=11d8f3302b7c49f48a3216cd71532810 StaticDependenciesID=f9af278096d2753276977c6b1f502170 
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.075 seconds
+Domain Reload Profiling: 2226ms
+	BeginReloadAssembly (601ms)
+		DisableScriptedObjects (95ms)
+		CreateAndSetChildDomain (109ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (40ms)
+	initialDomainReloadingComplete (97ms)
+	LoadAllAssembliesAndSetupDomain (380ms)
+		LoadAssemblies (303ms)
+		AnalyzeDomain (63ms)
+			TypeCache.Refresh (33ms)
+				TypeCache.ScanAssembly (19ms)
+			BuildScriptInfoCaches (18ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1084ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			BeforeProcessingInitializeOnLoad (210ms)
+			ProcessInitializeOnLoadAttributes (218ms)
+			ProcessInitializeOnLoadMethodAttributes (202ms)
+			AfterProcessingInitializeOnLoad (15ms)
+		AwakeInstancesAfterBackupRestoration (59ms)
+Starting new worker id: 0 with log in C:/Users/vipgo/Dev/PBL2/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=13f0f1695bf1f68419f60b3142dc18ae): Total: 14.470 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=4 (actual=4, local cache=0, cache server=0)
+		Asset DB Process Time: managed=9 ms, native=1805 ms
+		Asset DB Callback time: managed=151 ms, native=66 ms
+		Scripting: domain reloads=1, domain reload time=1234 ms, compile time=11173 ms, other=30 ms
+		Project Asset Count: scripts=216, non-scripts=126
+		Asset File Changes: new=5, changed=6, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 59.933ms
+	ApplyChangesToAssetFolders: 2.079ms
+	Scan: 295.964ms
+	Collect global state as custom dependencies: 9.476ms
+	OnSourceAssetsModified: 2.121ms
+	CategorizeScriptCompilationAssets: 2.807ms
+	ProcessAssetsWithTransientArtifactChanges: 18.034ms
+	CategorizeAssets: 6.406ms
+	CompileScripts: 11172.634ms
+	ImportOutOfDateAssets: 1299.339ms (1093.872ms without children)
+		ImportManagerImport: 182.367ms (7.639ms without children)
+			UpdateCategorizedAssets: 0.073ms
+		UnloadImportedAssets: 0.499ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.120ms
+		ImportSchedulerStart: 22.471ms
+	PostProcessAllAssets: 156.677ms
+		VCAutoAddAssetPostprocess 5.620ms
+		VersionControlSettings.HiddenFilePostprocess 0.247ms
+		AssemblyValidation.PostprocessAllAssets 0.177ms
+		PostProcessCallbackCreateDeferredMaterials 0.075ms
+		MonoPostProcessAllAssets: 147.737ms
+			AssetPostprocessor.OnPostprocessAllAssets 43.460ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 28.154ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 19.744ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 10.830ms
+			AssetChangedListener.OnPostprocessAllAssets 5.568ms
+			SyncVS.PostprocessSyncProject 5.150ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 3.139ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 2.242ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 1.982ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 1.544ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 1.499ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 1.340ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 1.322ms
+			AssetEvents.OnPostprocessAllAssets 1.055ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.764ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.638ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.630ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.488ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.343ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.263ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.250ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.142ms
+	PostAssetChangesProfiler: 5.679ms
+	UnloadStreamsBegin: 4.678ms
+	PersistCurrentRevisions: 0.423ms
+	GenerateScriptTypeHashes: 1.268ms
+	GenerateScriptTypeSerializationHashes: 2.276ms
+	Untracked: 1409.889ms
+
+Application.AssetDatabase Initial Refresh End
+Scanning for USB devices : 13.329ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-PBL2
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 458 unused Assets / (0.6 MB). Loaded Objects now: 1107.
+Memory consumption went from 194.9 MB to 194.3 MB.
+Total: 11.798000 ms (FindLiveObjects: 0.187200 ms CreateObjectMapping: 0.148000 ms MarkObjects: 10.327100 ms  DeleteObjects: 0.878500 ms)
+
+Curl error 42: Callback aborted
+Batchmode quit successfully invoked - shutting down!
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+[Licensing::IpcConnector] LicenseClient-vipgo-6000.5.3-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-vipgo-6000.5.3 channel disconnected successfully.
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+Exiting batchmode successfully now!
+Exiting without the bug reporter. Application will terminate with return code 0

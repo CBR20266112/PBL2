@@ -43,7 +43,7 @@ public class KitchenUIBuilder
         panelImage.color = new Color(0.99f, 0.98f, 0.96f, 1f); // ?щ┝ 諛곌꼍
 
         // ?쒕ぉ
-        CreateTitle(panelObj, "Brewing");
+        CreateTitle(panelObj, "차 끓이기");
 
         // ?먮떂 二쇰Ц ?뺣낫
         CreateCustomerOrderSection(panelObj);
@@ -162,14 +162,14 @@ public class KitchenUIBuilder
         labelRect.sizeDelta = new Vector2(300, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "Tea";
+        labelText.text = "차 종류";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 30;
         labelText.alignment = TextAnchor.MiddleCenter;
         labelText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
 
         // 踰꾪듉 洹몃９ (??쓬, 以묎컙, ?믪쓬)
-        string[] tempLabels = { "Hot", "Warm", "Cold" };
+        string[] tempLabels = { "뜨겁게", "미온", "차갑게" };
         for (int i = 0; i < 3; i++)
         {
             CreateToggleButton(parent, $"TempBtn_{i}", tempLabels[i], -300 + i * 250, 500, i, true);
@@ -186,14 +186,14 @@ public class KitchenUIBuilder
         labelRect.sizeDelta = new Vector2(300, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "Steep Time";
+        labelText.text = "우림 시간";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 30;
         labelText.alignment = TextAnchor.MiddleCenter;
         labelText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
 
         // 踰꾪듉 洹몃９ (吏㏃쓬, 以묎컙, 湲몄쓬)
-        string[] timeLabels = { "Short", "Medium", "Long" };
+        string[] timeLabels = { "짧게", "보통", "길게" };
         for (int i = 0; i < 3; i++)
         {
             CreateToggleButton(parent, $"TimeBtn_{i}", timeLabels[i], -300 + i * 250, 200, i, false);
@@ -210,7 +210,7 @@ public class KitchenUIBuilder
         labelRect.sizeDelta = new Vector2(600, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "Instructions";
+        labelText.text = "설명";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 30;
         labelText.alignment = TextAnchor.MiddleCenter;
@@ -285,7 +285,7 @@ public class KitchenUIBuilder
         textRect.offsetMax = Vector2.zero;
 
         Text text = textObj.AddComponent<Text>();
-        text.text = "Done";
+        text.text = "완료";
         text.font = FontHelper.GetDefaultFont();
         text.fontSize = 35;
         text.fontStyle = FontStyle.Bold;
@@ -323,7 +323,7 @@ public class KitchenUIBuilder
         textRect.offsetMax = Vector2.zero;
 
         Text text = textObj.AddComponent<Text>();
-        text.text = "Back";
+        text.text = "뒤로";
         text.font = FontHelper.GetDefaultFont();
         text.fontSize = 25;
         text.alignment = TextAnchor.MiddleCenter;

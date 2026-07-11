@@ -70,7 +70,7 @@ public class RatingUIBuilder
         titleRect.sizeDelta = new Vector2(1080, 100);
 
         Text titleText = titleObj.AddComponent<Text>();
-        titleText.text = "Rating";
+        titleText.text = "평가";
         titleText.font = FontHelper.GetDefaultFont();
         titleText.fontSize = 50;
         titleText.fontStyle = FontStyle.Bold;
@@ -90,7 +90,7 @@ public class RatingUIBuilder
         nameRect.sizeDelta = new Vector2(600, 80);
 
         Text nameText = nameObj.AddComponent<Text>();
-        nameText.text = $"Customer {customer.data.customerName}";
+        nameText.text = $"손님 {customer.data.customerName}";
         nameText.font = FontHelper.GetDefaultFont();
         nameText.fontSize = 35;
         nameText.alignment = TextAnchor.MiddleCenter;
@@ -109,7 +109,7 @@ public class RatingUIBuilder
         labelRect.sizeDelta = new Vector2(600, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "Rating";
+        labelText.text = "평가";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 40;
         labelText.fontStyle = FontStyle.Bold;
@@ -134,11 +134,11 @@ public class RatingUIBuilder
         // ?됯? 硫붿떆吏
         string message = quality switch
         {
-            5 => "Excellent! Great job!",
-            4 => "Very good! Keep it up!",
-            3 => "Good. Could improve.",
-            2 => "Not great...",
-            _ => "Needs work."
+            5 => "훌륭해요! 아주 잘했어요!",
+            4 => "아주 좋아요! 계속해요!",
+            3 => "괜찮아요. 더 개선할 수 있어요.",
+            2 => "조금 아쉬워요...",
+            _ => "연습이 필요해요."
         };
 
         GameObject messageObj = new GameObject("Message");
@@ -183,7 +183,7 @@ public class RatingUIBuilder
         labelRect.sizeDelta = new Vector2(600, 50);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "Rewards";
+        labelText.text = "보상";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 35;
         labelText.fontStyle = FontStyle.Bold;
@@ -213,7 +213,7 @@ public class RatingUIBuilder
         expRect.sizeDelta = new Vector2(300, 60);
 
         Text expText = expObj.AddComponent<Text>();
-        expText.text = $"EXP {expReward}";
+        expText.text = $"경험치 +{expReward}";
         expText.font = FontHelper.GetDefaultFont();
         expText.fontSize = 30;
         expText.fontStyle = FontStyle.Bold;
@@ -266,7 +266,7 @@ public class RatingUIBuilder
         textRect.offsetMax = Vector2.zero;
 
         Text text = textObj.AddComponent<Text>();
-        text.text = "怨꾩냽";
+        text.text = "다음";
         text.font = FontHelper.GetDefaultFont();
         text.fontSize = 35;
         text.fontStyle = FontStyle.Bold;

@@ -41,7 +41,8 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         // ?쒗넗由ъ뼹 UI 異붽?
         _mainCanvas.gameObject.AddComponent<TutorialUIBuilder>();
-
+        _mainCanvas.gameObject.AddComponent<SettingsUIBuilder>();
+ 
         Debug.Log("Main Screen UI built successfully");
     }
 
@@ -168,7 +169,7 @@ public class MainScreenUIBuilder : MonoBehaviour
         cafeRect.offsetMax = Vector2.zero;
 
         // ?꾩떆 ?띿뒪??
-        Text cafeText = CreateText(cafeObj, "CafeText", "Cafe\n(Placeholder)", cafeRect.rect.center, TextAnchor.MiddleCenter);
+        Text cafeText = CreateText(cafeObj, "CafeText", "카페\n(자리 표시)", cafeRect.rect.center, TextAnchor.MiddleCenter);
         cafeText.fontSize = 30;
     }
 
@@ -190,10 +191,10 @@ public class MainScreenUIBuilder : MonoBehaviour
         navRect.offsetMax = Vector2.zero;
 
         // Create 4 buttons
-        Button waitButton = CreateNavButton(navObj, "WaitCustomerBtn", "Wait", 0, 4);
-        Button shopButton = CreateNavButton(navObj, "ShopBtn", "Shop", 1, 4);
-        Button collectionButton = CreateNavButton(navObj, "CollectionBtn", "Collection", 2, 4);
-        Button settingsButton = CreateNavButton(navObj, "SettingsBtn", "Settings", 3, 4);
+        Button waitButton = CreateNavButton(navObj, "WaitCustomerBtn", "대기", 0, 4);
+        Button shopButton = CreateNavButton(navObj, "ShopBtn", "상점", 1, 4);
+        Button collectionButton = CreateNavButton(navObj, "CollectionBtn", "수집", 2, 4);
+        Button settingsButton = CreateNavButton(navObj, "SettingsBtn", "설정", 3, 4);
 
         // MainScreenManager 異붽?
         MainScreenManager manager = navObj.AddComponent<MainScreenManager>();

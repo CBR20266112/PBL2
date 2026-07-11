@@ -8,7 +8,7 @@ public class PlayerDataManager : Singleton<PlayerDataManager>
 {
     private PlayerData _playerData;
 
-    public string PlayerName { get; set; } = "orangeCat";
+    public string PlayerName { get; set; } = "게스트";
     public int CurrentLevel { get; set; } = 1;
     public int CurrentMoney { get; set; } = 10000;
     public int CurrentExp { get; set; } = 0;
@@ -67,7 +67,7 @@ public class PlayerDataManager : Singleton<PlayerDataManager>
     /// </summary>
     public void SetPlayerName(string name)
     {
-        PlayerName = string.IsNullOrEmpty(name) ? "orangeCat" : name;
+        PlayerName = string.IsNullOrEmpty(name) ? "게스트" : name;
         SavePlayerData();
     }
 
@@ -108,8 +108,7 @@ public class PlayerDataManager : Singleton<PlayerDataManager>
 [System.Serializable]
 public class PlayerData
 {
-    public string playerName = "orangeCat";
-    public int level = 1;
+    public string     playerName = "게스트";    public int level = 1;
     public int money = 10000;
     public int experience = 0;
 }
