@@ -11,14 +11,12 @@ public class KitchenUIBuilder
     private UIManager _uiManager;
     private BrewingManager _brewingManager;
     private Canvas _canvas;
-    private GameConstants _constants;
 
     public KitchenUIBuilder(Canvas canvas, UIManager uiManager)
     {
         _canvas = canvas;
         _uiManager = uiManager;
         _brewingManager = BrewingManager.Instance;
-        _constants = GameConstants.Instance;
     }
 
     public void Build()

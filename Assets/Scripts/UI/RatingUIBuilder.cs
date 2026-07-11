@@ -12,7 +12,6 @@ public class RatingUIBuilder
     private CustomerManager _customerManager;
     private PlayerDataManager _playerDataManager;
     private Canvas _canvas;
-    private GameConstants _constants;
 
     public RatingUIBuilder(Canvas canvas, UIManager uiManager)
     {
@@ -21,7 +20,6 @@ public class RatingUIBuilder
         _brewingManager = BrewingManager.Instance;
         _customerManager = CustomerManager.Instance;
         _playerDataManager = PlayerDataManager.Instance;
-        _constants = GameConstants.Instance;
     }
 
     public void Build()
