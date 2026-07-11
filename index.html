@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asian Tea Culture Simulation Game</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5e6d3 0%, #e8d5c4 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+            max-width: 600px;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        h1 {
+            color: #5c3d2e;
+            margin-bottom: 20px;
+            font-size: 32px;
+        }
+        
+        .subtitle {
+            color: #8b6f47;
+            font-size: 18px;
+            margin-bottom: 30px;
+            font-weight: 300;
+        }
+        
+        .game-description {
+            color: #666;
+            line-height: 1.8;
+            margin-bottom: 40px;
+            text-align: left;
+        }
+        
+        .status {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 30px;
+            text-align: left;
+            color: #856404;
+        }
+        
+        .status-title {
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        
+        .button {
+            display: inline-block;
+            padding: 12px 30px;
+            margin: 10px 5px;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+        
+        .button-primary {
+            background: linear-gradient(135deg, #d4a574 0%, #c99360 100%);
+            color: white;
+        }
+        
+        .button-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(212, 165, 116, 0.4);
+        }
+        
+        .button-secondary {
+            background: transparent;
+            color: #d4a574;
+            border: 2px solid #d4a574;
+        }
+        
+        .button-secondary:hover {
+            background: #f9f5f0;
+        }
+        
+        .features {
+            text-align: left;
+            margin-bottom: 30px;
+        }
+        
+        .features h3 {
+            color: #5c3d2e;
+            margin-bottom: 15px;
+        }
+        
+        .features ul {
+            list-style: none;
+            color: #666;
+        }
+        
+        .features li {
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+        
+        .features li:before {
+            content: "🍵";
+            position: absolute;
+            left: 0;
+        }
+        
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            color: #999;
+            font-size: 14px;
+        }
+        
+        .countries {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        
+        .country-badge {
+            background: #f0e6d2;
+            padding: 8px 15px;
+            border-radius: 20px;
+            color: #5c3d2e;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 30px 20px;
+            }
+            
+            h1 {
+                font-size: 24px;
+            }
+            
+            .subtitle {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🍵 Asian Tea Culture</h1>
+        <p class="subtitle">Simulation Game</p>
+        
+        <div class="status">
+            <div class="status-title">현재 상태</div>
+            <div>WebGL 빌드 준비 중입니다. 곧 플레이할 수 있습니다.</div>
+        </div>
+        
+        <div class="game-description">
+            <p>아시아의 다양한 차 문화를 경험하는 힐링 시뮬레이션 게임입니다.</p>
+            <p>따뜻한 찻잔 하나로 시작하는 당신만의 찻집 경영 이야기를 만들어보세요.</p>
+        </div>
+        
+        <div class="countries">
+            <span class="country-badge">🇰🇷 한국</span>
+            <span class="country-badge">🇨🇳 중국</span>
+            <span class="country-badge">🇯🇵 일본</span>
+            <span class="country-badge">🇻🇳 베트남</span>
+            <span class="country-badge">🇰🇬 키르기스스탄</span>
+        </div>
+        
+        <div class="features">
+            <h3>주요 특징</h3>
+            <ul>
+                <li>5개 국가의 전통 찻집 체험</li>
+                <li>천연 재료로 만드는 맞춤형 차</li>
+                <li>각 국가별 고유한 손님 만남</li>
+                <li>ASMR 사운드와 따뜻한 비주얼</li>
+                <li>느린 속도의 힐링 게임플레이</li>
+            </ul>
+        </div>
+        
+        <div style="margin-bottom: 30px;">
+            <a href="#" class="button button-primary" onclick="alert('게임이 준비 중입니다'); return false;">게임 시작하기</a>
+        </div>
+        
+        <div class="footer">
+            <p>© 2026 Asian Tea Culture Simulation Game</p>
+            <p><a href="https://github.com/CBR20266112/PBL2" style="color: #999; text-decoration: none;">GitHub Repository</a></p>
+        </div>
+    </div>
+</body>
+</html>
