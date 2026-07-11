@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 /// <summary>
 /// 硫붿씤 ?붾㈃ UI 鍮뚮뜑
@@ -18,6 +19,7 @@ public class MainScreenUIBuilder : MonoBehaviour
             return;
         }
 
+        EnsureEventSystemExists();
         BuildUI();
     }
 
@@ -41,6 +43,20 @@ public class MainScreenUIBuilder : MonoBehaviour
         Debug.Log("Main Screen UI built successfully");
     }
 
+    private void EnsureEventSystemExists()
+    {
+        if (FindObjectOfType<EventSystem>() != null)
+        {
+            return;
+        }
+
+        GameObject eventSystemObj = new GameObject("EventSystem");
+        eventSystemObj.AddComponent<EventSystem>();
+        eventSystemObj.AddComponent<StandaloneInputModule>();
+        DontDestroyOnLoad(eventSystemObj);
+        Debug.Log("MainScreenUIBuilder: Created missing EventSystem for UI interaction.");
+    }
+
     private void CreateBackground()
     {
         GameObject bgObj = new GameObject("Background");
@@ -48,6 +64,7 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         Image bgImage = bgObj.AddComponent<Image>();
         bgImage.color = new Color(0.99f, 0.98f, 0.96f, 1f); // ?щ┝??
+        bgImage.raycastTarget = false;
 
         RectTransform bgRect = bgObj.GetComponent<RectTransform>();
         bgRect.anchorMin = Vector2.zero;
@@ -72,7 +89,7 @@ public class MainScreenUIBuilder : MonoBehaviour
 
         // ?뚮젅?댁뼱 ?뺣낫
         Text levelText = CreateHUDText(hudObj, "LevelText", "Lv.1", new Vector2(20, -40), TextAnchor.MiddleLeft);
-        Text moneyText = CreateHUDText(hudObj, "MoneyText", "??0,000", new Vector2(-20, -40), TextAnchor.MiddleRight);
+        Text moneyText = CreateHUDText(hudObj, "MoneyText", "₩0", new Vector2(-20, -40), TextAnchor.MiddleRight);
 
         // 寃쏀뿕移?諛?
         GameObject expBarBg = new GameObject("ExpBarBg");
@@ -117,7 +134,7 @@ public class MainScreenUIBuilder : MonoBehaviour
         cafeRect.offsetMax = Vector2.zero;
 
         // ?꾩떆 ?띿뒪??
-        Text cafeText = CreateText(cafeObj, "CafeText", "?ㅻ갑\n(Placeholder)", cafeRect.rect.center, TextAnchor.MiddleCenter);
+        Text cafeText = CreateText(cafeObj, "CafeText", "Cafe\n(Placeholder)", cafeRect.rect.center, TextAnchor.MiddleCenter);
         cafeText.fontSize = 30;
     }
 
@@ -135,11 +152,11 @@ public class MainScreenUIBuilder : MonoBehaviour
         navRect.offsetMin = Vector2.zero;
         navRect.offsetMax = Vector2.zero;
 
-        // 4媛?踰꾪듉 ?앹꽦
-        Button waitButton = CreateNavButton(navObj, "WaitCustomerBtn", "?먮떂\n?湲?, 0, 4);
-        Button shopButton = CreateNavButton(navObj, "ShopBtn", "?곸젏", 1, 4);
-        Button collectionButton = CreateNavButton(navObj, "CollectionBtn", "而щ젆??, 2, 4);
-        Button settingsButton = CreateNavButton(navObj, "SettingsBtn", "?ㅼ젙", 3, 4);
+        // Create 4 buttons
+        Button waitButton = CreateNavButton(navObj, "WaitCustomerBtn", "Wait", 0, 4);
+        Button shopButton = CreateNavButton(navObj, "ShopBtn", "Shop", 1, 4);
+        Button collectionButton = CreateNavButton(navObj, "CollectionBtn", "Collection", 2, 4);
+        Button settingsButton = CreateNavButton(navObj, "SettingsBtn", "Settings", 3, 4);
 
         // MainScreenManager 異붽?
         MainScreenManager manager = navObj.AddComponent<MainScreenManager>();
@@ -180,6 +197,7 @@ public class MainScreenUIBuilder : MonoBehaviour
         textComponent.fontStyle = FontStyle.Bold;
         textComponent.alignment = anchor;
         textComponent.color = new Color(0.42f, 0.27f, 0.14f, 1f); // 媛덉깋
+        textComponent.raycastTarget = false;
 
         RectTransform textRect = textObj.GetComponent<RectTransform>();
         textRect.anchoredPosition = position;
@@ -199,6 +217,7 @@ public class MainScreenUIBuilder : MonoBehaviour
         textComponent.fontSize = 20;
         textComponent.alignment = anchor;
         textComponent.color = new Color(0.42f, 0.27f, 0.14f, 1f);
+        textComponent.raycastTarget = false;
 
         RectTransform textRect = textObj.GetComponent<RectTransform>();
         textRect.anchoredPosition = position;

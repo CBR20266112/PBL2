@@ -43,7 +43,7 @@ public class KitchenUIBuilder
         panelImage.color = new Color(0.99f, 0.98f, 0.96f, 1f); // ?щ┝ 諛곌꼍
 
         // ?쒕ぉ
-        CreateTitle(panelObj, "二쇰갑");
+        CreateTitle(panelObj, "Brewing");
 
         // ?먮떂 二쇰Ц ?뺣낫
         CreateCustomerOrderSection(panelObj);
@@ -125,7 +125,7 @@ public class KitchenUIBuilder
         labelRect.sizeDelta = new Vector2(200, 50);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = $"{customer.data.customerName}??二쇰Ц:";
+        labelText.text = $"Order for {customer.data.customerName}:";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 28;
         labelText.fontStyle = FontStyle.Bold;
@@ -162,14 +162,14 @@ public class KitchenUIBuilder
         labelRect.sizeDelta = new Vector2(300, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "?⑤룄";
+        labelText.text = "Tea";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 30;
         labelText.alignment = TextAnchor.MiddleCenter;
         labelText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
 
         // 踰꾪듉 洹몃９ (??쓬, 以묎컙, ?믪쓬)
-        string[] tempLabels = { "??쓬", "以묎컙", "?믪쓬" };
+        string[] tempLabels = { "Hot", "Warm", "Cold" };
         for (int i = 0; i < 3; i++)
         {
             CreateToggleButton(parent, $"TempBtn_{i}", tempLabels[i], -300 + i * 250, 500, i, true);
@@ -186,14 +186,14 @@ public class KitchenUIBuilder
         labelRect.sizeDelta = new Vector2(300, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "?곕┝?쒓컙";
+        labelText.text = "Steep Time";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 30;
         labelText.alignment = TextAnchor.MiddleCenter;
         labelText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
 
         // 踰꾪듉 洹몃９ (吏㏃쓬, 以묎컙, 湲몄쓬)
-        string[] timeLabels = { "吏㏃쓬", "以묎컙", "湲몄쓬" };
+        string[] timeLabels = { "Short", "Medium", "Long" };
         for (int i = 0; i < 3; i++)
         {
             CreateToggleButton(parent, $"TimeBtn_{i}", timeLabels[i], -300 + i * 250, 200, i, false);
@@ -210,7 +210,7 @@ public class KitchenUIBuilder
         labelRect.sizeDelta = new Vector2(600, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "李??좏깮";
+        labelText.text = "Instructions";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 30;
         labelText.alignment = TextAnchor.MiddleCenter;
@@ -285,7 +285,7 @@ public class KitchenUIBuilder
         textRect.offsetMax = Vector2.zero;
 
         Text text = textObj.AddComponent<Text>();
-        text.text = "?쒖“ ?쒖옉";
+        text.text = "Done";
         text.font = FontHelper.GetDefaultFont();
         text.fontSize = 35;
         text.fontStyle = FontStyle.Bold;
@@ -323,7 +323,7 @@ public class KitchenUIBuilder
         textRect.offsetMax = Vector2.zero;
 
         Text text = textObj.AddComponent<Text>();
-        text.text = "?뚯븘媛湲?;
+        text.text = "Back";
         text.font = FontHelper.GetDefaultFont();
         text.fontSize = 25;
         text.alignment = TextAnchor.MiddleCenter;

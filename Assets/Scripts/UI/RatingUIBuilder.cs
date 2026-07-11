@@ -70,7 +70,7 @@ public class RatingUIBuilder
         titleRect.sizeDelta = new Vector2(1080, 100);
 
         Text titleText = titleObj.AddComponent<Text>();
-        titleText.text = "?됯?";
+        titleText.text = "Rating";
         titleText.font = FontHelper.GetDefaultFont();
         titleText.fontSize = 50;
         titleText.fontStyle = FontStyle.Bold;
@@ -90,7 +90,7 @@ public class RatingUIBuilder
         nameRect.sizeDelta = new Vector2(600, 80);
 
         Text nameText = nameObj.AddComponent<Text>();
-        nameText.text = $"{customer.data.customerName}?섏씠 ?좏깮??李?";
+        nameText.text = $"Customer {customer.data.customerName}";
         nameText.font = FontHelper.GetDefaultFont();
         nameText.fontSize = 35;
         nameText.alignment = TextAnchor.MiddleCenter;
@@ -109,7 +109,7 @@ public class RatingUIBuilder
         labelRect.sizeDelta = new Vector2(600, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "?됯?";
+        labelText.text = "Rating";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 40;
         labelText.fontStyle = FontStyle.Bold;
@@ -124,7 +124,7 @@ public class RatingUIBuilder
         starsRect.sizeDelta = new Vector2(600, 100);
 
         Text starsText = starsObj.AddComponent<Text>();
-        string starDisplay = new string('??, quality) + new string('??, 5 - quality);
+        string starDisplay = new string('★', quality) + new string('☆', 5 - quality);
         starsText.text = starDisplay;
         starsText.font = FontHelper.GetDefaultFont();
         starsText.fontSize = 80;
@@ -134,11 +134,11 @@ public class RatingUIBuilder
         // ?됯? 硫붿떆吏
         string message = quality switch
         {
-            5 => "?꾨꼍?댁슂! ????쇨쿋?댁슂!",
-            4 => "?뺣쭚 留쏆엳?댁슂! 媛먯궗?⑸땲??",
-            3 => "愿쒖갖?ㅼ슂. 怨좊쭏?뚯슂.",
-            2 => "??.. 蹂꾨줈?ㅼ슂.",
-            _ => "?닿쾶 萸먯짛?"
+            5 => "Excellent! Great job!",
+            4 => "Very good! Keep it up!",
+            3 => "Good. Could improve.",
+            2 => "Not great...",
+            _ => "Needs work."
         };
 
         GameObject messageObj = new GameObject("Message");
@@ -183,7 +183,7 @@ public class RatingUIBuilder
         labelRect.sizeDelta = new Vector2(600, 50);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "蹂댁긽";
+        labelText.text = "Rewards";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 35;
         labelText.fontStyle = FontStyle.Bold;
@@ -198,7 +198,7 @@ public class RatingUIBuilder
         moneyRect.sizeDelta = new Vector2(300, 60);
 
         Text moneyText = moneyObj.AddComponent<Text>();
-        moneyText.text = $"?뮥 {moneyReward} ??;
+        moneyText.text = $"💰 {moneyReward} 원";
         moneyText.font = FontHelper.GetDefaultFont();
         moneyText.fontSize = 30;
         moneyText.fontStyle = FontStyle.Bold;
@@ -213,7 +213,7 @@ public class RatingUIBuilder
         expRect.sizeDelta = new Vector2(300, 60);
 
         Text expText = expObj.AddComponent<Text>();
-        expText.text = $"狩?{expReward} EXP";
+        expText.text = $"EXP {expReward}";
         expText.font = FontHelper.GetDefaultFont();
         expText.fontSize = 30;
         expText.fontStyle = FontStyle.Bold;

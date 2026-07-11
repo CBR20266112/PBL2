@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 /// <summary>
 /// ??댄? ?붾㈃ UI 鍮뚮뜑
@@ -19,6 +20,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
             return;
         }
 
+        EnsureEventSystemExists();
         BuildUI();
     }
 
@@ -50,6 +52,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
 
         Image bgImage = bgObj.AddComponent<Image>();
         bgImage.color = new Color(0.99f, 0.98f, 0.96f, 1f);
+        bgImage.raycastTarget = false;
 
         RectTransform bgRect = bgObj.GetComponent<RectTransform>();
         bgRect.anchorMin = Vector2.zero;
@@ -64,12 +67,13 @@ public class TitleScreenUIBuilder : MonoBehaviour
         titleObj.transform.SetParent(_mainCanvas.transform, false);
 
         Text titleText = titleObj.AddComponent<Text>();
-        titleText.text = "xx?ㅻ갑\n(v0.3.0)";
+        titleText.text = "Tea Cafe\n(v0.3.0)";
         titleText.font = FontHelper.GetDefaultFont();
         titleText.fontSize = 50;
         titleText.fontStyle = FontStyle.Bold;
         titleText.alignment = TextAnchor.MiddleCenter;
         titleText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
+        titleText.raycastTarget = false;
 
         RectTransform titleRect = titleObj.GetComponent<RectTransform>();
         titleRect.anchorMin = new Vector2(0.5f, 0.7f);
@@ -92,14 +96,14 @@ public class TitleScreenUIBuilder : MonoBehaviour
         panelRect.sizeDelta = new Vector2(400, 300);
         panelRect.anchoredPosition = Vector2.zero;
 
-        // ??寃뚯엫 踰꾪듉
-        CreateMainButton(panelObj, "StartButton", "??寃뚯엫", 0, 3);
+        // Start button
+        CreateMainButton(panelObj, "StartButton", "Start", 0, 3);
 
-        // 怨꾩냽?섍린 踰꾪듉
-        CreateMainButton(panelObj, "ContinueButton", "怨꾩냽?섍린", 1, 3);
+        // Continue button
+        CreateMainButton(panelObj, "ContinueButton", "Continue", 1, 3);
 
-        // ?ㅼ젙 踰꾪듉
-        CreateMainButton(panelObj, "SettingsButton", "?ㅼ젙", 2, 3);
+        // Settings button
+        CreateMainButton(panelObj, "SettingsButton", "Settings", 2, 3);
 
         return panelObj;
     }
@@ -170,7 +174,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         titleObj.transform.SetParent(formObj.transform, false);
 
         Text titleText = titleObj.AddComponent<Text>();
-        titleText.text = "罹먮┃???대쫫";
+        titleText.text = "Enter Your Name";
         titleText.font = FontHelper.GetDefaultFont();
         titleText.fontSize = 24;
         titleText.fontStyle = FontStyle.Bold;
@@ -206,6 +210,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         inputText.font = FontHelper.GetDefaultFont();
         inputText.fontSize = 18;
         inputText.alignment = TextAnchor.MiddleLeft;
+        inputText.raycastTarget = false;
 
         RectTransform inputTextRect = inputTextObj.GetComponent<RectTransform>();
         inputTextRect.anchorMin = Vector2.zero;
@@ -215,11 +220,11 @@ public class TitleScreenUIBuilder : MonoBehaviour
 
         inputField.textComponent = inputText;
 
-        // Confirm 踰꾪듉
-        CreateNameInputButton(formObj, "ConfirmButton", "?뺤씤", -75);
+        // Confirm button
+        CreateNameInputButton(formObj, "ConfirmButton", "Confirm", -75);
 
-        // Skip 踰꾪듉
-        CreateNameInputButton(formObj, "SkipButton", "湲곕낯媛??ъ슜", -150);
+        // Skip button
+        CreateNameInputButton(formObj, "SkipButton", "Skip", -150);
 
         return panelObj;
     }
@@ -248,6 +253,7 @@ public class TitleScreenUIBuilder : MonoBehaviour
         btnText.fontStyle = FontStyle.Bold;
         btnText.alignment = TextAnchor.MiddleCenter;
         btnText.color = Color.white;
+        btnText.raycastTarget = false;
 
         RectTransform textRect = textObj.GetComponent<RectTransform>();
         textRect.anchorMin = Vector2.zero;
@@ -274,6 +280,20 @@ public class TitleScreenUIBuilder : MonoBehaviour
             nameInputField,
             nameConfirmButton,
             nameSkipButton);
+    }
+
+    private void EnsureEventSystemExists()
+    {
+        if (FindObjectOfType<EventSystem>() != null)
+        {
+            return;
+        }
+
+        GameObject eventSystemObj = new GameObject("EventSystem");
+        eventSystemObj.AddComponent<EventSystem>();
+        eventSystemObj.AddComponent<StandaloneInputModule>();
+        DontDestroyOnLoad(eventSystemObj);
+        Debug.Log("TitleScreenUIBuilder: Created missing EventSystem for UI interaction.");
     }
 }
 

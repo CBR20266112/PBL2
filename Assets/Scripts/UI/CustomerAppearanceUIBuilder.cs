@@ -109,7 +109,7 @@ public class CustomerAppearanceUIBuilder
         nameRect.sizeDelta = new Vector2(600, 80);
 
         Text nameText = nameObj.AddComponent<Text>();
-        nameText.text = $"?덈뀞?섏꽭?? {customer.data.customerName}?낅땲??";
+        nameText.text = $"Customer {customer.data.customerName}";
         nameText.font = FontHelper.GetDefaultFont();
         nameText.fontSize = 40;
         nameText.fontStyle = FontStyle.Bold;
@@ -153,24 +153,24 @@ public class CustomerAppearanceUIBuilder
         labelRect.sizeDelta = new Vector2(600, 60);
 
         Text labelText = labelObj.AddComponent<Text>();
-        labelText.text = "?좏샇??;
+        labelText.text = "선호도";
         labelText.font = FontHelper.GetDefaultFont();
         labelText.fontSize = 35;
         labelText.fontStyle = FontStyle.Bold;
         labelText.alignment = TextAnchor.MiddleCenter;
         labelText.color = new Color(0.42f, 0.27f, 0.14f, 1f);
 
-        // 李?
-        CreatePreferenceItem(prefObj, "?좏샇?섎뒗 李?, BrewingManager.GetTeaLabel(customer.data.preferredTea), -350, 0);
+        // 차
+        CreatePreferenceItem(prefObj, "선호하는 차", BrewingManager.GetTeaLabel(customer.data.preferredTea), -350, 0);
 
-        // ?⑤룄
-        CreatePreferenceItem(prefObj, "?⑤룄", BrewingManager.GetTemperatureLabel(customer.data.preferredTemperature), 0, 0);
+        // Temperature
+        CreatePreferenceItem(prefObj, "Temperature", BrewingManager.GetTemperatureLabel(customer.data.preferredTemperature), 0, 0);
 
-        // ?곕┝?쒓컙
-        CreatePreferenceItem(prefObj, "?곕┝?쒓컙", BrewingManager.GetSteepTimeLabel(customer.data.preferredSteepTime), 350, 0);
+        // Steep time
+        CreatePreferenceItem(prefObj, "Steep Time", BrewingManager.GetSteepTimeLabel(customer.data.preferredSteepTime), 350, 0);
 
-        // ?깃꺽
-        CreatePreferenceItem(prefObj, "?깃꺽", customer.data.personality, 0, -80);
+        // Personality
+        CreatePreferenceItem(prefObj, "Personality", customer.data.personality, 0, -80);
     }
 
     private void CreatePreferenceItem(GameObject parent, string title, string value, float x, float y)
@@ -240,20 +240,20 @@ public class CustomerAppearanceUIBuilder
         textRect.offsetMax = Vector2.zero;
 
         Text text = textObj.AddComponent<Text>();
-        text.text = "二쇰갑?쇰줈 媛湲?;
+        text.text = "주방으로 가기";
         text.font = FontHelper.GetDefaultFont();
         text.fontSize = 35;
         text.fontStyle = FontStyle.Bold;
         text.alignment = TextAnchor.MiddleCenter;
         text.color = Color.white;
-
+ 
         btn.onClick.AddListener(() =>
         {
-            Debug.Log("二쇰갑?쇰줈 媛湲?);
-            // ?먮떂 ?깆옣 ?붾㈃ ?④린湲?
+            Debug.Log("주방으로 가기");
+            // 손님 등장 화면 숨기기
             _uiManager.HidePanel("CustomerPanel");
                 
-            // 二쇰갑 ?붾㈃ ?쒖떆
+            // 주방 화면 표시
             Canvas canvas = UnityEngine.Object.FindObjectOfType<Canvas>();
             if (canvas != null)
             {
