@@ -16,13 +16,42 @@ public class TitleScreenManager : MonoBehaviour
     [SerializeField] private Button _nameSkipButton;
 
     private bool _hasSavedData = false;
+    private bool _eventsRegistered = false;
 
     private void OnEnable()
     {
         // 저장된 데이터 확인
         _hasSavedData = PlayerPrefs.HasKey("PlayerData");
 
-        // 버튼 이벤트 등록
+        RegisterButtonEvents();
+        Debug.Log($"TitleScreenManager: HasSavedData = {_hasSavedData}");
+    }
+
+    public void SetUIReferences(
+        Button startButton,
+        Button continueButton,
+        Button settingsButton,
+        GameObject nameInputPanel,
+        InputField nameInputField,
+        Button nameConfirmButton,
+        Button nameSkipButton)
+    {
+        _startButton = startButton;
+        _continueButton = continueButton;
+        _settingsButton = settingsButton;
+        _nameInputPanel = nameInputPanel;
+        _nameInputField = nameInputField;
+        _nameConfirmButton = nameConfirmButton;
+        _nameSkipButton = nameSkipButton;
+
+        RegisterButtonEvents();
+    }
+
+    private void RegisterButtonEvents()
+    {
+        if (_eventsRegistered)
+            return;
+
         if (_startButton != null)
             _startButton.onClick.AddListener(OnStartClicked);
         if (_continueButton != null)
@@ -37,7 +66,7 @@ public class TitleScreenManager : MonoBehaviour
         if (_nameSkipButton != null)
             _nameSkipButton.onClick.AddListener(OnNameSkipClicked);
 
-        Debug.Log($"TitleScreenManager: HasSavedData = {_hasSavedData}");
+        _eventsRegistered = true;
     }
 
     private void OnDisable()

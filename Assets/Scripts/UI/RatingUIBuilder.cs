@@ -287,7 +287,7 @@ public class RatingUIBuilder
             _uiManager.HidePanel("RatingPanel");
             
             // 메인 HUD 업데이트
-            PlayerHUD playerHUD = Object.FindObjectOfType<PlayerHUD>();
+            PlayerHUD playerHUD = UnityEngine.Object.FindObjectOfType<PlayerHUD>();
             if (playerHUD != null)
             {
                 playerHUD.RefreshUI();

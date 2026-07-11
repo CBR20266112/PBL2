@@ -258,13 +258,21 @@ public class TitleScreenUIBuilder : MonoBehaviour
 
     private void AssignUIReferences(GameObject mainButtonPanel, GameObject nameInputPanel)
     {
-        _titleScreenManager._startButton = mainButtonPanel.transform.Find("StartButton").GetComponent<Button>();
-        _titleScreenManager._continueButton = mainButtonPanel.transform.Find("ContinueButton").GetComponent<Button>();
-        _titleScreenManager._settingsButton = mainButtonPanel.transform.Find("SettingsButton").GetComponent<Button>();
+        Button startButton = mainButtonPanel.transform.Find("StartButton").GetComponent<Button>();
+        Button continueButton = mainButtonPanel.transform.Find("ContinueButton").GetComponent<Button>();
+        Button settingsButton = mainButtonPanel.transform.Find("SettingsButton").GetComponent<Button>();
 
-        _titleScreenManager._nameInputPanel = nameInputPanel;
-        _titleScreenManager._nameInputField = nameInputPanel.transform.Find("Form/InputField").GetComponent<InputField>();
-        _titleScreenManager._nameConfirmButton = nameInputPanel.transform.Find("Form/ConfirmButton").GetComponent<Button>();
-        _titleScreenManager._nameSkipButton = nameInputPanel.transform.Find("Form/SkipButton").GetComponent<Button>();
+        InputField nameInputField = nameInputPanel.transform.Find("Form/InputField").GetComponent<InputField>();
+        Button nameConfirmButton = nameInputPanel.transform.Find("Form/ConfirmButton").GetComponent<Button>();
+        Button nameSkipButton = nameInputPanel.transform.Find("Form/SkipButton").GetComponent<Button>();
+
+        _titleScreenManager.SetUIReferences(
+            startButton,
+            continueButton,
+            settingsButton,
+            nameInputPanel,
+            nameInputField,
+            nameConfirmButton,
+            nameSkipButton);
     }
 }

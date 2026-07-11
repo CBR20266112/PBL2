@@ -26,7 +26,7 @@ public class KitchenUIBuilder
         {
             if (child.name == "KitchenPanel")
             {
-                Object.Destroy(child.gameObject);
+                UnityEngine.Object.Destroy(child.gameObject);
             }
         }
 

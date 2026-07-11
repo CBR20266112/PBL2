@@ -59,7 +59,7 @@ public class MainScreenManager : MonoBehaviour
         // 손님 생성 후 등장 화면 표시
         CustomerManager.Instance.SpawnRandomCustomer();
 
-        Canvas canvas = FindObjectOfType<Canvas>();
+        Canvas canvas = UnityEngine.Object.FindObjectOfType<Canvas>();
         if (canvas != null)
         {
             CustomerAppearanceUIBuilder customerUI = new CustomerAppearanceUIBuilder(canvas, UIManager.Instance);

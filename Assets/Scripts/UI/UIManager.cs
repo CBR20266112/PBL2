@@ -13,7 +13,7 @@ public class UIManager : Singleton<UIManager>
     {
         if (_mainCanvas == null)
         {
-            _mainCanvas = FindObjectOfType<Canvas>();
+            _mainCanvas = UnityEngine.Object.FindObjectOfType<Canvas>();
             if (_mainCanvas == null)
             {
                 Debug.LogWarning("UIManager: MainCanvas is not assigned and no Canvas found in scene!");

@@ -252,9 +252,9 @@ public class CustomerAppearanceUIBuilder
             Debug.Log("주방으로 가기");
             // 손님 등장 화면 숨기기
             _uiManager.HidePanel("CustomerPanel");
-            
+                
             // 주방 화면 표시
-            Canvas canvas = FindObjectOfType<Canvas>();
+            Canvas canvas = UnityEngine.Object.FindObjectOfType<Canvas>();
             if (canvas != null)
             {
                 KitchenUIBuilder kitchenUI = new KitchenUIBuilder(canvas, _uiManager);

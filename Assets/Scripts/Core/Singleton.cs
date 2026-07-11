@@ -14,7 +14,7 @@ public abstract class Singleton<T> : MonoBehaviour where T : Singleton<T>
         {
             if (_instance == null)
             {
-                _instance = FindObjectOfType<T>();
+                _instance = UnityEngine.Object.FindObjectOfType<T>();
                 if (_instance == null)
                 {
                     GameObject obj = new GameObject(typeof(T).Name);
