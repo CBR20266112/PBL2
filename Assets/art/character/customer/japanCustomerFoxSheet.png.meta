@@ -1,0 +1,1949 @@
+fileFormatVersion: 2
+guid: a10ea6da14f46914594b27eca48b2a8c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ecf34ad8d2a7c46a6fe03e5fbcfdcc
+      internalID: -1792590275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 824
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbf1efadadb2694d9400b251dbeb166
+      internalID: -1564710961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 822
+        width: 137
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e21044700b3142a64423769d1962b
+      internalID: 2038527951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 819
+        width: 401
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c06c3aafb0964a970d4edfba1bb89
+      internalID: 451406371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 823
+        width: 128
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc49c35c7d653047bf9fbf8b673f56a
+      internalID: -408724756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_5
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 825
+        width: 134
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d9203c07599434a81a5c4174b006ab
+      internalID: 2086421678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 159
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b8304e18abb4a4e86d5f860c22f8e5
+      internalID: -516507862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 658
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd00086cdb53d047a17aadc896a99fb
+      internalID: 567955464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 659
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e164640ac84240b26d30d64dcb35f
+      internalID: -1684292097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 659
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ff2b1c6423324cbca37890919d8a7
+      internalID: -508123106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_10
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 658
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e4efc13a546748a25eacba4fabf64
+      internalID: -822482512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_11
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 660
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb070302defba48b019920bc3f4281
+      internalID: 822039214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 599
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c93eacbf8cd50841aede8e1cff32eb2
+      internalID: 847390551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 525
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045ff4b9ea1b48549bb015418b2e90c1
+      internalID: -793659685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 610
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c799ce8336a1949906cbf3df6db894
+      internalID: -545536279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 525
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71050b4fa3daa414398c14ab9760c5c6
+      internalID: -253900657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 525
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2adb45eb6ed0a4d8ae24c499d1ed75
+      internalID: -1404262097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_17
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 526
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57707c19015c45c4bb12c6ffc22b916e
+      internalID: -1732350990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 527
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1c4c875aa469d488582b1a8f5f8c7f
+      internalID: -59042881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_19
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 526
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea645c28de19e1419d8004d7ab361b0
+      internalID: -1392638514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_20
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 590
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c797b64c3a3334498dc55045889eb99
+      internalID: -514892383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950184fe231bd6b46abe688acfd95848
+      internalID: 2007355253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_22
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 592
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1071efb328486f458fca52b09d27a65
+      internalID: -2130337592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_23
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 584
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1420b9a8274b2bd4b89247cf112e3774
+      internalID: 1853679177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_24
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 576
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd91a5e55d4e44e85e1ec03bab973c
+      internalID: 829046770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_25
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 519
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0694a82d6a76344bbae38cc60ce506
+      internalID: -337063087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 317
+        width: 127
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f6f1da0ee5b74b8531535935d2b27
+      internalID: 1451794269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 312
+        width: 112
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671d75d43ec8b8429b154dc8f958a2e
+      internalID: 1784388087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 311
+        width: 114
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f8f3bf7668d7e4c848aae45baaff11
+      internalID: -399413269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_29
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 317
+        width: 123
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a924b3c9bc5c409962ab0636d995f
+      internalID: 1875892995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_30
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 313
+        width: 118
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0434fb52d641d448a3235e5eeb0ea06
+      internalID: -624059963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_31
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 309
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c30cc9cf861ad4eafbe6a3ec515ea8
+      internalID: 344980192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_32
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 312
+        width: 125
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9f404cd4db9904489b720f7d529f63
+      internalID: -487563157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 306
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f7b968a68806640a6ddd59b7ae1b6b
+      internalID: -514033918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a677f2e38bf94bbf5b94ec09fe71d
+      internalID: 530313750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_35
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 206
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c66983433d6f44a2d491e91404db5
+      internalID: -1057719793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_36
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 211
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c56e00c15634c49b7b9f66088e3804
+      internalID: 1597259874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_37
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 262
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d130dfb9cd4249851738e531f6b1c
+      internalID: -124945154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_38
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 195
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4897a4e20d52ed3488128b1e0bc67b27
+      internalID: 2053880668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_39
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 203
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff5454cea67f4a43990d47dddc58fe3
+      internalID: 1946532270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_40
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 204
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703b5ea353c71a4680158ff9681683a
+      internalID: -1633558522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 200
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111ea630af71d8439c1509ecc7e4263
+      internalID: -670848373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_42
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 202
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47426cbfe121d144c888ca0dfe984793
+      internalID: -869382711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_43
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 205
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21f70582869adf4b957253df735d2e7
+      internalID: -1157889664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_44
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 232
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31547d231c71ba5469ee359541b7e204
+      internalID: -1385002340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_45
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 205
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ce225a0098a84f81ff4b2f34aeb63
+      internalID: 2066673529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_46
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 205
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae9c9eee30fbc94ba705f92e31c0b9d
+      internalID: 17064129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_47
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 210
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1437a7c4a3b2971439c6c2f705735b47
+      internalID: -639924760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_48
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 199
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce003eec4b8300d4f8621548ad4e69a4
+      internalID: -2111730015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 201
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c918c5b919b6459262462fae173a5
+      internalID: -274951836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_50
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 202
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded1619a1f155c2458edd54d3a31f030
+      internalID: -1054059558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e411c36d5b5615b4b9991056d0d1a5ed
+      internalID: 1323510593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 58
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6882af910bc164fa4c1e5b1dbb738a
+      internalID: 245882018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 60
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8a9d5a2436354d900cef863bc0b9d
+      internalID: -902874245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 57
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d80a927e2343458bb9ee2b8fd1f8c
+      internalID: -1566058507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_55
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 60
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c26591d093943048bad0c489c5e463a
+      internalID: 545304066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_56
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 9
+        width: 194
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918d1f6b23508ae40860d0be628c8a56
+      internalID: -352614487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_57
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7
+        width: 295
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c067aef9b266aef48aaf42a230a3dfc8
+      internalID: 452106884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_58
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 119
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a046ca5e6e354a8c7f18e946c452d
+      internalID: -1744789934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_59
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 124
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef5a3f9daf2f7a4b86f448a605a5e99
+      internalID: -2127212897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_60
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 124
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a292c3995d0854fa61d7c85d01f1bc
+      internalID: -775313037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_61
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 124
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18a0e9ef6fafe941ae81852a39d3d93
+      internalID: 546983817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_62
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 93
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8929c364b9714419af7bb65e09fc67
+      internalID: 2015185226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_63
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 98
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21beda37999b584f9f897a850e9216a
+      internalID: -111585035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_64
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 98
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0db0794ae063c458b968b2e0ff31d5
+      internalID: 2099346854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_65
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 98
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a745ba361659464f9e0bacb5ecaf2d7
+      internalID: 1452920637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_66
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 98
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b696604ea8c60429acfaad76d238d8
+      internalID: 133580730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_67
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 71
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a522a811e02046a1734ad93a34d96
+      internalID: 1394319600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_68
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 75
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c02225518901b4783fc54bee48fb50
+      internalID: -618110698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_69
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 73
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36de5afae338969458b5234ab9e06d41
+      internalID: 82438779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_70
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 50
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024424f02425ded4bb24e179e10bb4c9
+      internalID: 421554771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_71
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 55
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8cf4e0b3421fb4ea0fcf3f7600d13b
+      internalID: 58035897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_72
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 30
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705975ad5d3b5641a34abf5b2eb904c
+      internalID: -639825915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_73
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 33
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47953474501e0634597b722f8f7fe5fe
+      internalID: -1525583904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_74
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 34
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787bbe8bb34ca3d40a6cfe2a98e3d21f
+      internalID: -1633444919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_75
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 9
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e191fe8dd726d4ab9d19c5ee4f4829
+      internalID: -2127892008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_76
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 14
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859a4eb617d00448819b51a4cb41bc3
+      internalID: -1970235584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_77
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 14
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5fde23ee8048b4a877a8705b554d44
+      internalID: -1496469484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanCustomerFoxSheet_78
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 14
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc9b706d6ba0e547afc870dcecab8d1
+      internalID: -1365354676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dadb2ff64b71d9a44b1432783171669e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      japanCustomerFoxSheet_0: -1792590275
+      japanCustomerFoxSheet_1: -1564710961
+      japanCustomerFoxSheet_10: -822482512
+      japanCustomerFoxSheet_11: 822039214
+      japanCustomerFoxSheet_12: 847390551
+      japanCustomerFoxSheet_13: -793659685
+      japanCustomerFoxSheet_14: -545536279
+      japanCustomerFoxSheet_15: -253900657
+      japanCustomerFoxSheet_16: -1404262097
+      japanCustomerFoxSheet_17: -1732350990
+      japanCustomerFoxSheet_18: -59042881
+      japanCustomerFoxSheet_19: -1392638514
+      japanCustomerFoxSheet_2: 2038527951
+      japanCustomerFoxSheet_20: -514892383
+      japanCustomerFoxSheet_21: 2007355253
+      japanCustomerFoxSheet_22: -2130337592
+      japanCustomerFoxSheet_23: 1853679177
+      japanCustomerFoxSheet_24: 829046770
+      japanCustomerFoxSheet_25: -337063087
+      japanCustomerFoxSheet_26: 1451794269
+      japanCustomerFoxSheet_27: 1784388087
+      japanCustomerFoxSheet_28: -399413269
+      japanCustomerFoxSheet_29: 1875892995
+      japanCustomerFoxSheet_3: 451406371
+      japanCustomerFoxSheet_30: -624059963
+      japanCustomerFoxSheet_31: 344980192
+      japanCustomerFoxSheet_32: -487563157
+      japanCustomerFoxSheet_33: -514033918
+      japanCustomerFoxSheet_34: 530313750
+      japanCustomerFoxSheet_35: -1057719793
+      japanCustomerFoxSheet_36: 1597259874
+      japanCustomerFoxSheet_37: -124945154
+      japanCustomerFoxSheet_38: 2053880668
+      japanCustomerFoxSheet_39: 1946532270
+      japanCustomerFoxSheet_4: -408724756
+      japanCustomerFoxSheet_40: -1633558522
+      japanCustomerFoxSheet_41: -670848373
+      japanCustomerFoxSheet_42: -869382711
+      japanCustomerFoxSheet_43: -1157889664
+      japanCustomerFoxSheet_44: -1385002340
+      japanCustomerFoxSheet_45: 2066673529
+      japanCustomerFoxSheet_46: 17064129
+      japanCustomerFoxSheet_47: -639924760
+      japanCustomerFoxSheet_48: -2111730015
+      japanCustomerFoxSheet_49: -274951836
+      japanCustomerFoxSheet_5: 2086421678
+      japanCustomerFoxSheet_50: -1054059558
+      japanCustomerFoxSheet_51: 1323510593
+      japanCustomerFoxSheet_52: 245882018
+      japanCustomerFoxSheet_53: -902874245
+      japanCustomerFoxSheet_54: -1566058507
+      japanCustomerFoxSheet_55: 545304066
+      japanCustomerFoxSheet_56: -352614487
+      japanCustomerFoxSheet_57: 452106884
+      japanCustomerFoxSheet_58: -1744789934
+      japanCustomerFoxSheet_59: -2127212897
+      japanCustomerFoxSheet_6: -516507862
+      japanCustomerFoxSheet_60: -775313037
+      japanCustomerFoxSheet_61: 546983817
+      japanCustomerFoxSheet_62: 2015185226
+      japanCustomerFoxSheet_63: -111585035
+      japanCustomerFoxSheet_64: 2099346854
+      japanCustomerFoxSheet_65: 1452920637
+      japanCustomerFoxSheet_66: 133580730
+      japanCustomerFoxSheet_67: 1394319600
+      japanCustomerFoxSheet_68: -618110698
+      japanCustomerFoxSheet_69: 82438779
+      japanCustomerFoxSheet_7: 567955464
+      japanCustomerFoxSheet_70: 421554771
+      japanCustomerFoxSheet_71: 58035897
+      japanCustomerFoxSheet_72: -639825915
+      japanCustomerFoxSheet_73: -1525583904
+      japanCustomerFoxSheet_74: -1633444919
+      japanCustomerFoxSheet_75: -2127892008
+      japanCustomerFoxSheet_76: -1970235584
+      japanCustomerFoxSheet_77: -1496469484
+      japanCustomerFoxSheet_78: -1365354676
+      japanCustomerFoxSheet_8: -1684292097
+      japanCustomerFoxSheet_9: -508123106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

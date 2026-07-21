@@ -59,8 +59,18 @@ public class SettingsUIBuilder : MonoBehaviour
         contentPanel.transform.SetParent(parent, false);
 
         Image contentBg = contentPanel.AddComponent<Image>();
-        FontHelper.ApplyDefaultUISprite(contentBg);
-        contentBg.color = new Color(1f, 0.98f, 0.93f, 0.98f);
+        Sprite panel = Resources.Load<Sprite>("Sprites/UI_Panel_Element_59");
+        if (panel != null)
+        {
+            contentBg.sprite = panel;
+            contentBg.type = Image.Type.Simple;
+            contentBg.color = Color.white;
+        }
+        else
+        {
+            FontHelper.ApplyDefaultUISprite(contentBg);
+            contentBg.color = new Color(1f, 0.98f, 0.93f, 0.98f);
+        }
 
         RectTransform contentRect = contentPanel.GetComponent<RectTransform>();
         contentRect.anchorMin = new Vector2(0.5f, 0.5f);
@@ -112,7 +122,7 @@ public class SettingsUIBuilder : MonoBehaviour
         closeImage.color = new Color(0.7f, 0.5f, 0.3f, 1f);
     }
 
-    private Text CreateText(Transform parent, string name, string text, int fontSize, TextAnchor alignment)
+    private Text CreateText(Transform parent, string name, string text, int fontSize, UnityEngine.TextAnchor alignment)
     {
         GameObject textObj = new GameObject(name);
         textObj.transform.SetParent(parent, false);
@@ -207,8 +217,18 @@ public class SettingsUIBuilder : MonoBehaviour
 
         Button button = buttonObj.AddComponent<Button>();
         Image buttonImage = buttonObj.AddComponent<Image>();
-        FontHelper.ApplyDefaultUISprite(buttonImage);
-        buttonImage.color = new Color(0.89f, 0.69f, 0.42f, 1f);
+        Sprite btn = Resources.Load<Sprite>("Sprites/UI_Button_26");
+        if (btn != null)
+        {
+            buttonImage.sprite = btn;
+            buttonImage.type = Image.Type.Simple;
+            buttonImage.color = Color.white;
+        }
+        else
+        {
+            FontHelper.ApplyDefaultUISprite(buttonImage);
+            buttonImage.color = new Color(0.89f, 0.69f, 0.42f, 1f);
+        }
         button.targetGraphic = buttonImage;
 
         RectTransform rectTransform = buttonObj.GetComponent<RectTransform>();
@@ -222,7 +242,7 @@ public class SettingsUIBuilder : MonoBehaviour
         buttonText.font = FontHelper.GetDefaultFont();
         buttonText.fontSize = 20;
         buttonText.alignment = TextAnchor.MiddleCenter;
-        buttonText.color = Color.white;
+        buttonText.color = new Color(0.2f, 0.12f, 0.06f, 1f);
         buttonText.raycastTarget = false;
 
         RectTransform textRect = textObj.GetComponent<RectTransform>();

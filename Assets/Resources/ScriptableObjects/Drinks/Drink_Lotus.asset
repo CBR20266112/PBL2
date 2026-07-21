@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d89751eaa0ba79046a1616cc0c93dc1f, type: 3}
+  m_Name: Drink_Lotus
+  m_EditorClassIdentifier: Assembly-CSharp::DrinkData
+  drinkId: lotus
+  displayName: "\uC5F0\uAF43\uCC28"
+  origin: 4
+  icon: {fileID: 0}
+  price: 5500
+  cost: 1800
+  unlockLevel: 5
+  defaultTemperature: 1
+  defaultSteepTime: 1
+  description: "\uBCA0\uD2B8\uB0A8\uC758 \uC5F0\uAF43\uC5D0\uC11C \uCD94\uCD9C\uD55C
+    \uD5A5\uAE0B\uD55C \uCC28. \uC740\uC740\uD558\uACE0 \uC6B0\uC544\uD55C \uAF43\uD5A5\uAE30\uAC00
+    \uB9E4\uB825\uC801\uC785\uB2C8\uB2E4."

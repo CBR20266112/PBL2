@@ -1,0 +1,1650 @@
+fileFormatVersion: 2
+guid: 2fa67dbcf832d624a8280a1664902630
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marmot_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 853
+        width: 102
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aaac1c9f5b7d143a6e0c72bb167604
+      internalID: 148744669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 852
+        width: 135
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa60aef329ab8154892139b8d8bc1e04
+      internalID: -510478100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 853
+        width: 138
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5301ad0f4681b4d86c7e1a026e6dbc
+      internalID: -638107881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 849
+        width: 121
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a442fc7d8d015544b48dc3b3692f2ee
+      internalID: -1119647600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 849
+        width: 135
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd225fc7cf48ab4c8ae22a8bcb4c41f
+      internalID: 1563687113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 851
+        width: 140
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586fbc01535b80949974a7b357d45072
+      internalID: -971433556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 741
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcbe1b4817c3c14bbf4cc3aa4266328
+      internalID: 915117819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 736
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cecdcd78a14ad346a21c9d0da7e0f8e
+      internalID: 1826330671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 735
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99786c9e405965f42b1c890390ac4638
+      internalID: 1612331770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 735
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6426f9b1ed41754392b920ea1d83c57
+      internalID: -1318870267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 737
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ffef0df0b3b4044a6b0605c37a6420
+      internalID: -1597952255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 736
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233bdb4b21bf9554b810daacf50e7b34
+      internalID: 1662919240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 700
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c00542c47e43e4dbe1986a0f83ae28
+      internalID: 1826841822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 625
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bc1f643436d854bad70cc8cbaafba5
+      internalID: 16977353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 709
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7347f8e2c3c86143bff7fdef4173ade
+      internalID: 107110414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 628
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7acde4912b102e4da3381eddf79623e
+      internalID: 204371660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 703
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5680161204409448a1e051c266730b3
+      internalID: 789471492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 712
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff661a4839db4147acc9ed66ff92b23
+      internalID: -395410917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 626
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3309b3f4747ff22449a78f77ae0b223c
+      internalID: 1278722654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 698
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de456c674ca9b9d4fa05b7f2267022aa
+      internalID: -1453926292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 628
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efdf230c6af2fb4ea5607a2c5a4bade
+      internalID: 1735569110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 708
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85001a48fabbbbb459ea9597c92c3925
+      internalID: 957745530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 626
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0169f3944e1b84899d9e651cfce478
+      internalID: -2078082973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 626
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc2649e86259154bace090edefa5616
+      internalID: 1733833567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 704
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e73d2f79a54e7345b2cda06f817eef2
+      internalID: -75435853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 694
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b66c615c594564090164e77ee2238a
+      internalID: -1965428575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 694
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc5f3462c2f3b40b090efce8cbaad6
+      internalID: 1362066864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 679
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4abfe1afb3a8e488035e872d464667
+      internalID: -947437849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 676
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d26fcb68cecb0643a86471fafc9af9f
+      internalID: 535196489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 454
+        width: 117
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d45d2f01c9a8749b7c74b9ba40867e
+      internalID: 1971204682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 453
+        width: 117
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d879a7cca5cc53c41a9617de379a89f3
+      internalID: -985496691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 452
+        width: 119
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee77e9f886209b40bfb0499280750a6
+      internalID: -1099551855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 453
+        width: 120
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a1679b116fae74198c8f99f54b1edd
+      internalID: -608130322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 452
+        width: 117
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aae17ed862d3d49b587991b47a5358
+      internalID: 2067056597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 450
+        width: 128
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f99dc700079ea4a80730b98096972e
+      internalID: 1838339568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 362
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3460a4a88dad1184b8092e42168348bd
+      internalID: 458187449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 360
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a30241998247884c8fd2bb9c77af8d5
+      internalID: 70937763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 360
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2836abb29584ddb4798047ee0dc5e370
+      internalID: -1177987360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 361
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e195c51eeba047be4d0b68c7ae016
+      internalID: 1420622976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 370
+        width: 106
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b854cfbaa91f3ab469050442b8af643f
+      internalID: -305344176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 371
+        width: 126
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1600c9efa4dc75c4db913c2fec868a85
+      internalID: -1992104512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 359
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a416e1e64d1d743a4466dbf923f9d5
+      internalID: -734795586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 362
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c1964ca9dffbb4eb6c8e872a2a5aec
+      internalID: 2047920194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 365
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec8105ceead6a458e64c7420a90386
+      internalID: 1450918101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 362
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7430a81b7d4f92d4da8ec167ddab3358
+      internalID: -662210464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 249
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3628c4c31a0fa1243b218d5ca9cc7454
+      internalID: -2091390045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 249
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a223e10bab86b4bbc90a51fa7d7092
+      internalID: -1233917886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 249
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2392ef11376a8fa4d95587ce0aaf877f
+      internalID: -1654382856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 249
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a575aa5f7354e3449f66210ea91a860
+      internalID: 2058367440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 249
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87e19199c261544ca13e8484f3af15e
+      internalID: 723851891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 187
+        width: 321
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48d39625d73b6a408a509187476e2ed
+      internalID: 1529029852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 225
+        width: 112
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41936bca1d19d4c4091eef3cbf018021
+      internalID: 478743990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 99
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2adc2ae3ad81fd4fb19f7457243d7fb
+      internalID: 594776877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 111
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49792c2a5b009fc4b9dbf9644d535299
+      internalID: 2052143610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 104
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0d6bdaeab05314cbe5fbd68823242d
+      internalID: 750134644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 108
+        width: 106
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9906beb9e5b814996b5a354a7bf957
+      internalID: 1850855235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 95
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78fc764a1dc8504bb675c2ab30bf700
+      internalID: -1448729687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 99
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dec248fd1e0dc4989551e79babc6eb
+      internalID: 1233598154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 103
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203a46a858607ec4aa9c0833e010f4d9
+      internalID: 1633138283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90166074b08569f48be449d64b4459c3
+      internalID: -233963918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 22
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9ba5c27e6296846964e220407a784f
+      internalID: 1396020178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 19
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04680b78f57d05c499aaa684b3f97cea
+      internalID: 775759161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6c1cb2109c59545b83742727f07af3
+      internalID: 1748385163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 7
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfd6a951d070414b9842341f2e5aa10
+      internalID: -1060374830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963916bad1d0ca14996e9adfd22ced5d
+      internalID: 2079554640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marmot_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 12
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db57416305dc00e4ba821a1446651b36
+      internalID: -1823138974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 95c72acf2c74a7f47bca5a4d3d5059d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      marmot_transparent_0: 148744669
+      marmot_transparent_1: -510478100
+      marmot_transparent_10: -1597952255
+      marmot_transparent_11: 1662919240
+      marmot_transparent_12: 1826841822
+      marmot_transparent_13: 16977353
+      marmot_transparent_14: 107110414
+      marmot_transparent_15: 204371660
+      marmot_transparent_16: 789471492
+      marmot_transparent_17: -395410917
+      marmot_transparent_18: 1278722654
+      marmot_transparent_19: -1453926292
+      marmot_transparent_2: -638107881
+      marmot_transparent_20: 1735569110
+      marmot_transparent_21: 957745530
+      marmot_transparent_22: -2078082973
+      marmot_transparent_23: 1733833567
+      marmot_transparent_24: -75435853
+      marmot_transparent_25: -1965428575
+      marmot_transparent_26: 1362066864
+      marmot_transparent_27: -947437849
+      marmot_transparent_28: 535196489
+      marmot_transparent_29: 1971204682
+      marmot_transparent_3: -1119647600
+      marmot_transparent_30: -985496691
+      marmot_transparent_31: -1099551855
+      marmot_transparent_32: -608130322
+      marmot_transparent_33: 2067056597
+      marmot_transparent_34: 1838339568
+      marmot_transparent_35: 458187449
+      marmot_transparent_36: 70937763
+      marmot_transparent_37: -1177987360
+      marmot_transparent_38: 1420622976
+      marmot_transparent_39: -305344176
+      marmot_transparent_4: 1563687113
+      marmot_transparent_40: -1992104512
+      marmot_transparent_41: -734795586
+      marmot_transparent_42: 2047920194
+      marmot_transparent_43: 1450918101
+      marmot_transparent_44: -662210464
+      marmot_transparent_45: -2091390045
+      marmot_transparent_46: -1233917886
+      marmot_transparent_47: -1654382856
+      marmot_transparent_48: 2058367440
+      marmot_transparent_49: 723851891
+      marmot_transparent_5: -971433556
+      marmot_transparent_50: 1529029852
+      marmot_transparent_51: 478743990
+      marmot_transparent_52: 594776877
+      marmot_transparent_53: 2052143610
+      marmot_transparent_54: 750134644
+      marmot_transparent_55: 1850855235
+      marmot_transparent_56: -1448729687
+      marmot_transparent_57: 1233598154
+      marmot_transparent_58: 1633138283
+      marmot_transparent_59: -233963918
+      marmot_transparent_6: 915117819
+      marmot_transparent_60: 1396020178
+      marmot_transparent_61: 775759161
+      marmot_transparent_62: 1748385163
+      marmot_transparent_63: -1060374830
+      marmot_transparent_64: 2079554640
+      marmot_transparent_65: -1823138974
+      marmot_transparent_7: 1826330671
+      marmot_transparent_8: 1612331770
+      marmot_transparent_9: -1318870267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

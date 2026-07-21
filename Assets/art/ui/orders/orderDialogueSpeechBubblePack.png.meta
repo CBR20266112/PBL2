@@ -1,0 +1,3444 @@
+fileFormatVersion: 2
+guid: 3b9233633d1af2a44b58184ddf184ee1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 941
+        width: 127
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e89543b90867418e105a6dd5040fb
+      internalID: 1205588966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 941
+        width: 125
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677602b1f691ab48974c0d0d452f760
+      internalID: 1413242277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 944
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605cb46c270020f4db3db527a3ce1135
+      internalID: -728186297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 938
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee03f93c9c062b4c9c205916b78bf32
+      internalID: 631218766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 939
+        width: 137
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459933164b4e1b345a37189af91befdc
+      internalID: 1123204750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_5
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 942
+        width: 138
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc10f725b4fa5274ab5d9f543907e45c
+      internalID: -239857115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_6
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 931
+        width: 131
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d79c55de5d142408a52908f6f10c4f
+      internalID: -1588327810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_7
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 936
+        width: 134
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b90f34aefe03c4baf23029f935dd5c
+      internalID: -2105505232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 854
+        width: 97
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f090a8d0dc814fb73c29178919578
+      internalID: 195559291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 846
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76e57835fa5cc2449c30790a7d849b7
+      internalID: -1974134713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_10
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 861
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e032b06ed1f704e9aeac3b53a9bd62
+      internalID: -1585137679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 856
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ed57178b77c7842a443b90e11443b5
+      internalID: -2101983716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 856
+        width: 106
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e78330c77795c84abf5b3b32930b293
+      internalID: -1553317401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_13
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 872
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f957ec9b78b645975f90433fa5a1e
+      internalID: 81621866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_14
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 903
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f786702478507a942885e6355215b29f
+      internalID: -901669109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_15
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 915
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3da0b9e8658f34e8fdc067f2df644a
+      internalID: 757194014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_16
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 835
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65df69f68d0b5147b4f3174994c6472
+      internalID: 1908726653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_17
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 905
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33f60a711af24042b9a41f5f35f78df
+      internalID: -864752681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_18
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 856
+        width: 69
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d20e291de514e74e88f2b1d183b5ecc
+      internalID: 907186026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_19
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 883
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8732a0e3a2851ac4eaa4615194519210
+      internalID: 448821917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_20
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 885
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb9468af1ab7ff4792a985dfe8630d7
+      internalID: -1719314555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 857
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac28538cc0f823d4a8c85ef590e1c5bf
+      internalID: -571582907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_22
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 855
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670819882938a704995b090248a634e8
+      internalID: -701462875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 695
+        width: 94
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab06da5956bed6e45873fc79cf99efd7
+      internalID: 1125888426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 694
+        width: 96
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1969789e853b04f983e01149060d09
+      internalID: 337494958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 698
+        width: 93
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454f409c75e84154cbf54e751e5ded51
+      internalID: -910624466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 696
+        width: 86
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b98f4daa734a940b7278f712d1ab2f
+      internalID: -120452541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 696
+        width: 83
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1975db7d9eb0c41806719a025b1c20
+      internalID: 564902085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_28
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 696
+        width: 89
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975be3271e373142bb7cd61c242a21f
+      internalID: -19836538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_29
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 696
+        width: 83
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66950727f7115664ab3ebbff8ee24a5f
+      internalID: -1553760621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_30
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 696
+        width: 78
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f04389a5601bc549a5d0d72a25cb365
+      internalID: -1077520413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_31
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 696
+        width: 78
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4d5abd4215fe64fbd7e138e64871da
+      internalID: -1744915483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_32
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 695
+        width: 94
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59320633284b82c4295b75c1e87f6568
+      internalID: 1202154287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 573
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b260426ec0b0f4da12a6a3ce8f33a6
+      internalID: 589668948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 564
+        width: 108
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e4c69f21918a7409f418b63f6b3b25
+      internalID: 1754107800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_35
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 571
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d6b8df2a6c5140816bc21f753280e
+      internalID: -1410424031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 573
+        width: 111
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ca298055c47a4eb3ce677bcf31542
+      internalID: 256788872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_37
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 567
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac31ad9673087469a1ae984498c9dd
+      internalID: -1827792809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_38
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 572
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd1ef6195c05b244b41651d939e3f32
+      internalID: 2125352309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_39
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 572
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3340fc21dfbaf4b468f51198dbc3309e
+      internalID: 1064392873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_40
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 568
+        width: 135
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566d85f5606e0344998e22e857d2a5cc
+      internalID: 12044431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 483
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148b323809303c04a918d0a87d7c235a
+      internalID: -493907696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 487
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e1dff9229c6b247b21f56ed08fe56a
+      internalID: -1659598387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_43
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 486
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c996debba26331743846ccaa9b27cc9c
+      internalID: 1733543696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 484
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c7be9e1e655724f951b1829a8ed823
+      internalID: 672181038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 484
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecabe1894a2d4a4091213a596bf56b8
+      internalID: -1312629103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_46
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 484
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90f767c692da1b4f96b01d6b8b1e268
+      internalID: 1934408071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_47
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 482
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6043e12a41a44b64cbb2eef1c0aca0ca
+      internalID: -1582359974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_48
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 482
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e409ffa53860247b453ed25eda8fe9
+      internalID: 1221167214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_49
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 481
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69c863cc06b4e348bcad9675386b763
+      internalID: 131357795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_50
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 482
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05867104d107f34e8984b0e0933fbeb
+      internalID: -1046154892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 409
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f60b55651413784d9b971fcd19ae7f0
+      internalID: -1123779066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 409
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994924bf33374dc4383f5447578c67c0
+      internalID: -932724564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 409
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04aac44b13e5441a222d34fc43a005
+      internalID: -1702821860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_54
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 409
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bd4e53f8af6a041817609c8014d1c4
+      internalID: 218470537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_55
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 407
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce723615360a94581fdefa8a2b95ba
+      internalID: -861202355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_56
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 408
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15adf491c7e3e9642b8b3504709e0b3d
+      internalID: -1608193708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_57
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 406
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc29f85dbdef088468a7c19352058a2b
+      internalID: 493368387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_58
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 407
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93728075574b9349bd93baf8adbc1f0
+      internalID: 1693939927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 407
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4524b9ddfc5704ea93104bb1fdb4f2
+      internalID: -609004140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_60
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 408
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667cdb0452481f44d8519df9e1ee0a8a
+      internalID: -1127247228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_61
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 407
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66b9e0421b050b4eb0ba6e080135d7f
+      internalID: 425143998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_62
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 407
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a79da7b90e37ef418a222195bfab68d
+      internalID: 1988971580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_63
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 407
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d424332d4ea5b74ca75acabb8c4313f
+      internalID: 1065175371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_64
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 405
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c05f6cefe8abc4ab4e556ca52bda72
+      internalID: 702096671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_65
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 456
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323198a817f18894f809193daf4d0209
+      internalID: 862576647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_66
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 405
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5134a59b01f53f46bd99bd63cbf4952
+      internalID: 1603303338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 352
+        width: 130
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed2dbfcb8cabd43ab04ddecfd09a0e
+      internalID: 1088441304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 132
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b4addaef73515439623e85bf07d20d
+      internalID: -829238188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_69
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 352
+        width: 125
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7628ea138547ec4e90645e179030b60
+      internalID: -455471167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_70
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 349
+        width: 124
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fbc87d960317941a4c2dfe6dbeaece
+      internalID: -2056048722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 348
+        width: 130
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7959a34c29c5b24bbe6b0181e67efcd
+      internalID: 1688691576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_72
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 346
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06e1ff69580d9a47b0ba71efb8f247d
+      internalID: 638341121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_73
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 333
+        width: 199
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093f7399bcc036641ba812e29b15cb3a
+      internalID: -188847953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 312
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a141d0e2db154419cd4545e2e78bad
+      internalID: 1789026599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 317
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0472686e17081af4cbe794bf16dfd3c9
+      internalID: -1331070292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 258
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0978f2db3962f49a60dd0ca8d35855
+      internalID: 1075341106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 299
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e1b6d82e55ade4db2f3e48a999564b
+      internalID: -1710593010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_78
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 314
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44928bb9d9b787c4b975fb16be83d659
+      internalID: 1277141149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_79
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 329
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506368b7d9319e943985bbaecc720722
+      internalID: -2044452225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_80
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 254
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7046074ee90182240a8765646667356a
+      internalID: -1475704629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_81
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 255
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858445eefa8bf14ba05a1d0016f2769
+      internalID: -1444639664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_82
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 267
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7057ff8ae84722e4492ab7628b606e9b
+      internalID: 66288057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_83
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 311
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7885d6a04bb7b4c82d9cc9037e7bd6
+      internalID: 814561943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_84
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 312
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bbc5ad9c20a504db31fa3b25e55716
+      internalID: -1877718467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_85
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 256
+        width: 129
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e2e7e0352b37548af05521ccb0959c
+      internalID: -1816247267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_86
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 307
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eb549d8ad77554086cef1433a75257
+      internalID: -886317475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_87
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 298
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b71a1531e48114d8defd950a8f2e6c
+      internalID: -1626904324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_88
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 307
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74255859ff1bd74fb817697ee0b43dc
+      internalID: -1480932333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 297
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a048c12f585d54f84966de2c006d0d
+      internalID: 809614869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_90
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 292
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649cb74697bb811469d8c16119a96c42
+      internalID: -1965062680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_91
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 284
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab46393997f00834cb578757f3c3a583
+      internalID: 291244712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_92
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 263
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fc40a726a76ec4daaa0e4ede95518e
+      internalID: 1461616041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_93
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 296
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389ca31035b0f804a8bb23b4e71dc5bf
+      internalID: -1152573720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_94
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 282
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9de982aeb4f4d04e8e6b45635b8cff2
+      internalID: -1438509561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_95
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 269
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8270bde0b9721f0408b2b5b0331fca45
+      internalID: 1551401912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_96
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 288
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b385113c5e9bd54a9f051eca174d6ac
+      internalID: -1074832000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 276
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbf04002e9269d4994444a132550283
+      internalID: 1665688164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_98
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 279
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8641b3880a62334bb72799e1bccdb02
+      internalID: 957791953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 285
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56994340d1534b84aa384512a593bb62
+      internalID: -2110097484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_100
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 285
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc286b8952524564b98aa1ff1bc983c9
+      internalID: -1758002752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_101
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 292
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659ad277306169e41a383666d639d001
+      internalID: -194028075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_102
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 285
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff5d579bf3c3dd4393195478fa05e25
+      internalID: 1951187877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_103
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 264
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca5e8b89713a74384f241e45cbfc64
+      internalID: 330109069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 267
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb1ec7c440156345923addf86dab54e
+      internalID: 1411470909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_105
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 260
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d25cb54b402464f83e91510023a28c
+      internalID: -1202846837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_106
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 265
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce2a018e7a0d2041abe394bafc0278a
+      internalID: 2042743357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_107
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 266
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8284068452ebe62439d34dca2f8283cb
+      internalID: 621552480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_108
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafb08b8d57e9d43bdc85176ccffe4c
+      internalID: -1631699283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_109
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 262
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e136beabf061d45a76f292b796a78d
+      internalID: 1931570957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_110
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 257
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd46f7fa1ac5d74693f54bfb145f9a5
+      internalID: 20245831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_111
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 272
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fd219a080441a49897052c5b0151c2
+      internalID: -2132975155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_112
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 161
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c9ec7964adc5c45ad0d49f72497dc5
+      internalID: -344155381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_113
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 161
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d17186c2501b4d84ea2f1e82e9cf7
+      internalID: 372294218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_114
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 240
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961f51b1f366acb45b64ce4149fe906c
+      internalID: -727509889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_115
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 160
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4158edb9169ce4dbcc94eae19290f1
+      internalID: 1855409513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_116
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 159
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fddb72620a9534a88e5e4a9c0932e2
+      internalID: 349107259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_117
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 157
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d4c856fe7a91046aba37b94c7f2783
+      internalID: 1305966213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_118
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 160
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dfa35f0ba27574abf37a7205b998d3
+      internalID: 1805211977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_119
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 159
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da40776aabc09f4f995b0c2bf7c0bc7
+      internalID: -1083671361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_120
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 159
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e586713080080946b9a2b216d6c87e3
+      internalID: 1207478024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_121
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 158
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d5e07249920094db9afcac8ac44f06
+      internalID: -1434812278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_122
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 189
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae149f01697b7a46901c8ca15a7fc43
+      internalID: -305747712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_123
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 195
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc01338f8e0701f4ca83a52441074772
+      internalID: 465928700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_124
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 39
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c28a5e1067af499fbd7c78f540d9e
+      internalID: 1787618515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_125
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 93
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e50c111bb9572a4790c85a101136b3a
+      internalID: 1493467124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_126
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 93
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b988556303f27f4cb66db526a464c27
+      internalID: 442282316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_127
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 97
+        width: 107
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a74de69b113a4e837654720dd9d4f
+      internalID: 1511038449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_128
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 97
+        width: 158
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab1e9d335c2d7a4b8c7ac5bc2848d95
+      internalID: 1235602286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_129
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 79
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e486a029ac26ebc4d8b56b4b46f4a951
+      internalID: 1770875753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_130
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 83
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e4d64b6a0f9d940b13a480cbc13663
+      internalID: 1703542474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_131
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 84
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202eb264c0c474347a2da1e973d2b761
+      internalID: -2143802670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_132
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 86
+        width: 132
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b5aa7ff585c8468be3dbd8b9d3eec
+      internalID: 228452808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_133
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 91
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb4ba4193f4baa49a552056ee23e65e
+      internalID: 958768114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 14
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d02c333c44866e4b866578d297de7eb
+      internalID: -258682024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_135
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 10
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab148194a80485f43a38fdf8ab449448
+      internalID: -564569659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_136
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 10
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75708194c1fa63241a4d7f6a64b2aa2b
+      internalID: -1503125532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_137
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 11
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5cec70e4f86014792e07a55f977679
+      internalID: -1231939116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_138
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 13
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fac6e8fbf2512e47b1a4313063f213e
+      internalID: -1058984328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_139
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 12
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18143c6da808cae4790d9106b5dddedb
+      internalID: 1419811591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_140
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 11
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51000e552c16b3c41b6f205ae12a0ad6
+      internalID: -1789875632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_141
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 11
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a25d06edce0bc429b8837fb2a0ad98
+      internalID: 1852313027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_142
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 16
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494d21a76ec6ef4aa70d953e130dab7
+      internalID: 1653624636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orderDialogueSpeechBubblePack_143
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 15
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd05a3c461c45dc46bc9a78ce4d24d8b
+      internalID: 1162145833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 78188d82f3ac9464e9c07b6637ecdd1d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      orderDialogueSpeechBubblePack_0: 1205588966
+      orderDialogueSpeechBubblePack_1: 1413242277
+      orderDialogueSpeechBubblePack_10: -1585137679
+      orderDialogueSpeechBubblePack_100: -1758002752
+      orderDialogueSpeechBubblePack_101: -194028075
+      orderDialogueSpeechBubblePack_102: 1951187877
+      orderDialogueSpeechBubblePack_103: 330109069
+      orderDialogueSpeechBubblePack_104: 1411470909
+      orderDialogueSpeechBubblePack_105: -1202846837
+      orderDialogueSpeechBubblePack_106: 2042743357
+      orderDialogueSpeechBubblePack_107: 621552480
+      orderDialogueSpeechBubblePack_108: -1631699283
+      orderDialogueSpeechBubblePack_109: 1931570957
+      orderDialogueSpeechBubblePack_11: -2101983716
+      orderDialogueSpeechBubblePack_110: 20245831
+      orderDialogueSpeechBubblePack_111: -2132975155
+      orderDialogueSpeechBubblePack_112: -344155381
+      orderDialogueSpeechBubblePack_113: 372294218
+      orderDialogueSpeechBubblePack_114: -727509889
+      orderDialogueSpeechBubblePack_115: 1855409513
+      orderDialogueSpeechBubblePack_116: 349107259
+      orderDialogueSpeechBubblePack_117: 1305966213
+      orderDialogueSpeechBubblePack_118: 1805211977
+      orderDialogueSpeechBubblePack_119: -1083671361
+      orderDialogueSpeechBubblePack_12: -1553317401
+      orderDialogueSpeechBubblePack_120: 1207478024
+      orderDialogueSpeechBubblePack_121: -1434812278
+      orderDialogueSpeechBubblePack_122: -305747712
+      orderDialogueSpeechBubblePack_123: 465928700
+      orderDialogueSpeechBubblePack_124: 1787618515
+      orderDialogueSpeechBubblePack_125: 1493467124
+      orderDialogueSpeechBubblePack_126: 442282316
+      orderDialogueSpeechBubblePack_127: 1511038449
+      orderDialogueSpeechBubblePack_128: 1235602286
+      orderDialogueSpeechBubblePack_129: 1770875753
+      orderDialogueSpeechBubblePack_13: 81621866
+      orderDialogueSpeechBubblePack_130: 1703542474
+      orderDialogueSpeechBubblePack_131: -2143802670
+      orderDialogueSpeechBubblePack_132: 228452808
+      orderDialogueSpeechBubblePack_133: 958768114
+      orderDialogueSpeechBubblePack_134: -258682024
+      orderDialogueSpeechBubblePack_135: -564569659
+      orderDialogueSpeechBubblePack_136: -1503125532
+      orderDialogueSpeechBubblePack_137: -1231939116
+      orderDialogueSpeechBubblePack_138: -1058984328
+      orderDialogueSpeechBubblePack_139: 1419811591
+      orderDialogueSpeechBubblePack_14: -901669109
+      orderDialogueSpeechBubblePack_140: -1789875632
+      orderDialogueSpeechBubblePack_141: 1852313027
+      orderDialogueSpeechBubblePack_142: 1653624636
+      orderDialogueSpeechBubblePack_143: 1162145833
+      orderDialogueSpeechBubblePack_15: 757194014
+      orderDialogueSpeechBubblePack_16: 1908726653
+      orderDialogueSpeechBubblePack_17: -864752681
+      orderDialogueSpeechBubblePack_18: 907186026
+      orderDialogueSpeechBubblePack_19: 448821917
+      orderDialogueSpeechBubblePack_2: -728186297
+      orderDialogueSpeechBubblePack_20: -1719314555
+      orderDialogueSpeechBubblePack_21: -571582907
+      orderDialogueSpeechBubblePack_22: -701462875
+      orderDialogueSpeechBubblePack_23: 1125888426
+      orderDialogueSpeechBubblePack_24: 337494958
+      orderDialogueSpeechBubblePack_25: -910624466
+      orderDialogueSpeechBubblePack_26: -120452541
+      orderDialogueSpeechBubblePack_27: 564902085
+      orderDialogueSpeechBubblePack_28: -19836538
+      orderDialogueSpeechBubblePack_29: -1553760621
+      orderDialogueSpeechBubblePack_3: 631218766
+      orderDialogueSpeechBubblePack_30: -1077520413
+      orderDialogueSpeechBubblePack_31: -1744915483
+      orderDialogueSpeechBubblePack_32: 1202154287
+      orderDialogueSpeechBubblePack_33: 589668948
+      orderDialogueSpeechBubblePack_34: 1754107800
+      orderDialogueSpeechBubblePack_35: -1410424031
+      orderDialogueSpeechBubblePack_36: 256788872
+      orderDialogueSpeechBubblePack_37: -1827792809
+      orderDialogueSpeechBubblePack_38: 2125352309
+      orderDialogueSpeechBubblePack_39: 1064392873
+      orderDialogueSpeechBubblePack_4: 1123204750
+      orderDialogueSpeechBubblePack_40: 12044431
+      orderDialogueSpeechBubblePack_41: -493907696
+      orderDialogueSpeechBubblePack_42: -1659598387
+      orderDialogueSpeechBubblePack_43: 1733543696
+      orderDialogueSpeechBubblePack_44: 672181038
+      orderDialogueSpeechBubblePack_45: -1312629103
+      orderDialogueSpeechBubblePack_46: 1934408071
+      orderDialogueSpeechBubblePack_47: -1582359974
+      orderDialogueSpeechBubblePack_48: 1221167214
+      orderDialogueSpeechBubblePack_49: 131357795
+      orderDialogueSpeechBubblePack_5: -239857115
+      orderDialogueSpeechBubblePack_50: -1046154892
+      orderDialogueSpeechBubblePack_51: -1123779066
+      orderDialogueSpeechBubblePack_52: -932724564
+      orderDialogueSpeechBubblePack_53: -1702821860
+      orderDialogueSpeechBubblePack_54: 218470537
+      orderDialogueSpeechBubblePack_55: -861202355
+      orderDialogueSpeechBubblePack_56: -1608193708
+      orderDialogueSpeechBubblePack_57: 493368387
+      orderDialogueSpeechBubblePack_58: 1693939927
+      orderDialogueSpeechBubblePack_59: -609004140
+      orderDialogueSpeechBubblePack_6: -1588327810
+      orderDialogueSpeechBubblePack_60: -1127247228
+      orderDialogueSpeechBubblePack_61: 425143998
+      orderDialogueSpeechBubblePack_62: 1988971580
+      orderDialogueSpeechBubblePack_63: 1065175371
+      orderDialogueSpeechBubblePack_64: 702096671
+      orderDialogueSpeechBubblePack_65: 862576647
+      orderDialogueSpeechBubblePack_66: 1603303338
+      orderDialogueSpeechBubblePack_67: 1088441304
+      orderDialogueSpeechBubblePack_68: -829238188
+      orderDialogueSpeechBubblePack_69: -455471167
+      orderDialogueSpeechBubblePack_7: -2105505232
+      orderDialogueSpeechBubblePack_70: -2056048722
+      orderDialogueSpeechBubblePack_71: 1688691576
+      orderDialogueSpeechBubblePack_72: 638341121
+      orderDialogueSpeechBubblePack_73: -188847953
+      orderDialogueSpeechBubblePack_74: 1789026599
+      orderDialogueSpeechBubblePack_75: -1331070292
+      orderDialogueSpeechBubblePack_76: 1075341106
+      orderDialogueSpeechBubblePack_77: -1710593010
+      orderDialogueSpeechBubblePack_78: 1277141149
+      orderDialogueSpeechBubblePack_79: -2044452225
+      orderDialogueSpeechBubblePack_8: 195559291
+      orderDialogueSpeechBubblePack_80: -1475704629
+      orderDialogueSpeechBubblePack_81: -1444639664
+      orderDialogueSpeechBubblePack_82: 66288057
+      orderDialogueSpeechBubblePack_83: 814561943
+      orderDialogueSpeechBubblePack_84: -1877718467
+      orderDialogueSpeechBubblePack_85: -1816247267
+      orderDialogueSpeechBubblePack_86: -886317475
+      orderDialogueSpeechBubblePack_87: -1626904324
+      orderDialogueSpeechBubblePack_88: -1480932333
+      orderDialogueSpeechBubblePack_89: 809614869
+      orderDialogueSpeechBubblePack_9: -1974134713
+      orderDialogueSpeechBubblePack_90: -1965062680
+      orderDialogueSpeechBubblePack_91: 291244712
+      orderDialogueSpeechBubblePack_92: 1461616041
+      orderDialogueSpeechBubblePack_93: -1152573720
+      orderDialogueSpeechBubblePack_94: -1438509561
+      orderDialogueSpeechBubblePack_95: 1551401912
+      orderDialogueSpeechBubblePack_96: -1074832000
+      orderDialogueSpeechBubblePack_97: 1665688164
+      orderDialogueSpeechBubblePack_98: 957791953
+      orderDialogueSpeechBubblePack_99: -2110097484
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

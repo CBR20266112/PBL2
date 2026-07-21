@@ -1,0 +1,2869 @@
+fileFormatVersion: 2
+guid: 354ba84e8ee4b324d9be3efbc24e1372
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 757
+        width: 325
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ed8d96f67f81645b1a681e71d49bc2
+      internalID: 2107035742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 757
+        width: 207
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6480655c5feb342bf13ea120086617
+      internalID: 1909559674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 938
+        width: 110
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d746562a3d9f4186cffbb2e37dec5
+      internalID: -1499541169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 823
+        width: 276
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deed9e03d6a313544ae18d37038d95da
+      internalID: -2119834560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 827
+        width: 140
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f3cbca72e74124faa71e635e994c10
+      internalID: -1450051518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 676
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ebc4159a3774546973e178ba0632eb
+      internalID: -260002517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 676
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a543eb320618dad4d8d5594ba2d616f8
+      internalID: -2015401551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 676
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6e1371e2007d94cb688de23f0acc78
+      internalID: -884760857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 676
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2512fad9336599a43adc339ca1c42aab
+      internalID: 1102078772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 676
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907113084557f846bcab8f08c9268ca
+      internalID: -1113681355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 676
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06215650e3382148b8905854a14c78b
+      internalID: 1988443991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 676
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303f784aa0a13d646a4121a0bfbb505f
+      internalID: 983261272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_12
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 676
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c7084e5d6bad846bd3e6682214e29f
+      internalID: -693815748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 680
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba65f05d2b6d2a941863a5d9cb6ae339
+      internalID: 785950756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 680
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e184aa0ecf9e5d4dbc90137c35b384d
+      internalID: 615685497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_15
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 680
+        width: 81
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b7deb1ff0a6e4438f3d3c94059f8aa
+      internalID: -139455495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_16
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 680
+        width: 83
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa6515273b64d74ab27ab26b6dbfcb0
+      internalID: -670003706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_17
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 680
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adc0f0a0fcb50b44bdf0d5f4c06b67e
+      internalID: 902749092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 462
+        width: 356
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310bf342da612347b5a65c18a58ddcf
+      internalID: -2143876884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_19
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 465
+        width: 221
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611b73402fa50954383ade8a2c71c899
+      internalID: -965068239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_20
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 583
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb8f698c912f274ea24ec6b7568c07d
+      internalID: 620002955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_21
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 583
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f449f18dc23754698c51584edad926
+      internalID: 1953975647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_22
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 583
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71805c47a9611844c99e91600c65fb7e
+      internalID: -1050998355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_23
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 579
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8f74fd0dd42d4c8be68ced42bfed9
+      internalID: -573564021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_24
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 583
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e27fa70a9a6df43bcbc29b1bc95196
+      internalID: -1625245088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_25
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 478
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4554a829cf46564cba80cfd5a43b23b
+      internalID: -1995529166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_26
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 477
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7083448d4385c2b46b9429430d53322f
+      internalID: -630825919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_27
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 476
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a71a2105592a204e956ab63ad74be44
+      internalID: 1644470932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_28
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 471
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50225ba41afd64d448ee262aa51156d1
+      internalID: 983297614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 374
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf566f526a99ed40888e6b2853a6ef5
+      internalID: -1773034640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 375
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85298ac2d918bdd45a2a6fbc93e5ddc7
+      internalID: 1005148813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 375
+        width: 151
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96855ef3899f13948ac567f65e39b7d3
+      internalID: -611223896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 374
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b386788a5b8f73418595bc6f3c20ba3
+      internalID: 961530720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 371
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd92634f9a25904b92b6d2b65fa5cc1
+      internalID: 255092546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 374
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ce26ad4c1177b48b68713db4fc95c6
+      internalID: -1804327075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_35
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 369
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb2c4a891c3c3c40bd29c3f5ecfd33e
+      internalID: 777481059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_36
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 373
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a4fedd3786fb44491cb2db9e36f5be
+      internalID: 602978302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_37
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 390
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3902a14598f71d342a0599d8e38bad12
+      internalID: 1819458250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_38
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 392
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e6280b1933c964eac24e55a90e567c
+      internalID: -1052499538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_39
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 391
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e98c3ca4eda4146983c5b6ba315760
+      internalID: 1246608033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_40
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 391
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f88eb308b02f744aa7344f53374a2e5
+      internalID: 1534482396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_41
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 391
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f706b2d0f0c264fbb83cd547cc8f53
+      internalID: -2129287464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_42
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 390
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb06118fab1fba4baa45e647d74363c
+      internalID: 486656932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 298
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117b80f66b3dbc4db58e876fd84ee9d
+      internalID: 705254002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_44
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 298
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941ede718aa2d7944ab383d5c5bafe4f
+      internalID: 653392357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_45
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 297
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70337720e65467b46aab20b262843fe2
+      internalID: 1703512461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 297
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cce01ce770df041bd186598fd18870
+      internalID: -1084287979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 297
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d55ae176c667644acfb2c453f06d66
+      internalID: 256782280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_48
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 297
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af6b50ed991338428ec0745ccd86fa8
+      internalID: 1730330473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_49
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 296
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd316ad647eeb44b809ac7f7ac65bca
+      internalID: 1562014326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_50
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 296
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc8d1cfbf02fc243b7f956ed351b4ef
+      internalID: -541986919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_51
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 296
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfa1e388693f4c4cbfd7cf01dd51254
+      internalID: 305864306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_52
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 296
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5916c3239572744bb3e74a9b9e57a22
+      internalID: -743553756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_53
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 296
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d591b0e301fabf468873f34c64a8a92
+      internalID: -1237603376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_54
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 297
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3b23c5c9d30c14f954426f58c19f7f
+      internalID: 954133137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_55
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 297
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779dd41b06329d4e88a2a2aa2e58e4d
+      internalID: -243452620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_56
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 300
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eddcac6dd35c14fb93123c79e4ea94
+      internalID: 1798216618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_57
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 300
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b28bce6e93805a469fb39ea71530964
+      internalID: 170067631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_58
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 301
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3194942ee99574bbdd8a46d3d967d7
+      internalID: -2015914494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_59
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 221
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5a77d5dec467847b45f4af3d51287d
+      internalID: 359718792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_60
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 269
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdab02d0814fa54fbaa738fa564c196
+      internalID: 1197491438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_61
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 248
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d138dd27b97f498a1dda20b978134
+      internalID: 135533711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_62
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 220
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14b2e7be9172b24cb854b24f6d94c12
+      internalID: 151165199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 226
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc96d0002b786346bfdfb384f28ab38
+      internalID: 911450915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_64
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 231
+        width: 117
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa9178bca2c234882c351934a66d0d
+      internalID: 1855196838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_65
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 205
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d454e96201b7180448b9eac5a0af7151
+      internalID: -1175018969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_66
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 222
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c7e5bc63180741a9abc539d629785
+      internalID: 768688344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_67
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 223
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8f54f33b28acb45b30c4b95b76452c
+      internalID: -1506564726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_68
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 222
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e06e82e10e96c418b301de499b65a4
+      internalID: -955804527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_69
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 212
+        width: 151
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2a413b9ead3ea46b69999f3808917b
+      internalID: 1653092893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_70
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 214
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4564f183bafdf6341b2ae22386d62fa2
+      internalID: 1190062978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_71
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 217
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5fa8bb796f3044182b568889634021
+      internalID: -1992492338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 254
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65192692118a39f4e9700a2da056e76f
+      internalID: 1267814131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 257
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e89b050d01d8f14fb95619186da0482
+      internalID: 675446732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_74
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 220
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de582bfc1e269c14cb5cff706eca83d6
+      internalID: 805969026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 232
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3783cf9a32c604a89ce59216607f3b
+      internalID: -163738111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_76
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 223
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40545ec9df5007d4f8f56313df217f93
+      internalID: 2016615695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_77
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 220
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb492b418275f34a8454a9c4ce5a5a5
+      internalID: -42727346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 218
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f72115a77909543a5eec185604d7c7
+      internalID: -2002040463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 219
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcd6c1acd625b2478c3223148f285c3
+      internalID: 1184779993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_80
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 206
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14d4c90fc8d32542a119129ea067298
+      internalID: 1343546501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_81
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 210
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2791156aa05fda148b8c7892985b556a
+      internalID: 2331281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_82
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30452cd48eafde347bcee974c5b7986a
+      internalID: -127015944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 147
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d1315563e1f9b4ca22de34d7c7015e
+      internalID: -575285992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_84
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 147
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7706997d07005434ba9eb4b5cb40180b
+      internalID: 1436134712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_85
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 147
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f931b3f4537e3c4b99049cf725bf863
+      internalID: 794644958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_86
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 147
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360fa27a3803337449e0b365bc297eba
+      internalID: -2108306453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_87
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 147
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6cbeeeb49ec9246afc1c5c2c14fcea
+      internalID: -1778298647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_88
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 147
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f67992bc9ca7841ad069c5ca5d079a
+      internalID: -1338458871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_89
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 148
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbe8016abe7dd04580518fd4e3759e0
+      internalID: 803302100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_90
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 148
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc140137a3910224383dfdb3bd6a38b3
+      internalID: 916519953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_91
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 148
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7fa8ec4701316458e9eb00d38d852a
+      internalID: 448017095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_92
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 148
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd13998ed3534d46ad64f394f8f1176
+      internalID: 918046923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_93
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 147
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebaefbcd341a5e4a942f1baf49c467f
+      internalID: 344653617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_94
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 150
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691d547361b0ed14aa44db503b0161aa
+      internalID: -2054827287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_95
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 144
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2836a2a3e5310cf48b4b98f420221fc7
+      internalID: 972459486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_96
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 148
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7e3d2b10b41340b2f21e29a7fd154
+      internalID: 475188059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_97
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 144
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d90eea5eb193a4a80e2d28ab431ac2
+      internalID: 1778443902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_98
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 86
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b93020b6a295f4fa17e3325776de40
+      internalID: -943322282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_99
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 86
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091df17a489ed474c81161d4c17f6945
+      internalID: 2067882164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_100
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 86
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8655fef6901899141b5098202378ddea
+      internalID: 1797480830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_101
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 86
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d9bbfa61834204ab716f95e4358dd7
+      internalID: 1805609985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_102
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 86
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3930b684861b47a8b2de8ac86ccd4
+      internalID: 1256702087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_103
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 86
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a1951bc68549149804d0f068bad436
+      internalID: -698320087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_104
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 87
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a544121a04fd8e47a295c9fe09858ae
+      internalID: -292079198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_105
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 86
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0303f2d988fd24e808a6f59cbe672f
+      internalID: -906145121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_106
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 85
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae0f2f346fab2044afd4fe62250a54e
+      internalID: 1740419162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_107
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 96
+        width: 88
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800cdf2e7ed2b4c4e8a40392a7429572
+      internalID: 1641665299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_108
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 15
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a70856de4b8e4898a078f5c733c0b
+      internalID: -953059515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_109
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 15
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bad11f7c3dec084695e4fff576f4e61
+      internalID: -139595793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 93
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe26f7a27ca9b948aae37ebac986bca
+      internalID: -718800632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_111
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 20
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eab1c5ec863744687911f34f7633b8
+      internalID: -564228863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_112
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 19
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6747ffe1abc6347bfff600b985107d
+      internalID: 941401122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_113
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 15
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e634a2e3b4508b948a9bd4d033b5a84b
+      internalID: -1061619090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_114
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 16
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5001a2f6aca4bc341b546227683f0e8e
+      internalID: -134161888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_115
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 13
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e0af70f4e576c47829559c22bb502d
+      internalID: 1322722308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_116
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 13
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52914c1c8f692c54fbd043d782cbf992
+      internalID: -1984829542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_117
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 21
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4b68eff717eb54ca47f39fdde8fcd0
+      internalID: 2078553235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailboxDailyLoginGiftsUi_118
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 12
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6df5ad194d791499506f5d974314db
+      internalID: 1930763429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6de5636533db33a4d85291ea20ad29a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mailboxDailyLoginGiftsUi_0: 2107035742
+      mailboxDailyLoginGiftsUi_1: 1909559674
+      mailboxDailyLoginGiftsUi_10: 1988443991
+      mailboxDailyLoginGiftsUi_100: 1797480830
+      mailboxDailyLoginGiftsUi_101: 1805609985
+      mailboxDailyLoginGiftsUi_102: 1256702087
+      mailboxDailyLoginGiftsUi_103: -698320087
+      mailboxDailyLoginGiftsUi_104: -292079198
+      mailboxDailyLoginGiftsUi_105: -906145121
+      mailboxDailyLoginGiftsUi_106: 1740419162
+      mailboxDailyLoginGiftsUi_107: 1641665299
+      mailboxDailyLoginGiftsUi_108: -953059515
+      mailboxDailyLoginGiftsUi_109: -139595793
+      mailboxDailyLoginGiftsUi_11: 983261272
+      mailboxDailyLoginGiftsUi_110: -718800632
+      mailboxDailyLoginGiftsUi_111: -564228863
+      mailboxDailyLoginGiftsUi_112: 941401122
+      mailboxDailyLoginGiftsUi_113: -1061619090
+      mailboxDailyLoginGiftsUi_114: -134161888
+      mailboxDailyLoginGiftsUi_115: 1322722308
+      mailboxDailyLoginGiftsUi_116: -1984829542
+      mailboxDailyLoginGiftsUi_117: 2078553235
+      mailboxDailyLoginGiftsUi_118: 1930763429
+      mailboxDailyLoginGiftsUi_12: -693815748
+      mailboxDailyLoginGiftsUi_13: 785950756
+      mailboxDailyLoginGiftsUi_14: 615685497
+      mailboxDailyLoginGiftsUi_15: -139455495
+      mailboxDailyLoginGiftsUi_16: -670003706
+      mailboxDailyLoginGiftsUi_17: 902749092
+      mailboxDailyLoginGiftsUi_18: -2143876884
+      mailboxDailyLoginGiftsUi_19: -965068239
+      mailboxDailyLoginGiftsUi_2: -1499541169
+      mailboxDailyLoginGiftsUi_20: 620002955
+      mailboxDailyLoginGiftsUi_21: 1953975647
+      mailboxDailyLoginGiftsUi_22: -1050998355
+      mailboxDailyLoginGiftsUi_23: -573564021
+      mailboxDailyLoginGiftsUi_24: -1625245088
+      mailboxDailyLoginGiftsUi_25: -1995529166
+      mailboxDailyLoginGiftsUi_26: -630825919
+      mailboxDailyLoginGiftsUi_27: 1644470932
+      mailboxDailyLoginGiftsUi_28: 983297614
+      mailboxDailyLoginGiftsUi_29: -1773034640
+      mailboxDailyLoginGiftsUi_3: -2119834560
+      mailboxDailyLoginGiftsUi_30: 1005148813
+      mailboxDailyLoginGiftsUi_31: -611223896
+      mailboxDailyLoginGiftsUi_32: 961530720
+      mailboxDailyLoginGiftsUi_33: 255092546
+      mailboxDailyLoginGiftsUi_34: -1804327075
+      mailboxDailyLoginGiftsUi_35: 777481059
+      mailboxDailyLoginGiftsUi_36: 602978302
+      mailboxDailyLoginGiftsUi_37: 1819458250
+      mailboxDailyLoginGiftsUi_38: -1052499538
+      mailboxDailyLoginGiftsUi_39: 1246608033
+      mailboxDailyLoginGiftsUi_4: -1450051518
+      mailboxDailyLoginGiftsUi_40: 1534482396
+      mailboxDailyLoginGiftsUi_41: -2129287464
+      mailboxDailyLoginGiftsUi_42: 486656932
+      mailboxDailyLoginGiftsUi_43: 705254002
+      mailboxDailyLoginGiftsUi_44: 653392357
+      mailboxDailyLoginGiftsUi_45: 1703512461
+      mailboxDailyLoginGiftsUi_46: -1084287979
+      mailboxDailyLoginGiftsUi_47: 256782280
+      mailboxDailyLoginGiftsUi_48: 1730330473
+      mailboxDailyLoginGiftsUi_49: 1562014326
+      mailboxDailyLoginGiftsUi_5: -260002517
+      mailboxDailyLoginGiftsUi_50: -541986919
+      mailboxDailyLoginGiftsUi_51: 305864306
+      mailboxDailyLoginGiftsUi_52: -743553756
+      mailboxDailyLoginGiftsUi_53: -1237603376
+      mailboxDailyLoginGiftsUi_54: 954133137
+      mailboxDailyLoginGiftsUi_55: -243452620
+      mailboxDailyLoginGiftsUi_56: 1798216618
+      mailboxDailyLoginGiftsUi_57: 170067631
+      mailboxDailyLoginGiftsUi_58: -2015914494
+      mailboxDailyLoginGiftsUi_59: 359718792
+      mailboxDailyLoginGiftsUi_6: -2015401551
+      mailboxDailyLoginGiftsUi_60: 1197491438
+      mailboxDailyLoginGiftsUi_61: 135533711
+      mailboxDailyLoginGiftsUi_62: 151165199
+      mailboxDailyLoginGiftsUi_63: 911450915
+      mailboxDailyLoginGiftsUi_64: 1855196838
+      mailboxDailyLoginGiftsUi_65: -1175018969
+      mailboxDailyLoginGiftsUi_66: 768688344
+      mailboxDailyLoginGiftsUi_67: -1506564726
+      mailboxDailyLoginGiftsUi_68: -955804527
+      mailboxDailyLoginGiftsUi_69: 1653092893
+      mailboxDailyLoginGiftsUi_7: -884760857
+      mailboxDailyLoginGiftsUi_70: 1190062978
+      mailboxDailyLoginGiftsUi_71: -1992492338
+      mailboxDailyLoginGiftsUi_72: 1267814131
+      mailboxDailyLoginGiftsUi_73: 675446732
+      mailboxDailyLoginGiftsUi_74: 805969026
+      mailboxDailyLoginGiftsUi_75: -163738111
+      mailboxDailyLoginGiftsUi_76: 2016615695
+      mailboxDailyLoginGiftsUi_77: -42727346
+      mailboxDailyLoginGiftsUi_78: -2002040463
+      mailboxDailyLoginGiftsUi_79: 1184779993
+      mailboxDailyLoginGiftsUi_8: 1102078772
+      mailboxDailyLoginGiftsUi_80: 1343546501
+      mailboxDailyLoginGiftsUi_81: 2331281
+      mailboxDailyLoginGiftsUi_82: -127015944
+      mailboxDailyLoginGiftsUi_83: -575285992
+      mailboxDailyLoginGiftsUi_84: 1436134712
+      mailboxDailyLoginGiftsUi_85: 794644958
+      mailboxDailyLoginGiftsUi_86: -2108306453
+      mailboxDailyLoginGiftsUi_87: -1778298647
+      mailboxDailyLoginGiftsUi_88: -1338458871
+      mailboxDailyLoginGiftsUi_89: 803302100
+      mailboxDailyLoginGiftsUi_9: -1113681355
+      mailboxDailyLoginGiftsUi_90: 916519953
+      mailboxDailyLoginGiftsUi_91: 448017095
+      mailboxDailyLoginGiftsUi_92: 918046923
+      mailboxDailyLoginGiftsUi_93: 344653617
+      mailboxDailyLoginGiftsUi_94: -2054827287
+      mailboxDailyLoginGiftsUi_95: 972459486
+      mailboxDailyLoginGiftsUi_96: 475188059
+      mailboxDailyLoginGiftsUi_97: 1778443902
+      mailboxDailyLoginGiftsUi_98: -943322282
+      mailboxDailyLoginGiftsUi_99: 2067882164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

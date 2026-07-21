@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d89751eaa0ba79046a1616cc0c93dc1f, type: 3}
+  m_Name: Drink_Yuzu
+  m_EditorClassIdentifier: Assembly-CSharp::DrinkData
+  drinkId: yuzu
+  displayName: "\uC720\uC790\uCC28"
+  origin: 1
+  icon: {fileID: 0}
+  price: 4000
+  cost: 1500
+  unlockLevel: 0
+  defaultTemperature: 1
+  defaultSteepTime: 1
+  description: "\uC0C1\uD07C\uD55C \uC720\uC790\uD5A5\uC774 \uAC00\uB4DD\uD55C \uD55C\uAD6D
+    \uC804\uD1B5 \uCC28. \uCE74\uD398\uB97C \uCC98\uC74C \uC5F4 \uB54C\uBD80\uD130
+    \uC81C\uACF5\uB429\uB2C8\uB2E4."

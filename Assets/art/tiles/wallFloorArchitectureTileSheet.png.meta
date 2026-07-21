@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: d75f327215d72114998e60562e39d56f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 855
+        width: 135
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253757019cee1844aaf23e439aca85a5
+      internalID: -969335840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 855
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9655237c375a5c43a86daa410c8e9bc
+      internalID: -2059241003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 855
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f783401434131a4f9f9fac73cdd10e3
+      internalID: -1145376518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 855
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a07c1b236029e24382a5040d2783ca8
+      internalID: -267957789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 855
+        width: 132
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b614b0630cb59014a8e0bfbbdf5e240c
+      internalID: -2012464088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 855
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0329f47b6bb54184883071f08a1ca23b
+      internalID: 1785520486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_6
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 854
+        width: 130
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e136ca5105c9f4fa5ca6a8b9c13dcb
+      internalID: -1598589837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 680
+        width: 131
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12816be001c3fc4fae7b24d30c7f9af
+      internalID: 1626998011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 680
+        width: 138
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a130c64438a1349b763e1ebc7eb9b7
+      internalID: 397516246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 680
+        width: 135
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f37c4bb4f6654589460e15bb8f1ac
+      internalID: -1895868923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 680
+        width: 132
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f9429e7396ba24d95374414039bb14
+      internalID: 1783789731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_11
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 680
+        width: 136
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97705e08bf36c254486265ca52b36a57
+      internalID: -595164801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_12
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 680
+        width: 150
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3eea1798279f8499209dc841b2cff0
+      internalID: 962359267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 552
+        width: 32
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488224bb95308a946afaa8e3f5b7bd76
+      internalID: 1367524028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 589
+        width: 255
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafec3b0bf8344b48ade7fb4d8ce1927
+      internalID: -215070281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 555
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005601dd775c84a43bf19bb37f8a9468
+      internalID: -1704188625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_16
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 562
+        width: 272
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14178798ae101845bf60ac943ff6290
+      internalID: 1473510383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 417
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffed17eed6f320428b13efe4c4f89ce
+      internalID: -2111776447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 415
+        width: 240
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf77ff8166370840ae94ab3674fc564
+      internalID: -1383168749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 404
+        width: 216
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd96dfbdc8a18504fb4cf36779c90426
+      internalID: 1736636321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_20
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 402
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8497ba1e3abe944861a5586d3e2b3e
+      internalID: -999119168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 114
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab0833d0efeda045afcc5e383b46045
+      internalID: 618930224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 208
+        width: 216
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2257f4d14619ba8469dc24946f83a495
+      internalID: -1383790746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 207
+        width: 369
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d3aa7d677160a4b8495eb45ceda8c5
+      internalID: 729608252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 131
+        width: 414
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f2e83a6221af64fa0c3b1f7d595fdb
+      internalID: 1497055455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 122
+        width: 432
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839687ec1b91c64095a18ddbe4f5285
+      internalID: -1047984048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 194
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d436776f4e4d3d049a286cc75ca4bfea
+      internalID: 2050895045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 48
+        width: 218
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37702d32fa1149c4ba543c297911a75b
+      internalID: 993850752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_28
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 48
+        width: 221
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9134d00ada9b58044a56bfc385c84ca7
+      internalID: 1318912420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFloorArchitectureTileSheet_29
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 46
+        width: 223
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b2a92aaf78b3e449439f3379d6a6c2
+      internalID: -1411876947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fc1a44af64f163a44996cb3a02db321e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      wallFloorArchitectureTileSheet_0: -969335840
+      wallFloorArchitectureTileSheet_1: -2059241003
+      wallFloorArchitectureTileSheet_10: 1783789731
+      wallFloorArchitectureTileSheet_11: -595164801
+      wallFloorArchitectureTileSheet_12: 962359267
+      wallFloorArchitectureTileSheet_13: 1367524028
+      wallFloorArchitectureTileSheet_14: -215070281
+      wallFloorArchitectureTileSheet_15: -1704188625
+      wallFloorArchitectureTileSheet_16: 1473510383
+      wallFloorArchitectureTileSheet_17: -2111776447
+      wallFloorArchitectureTileSheet_18: -1383168749
+      wallFloorArchitectureTileSheet_19: 1736636321
+      wallFloorArchitectureTileSheet_2: -1145376518
+      wallFloorArchitectureTileSheet_20: -999119168
+      wallFloorArchitectureTileSheet_21: 618930224
+      wallFloorArchitectureTileSheet_22: -1383790746
+      wallFloorArchitectureTileSheet_23: 729608252
+      wallFloorArchitectureTileSheet_24: 1497055455
+      wallFloorArchitectureTileSheet_25: -1047984048
+      wallFloorArchitectureTileSheet_26: 2050895045
+      wallFloorArchitectureTileSheet_27: 993850752
+      wallFloorArchitectureTileSheet_28: 1318912420
+      wallFloorArchitectureTileSheet_29: -1411876947
+      wallFloorArchitectureTileSheet_3: -267957789
+      wallFloorArchitectureTileSheet_4: -2012464088
+      wallFloorArchitectureTileSheet_5: 1785520486
+      wallFloorArchitectureTileSheet_6: -1598589837
+      wallFloorArchitectureTileSheet_7: 1626998011
+      wallFloorArchitectureTileSheet_8: 397516246
+      wallFloorArchitectureTileSheet_9: -1895868923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

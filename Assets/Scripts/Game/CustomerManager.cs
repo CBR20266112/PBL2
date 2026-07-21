@@ -7,6 +7,10 @@ using System.Collections.Generic;
 /// </summary>
 public class CustomerManager : Singleton<CustomerManager>
 {
+    [Header("Customer Data")]
+    [Tooltip("Inspector에서 CustomerData ScriptableObject를 직접 연결합니다.\nAssets/Sprites/Character/Customers/ 에셋과 함께 설정하세요.")]
+    [SerializeField] private List<CustomerData> _customerDataList = new List<CustomerData>();
+
     private List<CustomerData> _allCustomers = new List<CustomerData>();
     private Queue<Customer> _waitingCustomers = new Queue<Customer>();
     private Customer _currentCustomer;
@@ -19,18 +23,29 @@ public class CustomerManager : Singleton<CustomerManager>
 
     private void LoadAllCustomers()
     {
-        // Resources 폴더에서 모든 CustomerData 로드
-        CustomerData[] loadedCustomers = Resources.LoadAll<CustomerData>("ScriptableObjects/Customers");
-        
-        // 로드된 데이터가 없으면 기본 데이터 생성
-        if (loadedCustomers.Length == 0)
+        _allCustomers.Clear();
+
+        // 1순위: Inspector에서 직접 연결된 CustomerData 사용
+        if (_customerDataList != null && _customerDataList.Count > 0)
         {
-            Debug.LogWarning("No CustomerData found in Resources. Creating default customers...");
-            loadedCustomers = CustomerDataHelper.CreateDefaultCustomers();
+            _allCustomers.AddRange(_customerDataList);
+            Debug.Log($"[CustomerManager] Inspector 연결 데이터 {_allCustomers.Count}명 로드");
+            return;
         }
 
-        _allCustomers.AddRange(loadedCustomers);
-        Debug.Log($"Loaded {_allCustomers.Count} customers");
+        // 2순위(폴백): Resources 폴더에서 로드 시도
+        CustomerData[] loadedCustomers = Resources.LoadAll<CustomerData>("ScriptableObjects/Customers");
+        if (loadedCustomers.Length > 0)
+        {
+            _allCustomers.AddRange(loadedCustomers);
+            Debug.Log($"[CustomerManager] Resources 폴더에서 {_allCustomers.Count}명 로드");
+            return;
+        }
+
+        // 3순위(폴백): 하드코딩 기본 데이터 (에셋 미연결 시 임시 동작 보장)
+        Debug.LogWarning("[CustomerManager] CustomerData 없음 — 기본 데이터로 실행합니다. Inspector에서 CustomerData를 연결해 주세요.");
+        _allCustomers.AddRange(CustomerDataHelper.CreateDefaultCustomers());
+        Debug.Log($"[CustomerManager] 기본 데이터 {_allCustomers.Count}명 로드");
     }
 
     /// <summary>

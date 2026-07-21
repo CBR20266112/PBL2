@@ -1,0 +1,7216 @@
+fileFormatVersion: 2
+guid: 7437b87d0c0d8e24facd7bbdba48410e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 975
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4929315a19507d41a1bd50104d00b6b
+      internalID: 1597336304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 955
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816a3a4e44a8f9740a03087f83ff2b32
+      internalID: 1849090500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 911
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb1f583d8e3c4c45b538308ef3e3d32
+      internalID: -1726663458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 974
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd8628a49f394a4787895166b62e922
+      internalID: 2131046684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 972
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44384f336feba64c93525e88892ed99
+      internalID: 1324427755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 970
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784d9e232d119334889e94aa780623bc
+      internalID: 395744734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_6
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 913
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a314e77ab4b630743b226e17b0ea9cf6
+      internalID: -532166571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_7
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 908
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f19977888ab3154d9066b60d8289118
+      internalID: 824652617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 915
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522408c50caf4c9488775296cbdf07bb
+      internalID: -817372195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 967
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb4c70fb5b57084595981f6b87e915c
+      internalID: 1033911204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 958
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15e8ba6c95fba74a8fc57258e59531f
+      internalID: 2014900193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 932
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b557b4c4d786c4cb29a0023d7f2cf3
+      internalID: -706146817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_12
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 945
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f81f2a42ec6f654db732f83884af40c
+      internalID: -1825408866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 925
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aeb8c95dccaf648af7986eb216169e
+      internalID: 1398799131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 938
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d1176835a910747a4c3b1b465e47c8
+      internalID: -718849680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_15
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 940
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78aece5d9eb7094380de120e4cac6bb
+      internalID: 1648131909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_16
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 948
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126584f21567fd34eb713156da5234e2
+      internalID: -378186009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 941
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3be95c58c7ef548b8fea31d3c40553
+      internalID: 471705099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_18
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 939
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52fc015dc7e8bc459f2a5e9f8602146
+      internalID: 2084470365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 929
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a12048169a18848ae5b1c66ec8ba01
+      internalID: 1825467397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_20
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 934
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f84d7ba73de89438d9857c6ab8f4c7
+      internalID: 625893902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_21
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 934
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eade38a7346794e9d050d6de753f29
+      internalID: 1391289773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_22
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 934
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452631f463cd49c43a76910946b71a38
+      internalID: -541911375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 916
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b4fd437d1a5f04fb59029a5f0171f2
+      internalID: -1908343277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_24
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 917
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4efbde16d920547b274e1c478a144b
+      internalID: -2008974710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_25
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 918
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44157875790926c4baa9a5c92241317a
+      internalID: 766839454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 859
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72603742a19513c42836c8e2cc44b3ed
+      internalID: 1718357103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 853
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82defacaac0d36b4b8e15ac86e6c9c1d
+      internalID: 631633019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_28
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 866
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd9a4052141fa4e9044706a8521367
+      internalID: 1914651997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_29
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 863
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec82afe98e7d8e54abf7759ead63ac83
+      internalID: -512810154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_30
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 851
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbd4cc66451d1540879de59632059ab
+      internalID: -693377876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 862
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e7dc05a47c5854db62ca3ac08a1fbb
+      internalID: -1614544300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_32
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 861
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114608781d5d424e9356ebaffd5461c
+      internalID: -125305261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_33
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 861
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53203f6e7efa5534893eca07be06244a
+      internalID: 1896245605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 850
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288fe7f97a26d8b42b0eaff1e3ea7d54
+      internalID: 1913376145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_35
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eb8b7b52c63b04eafc570dc672f92f
+      internalID: -1759238471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 851
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2331193047ea9584cb2f54e18aa78b2f
+      internalID: 923019834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_37
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 851
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e31393e3944794193f9668eafe9479
+      internalID: 1735050959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 820
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b1c7191d2b8fa4cadac551dfc28b4c
+      internalID: 1031986800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 851
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68bc80dd901596438ac6478ea23e302
+      internalID: -1826954062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_40
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad25f282d19e2a94aa9b60d961897692
+      internalID: 1510727235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_41
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 804
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e142e7501a37cc42b3c541aa36b7bc6
+      internalID: -1633947360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_42
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 854
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99a3bb4b6e51c429acc475fe80a2ab
+      internalID: -614215334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_43
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 852
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281c9b32979e67844bc5ca80c25c9a04
+      internalID: -907797061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_44
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 849
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fcfab53a8b418439bbc2fefa5b5409
+      internalID: 1537788152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 821
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcec05a8d83de834da71e459cf3c259d
+      internalID: 345565347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 843
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e8d93c1e83ab44ca7b01626b01092f
+      internalID: -1529807075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 827
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca8a80b9788f346bcfa8bfe608dc2d
+      internalID: 780326320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 813
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17373f1f23f90604f8a99041ca89b58a
+      internalID: -1525034256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_49
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 833
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a270b5cd6576b4cab5d4ea274144bf
+      internalID: 1111626970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_50
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 845
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e47701fd509a645a4ed11438d044d2
+      internalID: -1582652765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_51
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 838
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df2f306cf3b22c499952fd024736397
+      internalID: -1504736440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_52
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 841
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423826f8bb27cfe48bfe9ec425e3198a
+      internalID: -321194739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_53
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 826
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e50fcb7ae51f440bb458927d0f7d52
+      internalID: -2060475371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 822
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9108835117cf34ca213cd49c870061
+      internalID: -1937252145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 819
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31001d985fbc65f45aa2a0b9065c0ae2
+      internalID: 119066579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 825
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fec683baa85b9e4a92a33a0ec52cb06
+      internalID: -432408373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_57
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 806
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7878fb283c5af7e48b44493f6e6a3366
+      internalID: 236810982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 830
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f2c14ce4df83240a62d24b2b707b21
+      internalID: -1449834927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 834
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee958894c9b0a54982fbc1ae39dc82e
+      internalID: -300043655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_60
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 822
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29d046274b806a43a1b1880bae0e978
+      internalID: 402383172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_61
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 803
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e3e186ea8de24cb0614a1af015549
+      internalID: 1910506608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 818
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b70b7f66f4519044a41ba2c57c4f31a
+      internalID: -503950912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 823
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bc87c350648644c85f3faf2f9796a8
+      internalID: 2134722729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_64
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 816
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bdfee3295cd964fb64357fa3ae0710
+      internalID: -859874768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_65
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 821
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5594ba4d49d3ec84c874847068e47359
+      internalID: 564004655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_66
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 830
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff6b10897e9f0b43a7fbaeff985d1f2
+      internalID: -169949323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_67
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 814
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ab369ca314fb7479acbbce3d6d1154
+      internalID: 2085983715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_68
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 822
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345a646e46875ed4a891a561b179a57b
+      internalID: -934325934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_69
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 829
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430adcb397c2db34eb5833e3d42f747d
+      internalID: -1336698986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_70
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 820
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e02691a17d89848b715ce19fff9397
+      internalID: -915095499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_71
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 819
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978c16fdc67149e48bf023040f6761f6
+      internalID: -1302335783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_72
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 823
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964bb2fae41dc48469491f6890adde5c
+      internalID: 1785635004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_73
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 831
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69ccf01a0a49974080776feca68403d
+      internalID: 2015731773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_74
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 836
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9701664e0897cf44854ca2362013511
+      internalID: -1749781533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_75
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 831
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe04b46b4a8da1846b4e46cfd365abea
+      internalID: 1698088756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_76
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 800
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efcbc0c3b4d7924d9c18bfc59416157
+      internalID: 1727368586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 831
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9125c7aea512bac43961926980809cdb
+      internalID: 98003208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_78
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 831
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c9055c87b6ea64499c725c9952a2b6
+      internalID: -1464852827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_79
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 806
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd23a89c1e26d44f8e825eb61c0e3f7
+      internalID: 166340495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_80
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 802
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba9285d65ccfc4484a93063eff46e2
+      internalID: -713995071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_81
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 819
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c748b833f451e409dcef9629b11cf2
+      internalID: 782367344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_82
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 837
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26e2c5526571a44ba910140b4b463b
+      internalID: -1929511110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_83
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 831
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a3bb518c85ea747b0204b7b81f3ef3
+      internalID: -10966885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_84
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 819
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781cb6ba29e458247b14f24d5531dec7
+      internalID: 791167567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_85
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 799
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3bf10a540fc704ea8c925e0ffdebbe
+      internalID: -542112526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_86
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 807
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9edc5b081d4c346802881dcc861ab6
+      internalID: 789591791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 810
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a13b516f1b43f43bd38c989cf84320
+      internalID: 2106822678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_88
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 811
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cbdf19e3b835a409f8fd8757c74eb0
+      internalID: -1010271878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 811
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9705d49025a11a45b3c62b9a736beca
+      internalID: -1976416832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 808
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65589a98a9d42694f9efa143461cb450
+      internalID: -1130552181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_91
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 807
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5f3d472743a2c4dafb6abe3eb8371f
+      internalID: 1583667440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_92
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 814
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4492f22bcb86ff640b360cd23c860f7f
+      internalID: -303636869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_93
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 807
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dc667d89b433043adcc5e2f73d3bdf
+      internalID: -527011667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_94
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 809
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e26e693aeb94e438d141d03470f565
+      internalID: 996669553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_95
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 796
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e54c936cb2e0543a21ab221e12c619
+      internalID: 906123119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_96
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 806
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bada4d39b20843b49b6042b326d26b91
+      internalID: 381892043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_97
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 798
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291cb3fd45a1e1d41ae2f8745066d6fa
+      internalID: -1322753442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_98
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 801
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268978e90fe96574ab47ef11b3fab848
+      internalID: 1112564195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_99
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 798
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26097b9c27ae6084aa127f6fbc716bc9
+      internalID: -1099206767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_100
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 801
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93abe0ff2148f5a4d93851bd78e808f5
+      internalID: -1174116967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_101
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 798
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf07ab71e9edfe34b8a97e59a2cefead
+      internalID: 760438407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_102
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 801
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cfda84f834ea84ba909c4b0963fd49
+      internalID: 1621524844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_103
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 799
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69578859839a0b41acb25959ff2e290
+      internalID: 1214125524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 799
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c96df7d55debc43b4608bef39f9b15
+      internalID: 2118895053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_105
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 801
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b81cb2ddd571b4595b73d1a35f0ce2
+      internalID: 380659613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_106
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 793
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617e5d806cc0be044ae17ab7810f8686
+      internalID: -1118990412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_107
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 796
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0024c75e950d722498460205f394a28c
+      internalID: -735451101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_108
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 802
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469a094499368b54fb8c512eced05600
+      internalID: 1056615154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_109
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 804
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f757ea96bf57e4c926aab5ab080edd
+      internalID: -1281332231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_110
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 799
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e788a709d5369443b5c073dfec6df04
+      internalID: -42103811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_111
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 800
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c69a9f37a256f949ae8b6864489996d
+      internalID: -1795318490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_112
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 794
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb6f66a824ac38479cf8c81ecfb2652
+      internalID: -1013761985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_113
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 801
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c090c13490db84d9635070f84e875c
+      internalID: 730482914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_114
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 801
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2306b415569b5340b0fb9b650c3afd0
+      internalID: 976708403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_115
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 791
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4657589add12f8a41a1a62b5e3c87212
+      internalID: 1639530554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_116
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 788
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c7a651d21ca314eb4a6170ddf17e35
+      internalID: -1264312537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_117
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 711
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043825294b7dabc4f9a1fc1e04633692
+      internalID: 1153805439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_118
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 614
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af005f09ac063dc46a05ff25247960bd
+      internalID: -1314220828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_119
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 612
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e61ace530c2d734d983df75d05e9d57
+      internalID: 898226294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_120
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 609
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c5e084b34c66b44a0f1267265fe3dd
+      internalID: -1567452877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_121
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 609
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f7b91ce784604dbc8bfe099235335
+      internalID: -356367654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_122
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 608
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9715697d70bb94641b06d4248880ca25
+      internalID: -601368313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_123
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 609
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8123afe6ab80d946b73030b77885718
+      internalID: -807742759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_124
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 463
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbad9885c3cd034f90f40a94e36762d
+      internalID: -1287640412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_125
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 478
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46bf9db518134842bef4fd209f48c4e
+      internalID: -982217300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_126
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 526
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e19efabb74f6b419cefb3c3e730e13
+      internalID: 140191266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_127
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 528
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd737726026c38418de1f908e04741a
+      internalID: 253576209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_128
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 471
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a970d8c2df5ee42b6fe0f82c2635f0
+      internalID: 884689359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_129
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 462
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477ae674c08efa042b4b09a9fac357a7
+      internalID: 1160861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_130
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 463
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7c62511ea712a44abb55f187877bcd
+      internalID: 1936994877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_131
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 462
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2ab06c6436d4d4d914f75bece23361
+      internalID: 1702327363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_132
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 470
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd21545aeb6c4e4fbf91bc4a23d038a
+      internalID: 941529154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_133
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 474
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6d1837ce8104f46b4764798637fc93
+      internalID: -1841724163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_134
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61808acef3b94d49993fcefef815dc8
+      internalID: -1379850353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_135
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 462
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f229640cb8d040bf8683e08c97e8a
+      internalID: 699468529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_136
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 464
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229cb55e85b3e5347be4e700daaa48ac
+      internalID: -217161404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_137
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 462
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ec51b6fd17dd846879b2fe47cbf4f6
+      internalID: 1328477275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_138
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 456
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1673f2ead4c9bc43a610a7bd1cb4c12
+      internalID: 384857063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_139
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 461
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287638558370c174e9a588af479644f8
+      internalID: -628719840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_140
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 435
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e63db2743a9494bab2e03b2673e83f
+      internalID: 1852888629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_141
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 446
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683959d2bb8402a4b9644150504bba3d
+      internalID: 584648679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_142
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 437
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0fc39ff0f322e49bf6d996c7b2e224
+      internalID: -1589163221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_143
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 450
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f7a94158f43ea46bdf8cb894a95b98
+      internalID: -1591576605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_144
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 452
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a192be4cdd1484f883a3ba8eb58d52
+      internalID: -1547533064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_145
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 423
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a5bfbe8586a7342bad6db49a2f2653
+      internalID: 1925121656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_146
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 440
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1f22ab63a2e704a82284fc242796fd
+      internalID: 454069955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_147
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 425
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de1e029468b3fa4bbd7ed76aa60580e
+      internalID: 878844191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_148
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 423
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7e6d7fca1a6174b80559d68177bd36
+      internalID: -509986312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_149
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 444
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb202dd876feba41872532b2cbb9760
+      internalID: -81526118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_150
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 426
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809550bde1b3e6f41befe37e09061a27
+      internalID: -762968045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_151
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 442
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924925ebdb8908141ba9f4b8f7a68077
+      internalID: 1816187802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_152
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 426
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f8bee12b7b2b44867050c55daf864
+      internalID: -54804679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_153
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 424
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55dca30a9b66ce49915d9e34e6c5a80
+      internalID: 759347925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_154
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 430
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25869409e31eb6458588f847e46686c
+      internalID: -1416646522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_155
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 425
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb2620dbb35350468d03d283ebfd56d
+      internalID: 2067903593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_156
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 424
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57400930419967741a9c2e377c0d4770
+      internalID: -1593929273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_157
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 357
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3ca44582dec9747be2c85ea3349827
+      internalID: -260807161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_158
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 378
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5d1737072d1f045a7f47d6040d43fb
+      internalID: -258578731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_159
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27372664560c87c4a9771da77dbdbd05
+      internalID: -1550262030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_160
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 365
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e74a3357c742a46a12cd047f6238dc
+      internalID: 971056795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_161
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 382
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4740728f192a5bf4dab06fccbc90aed6
+      internalID: -1566480409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_162
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 370
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a449695162e5a0740bab0e3149b73e85
+      internalID: -1867410112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_163
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 364
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9b4b279669bd34882013499e6e0c27
+      internalID: -559858082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_164
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 369
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c70173d981d048b8a48428f354a91
+      internalID: -788529001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_165
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 366
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23641167dd1e9564c8dd325a072ff297
+      internalID: -1403358517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_166
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 377
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19cf70c745868745bbeb3ef48198b8d
+      internalID: -550829610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_167
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 374
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbb7c2fbadcd384886a9ccbd14719c3
+      internalID: -99687298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_168
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 362
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4618cd39d7a3944ba5dae257fae8ff
+      internalID: -199577827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_169
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 372
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163fbed18df813b46817cf7c858e711a
+      internalID: 2123346963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_170
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 386
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f4536e2be3dbb4d8344fb54209ec19
+      internalID: -1259476842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_171
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 368
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80fd780abb01a34790ddf00f8c94225
+      internalID: -1119597051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_172
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 379
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea0006c7b0438d4a88e49dd553fdd6e
+      internalID: 1559280082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_173
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 372
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d61d749b89afd4293ca788cb67f004
+      internalID: 980329820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_174
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 345
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b27ed46d1a684247885bc2aad0892e7
+      internalID: -1688268384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_175
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 359
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf18cd38eb1b7c48aa01caf53a716ff
+      internalID: 128445698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_176
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 357
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f541c18d34f523746998fee3ad4569de
+      internalID: 269120852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_177
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 356
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bac366b7f1ff4e49bff174bcd16d033
+      internalID: 1185972953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_178
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 366
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c128f3332a72c104f8d98359ba1243f8
+      internalID: 773879694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_179
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 360
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108f80c7ef26ced4c952769da8c05f62
+      internalID: 628814405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_180
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 338
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd9d66326b49548b1b74ade228684e
+      internalID: -1321608154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_181
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 342
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62db9108d8a315649b5affc773a8d622
+      internalID: -904289007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_182
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 346
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de8bb4f9ac92e4fb720a0a237105fb
+      internalID: 445962430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_183
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 347
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d8cba93a1877e489f49f8b55e24e80
+      internalID: 1182947476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_184
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 339
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cfbd9a927d7e844b80c9e48828c02d
+      internalID: 129181447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_185
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 334
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368162f82905bd4aa4c059cd63bebcc
+      internalID: -281662923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_186
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 230
+        width: 42
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d2e621e2d74f2449d5d1c288285209
+      internalID: -1263207631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_187
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 348
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d70916abffd2184b87db3f44063b183
+      internalID: 745739536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_188
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e59efc37784444f82bb7a50b0b9f28
+      internalID: -1870990714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_189
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 346
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac18053664b3824280f2f1b6416d9d6
+      internalID: 63904016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_190
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 345
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44431da4d05570044a47e4eefa1921c2
+      internalID: -1070822110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_191
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 339
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab6495dba0f9945b2f3b845eef922c
+      internalID: 2073992088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_192
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 331
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e3f4cfba225cc43978529e3dec4795
+      internalID: -989132141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_193
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 345
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b453b322931cb2479eea2621ba6a3b3
+      internalID: -1004952811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_194
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 336
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc62a624feeee6448faeb134fb2e29d
+      internalID: -983877468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_195
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 346
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb106f9120934cd4a8f491ae0050eca7
+      internalID: -414399093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_196
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 340
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e6fd4d3015d0b4985c80f4590bc53e
+      internalID: -1131684153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_197
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 335
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c34ce0514058c4d85aa72664688f42
+      internalID: -1411022870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_198
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 327
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb702b2039241654d854d628007fa691
+      internalID: 1277852489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_199
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 341
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f46a5f1e1f9e74781781e7d972fd4d
+      internalID: 240249074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_200
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 338
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a54b5326ff3f04886add42fe714dad
+      internalID: 127330572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_201
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 334
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68b490703c7b8040a575d645a6e35bd
+      internalID: -2045643799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_202
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c483aea3b8bf84f9d743036fa18ac6
+      internalID: -1672618055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_203
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 327
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8296b569895e94eaab2d87ac805cb2
+      internalID: 25166671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_204
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 327
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba66d030134df184db64687579959b08
+      internalID: -1029510168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_205
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 325
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f45b65289618f499bbec037fada64e
+      internalID: 960626731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_206
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 330
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097515e0d0ec0e44f8f251bb6d85f5d4
+      internalID: -984624664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_207
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 323
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a923919e534f14cb34d845f681abeb
+      internalID: 1041245601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_208
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 330
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6287cf5cb63b23946aabe52f9933fdbc
+      internalID: -821378910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_209
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 324
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea7e4ee17d8dd04d8d51ea81a43c39d
+      internalID: -604659479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_210
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a038066f0bf5d49811e67157a920ae
+      internalID: -1304335010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_211
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 280
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2587d10c9286beb41836430e14a6eed4
+      internalID: -1065069393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_212
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 263
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd9600861cc0e542af79ca4e7a899aa
+      internalID: 19140616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_213
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 261
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee770fbda0e9c45acd0dfc1d0c353a
+      internalID: 55285890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_214
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 275
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fb1d9ac13293c4a89bc01ca77ded01
+      internalID: 1315295069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_215
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 284
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1527f7d20a38acb44a0a530a2fbe63f6
+      internalID: -109558933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_216
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 258
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2e0debeafca604ba44bd5c84dec2d9
+      internalID: 1721439069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_217
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 263
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d8a65e4c719b749b8ab09531cb3979
+      internalID: 1618324692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_218
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 274
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ce0d726db51db47bc66a5594a85053
+      internalID: 707703381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_219
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 278
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf622b5d5930e74bb48172a5d2542d7
+      internalID: -2040151847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_220
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 268
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01e1e0b70f70b4ca2ea72193a3f7f8
+      internalID: 790132379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_221
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 283
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d779eaab6b99f94593c3730224c763e
+      internalID: -1334161147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_222
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 267
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5237cf6ef7b2a8943ba67c129076d636
+      internalID: 1884686904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_223
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 263
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8646d5b701e2546975e00c9e53c53d
+      internalID: -23392495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_224
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 265
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1f3536d7aad854182f10b498bc389d
+      internalID: 1613641499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_225
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 246
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da7bdcf5a54c74191df914d184a08e
+      internalID: 1590490961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_226
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 262
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c0dbc75df2d3246a03f5cb3fa204b5
+      internalID: 392353608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_227
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 262
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22abdbadc4237d44692ba45a4acb779a
+      internalID: -40484244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_228
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 265
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e4e493ee52d445acf339e0278e45f
+      internalID: 1037856980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_229
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff81fe184ddf54d9a268452993a41a
+      internalID: 518731155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_230
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 254
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fcc784c161eed4da9261bee14995b6
+      internalID: -2138072533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_231
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 258
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bd292201870184c91936b05cfdf20a
+      internalID: -1020164196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_232
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 234
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5574315644aab8e40a4c0493b5045564
+      internalID: 1277416742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_233
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 245
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a9057b7a41c9f439d73850997fb1bb
+      internalID: -1583490733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_234
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 254
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734766ff0d39c5e4f97ad2c47b4c3a37
+      internalID: -86401417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_235
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 229
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6255a241b2174724ca2ac0e6cff2e936
+      internalID: 2090974517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_236
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 238
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f51aab5dc6c214d8aebedf9d64d07a
+      internalID: 1771974417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_237
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 245
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ff3dd54ccf648438ff05884ee98f95
+      internalID: 1077373307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_238
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44a6b3a568af924191427ee8d158e28
+      internalID: 1912770038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_239
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 242
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eb85c7994b3f048b4a5f21821a59b5
+      internalID: 1366074714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_240
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 232
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05695937265fa0f40aee3745f1f4559a
+      internalID: 1491137149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_241
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 238
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9bf0b23193e3749a36fb5c2ef6e6cd
+      internalID: 1872092213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_242
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 240
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4240b1f46cd09b42bd7cf582d1d72c1
+      internalID: 947305127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_243
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 232
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb9b51c77979fd41ad5a9913f74f5fa
+      internalID: 2044194998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_244
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 231
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c3e7111433629488490a58bbf0b2b0
+      internalID: 1306444431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_245
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 238
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e63ce650a77b9641adbad9b427999a1
+      internalID: -170449079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_246
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 250
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ba062fccffa4a44998a2b6f4320baa
+      internalID: -246745726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_247
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 232
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d874272dbd956f4793a613f9bf97e04
+      internalID: -787314893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_248
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 242
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ec4bbe71b10046bb4dd4806e11a16
+      internalID: 996382662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_249
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 231
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a00dba2500db4ab9d4b80f5cf67fd
+      internalID: -634218693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_250
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 230
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794181b10b0582409100a04f0e68feb
+      internalID: 2112940209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_251
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 230
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207458c164b33e14bbef4cbe7e7d5ed5
+      internalID: -674080948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_252
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 236
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b5794cd9a98a4439ed27d517602514
+      internalID: -1751813460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_253
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 231
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb2a2795b4f0164b92a3e7609c4eebc
+      internalID: -392321071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_254
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1159d47e2260a469ae75df1794a3c3
+      internalID: 1403366488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_255
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 235
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e6c02b5d726ec48b736bd082ee9805
+      internalID: -643265237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_256
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b1cbf54133d5347825b144ac000f9e
+      internalID: -147908141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_257
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 231
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39401bf61bd7384ebf09628b7bf291e
+      internalID: 234582164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_258
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 231
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0af2552c12d254082334039d16e6bb
+      internalID: 1903012206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_259
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 231
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cc202853438014b826fe30c1cc5b16
+      internalID: 1807925636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_260
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 223
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8034c3a7c9a6014f8cafd1671829785
+      internalID: -43976728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_261
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 235
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff4664cc25672a4799b7c54650ad228
+      internalID: 90682717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_262
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 247
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b9ec4de5205ff48bb13cb87e7c254f
+      internalID: -609569933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_263
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 226
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f456648395d84db48837fe496ca6bf25
+      internalID: -1499955436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_264
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 232
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064d88206a15c2b4e80cb9ee4f6bde45
+      internalID: 101194740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_265
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 234
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9e443b63b2ed3429caa2cf0e87672f
+      internalID: -12149040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_266
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 231
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05920861f33b47b48aa88c35426c940b
+      internalID: -448914837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_267
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 231
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f4605712b69c4ebe7a7ce62e4172a
+      internalID: -1330671030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_268
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 224
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebbe8d611b5a12409a0deea7d019e7f
+      internalID: 262950858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_269
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 231
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf0c7924efe9324fa77cc4612966c52
+      internalID: 2123930181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_270
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 225
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c230d1faa66446bb144535c5c24a1
+      internalID: 1490922101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_271
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 223
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f55989895e124babb040b1403906f
+      internalID: -546299481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_272
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed508f88faf0cc944b5ecf9d0b270a3c
+      internalID: 1166615645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_273
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 141
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f26a4dfa1e838c48b4463b052e5fbe6
+      internalID: 1792773636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_274
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 178
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4672f62edeb65884f9bbd68b4c54a814
+      internalID: -480524874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_275
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 139
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cbfebc639ca6b4381c431e66d79fd7
+      internalID: -346502786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_276
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 182
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b470309c4d1a914b8bf29aeabc29b27
+      internalID: 216301277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_277
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 135
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c993803c790b34793017c1c955d09b
+      internalID: -812703321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_278
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 140
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e5bc0abd0e65646ba7b52ee13a618b
+      internalID: 469979460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_279
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c0d91269905643954eb3771999c8d
+      internalID: 1294413988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_280
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 141
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc941892e5dd8e2478142327f7e4fdbe
+      internalID: -621939475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_281
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 137
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2ecfe30e528644ab19c591454ebd66
+      internalID: -1495899594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_282
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 82
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83202ee0b790372439d7b265a145d2cd
+      internalID: -1720190370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_283
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 78
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4ce580e449e2642863273c864ceaaf
+      internalID: 837205998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_284
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 37
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b49a23a2d18f0a4e939aa8448e7941d
+      internalID: 1163850709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_285
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 60
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80513ff5ddd650f4b9862b5fbae572d1
+      internalID: -2072133751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_286
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 86
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbbe3867b8f7e646bb03f292685dafd
+      internalID: -1017070638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_287
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 83
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b05149b883f97e4c8791b012cf4691b
+      internalID: 1772291735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_288
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 39
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178608b553cf22745a36299061e015e0
+      internalID: -1752409089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_289
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 102
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e384ebfaa70e044b1ef2235b7184ed
+      internalID: 29102289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_290
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 100
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916901b53796e84bbdb457148d408fa
+      internalID: -1835144237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_291
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e5440e83c2fa1438832eb34f9ae0ce
+      internalID: -400480874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_292
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 81
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cc5c8551fb08a468e44684b27ce9f4
+      internalID: -613532909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_293
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 81
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212f932419e75b4a9ab2452fc40d227
+      internalID: 1505497788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_294
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 44
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bac54a65876a90448d3bfad307b5535
+      internalID: 225463958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_295
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 69
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b0440c077e844688f33f064e738fc
+      internalID: 649892229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_296
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 37
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4403d01964f11894db5f0aca84dd31b2
+      internalID: -1999309309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_297
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 79
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f9ee83d2c3abd439756e571a3b16fc
+      internalID: -1509654813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_298
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da273326692111245b0e9ff37d711576
+      internalID: -1445007111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_299
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 72
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396387ce8e8a1cf418acc4e2b42fa202
+      internalID: 511211297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_300
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 64
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7290750f5090af4ea11693e5baae144
+      internalID: 992391290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_301
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe46f748548e6e4a9de2e0dfba14f9e
+      internalID: 1597296502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_302
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 54
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31722a62ca3a084b9882df1fb1f75ae
+      internalID: -1488231983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_303
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a7f63b9163a9743abee253147118f3
+      internalID: -1063172678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_304
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964adb736f3d7ed4e87970c85d98c231
+      internalID: 1438367328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_305
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 46
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc3b4eead1c5d47a51334a13408273
+      internalID: 1274340012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_306
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01f1651e7e461d49bcf5bdad5b0ff03
+      internalID: -332649088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timeOfDayBackgroundOverlays_307
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b54e28b4d685fa4abee3df75be0e264
+      internalID: 619318432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a9ba4bbf25357024d8b8b15e0e0097c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      timeOfDayBackgroundOverlays_0: 1597336304
+      timeOfDayBackgroundOverlays_1: 1849090500
+      timeOfDayBackgroundOverlays_10: 2014900193
+      timeOfDayBackgroundOverlays_100: -1174116967
+      timeOfDayBackgroundOverlays_101: 760438407
+      timeOfDayBackgroundOverlays_102: 1621524844
+      timeOfDayBackgroundOverlays_103: 1214125524
+      timeOfDayBackgroundOverlays_104: 2118895053
+      timeOfDayBackgroundOverlays_105: 380659613
+      timeOfDayBackgroundOverlays_106: -1118990412
+      timeOfDayBackgroundOverlays_107: -735451101
+      timeOfDayBackgroundOverlays_108: 1056615154
+      timeOfDayBackgroundOverlays_109: -1281332231
+      timeOfDayBackgroundOverlays_11: -706146817
+      timeOfDayBackgroundOverlays_110: -42103811
+      timeOfDayBackgroundOverlays_111: -1795318490
+      timeOfDayBackgroundOverlays_112: -1013761985
+      timeOfDayBackgroundOverlays_113: 730482914
+      timeOfDayBackgroundOverlays_114: 976708403
+      timeOfDayBackgroundOverlays_115: 1639530554
+      timeOfDayBackgroundOverlays_116: -1264312537
+      timeOfDayBackgroundOverlays_117: 1153805439
+      timeOfDayBackgroundOverlays_118: -1314220828
+      timeOfDayBackgroundOverlays_119: 898226294
+      timeOfDayBackgroundOverlays_12: -1825408866
+      timeOfDayBackgroundOverlays_120: -1567452877
+      timeOfDayBackgroundOverlays_121: -356367654
+      timeOfDayBackgroundOverlays_122: -601368313
+      timeOfDayBackgroundOverlays_123: -807742759
+      timeOfDayBackgroundOverlays_124: -1287640412
+      timeOfDayBackgroundOverlays_125: -982217300
+      timeOfDayBackgroundOverlays_126: 140191266
+      timeOfDayBackgroundOverlays_127: 253576209
+      timeOfDayBackgroundOverlays_128: 884689359
+      timeOfDayBackgroundOverlays_129: 1160861
+      timeOfDayBackgroundOverlays_13: 1398799131
+      timeOfDayBackgroundOverlays_130: 1936994877
+      timeOfDayBackgroundOverlays_131: 1702327363
+      timeOfDayBackgroundOverlays_132: 941529154
+      timeOfDayBackgroundOverlays_133: -1841724163
+      timeOfDayBackgroundOverlays_134: -1379850353
+      timeOfDayBackgroundOverlays_135: 699468529
+      timeOfDayBackgroundOverlays_136: -217161404
+      timeOfDayBackgroundOverlays_137: 1328477275
+      timeOfDayBackgroundOverlays_138: 384857063
+      timeOfDayBackgroundOverlays_139: -628719840
+      timeOfDayBackgroundOverlays_14: -718849680
+      timeOfDayBackgroundOverlays_140: 1852888629
+      timeOfDayBackgroundOverlays_141: 584648679
+      timeOfDayBackgroundOverlays_142: -1589163221
+      timeOfDayBackgroundOverlays_143: -1591576605
+      timeOfDayBackgroundOverlays_144: -1547533064
+      timeOfDayBackgroundOverlays_145: 1925121656
+      timeOfDayBackgroundOverlays_146: 454069955
+      timeOfDayBackgroundOverlays_147: 878844191
+      timeOfDayBackgroundOverlays_148: -509986312
+      timeOfDayBackgroundOverlays_149: -81526118
+      timeOfDayBackgroundOverlays_15: 1648131909
+      timeOfDayBackgroundOverlays_150: -762968045
+      timeOfDayBackgroundOverlays_151: 1816187802
+      timeOfDayBackgroundOverlays_152: -54804679
+      timeOfDayBackgroundOverlays_153: 759347925
+      timeOfDayBackgroundOverlays_154: -1416646522
+      timeOfDayBackgroundOverlays_155: 2067903593
+      timeOfDayBackgroundOverlays_156: -1593929273
+      timeOfDayBackgroundOverlays_157: -260807161
+      timeOfDayBackgroundOverlays_158: -258578731
+      timeOfDayBackgroundOverlays_159: -1550262030
+      timeOfDayBackgroundOverlays_16: -378186009
+      timeOfDayBackgroundOverlays_160: 971056795
+      timeOfDayBackgroundOverlays_161: -1566480409
+      timeOfDayBackgroundOverlays_162: -1867410112
+      timeOfDayBackgroundOverlays_163: -559858082
+      timeOfDayBackgroundOverlays_164: -788529001
+      timeOfDayBackgroundOverlays_165: -1403358517
+      timeOfDayBackgroundOverlays_166: -550829610
+      timeOfDayBackgroundOverlays_167: -99687298
+      timeOfDayBackgroundOverlays_168: -199577827
+      timeOfDayBackgroundOverlays_169: 2123346963
+      timeOfDayBackgroundOverlays_17: 471705099
+      timeOfDayBackgroundOverlays_170: -1259476842
+      timeOfDayBackgroundOverlays_171: -1119597051
+      timeOfDayBackgroundOverlays_172: 1559280082
+      timeOfDayBackgroundOverlays_173: 980329820
+      timeOfDayBackgroundOverlays_174: -1688268384
+      timeOfDayBackgroundOverlays_175: 128445698
+      timeOfDayBackgroundOverlays_176: 269120852
+      timeOfDayBackgroundOverlays_177: 1185972953
+      timeOfDayBackgroundOverlays_178: 773879694
+      timeOfDayBackgroundOverlays_179: 628814405
+      timeOfDayBackgroundOverlays_18: 2084470365
+      timeOfDayBackgroundOverlays_180: -1321608154
+      timeOfDayBackgroundOverlays_181: -904289007
+      timeOfDayBackgroundOverlays_182: 445962430
+      timeOfDayBackgroundOverlays_183: 1182947476
+      timeOfDayBackgroundOverlays_184: 129181447
+      timeOfDayBackgroundOverlays_185: -281662923
+      timeOfDayBackgroundOverlays_186: -1263207631
+      timeOfDayBackgroundOverlays_187: 745739536
+      timeOfDayBackgroundOverlays_188: -1870990714
+      timeOfDayBackgroundOverlays_189: 63904016
+      timeOfDayBackgroundOverlays_19: 1825467397
+      timeOfDayBackgroundOverlays_190: -1070822110
+      timeOfDayBackgroundOverlays_191: 2073992088
+      timeOfDayBackgroundOverlays_192: -989132141
+      timeOfDayBackgroundOverlays_193: -1004952811
+      timeOfDayBackgroundOverlays_194: -983877468
+      timeOfDayBackgroundOverlays_195: -414399093
+      timeOfDayBackgroundOverlays_196: -1131684153
+      timeOfDayBackgroundOverlays_197: -1411022870
+      timeOfDayBackgroundOverlays_198: 1277852489
+      timeOfDayBackgroundOverlays_199: 240249074
+      timeOfDayBackgroundOverlays_2: -1726663458
+      timeOfDayBackgroundOverlays_20: 625893902
+      timeOfDayBackgroundOverlays_200: 127330572
+      timeOfDayBackgroundOverlays_201: -2045643799
+      timeOfDayBackgroundOverlays_202: -1672618055
+      timeOfDayBackgroundOverlays_203: 25166671
+      timeOfDayBackgroundOverlays_204: -1029510168
+      timeOfDayBackgroundOverlays_205: 960626731
+      timeOfDayBackgroundOverlays_206: -984624664
+      timeOfDayBackgroundOverlays_207: 1041245601
+      timeOfDayBackgroundOverlays_208: -821378910
+      timeOfDayBackgroundOverlays_209: -604659479
+      timeOfDayBackgroundOverlays_21: 1391289773
+      timeOfDayBackgroundOverlays_210: -1304335010
+      timeOfDayBackgroundOverlays_211: -1065069393
+      timeOfDayBackgroundOverlays_212: 19140616
+      timeOfDayBackgroundOverlays_213: 55285890
+      timeOfDayBackgroundOverlays_214: 1315295069
+      timeOfDayBackgroundOverlays_215: -109558933
+      timeOfDayBackgroundOverlays_216: 1721439069
+      timeOfDayBackgroundOverlays_217: 1618324692
+      timeOfDayBackgroundOverlays_218: 707703381
+      timeOfDayBackgroundOverlays_219: -2040151847
+      timeOfDayBackgroundOverlays_22: -541911375
+      timeOfDayBackgroundOverlays_220: 790132379
+      timeOfDayBackgroundOverlays_221: -1334161147
+      timeOfDayBackgroundOverlays_222: 1884686904
+      timeOfDayBackgroundOverlays_223: -23392495
+      timeOfDayBackgroundOverlays_224: 1613641499
+      timeOfDayBackgroundOverlays_225: 1590490961
+      timeOfDayBackgroundOverlays_226: 392353608
+      timeOfDayBackgroundOverlays_227: -40484244
+      timeOfDayBackgroundOverlays_228: 1037856980
+      timeOfDayBackgroundOverlays_229: 518731155
+      timeOfDayBackgroundOverlays_23: -1908343277
+      timeOfDayBackgroundOverlays_230: -2138072533
+      timeOfDayBackgroundOverlays_231: -1020164196
+      timeOfDayBackgroundOverlays_232: 1277416742
+      timeOfDayBackgroundOverlays_233: -1583490733
+      timeOfDayBackgroundOverlays_234: -86401417
+      timeOfDayBackgroundOverlays_235: 2090974517
+      timeOfDayBackgroundOverlays_236: 1771974417
+      timeOfDayBackgroundOverlays_237: 1077373307
+      timeOfDayBackgroundOverlays_238: 1912770038
+      timeOfDayBackgroundOverlays_239: 1366074714
+      timeOfDayBackgroundOverlays_24: -2008974710
+      timeOfDayBackgroundOverlays_240: 1491137149
+      timeOfDayBackgroundOverlays_241: 1872092213
+      timeOfDayBackgroundOverlays_242: 947305127
+      timeOfDayBackgroundOverlays_243: 2044194998
+      timeOfDayBackgroundOverlays_244: 1306444431
+      timeOfDayBackgroundOverlays_245: -170449079
+      timeOfDayBackgroundOverlays_246: -246745726
+      timeOfDayBackgroundOverlays_247: -787314893
+      timeOfDayBackgroundOverlays_248: 996382662
+      timeOfDayBackgroundOverlays_249: -634218693
+      timeOfDayBackgroundOverlays_25: 766839454
+      timeOfDayBackgroundOverlays_250: 2112940209
+      timeOfDayBackgroundOverlays_251: -674080948
+      timeOfDayBackgroundOverlays_252: -1751813460
+      timeOfDayBackgroundOverlays_253: -392321071
+      timeOfDayBackgroundOverlays_254: 1403366488
+      timeOfDayBackgroundOverlays_255: -643265237
+      timeOfDayBackgroundOverlays_256: -147908141
+      timeOfDayBackgroundOverlays_257: 234582164
+      timeOfDayBackgroundOverlays_258: 1903012206
+      timeOfDayBackgroundOverlays_259: 1807925636
+      timeOfDayBackgroundOverlays_26: 1718357103
+      timeOfDayBackgroundOverlays_260: -43976728
+      timeOfDayBackgroundOverlays_261: 90682717
+      timeOfDayBackgroundOverlays_262: -609569933
+      timeOfDayBackgroundOverlays_263: -1499955436
+      timeOfDayBackgroundOverlays_264: 101194740
+      timeOfDayBackgroundOverlays_265: -12149040
+      timeOfDayBackgroundOverlays_266: -448914837
+      timeOfDayBackgroundOverlays_267: -1330671030
+      timeOfDayBackgroundOverlays_268: 262950858
+      timeOfDayBackgroundOverlays_269: 2123930181
+      timeOfDayBackgroundOverlays_27: 631633019
+      timeOfDayBackgroundOverlays_270: 1490922101
+      timeOfDayBackgroundOverlays_271: -546299481
+      timeOfDayBackgroundOverlays_272: 1166615645
+      timeOfDayBackgroundOverlays_273: 1792773636
+      timeOfDayBackgroundOverlays_274: -480524874
+      timeOfDayBackgroundOverlays_275: -346502786
+      timeOfDayBackgroundOverlays_276: 216301277
+      timeOfDayBackgroundOverlays_277: -812703321
+      timeOfDayBackgroundOverlays_278: 469979460
+      timeOfDayBackgroundOverlays_279: 1294413988
+      timeOfDayBackgroundOverlays_28: 1914651997
+      timeOfDayBackgroundOverlays_280: -621939475
+      timeOfDayBackgroundOverlays_281: -1495899594
+      timeOfDayBackgroundOverlays_282: -1720190370
+      timeOfDayBackgroundOverlays_283: 837205998
+      timeOfDayBackgroundOverlays_284: 1163850709
+      timeOfDayBackgroundOverlays_285: -2072133751
+      timeOfDayBackgroundOverlays_286: -1017070638
+      timeOfDayBackgroundOverlays_287: 1772291735
+      timeOfDayBackgroundOverlays_288: -1752409089
+      timeOfDayBackgroundOverlays_289: 29102289
+      timeOfDayBackgroundOverlays_29: -512810154
+      timeOfDayBackgroundOverlays_290: -1835144237
+      timeOfDayBackgroundOverlays_291: -400480874
+      timeOfDayBackgroundOverlays_292: -613532909
+      timeOfDayBackgroundOverlays_293: 1505497788
+      timeOfDayBackgroundOverlays_294: 225463958
+      timeOfDayBackgroundOverlays_295: 649892229
+      timeOfDayBackgroundOverlays_296: -1999309309
+      timeOfDayBackgroundOverlays_297: -1509654813
+      timeOfDayBackgroundOverlays_298: -1445007111
+      timeOfDayBackgroundOverlays_299: 511211297
+      timeOfDayBackgroundOverlays_3: 2131046684
+      timeOfDayBackgroundOverlays_30: -693377876
+      timeOfDayBackgroundOverlays_300: 992391290
+      timeOfDayBackgroundOverlays_301: 1597296502
+      timeOfDayBackgroundOverlays_302: -1488231983
+      timeOfDayBackgroundOverlays_303: -1063172678
+      timeOfDayBackgroundOverlays_304: 1438367328
+      timeOfDayBackgroundOverlays_305: 1274340012
+      timeOfDayBackgroundOverlays_306: -332649088
+      timeOfDayBackgroundOverlays_307: 619318432
+      timeOfDayBackgroundOverlays_31: -1614544300
+      timeOfDayBackgroundOverlays_32: -125305261
+      timeOfDayBackgroundOverlays_33: 1896245605
+      timeOfDayBackgroundOverlays_34: 1913376145
+      timeOfDayBackgroundOverlays_35: -1759238471
+      timeOfDayBackgroundOverlays_36: 923019834
+      timeOfDayBackgroundOverlays_37: 1735050959
+      timeOfDayBackgroundOverlays_38: 1031986800
+      timeOfDayBackgroundOverlays_39: -1826954062
+      timeOfDayBackgroundOverlays_4: 1324427755
+      timeOfDayBackgroundOverlays_40: 1510727235
+      timeOfDayBackgroundOverlays_41: -1633947360
+      timeOfDayBackgroundOverlays_42: -614215334
+      timeOfDayBackgroundOverlays_43: -907797061
+      timeOfDayBackgroundOverlays_44: 1537788152
+      timeOfDayBackgroundOverlays_45: 345565347
+      timeOfDayBackgroundOverlays_46: -1529807075
+      timeOfDayBackgroundOverlays_47: 780326320
+      timeOfDayBackgroundOverlays_48: -1525034256
+      timeOfDayBackgroundOverlays_49: 1111626970
+      timeOfDayBackgroundOverlays_5: 395744734
+      timeOfDayBackgroundOverlays_50: -1582652765
+      timeOfDayBackgroundOverlays_51: -1504736440
+      timeOfDayBackgroundOverlays_52: -321194739
+      timeOfDayBackgroundOverlays_53: -2060475371
+      timeOfDayBackgroundOverlays_54: -1937252145
+      timeOfDayBackgroundOverlays_55: 119066579
+      timeOfDayBackgroundOverlays_56: -432408373
+      timeOfDayBackgroundOverlays_57: 236810982
+      timeOfDayBackgroundOverlays_58: -1449834927
+      timeOfDayBackgroundOverlays_59: -300043655
+      timeOfDayBackgroundOverlays_6: -532166571
+      timeOfDayBackgroundOverlays_60: 402383172
+      timeOfDayBackgroundOverlays_61: 1910506608
+      timeOfDayBackgroundOverlays_62: -503950912
+      timeOfDayBackgroundOverlays_63: 2134722729
+      timeOfDayBackgroundOverlays_64: -859874768
+      timeOfDayBackgroundOverlays_65: 564004655
+      timeOfDayBackgroundOverlays_66: -169949323
+      timeOfDayBackgroundOverlays_67: 2085983715
+      timeOfDayBackgroundOverlays_68: -934325934
+      timeOfDayBackgroundOverlays_69: -1336698986
+      timeOfDayBackgroundOverlays_7: 824652617
+      timeOfDayBackgroundOverlays_70: -915095499
+      timeOfDayBackgroundOverlays_71: -1302335783
+      timeOfDayBackgroundOverlays_72: 1785635004
+      timeOfDayBackgroundOverlays_73: 2015731773
+      timeOfDayBackgroundOverlays_74: -1749781533
+      timeOfDayBackgroundOverlays_75: 1698088756
+      timeOfDayBackgroundOverlays_76: 1727368586
+      timeOfDayBackgroundOverlays_77: 98003208
+      timeOfDayBackgroundOverlays_78: -1464852827
+      timeOfDayBackgroundOverlays_79: 166340495
+      timeOfDayBackgroundOverlays_8: -817372195
+      timeOfDayBackgroundOverlays_80: -713995071
+      timeOfDayBackgroundOverlays_81: 782367344
+      timeOfDayBackgroundOverlays_82: -1929511110
+      timeOfDayBackgroundOverlays_83: -10966885
+      timeOfDayBackgroundOverlays_84: 791167567
+      timeOfDayBackgroundOverlays_85: -542112526
+      timeOfDayBackgroundOverlays_86: 789591791
+      timeOfDayBackgroundOverlays_87: 2106822678
+      timeOfDayBackgroundOverlays_88: -1010271878
+      timeOfDayBackgroundOverlays_89: -1976416832
+      timeOfDayBackgroundOverlays_9: 1033911204
+      timeOfDayBackgroundOverlays_90: -1130552181
+      timeOfDayBackgroundOverlays_91: 1583667440
+      timeOfDayBackgroundOverlays_92: -303636869
+      timeOfDayBackgroundOverlays_93: -527011667
+      timeOfDayBackgroundOverlays_94: 996669553
+      timeOfDayBackgroundOverlays_95: 906123119
+      timeOfDayBackgroundOverlays_96: 381892043
+      timeOfDayBackgroundOverlays_97: -1322753442
+      timeOfDayBackgroundOverlays_98: 1112564195
+      timeOfDayBackgroundOverlays_99: -1099206767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

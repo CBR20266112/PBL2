@@ -1,0 +1,3237 @@
+fileFormatVersion: 2
+guid: 30b48b5767bb1ea468c5fcceda90be5f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: questAchievementMissionUi_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 679
+        width: 274
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbe4f95d69d28a409c43e4d66495e76
+      internalID: 1437276694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 799
+        width: 207
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852a965179a0884fa4a00cc5b7f4cb4
+      internalID: -2101372920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 849
+        width: 155
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d70826cf821f048b652080fd1ef7ec
+      internalID: -1227927553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 856
+        width: 123
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f8c7f92afd22b43b0d2e37d67ae95f
+      internalID: 242391010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_4
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 893
+        width: 201
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c2b8bb20b100446ab19393cc7eac1b
+      internalID: 1787972371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 668
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb853495b8ccb4bab303246e85341f
+      internalID: 137125433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 666
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585b112af6ddf440bc04850dd681929
+      internalID: -114278717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 659
+        width: 146
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665539856956fa249a7115b724924391
+      internalID: -1725860609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_8
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 658
+        width: 145
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8c487e1ac0bc447982575c63fc889d
+      internalID: -731469476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_9
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 655
+        width: 182
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061b3a6486363aa4ea41225ca3cf5e37
+      internalID: 1666361524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 529
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc7ff06724b2b409b7a8007b01ca70
+      internalID: -268284640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 529
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102ac5ccb6a627543a1309304db14651
+      internalID: -1074880515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 529
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c626ed5fc1187dc4eb045adf56fe4c00
+      internalID: 1418369699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 529
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090ad16559308814293f0b68a2cf86ee
+      internalID: 2036936541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_14
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 529
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b89a466e4dd542a353bf684b12a97
+      internalID: -1164259612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 528
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb0c93a096be94582e04c2e37a876a
+      internalID: 802196252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 528
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374dac20201d7d74f9e5014fc54ade59
+      internalID: -410469206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 528
+        width: 78
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196009770f69489458ae18e19b58b5ad
+      internalID: -546798235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 527
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05db7979cf8540a43b33d661917d710d
+      internalID: 111463578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_19
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 527
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c673ac45dc4a294e827e534c9f785c1
+      internalID: 1861453322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_20
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 532
+        width: 54
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3127a554413ded146b62586880a9bf55
+      internalID: 276410613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_21
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 531
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870ad980d63768d4db2b87bd2158c434
+      internalID: -1294151346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 465
+        width: 147
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a31d525f82c7046a46991c5b238e16
+      internalID: 1985997751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 471
+        width: 126
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c4071e012733647b082ae63d017f24
+      internalID: 1875315012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 468
+        width: 199
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e6448ae01ac64ca562224baaa69aa
+      internalID: 801271602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 453
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dcddf08ca6bd849800087338829eb8
+      internalID: -1482321843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 460
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c32fc5795cc46499f0f0ae80f085ee
+      internalID: 504315947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_27
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 447
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d98a7eb0d93a6745a412c7443670213
+      internalID: -557784423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_28
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 466
+        width: 151
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594670e66d70bc143a020543924d73f1
+      internalID: 1624842993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_29
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 450
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3c0ffec20d8114883eb402310201ac
+      internalID: 540999321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 382
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be4ad44879ae59408113861d5ecda94
+      internalID: -813130773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 382
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88cdf8516a20304db32dd3c37c82628
+      internalID: -308317139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 381
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ded98a15fef9b43915c2bbd820258c
+      internalID: 793760965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 381
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99f379cac766245bfdb664784fcb38
+      internalID: -1856878589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 381
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3605b72db4b9ac645a5899c75a758366
+      internalID: 636173952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 380
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5d44dda19266a40990cb3dc81f7d36
+      internalID: 1771337011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 381
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3836fdade1524444ca2ac68f2c853db4
+      internalID: 1749048439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_37
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 381
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eced3eced10f86e46afc68d3e4507d2c
+      internalID: 283112315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_38
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 380
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06db4a02e2b5cb74ab09d2a9017cb19a
+      internalID: -1662336436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_39
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 379
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde099df974b3d409cd396ed0125366
+      internalID: 1506300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_40
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 380
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb50a8309d7e7648a0ceffd1021b13e
+      internalID: -133567150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_41
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 380
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203fce02f19a4024ba0bd85bb931e8d9
+      internalID: 865774073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 301
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da43d7672f42b794791ae12576510036
+      internalID: -1015037905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_43
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 301
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9e3f4c4a0923e44b86f3749de196f7
+      internalID: 194274874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_44
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 300
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830b3723b0c9c304eadb36330b40ec2c
+      internalID: 1544062453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_45
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 300
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ab85e9a69c8b45bb50e68a341ebeb
+      internalID: 424285904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_46
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 300
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b70836254b924597e0c8dbb2ce076
+      internalID: 2089866420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 299
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da01e09b457584bb62b3b141bde16d
+      internalID: 672596292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_48
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 299
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5951677ca2d43a488d52ba0cd9c6ed3
+      internalID: 1532449231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_49
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 299
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982025ed52aef1244bf4583027624193
+      internalID: 1745442598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_50
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 299
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b29cbd4aa24b42bc6df4a1ab133ed
+      internalID: -1764016152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_51
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 299
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e355ac34b0970d459b388d7d4377825
+      internalID: 2045125590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_52
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 299
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4092058ab7299740bdbe0145cb125b2
+      internalID: -306770936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_53
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 299
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab5551cf9d21384e9a48dbf837fc1aa
+      internalID: 434329658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 230
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3923a2fe6bfbad04cb98c1c838791881
+      internalID: 330800574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 230
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdcee60da8d6e447bb9423ccf92de5a
+      internalID: 1710062584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 229
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083244506aab6f143a18db5de672d71a
+      internalID: -1729623033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 229
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f341ab476e35af64abbc3c7220f39638
+      internalID: -1052796691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_58
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 228
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06291d9be9e88742b1fc7003799ee3c
+      internalID: 1329620988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_59
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 228
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f150d0bbcbd3546a4245836232aab6
+      internalID: 1991047948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_60
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 229
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e618a7367c36e2488d005459dfafb48
+      internalID: -1162634956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_61
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 228
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea557b4e0e79264cbe9e261c407b25f
+      internalID: 848841849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_62
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 140
+        width: 104
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b3361b2ef38484b8f9344cfe5fc9c2
+      internalID: 56086086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_63
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 228
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13a779ec1243f64aab9d6ba21be8cbf
+      internalID: 172683259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_64
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 228
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c6babb15402584eb44949282246e4e
+      internalID: 645596763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_65
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 228
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c9b4acec2cbe048a921c39a4a625ac
+      internalID: 1596948609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 96
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9155aa6410c57f74ca57f61c356b799c
+      internalID: 1148551467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73e086f6bae9b444954d75d15e8c58f
+      internalID: -1248227483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 182
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbd7a28e16523046b2c92fd1d26ccb6
+      internalID: 650373374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e68fda1c293a449be48e3b61626ea5
+      internalID: -356264164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 203
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84893d0281588a44eb979f2bc97a0066
+      internalID: -115791766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_71
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 196
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2722852bb8ee648bcde30f835a1044
+      internalID: -2126735337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_72
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 157
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3265464e98dba4683d7f8961888e22
+      internalID: -184458262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_73
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 148
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c2f4b0bc3bcd45bbc78a80875e5a4
+      internalID: -598906909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_74
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 167
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d439785ea0857498dfa44cd36dbdc4
+      internalID: 629074146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_75
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 149
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce9005c8a2ac184180d206ba29b3dbd
+      internalID: 867161255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_76
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 146
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a5d0c3eb1f1a84b8282de66b6daf42
+      internalID: 183774363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_77
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 206
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd0558833ec74d47838b17d33758b8b
+      internalID: 1372172196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_78
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 204
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4184753d72f0e438a1011fba8f6dfe
+      internalID: 399442162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_79
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9369a881b7b23b8429b959a59e9a9ead
+      internalID: -35667219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_80
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a070b983639f8eb44845b38a0cc0cf56
+      internalID: 1356793568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_81
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 205
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2098121d862df4299901deaa8c46a0
+      internalID: -1775099011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_82
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 189
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d5b1b448239d428526102c9c8d1dc
+      internalID: -673623290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 186
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac4ae86919eed14ca2b37509f77c062
+      internalID: 1921634448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_84
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d3dbf4964eb7c44aea5766a09b4f3f
+      internalID: -1296315203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_85
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 194
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c127c49ee420c541abeba8a239c353f
+      internalID: 1714662428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_86
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a35c9af2515cbc488d40cfe6a287d43
+      internalID: -1800746906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_87
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 193
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedce11fd713f4b4bac9e67a40269b7a
+      internalID: -1840758899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_88
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9626b06f40443d7488521bf5fe93d14d
+      internalID: -1133144578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_89
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 182
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104e547ef2107f346b16a0d111a13706
+      internalID: -688175859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_90
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 163
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e068c770c9128ba4ebda3deaa3526a41
+      internalID: -1171256618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_91
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215bf1b7b0d7b144e90fd0b40f6cba7a
+      internalID: 400392615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_92
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 185
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94caec2cfc1914ba17010413cda462
+      internalID: 1019360076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_93
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 181
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b7a80f7ad007c45a0d58b8dbbf7062
+      internalID: -234184692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_94
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 169
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb55c857b7ffdf43ad0db786e14ec01
+      internalID: 116304156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_95
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 181
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a443da80bb0f3b4eb1799b82672257e
+      internalID: -1511553197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_96
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 183
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560eaac894f8d6340a53f020f51f410f
+      internalID: -1470054121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_97
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 186
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3945cf68d80ed4a9085694f26984d0
+      internalID: -350311149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_98
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 160
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbee2f9c762ba54093430a26932cd0e
+      internalID: 685590939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_99
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f93f796e5cb24a8b54efeb488a24a
+      internalID: -1301934824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_100
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ff524b3369ad3469b078e4768f29ad
+      internalID: -819256079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_101
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 176
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88fb927f40af274d836ed71eafabde4
+      internalID: -48983972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_102
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 165
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a346515247f415c438230283871a9490
+      internalID: 1093785361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_103
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 170
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947769ca498599c4ab8e27e3d3796cc7
+      internalID: -1082748010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_104
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 171
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab6d0fad10ed545bd8379ccee9eb97
+      internalID: 1985985149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_105
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5e75e512d4f28468643388cee16fc5
+      internalID: -724460402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_106
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded2d2434b940074d8484601ff514b78
+      internalID: 1941645307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_107
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 158
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bee89441427398459b055ba7561ded2
+      internalID: 1613666066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_108
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 153
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fb5d8cf54bf3147bbd38b9a03ed856
+      internalID: 1417200961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_109
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 163
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b74fc104d096564d9c7fdbd8974fb97
+      internalID: 112686253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_110
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 161
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722e80adcb8c8e74fa216d97f6e55f8f
+      internalID: -623221045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_111
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 156
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02093e6fa218d94e819998c03df5ca0
+      internalID: 1023972582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_112
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 159
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1653b5c8831e3bc4d8d52ab574857615
+      internalID: -60255509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_113
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 164
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c650cade166ae124887dcd3158814f70
+      internalID: 1705719992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_114
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 99
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1692de752c296749997700782c729f7
+      internalID: 1037829524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_115
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 102
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c8db9ff133e149869c9b6d8ad55be
+      internalID: 151494910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_116
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 103
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb8cd59e5f389d4785c1cbb620bd4fc
+      internalID: 650622083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_117
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 104
+        width: 96
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c39eb02be265a4ea9a7212426dac51
+      internalID: 1399820512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_118
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 96
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1683ff38623470f42a4a21a232d7a9f2
+      internalID: 1461569962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_119
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 94
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baefd08af12941143a56807914290627
+      internalID: 58607478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_120
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 103
+        width: 121
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2c5f9ab9fcdad43949162cb697398d
+      internalID: -512671760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_121
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 108
+        width: 86
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf801ad22d41b540a06ac25e1f353c3
+      internalID: 1657757152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_122
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 99
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ecbdc7b5797cb4882020b5d60add03
+      internalID: 1654925764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_123
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 28
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655be72de8f9b3e48860d0d6642d0e51
+      internalID: 1738215550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_124
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 28
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622b12c76b343041a89be891c6ba13d
+      internalID: -864109633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_125
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 27
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a9b722bbb334e49aa3a51b9f46f83f
+      internalID: 1846435959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_126
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 27
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642c83730e669334294dca93c53bcbff
+      internalID: 1759756136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_127
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 27
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bc397eede1cba4baf74e85f1a27627
+      internalID: -1965243104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_128
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 27
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5fec1264312e44384d9a7c884d5aff
+      internalID: 1644760397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_129
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 27
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2c8abb57074984e865dc78af827f11
+      internalID: 1634506745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_130
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 27
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b316c3c6c6704ad4480ab502d2bd12d2
+      internalID: 850011130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_131
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 26
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b2e0d0429e4ae4dbeba1447a078af2
+      internalID: -1655469254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_132
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 24
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc4a469d22d9384094b279b0f038e63
+      internalID: 2055777750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_133
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 31
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36edd9835496124cb44b815fef21f51
+      internalID: 1135362892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: questAchievementMissionUi_134
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 21
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5e02aa8b578cc40b12a4cd51b420c5
+      internalID: -1040686356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 163a58d681673cc4c926145e7ed3bbb2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      questAchievementMissionUi_0: 1437276694
+      questAchievementMissionUi_1: -2101372920
+      questAchievementMissionUi_10: -268284640
+      questAchievementMissionUi_100: -819256079
+      questAchievementMissionUi_101: -48983972
+      questAchievementMissionUi_102: 1093785361
+      questAchievementMissionUi_103: -1082748010
+      questAchievementMissionUi_104: 1985985149
+      questAchievementMissionUi_105: -724460402
+      questAchievementMissionUi_106: 1941645307
+      questAchievementMissionUi_107: 1613666066
+      questAchievementMissionUi_108: 1417200961
+      questAchievementMissionUi_109: 112686253
+      questAchievementMissionUi_11: -1074880515
+      questAchievementMissionUi_110: -623221045
+      questAchievementMissionUi_111: 1023972582
+      questAchievementMissionUi_112: -60255509
+      questAchievementMissionUi_113: 1705719992
+      questAchievementMissionUi_114: 1037829524
+      questAchievementMissionUi_115: 151494910
+      questAchievementMissionUi_116: 650622083
+      questAchievementMissionUi_117: 1399820512
+      questAchievementMissionUi_118: 1461569962
+      questAchievementMissionUi_119: 58607478
+      questAchievementMissionUi_12: 1418369699
+      questAchievementMissionUi_120: -512671760
+      questAchievementMissionUi_121: 1657757152
+      questAchievementMissionUi_122: 1654925764
+      questAchievementMissionUi_123: 1738215550
+      questAchievementMissionUi_124: -864109633
+      questAchievementMissionUi_125: 1846435959
+      questAchievementMissionUi_126: 1759756136
+      questAchievementMissionUi_127: -1965243104
+      questAchievementMissionUi_128: 1644760397
+      questAchievementMissionUi_129: 1634506745
+      questAchievementMissionUi_13: 2036936541
+      questAchievementMissionUi_130: 850011130
+      questAchievementMissionUi_131: -1655469254
+      questAchievementMissionUi_132: 2055777750
+      questAchievementMissionUi_133: 1135362892
+      questAchievementMissionUi_134: -1040686356
+      questAchievementMissionUi_14: -1164259612
+      questAchievementMissionUi_15: 802196252
+      questAchievementMissionUi_16: -410469206
+      questAchievementMissionUi_17: -546798235
+      questAchievementMissionUi_18: 111463578
+      questAchievementMissionUi_19: 1861453322
+      questAchievementMissionUi_2: -1227927553
+      questAchievementMissionUi_20: 276410613
+      questAchievementMissionUi_21: -1294151346
+      questAchievementMissionUi_22: 1985997751
+      questAchievementMissionUi_23: 1875315012
+      questAchievementMissionUi_24: 801271602
+      questAchievementMissionUi_25: -1482321843
+      questAchievementMissionUi_26: 504315947
+      questAchievementMissionUi_27: -557784423
+      questAchievementMissionUi_28: 1624842993
+      questAchievementMissionUi_29: 540999321
+      questAchievementMissionUi_3: 242391010
+      questAchievementMissionUi_30: -813130773
+      questAchievementMissionUi_31: -308317139
+      questAchievementMissionUi_32: 793760965
+      questAchievementMissionUi_33: -1856878589
+      questAchievementMissionUi_34: 636173952
+      questAchievementMissionUi_35: 1771337011
+      questAchievementMissionUi_36: 1749048439
+      questAchievementMissionUi_37: 283112315
+      questAchievementMissionUi_38: -1662336436
+      questAchievementMissionUi_39: 1506300270
+      questAchievementMissionUi_4: 1787972371
+      questAchievementMissionUi_40: -133567150
+      questAchievementMissionUi_41: 865774073
+      questAchievementMissionUi_42: -1015037905
+      questAchievementMissionUi_43: 194274874
+      questAchievementMissionUi_44: 1544062453
+      questAchievementMissionUi_45: 424285904
+      questAchievementMissionUi_46: 2089866420
+      questAchievementMissionUi_47: 672596292
+      questAchievementMissionUi_48: 1532449231
+      questAchievementMissionUi_49: 1745442598
+      questAchievementMissionUi_5: 137125433
+      questAchievementMissionUi_50: -1764016152
+      questAchievementMissionUi_51: 2045125590
+      questAchievementMissionUi_52: -306770936
+      questAchievementMissionUi_53: 434329658
+      questAchievementMissionUi_54: 330800574
+      questAchievementMissionUi_55: 1710062584
+      questAchievementMissionUi_56: -1729623033
+      questAchievementMissionUi_57: -1052796691
+      questAchievementMissionUi_58: 1329620988
+      questAchievementMissionUi_59: 1991047948
+      questAchievementMissionUi_6: -114278717
+      questAchievementMissionUi_60: -1162634956
+      questAchievementMissionUi_61: 848841849
+      questAchievementMissionUi_62: 56086086
+      questAchievementMissionUi_63: 172683259
+      questAchievementMissionUi_64: 645596763
+      questAchievementMissionUi_65: 1596948609
+      questAchievementMissionUi_66: 1148551467
+      questAchievementMissionUi_67: -1248227483
+      questAchievementMissionUi_68: 650373374
+      questAchievementMissionUi_69: -356264164
+      questAchievementMissionUi_7: -1725860609
+      questAchievementMissionUi_70: -115791766
+      questAchievementMissionUi_71: -2126735337
+      questAchievementMissionUi_72: -184458262
+      questAchievementMissionUi_73: -598906909
+      questAchievementMissionUi_74: 629074146
+      questAchievementMissionUi_75: 867161255
+      questAchievementMissionUi_76: 183774363
+      questAchievementMissionUi_77: 1372172196
+      questAchievementMissionUi_78: 399442162
+      questAchievementMissionUi_79: -35667219
+      questAchievementMissionUi_8: -731469476
+      questAchievementMissionUi_80: 1356793568
+      questAchievementMissionUi_81: -1775099011
+      questAchievementMissionUi_82: -673623290
+      questAchievementMissionUi_83: 1921634448
+      questAchievementMissionUi_84: -1296315203
+      questAchievementMissionUi_85: 1714662428
+      questAchievementMissionUi_86: -1800746906
+      questAchievementMissionUi_87: -1840758899
+      questAchievementMissionUi_88: -1133144578
+      questAchievementMissionUi_89: -688175859
+      questAchievementMissionUi_9: 1666361524
+      questAchievementMissionUi_90: -1171256618
+      questAchievementMissionUi_91: 400392615
+      questAchievementMissionUi_92: 1019360076
+      questAchievementMissionUi_93: -234184692
+      questAchievementMissionUi_94: 116304156
+      questAchievementMissionUi_95: -1511553197
+      questAchievementMissionUi_96: -1470054121
+      questAchievementMissionUi_97: -350311149
+      questAchievementMissionUi_98: 685590939
+      questAchievementMissionUi_99: -1301934824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

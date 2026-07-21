@@ -1,0 +1,2386 @@
+fileFormatVersion: 2
+guid: 1815c3088a61a6443a67a872f054603d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 752
+        width: 184
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa6bb30f4eeac45a51e5efd18695b6
+      internalID: -226231801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 580
+        width: 503
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4f14b71f89c654ea9781ca3a405dae
+      internalID: -1945934686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 860
+        width: 353
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f8bf429ec5144fb15618d736344e2
+      internalID: 1616595129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_3
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 965
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115fb2cb69514604cb89d9365755fc4f
+      internalID: -1432125662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_4
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 930
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ecd3c495062f44b9bf5386d09699fd
+      internalID: -1279297840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_5
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 892
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea796fc6c0bd4cf4c9c26f4885227d92
+      internalID: -1464504466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 858
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65ca6e825aa28a4fbd5be89743e8a7a
+      internalID: 2021700164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 629
+        width: 125
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a0466b53762e9408a024c44c8c33ae
+      internalID: -1057060823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 628
+        width: 171
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b4bbf7ec46944ba1990a5c37206b4
+      internalID: -740505611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 623
+        width: 106
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1c98b408dfd840bc656ab6d28df07
+      internalID: 1992913007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_10
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 576
+        width: 177
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c456c1c25bf9f40a4c4623f01a3588
+      internalID: -685808205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 576
+        width: 177
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2af9ee7866f244694c0a3d33aadbc5
+      internalID: 1338838759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 512
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df8ba54f2d7913458043291e28a7f59
+      internalID: 703967760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 512
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b77e9b9076fd724fbb1a997ef5ac8f3
+      internalID: -828577193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 512
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6006922f6dd651e4698becaffc4fc120
+      internalID: 1358640793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 512
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bccd6d01182e214e9d0544e0a5dcb81
+      internalID: -1980320580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 512
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf5b0d0ccc782f419d60e7794f488a8
+      internalID: -1874832424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 512
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40510ceaafb530e42a2faa7ecf92573f
+      internalID: 634336312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 512
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fff9cfa9a8ac6c4fa7131bb1d1f9741
+      internalID: 2136621310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_19
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 513
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6becfcdd407b1dc429383bfc41e1c5d2
+      internalID: 910451188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_20
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 512
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373ab848a42588b43a6ed53cd8b8a61f
+      internalID: -865816801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 365
+        width: 95
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae273a0e3baf7b741ae8da4d7454b248
+      internalID: 936473419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_22
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 365
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b670704db8293844acd1ae9f06c00f6
+      internalID: -2080881885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_23
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 364
+        width: 93
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed90a23c38aec64ea8b5811c7986cf6
+      internalID: 990902029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 467
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b0c9920e72204caeee95f9cea9b49
+      internalID: -478455946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 467
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137d6989c1043654590b943bcb018adb
+      internalID: 1428163748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 466
+        width: 168
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab8a8d8c634b34aaf0eb7d8e0148e5
+      internalID: -902441809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 467
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5403bc305269fb40b4e0d25b9582958
+      internalID: 1966385101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 466
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a850f8c710c9b44862cdea78f7e35b
+      internalID: -2062971907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_29
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 466
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ebeffea36401479848b807ca362c2
+      internalID: -1161863021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 366
+        width: 92
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925ef27d9e329b84e9c79fdea4c49cb9
+      internalID: -1329092384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_31
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 366
+        width: 93
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b4d1497ef1dd7449e4fdd5ac7a612b
+      internalID: -199270733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 430
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ad12180d2b20f4fad046925289a7e1
+      internalID: 1339651341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 430
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfafd99d2f1b2442b286755c0984dc9
+      internalID: -904015856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 429
+        width: 168
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8ffa2aa949354fbfde02b7477242e
+      internalID: -280637025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_35
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 429
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd07df4dcea73c478600650cdeef84f
+      internalID: -809808306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_36
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 428
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c355f4cab298d4a9ccd476f4f5df8e
+      internalID: -1736346477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_37
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 429
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1abae71a8b6aff42ad41bba81bb1c28
+      internalID: 600559236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 379
+        width: 115
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3335733d98f734083b63821ecd71fa
+      internalID: 1469130763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 376
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94809c6df7750f04e89c58e7ce674b0b
+      internalID: -1493789648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 372
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfc217eeeb6da743a570516c674f946
+      internalID: -891089210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_41
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 376
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bda5fc0f85f3874ea5cdf1e6954433f
+      internalID: 1065646871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 376
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cbf4ce0bb974f45a3119ca7f7beac1
+      internalID: 129805090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_43
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 376
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d8e3d194ae3d64d8f04c5152f84668
+      internalID: 1299438989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7363d08c87524634bbfac3db6fd42c51
+      internalID: 547293514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 312
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71903e316f0211e4f9758bbd4e977b05
+      internalID: -808530550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 312
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374c217b46ad5c544a2f6ca77ee3f579
+      internalID: -1641294736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 312
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebd9fadce9225f4b8205ffefaef1d7a
+      internalID: -256722766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 311
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92350f27d0cf0b45bb8039ad11f7638
+      internalID: 1988826192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 312
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828b040d210ce5f4ab6ccd31dbb45d55
+      internalID: 1245834357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_50
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 312
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f91e604b737359469e2e4cd629a1f36
+      internalID: -1586646584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_51
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 212
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f5b422d95bbc4dae93d1e87475b28
+      internalID: -1683141006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_52
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 212
+        width: 103
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce212634d930d0744baee589d9f73939
+      internalID: 501137176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_53
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 212
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c902bd096d64064aba767d1abfaa27f
+      internalID: 885645350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_54
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 213
+        width: 100
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b4ee85edf193c47b25550f1673c2b1
+      internalID: 67802960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_55
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 212
+        width: 96
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be0359146354384e957e97d9e2f80c8
+      internalID: 2076335989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_56
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 236
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2412e51d69160f4c8e98c9b3d9edfdb
+      internalID: -1699993714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 235
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e94da14ce88333469b42d9905976883
+      internalID: 85234278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 235
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884318db1ddb44041a5f797f1c52865b
+      internalID: -470746059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_59
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 236
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceed3c2c59b3e4a4eb29a00fdd546264
+      internalID: -286615502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_60
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 236
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14d6a7d2f941694ebb0ff416afa0f27
+      internalID: -713978579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_61
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 236
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41719b39a8c422c449fa643b594698fa
+      internalID: 1487263919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 199
+        width: 69
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9a3fb439d7bb74bbc52bbe2c3aa009
+      internalID: 984593837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_63
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 199
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038c7b6a20fa68443a56544eb5266c99
+      internalID: -438805362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 199
+        width: 69
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaff1d5d39ef3b428c55b6ad47651cf
+      internalID: 1514716852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 199
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c60282cb25c58a46b56f8affb66707b
+      internalID: 533044400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 199
+        width: 69
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bfd45cd34bdec498c3d8d001793a13
+      internalID: -2131360492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_67
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 199
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589a3d4acafe9a4dafd8f293a8ec63d
+      internalID: -666492371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_68
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 120
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3a44f621adc264eba67c13a946d22c
+      internalID: -638987803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_69
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 103
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b01be9468126041ab44f06a92e010e
+      internalID: -258043306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_70
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 105
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3b9895ea922a74a97cf8888dcd694c
+      internalID: -1137112877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_71
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 98
+        width: 44
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3610c0bfd9e2f4a8c84ab24634d796
+      internalID: 657359567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 162
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d73f4868bc4ee843937f406fcb60be9
+      internalID: -1097087039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_73
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 138
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c200695f1c590742811871c8b408b7e
+      internalID: -1072147094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_74
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a22cea9c71b3469e022614aadc379
+      internalID: 699616657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa258ad077f4b0d41b958b5a571b8ae5
+      internalID: -2096561899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 121
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd77dfef2c661648a141103dc49a4f8
+      internalID: 1051897490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_77
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 126
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97887ab696492844f8c3d81418b7778b
+      internalID: -1574879818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 151
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335388d1a870747449d3f813151394f0
+      internalID: 399439832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_79
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 137
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d93ca11c5739140bee2fc0a0d5bede
+      internalID: -524203988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_80
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 122
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a2e328ff6f69041a2c7db40ddc3df1
+      internalID: -140537447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_81
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 120
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23c4d139f006e4c951e060d0b103d0
+      internalID: -1617897986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_82
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 106
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1ae0f9e20b39f48888ce8504e129b2
+      internalID: -1283254596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_83
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 126
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc98caf623b9d074a8753327ee1781c5
+      internalID: -1104993665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_84
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 141
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccee743af4714f4f92291b51e7b10f1
+      internalID: 456340446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_85
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 123
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d264d898a3cd4e9efba3e6935c927
+      internalID: 569156775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_86
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 125
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7453d13bdd2a56548a6b28519a6aca4d
+      internalID: -140143161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_87
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 128
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a62b7b515c9364a9b0c697ccb4f148
+      internalID: 1982588674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 127
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81df4dca13c86446ad8dd45a254c05e
+      internalID: 120171223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_89
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 130
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e66e26a84380d49acea94044086aa5
+      internalID: -685529600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_90
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 13
+        width: 134
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fee2270ddb4cc4c872281a0ab2b0d4
+      internalID: 1309474024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_91
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 12
+        width: 127
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc35f6c26c848742a9e27763bb880c2
+      internalID: 754796153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_92
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 12
+        width: 131
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d14011326719e4ca6fcc0867dbfcca
+      internalID: 1605936543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 12
+        width: 138
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c4048f97258624385cc1b283bc2465
+      internalID: -34165873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_94
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 15
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d54a1c4a0b62e24f9060b025fcc77e2
+      internalID: -1093964097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_95
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 18
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b188b8457278f9142bf33aa3a745ef09
+      internalID: 1668102744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_96
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 19
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83277c0473a7d514eb431b3700c27d25
+      internalID: 616476921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopUiFurnitureShopTeaShop_97
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 16
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84251630859b75e418df46d6e6717c7c
+      internalID: 1292857363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f2efcd0ca7aa8644a9e3af9d83775502
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      shopUiFurnitureShopTeaShop_0: -226231801
+      shopUiFurnitureShopTeaShop_1: -1945934686
+      shopUiFurnitureShopTeaShop_10: -685808205
+      shopUiFurnitureShopTeaShop_11: 1338838759
+      shopUiFurnitureShopTeaShop_12: 703967760
+      shopUiFurnitureShopTeaShop_13: -828577193
+      shopUiFurnitureShopTeaShop_14: 1358640793
+      shopUiFurnitureShopTeaShop_15: -1980320580
+      shopUiFurnitureShopTeaShop_16: -1874832424
+      shopUiFurnitureShopTeaShop_17: 634336312
+      shopUiFurnitureShopTeaShop_18: 2136621310
+      shopUiFurnitureShopTeaShop_19: 910451188
+      shopUiFurnitureShopTeaShop_2: 1616595129
+      shopUiFurnitureShopTeaShop_20: -865816801
+      shopUiFurnitureShopTeaShop_21: 936473419
+      shopUiFurnitureShopTeaShop_22: -2080881885
+      shopUiFurnitureShopTeaShop_23: 990902029
+      shopUiFurnitureShopTeaShop_24: -478455946
+      shopUiFurnitureShopTeaShop_25: 1428163748
+      shopUiFurnitureShopTeaShop_26: -902441809
+      shopUiFurnitureShopTeaShop_27: 1966385101
+      shopUiFurnitureShopTeaShop_28: -2062971907
+      shopUiFurnitureShopTeaShop_29: -1161863021
+      shopUiFurnitureShopTeaShop_3: -1432125662
+      shopUiFurnitureShopTeaShop_30: -1329092384
+      shopUiFurnitureShopTeaShop_31: -199270733
+      shopUiFurnitureShopTeaShop_32: 1339651341
+      shopUiFurnitureShopTeaShop_33: -904015856
+      shopUiFurnitureShopTeaShop_34: -280637025
+      shopUiFurnitureShopTeaShop_35: -809808306
+      shopUiFurnitureShopTeaShop_36: -1736346477
+      shopUiFurnitureShopTeaShop_37: 600559236
+      shopUiFurnitureShopTeaShop_38: 1469130763
+      shopUiFurnitureShopTeaShop_39: -1493789648
+      shopUiFurnitureShopTeaShop_4: -1279297840
+      shopUiFurnitureShopTeaShop_40: -891089210
+      shopUiFurnitureShopTeaShop_41: 1065646871
+      shopUiFurnitureShopTeaShop_42: 129805090
+      shopUiFurnitureShopTeaShop_43: 1299438989
+      shopUiFurnitureShopTeaShop_44: 547293514
+      shopUiFurnitureShopTeaShop_45: -808530550
+      shopUiFurnitureShopTeaShop_46: -1641294736
+      shopUiFurnitureShopTeaShop_47: -256722766
+      shopUiFurnitureShopTeaShop_48: 1988826192
+      shopUiFurnitureShopTeaShop_49: 1245834357
+      shopUiFurnitureShopTeaShop_5: -1464504466
+      shopUiFurnitureShopTeaShop_50: -1586646584
+      shopUiFurnitureShopTeaShop_51: -1683141006
+      shopUiFurnitureShopTeaShop_52: 501137176
+      shopUiFurnitureShopTeaShop_53: 885645350
+      shopUiFurnitureShopTeaShop_54: 67802960
+      shopUiFurnitureShopTeaShop_55: 2076335989
+      shopUiFurnitureShopTeaShop_56: -1699993714
+      shopUiFurnitureShopTeaShop_57: 85234278
+      shopUiFurnitureShopTeaShop_58: -470746059
+      shopUiFurnitureShopTeaShop_59: -286615502
+      shopUiFurnitureShopTeaShop_6: 2021700164
+      shopUiFurnitureShopTeaShop_60: -713978579
+      shopUiFurnitureShopTeaShop_61: 1487263919
+      shopUiFurnitureShopTeaShop_62: 984593837
+      shopUiFurnitureShopTeaShop_63: -438805362
+      shopUiFurnitureShopTeaShop_64: 1514716852
+      shopUiFurnitureShopTeaShop_65: 533044400
+      shopUiFurnitureShopTeaShop_66: -2131360492
+      shopUiFurnitureShopTeaShop_67: -666492371
+      shopUiFurnitureShopTeaShop_68: -638987803
+      shopUiFurnitureShopTeaShop_69: -258043306
+      shopUiFurnitureShopTeaShop_7: -1057060823
+      shopUiFurnitureShopTeaShop_70: -1137112877
+      shopUiFurnitureShopTeaShop_71: 657359567
+      shopUiFurnitureShopTeaShop_72: -1097087039
+      shopUiFurnitureShopTeaShop_73: -1072147094
+      shopUiFurnitureShopTeaShop_74: 699616657
+      shopUiFurnitureShopTeaShop_75: -2096561899
+      shopUiFurnitureShopTeaShop_76: 1051897490
+      shopUiFurnitureShopTeaShop_77: -1574879818
+      shopUiFurnitureShopTeaShop_78: 399439832
+      shopUiFurnitureShopTeaShop_79: -524203988
+      shopUiFurnitureShopTeaShop_8: -740505611
+      shopUiFurnitureShopTeaShop_80: -140537447
+      shopUiFurnitureShopTeaShop_81: -1617897986
+      shopUiFurnitureShopTeaShop_82: -1283254596
+      shopUiFurnitureShopTeaShop_83: -1104993665
+      shopUiFurnitureShopTeaShop_84: 456340446
+      shopUiFurnitureShopTeaShop_85: 569156775
+      shopUiFurnitureShopTeaShop_86: -140143161
+      shopUiFurnitureShopTeaShop_87: 1982588674
+      shopUiFurnitureShopTeaShop_88: 120171223
+      shopUiFurnitureShopTeaShop_89: -685529600
+      shopUiFurnitureShopTeaShop_9: 1992913007
+      shopUiFurnitureShopTeaShop_90: 1309474024
+      shopUiFurnitureShopTeaShop_91: 754796153
+      shopUiFurnitureShopTeaShop_92: 1605936543
+      shopUiFurnitureShopTeaShop_93: -34165873
+      shopUiFurnitureShopTeaShop_94: -1093964097
+      shopUiFurnitureShopTeaShop_95: 1668102744
+      shopUiFurnitureShopTeaShop_96: 616476921
+      shopUiFurnitureShopTeaShop_97: 1292857363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

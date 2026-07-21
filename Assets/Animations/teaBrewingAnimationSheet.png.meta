@@ -1,0 +1,3076 @@
+fileFormatVersion: 2
+guid: 5aefc3b7c571212429b36fbb6e747829
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 996
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5005c398645274e884741e5777e996
+      internalID: -417594369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 995
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4264f4d1b460b44394755e4f19be2ae
+      internalID: -1329631760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 995
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc31ca839a79ab4383316048d6817df
+      internalID: -673706936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 995
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc181eb14217ea44bb4d7eac0780010
+      internalID: -56500666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 995
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1e12069004ca9409951c1f42ab7f52
+      internalID: 1435532385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 995
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e22d7ed38e764a4a9908f48fe0b0000
+      internalID: -469654885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_6
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 996
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8211901558036994db313ccef981f199
+      internalID: 341535131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_7
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 996
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dc93af695c64f40980c99e14732e75
+      internalID: 577893536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 950
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eabcbc7cae84e4ca62c7e57a6cbb66
+      internalID: 129229872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 873
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f7c5581b888da418920b65da225288
+      internalID: 379425224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 873
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5370298f533fa24a97812b67e19f7df
+      internalID: -453727805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 873
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de24b007c64f42041abd1dfa1b886aa0
+      internalID: -988559055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 873
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea6b0372bfb474bb0132e982d73ffd
+      internalID: -169297328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 873
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5494cd38a493944b4f4849de281b54
+      internalID: 914565756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_14
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 873
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2fd728c60d4f7418171aad92f522af
+      internalID: -1958939945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_15
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 873
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0055130adcdb061428b1e98d6e38d2fd
+      internalID: -1649124343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 844
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc9d9310032ab40bad8a9998a5fd0e
+      internalID: 1946496213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 844
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250f501647ea4064eade96a39ea92c44
+      internalID: -1277828447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 845
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66fa2244ac7bd84ea18c54b5b70f460
+      internalID: 1956337220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 845
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8182a08ce60f642ab1ac784c7cd389
+      internalID: 47210633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_20
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 845
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac167cfa17d8f4c9cae27422cc7504
+      internalID: 2132666659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_21
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 845
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3383de42c54f4694eb25d4a20180103e
+      internalID: 1606455981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_22
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 845
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16e25de4f0527645b3b64d6718e2cc6
+      internalID: 1312858942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_23
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 845
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa1bda67f6e734aaeeb011e005ec98
+      internalID: -1562405179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 806
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a857aa72a9685b74e9b830b3d5f624fe
+      internalID: -2129543501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 741
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba971736b9e27c84391dc40649e90c98
+      internalID: -505792673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 741
+        width: 113
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c9feb9a31f7c6459fd9bfc15e07188
+      internalID: -2039963708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 741
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bfcece846c49142b771f7d055b6402
+      internalID: 546853656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 741
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec2d5ad9b36cf14391fe0641ce07da3
+      internalID: -140976530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 741
+        width: 112
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d930b4a0a999e6d43b9792677657185e
+      internalID: 2137000003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_30
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 741
+        width: 112
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4dc20caba7f2c4c8e6da58224d347d
+      internalID: 920008983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_31
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 741
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23bdd3378c500a489f9d546511f139a
+      internalID: -298019709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 712
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0a2a427ab090459579232434c1728
+      internalID: 552106495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 712
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ecd9285607c748bba7e289d928bdf
+      internalID: 893802934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_34
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 712
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032c6cebd7d63874dafa0c53f518afe8
+      internalID: 1486945259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_35
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 713
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2569ffcaacfbe944870e065c2e69eb8
+      internalID: -1307873653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 713
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d125eb76e3e0f3340993b52e08355fe6
+      internalID: 2089972111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_37
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 713
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c85c0e07b448149a46035385de8f96
+      internalID: -958809621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_38
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 713
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c203c5efaac4df4ba0d8126b68f702e
+      internalID: 1224774990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_39
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 713
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16330e662539724ca1189c8362eb499
+      internalID: -1102558005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 679
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0a2fa90f9817e44a823337dd1a6d1b
+      internalID: -2112223416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_41
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 661
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf0de57ad5d7564a875a29a2a15c467
+      internalID: -1369059825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 640
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881c496b6c44ad4439aadbc70b876641
+      internalID: 201454897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 630
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457fdc59e2ff99740bc5f1b9f0b32c35
+      internalID: 1917449381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_44
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 651
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4ff2b19d795014db98e4666c71385c
+      internalID: 340466222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_45
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 683
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7152592f04d31468cb717f0835939e
+      internalID: 1898256689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_46
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 634
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0640552fd75b1064fbde5c1d9b8c1f22
+      internalID: 1009035447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_47
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 634
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc3a38000c321c478ca0607be02c334
+      internalID: -485087419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_48
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 638
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d801230a320459408ee22e783dcfbb4
+      internalID: -1226204153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_49
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 667
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e23b0f7a52158d46adcbf6e11fc4f80
+      internalID: 1376287768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_50
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 678
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da1afb82155d7a4d9f5aec6ddfcb3d3
+      internalID: -1802040518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_51
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 681
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e38c345ad521a4ab5ef96578efeec9
+      internalID: -1488826999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_52
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 663
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e6c19524d59c341a3508fc53bd0dfe
+      internalID: 26980282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_53
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 671
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4947ae0ac3e2a43b8e3cf4d2119f39
+      internalID: 1862952335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_54
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 652
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9612c68c882a3124692c52ef0b604380
+      internalID: 946481363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_55
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 676
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caccb8d301269154583f9a16f1395c8e
+      internalID: -784412038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 657
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef34ce08f9a82844a4ebffe8d818997
+      internalID: -1269097050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 641
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0bf71263962b746b84957d889a9e4e
+      internalID: 1608163869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_58
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 639
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd3dbf28afe4c649a846d83439ef368
+      internalID: -1146531831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 602
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea855c6ad53fd6b48a708b6df930f3f6
+      internalID: -793188892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_60
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 602
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c1d3d61e8a8c34a96079194b06caa5
+      internalID: -2104749213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_61
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 602
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5567d776510d746bc51e0046106ff0
+      internalID: -933925463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_62
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 602
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603af92164588c544be1a058c4dcfa8a
+      internalID: -1457753760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_63
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 603
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbcccb989245d445a211694d6355f59
+      internalID: 800515541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_64
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 603
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18b247768d073e429244c2ccdfd50a4
+      internalID: -1847461780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_65
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 603
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daae80e715b38124fa76d7e174526a38
+      internalID: -1786158484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_66
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 603
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9610fc8185ac134e8e92208380a1e65
+      internalID: -124811310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 571
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dacedb14726fa4ab4e0ce899c99851
+      internalID: -1655920839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 529
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ead686a5c6bcf4986aac1f3918e2f6
+      internalID: 1476179120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_69
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 529
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28954b74db8f574d88113a1b15c3e80
+      internalID: 1934560972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_70
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 529
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9584b81c7c8c4d43bd438a8375657af
+      internalID: -109664386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_71
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 529
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1fe88763674724d87a3a84f7b42aca
+      internalID: -646016052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_72
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 529
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1136239d00d06644fac5bc6338d719c8
+      internalID: 1831191837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_73
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 529
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315ab70692ef32941975d0493075da4b
+      internalID: 45794280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_74
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 529
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44065c168692ff945b82f291ca750eb7
+      internalID: -1940340695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_75
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 529
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b765799572daa1847bbcf35bef921fbb
+      internalID: 153417661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 405
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec376e6a50c254eb7408088e6370e5
+      internalID: -1286562604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 499
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfae05bb052e064ba9e871985280539
+      internalID: 546089566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 404
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a585e8ffc93204db9794ca4ed910af
+      internalID: -662329878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_79
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 498
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06e1ad84ae197e4e97dd226d2f6d966
+      internalID: -276769629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 405
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a14d6e769d9b442a822cc957b62ed3
+      internalID: -1123209919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_81
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 498
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ebf9309ec50194e94e961003139f5b
+      internalID: -838071155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_82
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 405
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fab7e6621d23de4da2aed1f1fcde11a
+      internalID: 1348977298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_83
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 498
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00aade917b63b242be6f1a32ba61066
+      internalID: -265508569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_84
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 405
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32370bd8cec07fc48ac14969221e172d
+      internalID: 1270329977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_85
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 498
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d6b92bac806884093d66a44054e0ea
+      internalID: -631983724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 469
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b3b786dd5f87d4f86d497db27166a3
+      internalID: 1052598968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 303
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43c094c58d0bd24ba6cef4bf477b327
+      internalID: -1332232850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 380
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367ee930a32fe89468297c818ddca920
+      internalID: -1600336309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_89
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 378
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b111c6218204baf499c106d12c385fd0
+      internalID: 1759460520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_90
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 377
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb33300657f86514bb74a22bd2bc53e6
+      internalID: -727975396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_91
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 378
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b042b0747b7a4a04aa5bc5979111d013
+      internalID: -599113645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_92
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 377
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b8568bb8b9d9a4c85e830bad2addba
+      internalID: -376482294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_93
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 346
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dea967b2fa65b4d96e4cfefd1b7106
+      internalID: 1713135612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 281
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63ec618d90168943b1a72a97c628246
+      internalID: -2134568885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_95
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 281
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2bf986a3abc3d42a8a2d336e47a679
+      internalID: -1995887905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_96
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 281
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f9f20aa2d5a374eb5d9a522f68deec
+      internalID: 1394607986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_97
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 281
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1b36fb7e240e849b39f500e4cfc207
+      internalID: -770261973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_98
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 172
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c051cdaf2e5934fb51ca6b11705346
+      internalID: 714481611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1e1070ff2aa7e428052809fa44c803
+      internalID: -907048559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_100
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 170
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550dbda0992fa85489daa01905fb44c5
+      internalID: 614316064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_101
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 254
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ebf817428900e4d902fcad2403079f
+      internalID: 153077456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_102
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 170
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5a4ec18de45cb4ca4d5f3c9525927f
+      internalID: 1034457921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_103
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 253
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012960f2cb289f54ca42f8d5591ab0b2
+      internalID: -4863995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_104
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 253
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb740050f5f744439dc33ff14fc1fdd
+      internalID: 1049129525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_105
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 169
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b91551530a4b4c9e1c4560ec9f38e
+      internalID: 774078613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_106
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 255
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb5dce0b2e56584ba9c5dda0bdb919b
+      internalID: -1861485766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_107
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 253
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5ecb73aaf45ec40a266f7bc0ecc647
+      internalID: 1959566135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_108
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 254
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f428e0bc73a5f541aae4b9af7c8a1f7
+      internalID: 526767965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_109
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 168
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ceefac2eb108047960a48bfd3e5cd2
+      internalID: 1083853929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_110
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 253
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba070e58b8aeff142a32e5409af5fb30
+      internalID: 7685335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_111
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9340de082fdcc4e90df264dd1d8212
+      internalID: 401286576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_112
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 170
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b20dd159e65a214ca54b323f91baa00
+      internalID: -1761575845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_113
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 169
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5677a1c1297374e9505cf4bebabd6c
+      internalID: 430411524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_114
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 168
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e571fb64ef6e6a045a59ab1fae57f5be
+      internalID: -1520079053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_115
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 139
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216420755c222e441b8e53e9e9921c8b
+      internalID: -1486283852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_116
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 136
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca205c1e95ef5dc448d048dddde77866
+      internalID: -26121924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_117
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 137
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad402ce588a7b64993c811672747801
+      internalID: 753641300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_118
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 137
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b9f8a5d5f7934f92b13a0c0b48cda
+      internalID: -1789638653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_119
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 136
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11e1d5688fa0e4799db2bfe9763e5c
+      internalID: -1741855471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_120
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 136
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1690ec30f0ad88408892b4e32d61166
+      internalID: -710931848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_121
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6dd75016bf6764cbbba78769c49fd9
+      internalID: 390235323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_122
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 26
+        width: 125
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47338cb42d6d5f4f9abdd38ae21a567
+      internalID: 2142729009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_123
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 24
+        width: 123
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c680d7b6d5bd4297cdde85e6e9302
+      internalID: 690300205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_124
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 21
+        width: 127
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303e0a04aa01d2645ada7397b5c72c39
+      internalID: -1437473977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_125
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 22
+        width: 126
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840fca99738aeb6498e8f28858edc905
+      internalID: 294974935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_126
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 22
+        width: 126
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f69f2e1a1375a4cb5adfcb318df973
+      internalID: -159947498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingAnimationSheet_127
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 23
+        width: 121
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcefab92a9c7394487276d39ea49ecc
+      internalID: -1129449726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7fff23d28859a2e4fb748aedf88f307e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      teaBrewingAnimationSheet_0: -417594369
+      teaBrewingAnimationSheet_1: -1329631760
+      teaBrewingAnimationSheet_10: -453727805
+      teaBrewingAnimationSheet_100: 614316064
+      teaBrewingAnimationSheet_101: 153077456
+      teaBrewingAnimationSheet_102: 1034457921
+      teaBrewingAnimationSheet_103: -4863995
+      teaBrewingAnimationSheet_104: 1049129525
+      teaBrewingAnimationSheet_105: 774078613
+      teaBrewingAnimationSheet_106: -1861485766
+      teaBrewingAnimationSheet_107: 1959566135
+      teaBrewingAnimationSheet_108: 526767965
+      teaBrewingAnimationSheet_109: 1083853929
+      teaBrewingAnimationSheet_11: -988559055
+      teaBrewingAnimationSheet_110: 7685335
+      teaBrewingAnimationSheet_111: 401286576
+      teaBrewingAnimationSheet_112: -1761575845
+      teaBrewingAnimationSheet_113: 430411524
+      teaBrewingAnimationSheet_114: -1520079053
+      teaBrewingAnimationSheet_115: -1486283852
+      teaBrewingAnimationSheet_116: -26121924
+      teaBrewingAnimationSheet_117: 753641300
+      teaBrewingAnimationSheet_118: -1789638653
+      teaBrewingAnimationSheet_119: -1741855471
+      teaBrewingAnimationSheet_12: -169297328
+      teaBrewingAnimationSheet_120: -710931848
+      teaBrewingAnimationSheet_121: 390235323
+      teaBrewingAnimationSheet_122: 2142729009
+      teaBrewingAnimationSheet_123: 690300205
+      teaBrewingAnimationSheet_124: -1437473977
+      teaBrewingAnimationSheet_125: 294974935
+      teaBrewingAnimationSheet_126: -159947498
+      teaBrewingAnimationSheet_127: -1129449726
+      teaBrewingAnimationSheet_13: 914565756
+      teaBrewingAnimationSheet_14: -1958939945
+      teaBrewingAnimationSheet_15: -1649124343
+      teaBrewingAnimationSheet_16: 1946496213
+      teaBrewingAnimationSheet_17: -1277828447
+      teaBrewingAnimationSheet_18: 1956337220
+      teaBrewingAnimationSheet_19: 47210633
+      teaBrewingAnimationSheet_2: -673706936
+      teaBrewingAnimationSheet_20: 2132666659
+      teaBrewingAnimationSheet_21: 1606455981
+      teaBrewingAnimationSheet_22: 1312858942
+      teaBrewingAnimationSheet_23: -1562405179
+      teaBrewingAnimationSheet_24: -2129543501
+      teaBrewingAnimationSheet_25: -505792673
+      teaBrewingAnimationSheet_26: -2039963708
+      teaBrewingAnimationSheet_27: 546853656
+      teaBrewingAnimationSheet_28: -140976530
+      teaBrewingAnimationSheet_29: 2137000003
+      teaBrewingAnimationSheet_3: -56500666
+      teaBrewingAnimationSheet_30: 920008983
+      teaBrewingAnimationSheet_31: -298019709
+      teaBrewingAnimationSheet_32: 552106495
+      teaBrewingAnimationSheet_33: 893802934
+      teaBrewingAnimationSheet_34: 1486945259
+      teaBrewingAnimationSheet_35: -1307873653
+      teaBrewingAnimationSheet_36: 2089972111
+      teaBrewingAnimationSheet_37: -958809621
+      teaBrewingAnimationSheet_38: 1224774990
+      teaBrewingAnimationSheet_39: -1102558005
+      teaBrewingAnimationSheet_4: 1435532385
+      teaBrewingAnimationSheet_40: -2112223416
+      teaBrewingAnimationSheet_41: -1369059825
+      teaBrewingAnimationSheet_42: 201454897
+      teaBrewingAnimationSheet_43: 1917449381
+      teaBrewingAnimationSheet_44: 340466222
+      teaBrewingAnimationSheet_45: 1898256689
+      teaBrewingAnimationSheet_46: 1009035447
+      teaBrewingAnimationSheet_47: -485087419
+      teaBrewingAnimationSheet_48: -1226204153
+      teaBrewingAnimationSheet_49: 1376287768
+      teaBrewingAnimationSheet_5: -469654885
+      teaBrewingAnimationSheet_50: -1802040518
+      teaBrewingAnimationSheet_51: -1488826999
+      teaBrewingAnimationSheet_52: 26980282
+      teaBrewingAnimationSheet_53: 1862952335
+      teaBrewingAnimationSheet_54: 946481363
+      teaBrewingAnimationSheet_55: -784412038
+      teaBrewingAnimationSheet_56: -1269097050
+      teaBrewingAnimationSheet_57: 1608163869
+      teaBrewingAnimationSheet_58: -1146531831
+      teaBrewingAnimationSheet_59: -793188892
+      teaBrewingAnimationSheet_6: 341535131
+      teaBrewingAnimationSheet_60: -2104749213
+      teaBrewingAnimationSheet_61: -933925463
+      teaBrewingAnimationSheet_62: -1457753760
+      teaBrewingAnimationSheet_63: 800515541
+      teaBrewingAnimationSheet_64: -1847461780
+      teaBrewingAnimationSheet_65: -1786158484
+      teaBrewingAnimationSheet_66: -124811310
+      teaBrewingAnimationSheet_67: -1655920839
+      teaBrewingAnimationSheet_68: 1476179120
+      teaBrewingAnimationSheet_69: 1934560972
+      teaBrewingAnimationSheet_7: 577893536
+      teaBrewingAnimationSheet_70: -109664386
+      teaBrewingAnimationSheet_71: -646016052
+      teaBrewingAnimationSheet_72: 1831191837
+      teaBrewingAnimationSheet_73: 45794280
+      teaBrewingAnimationSheet_74: -1940340695
+      teaBrewingAnimationSheet_75: 153417661
+      teaBrewingAnimationSheet_76: -1286562604
+      teaBrewingAnimationSheet_77: 546089566
+      teaBrewingAnimationSheet_78: -662329878
+      teaBrewingAnimationSheet_79: -276769629
+      teaBrewingAnimationSheet_8: 129229872
+      teaBrewingAnimationSheet_80: -1123209919
+      teaBrewingAnimationSheet_81: -838071155
+      teaBrewingAnimationSheet_82: 1348977298
+      teaBrewingAnimationSheet_83: -265508569
+      teaBrewingAnimationSheet_84: 1270329977
+      teaBrewingAnimationSheet_85: -631983724
+      teaBrewingAnimationSheet_86: 1052598968
+      teaBrewingAnimationSheet_87: -1332232850
+      teaBrewingAnimationSheet_88: -1600336309
+      teaBrewingAnimationSheet_89: 1759460520
+      teaBrewingAnimationSheet_9: 379425224
+      teaBrewingAnimationSheet_90: -727975396
+      teaBrewingAnimationSheet_91: -599113645
+      teaBrewingAnimationSheet_92: -376482294
+      teaBrewingAnimationSheet_93: 1713135612
+      teaBrewingAnimationSheet_94: -2134568885
+      teaBrewingAnimationSheet_95: -1995887905
+      teaBrewingAnimationSheet_96: 1394607986
+      teaBrewingAnimationSheet_97: -770261973
+      teaBrewingAnimationSheet_98: 714481611
+      teaBrewingAnimationSheet_99: -907048559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

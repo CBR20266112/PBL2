@@ -1,0 +1,4134 @@
+fileFormatVersion: 2
+guid: fa9e3c8dfa5dfc1478d3b4092b253b79
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: countryFurnitureCollection_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 941
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1c04f794c11e541bc05cb684e0d221
+      internalID: 335297199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 915
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed36c89a8ac9574bb1e23898de3d39e
+      internalID: -2061472114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 939
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828d6c01dde909b42b54ac56f690a927
+      internalID: -31096216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 918
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5a46371b79c544a908d0ae87ad6f19
+      internalID: 387891262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 940
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51857c95da2bc534ca512295873ce0ec
+      internalID: -137520808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 927
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7611180d1f628478a2de9fb4c56521
+      internalID: 1916700417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 923
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b624109649996e408936f6f85cc3791
+      internalID: 148052513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 923
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bfe0776652d8f418dce26fa3833b8c
+      internalID: -1988973831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 925
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167befe58ce804b4b8e1968732eee997
+      internalID: 904322625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 926
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a6db927c89277449dd5d789ad1c3f6
+      internalID: -1355049849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 926
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c11d789f3990b742ad02734fe250f52
+      internalID: -305700645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 924
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cd32afafb49dd418be3534cf4f47f1
+      internalID: -1213101067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_12
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 934
+        width: 27
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ff471e29beb647b30082a9c0ddcc9
+      internalID: -748198875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_13
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 926
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bd778a8396a514b874f6c9b92b0135
+      internalID: 821628262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_14
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 931
+        width: 33
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe7c21d84d97f41b0a2090b5509a0b
+      internalID: 591553254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_15
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 924
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14c61650cac0eb46b51c988507a023e
+      internalID: 1666000093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_16
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 924
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef42c3be3cc9a84abf57ec745054f3e
+      internalID: -1509915744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_17
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 930
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ad6a43200dec2499e3769ff183bef2
+      internalID: 2009997433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 842
+        width: 116
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744381fc0e4c29f46b1d1a0f168e3290
+      internalID: -258066924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 855
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50763804c8e0274b90e5db797dfe49f
+      internalID: -1711438003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 855
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b7aa9a12019174c82a50d695b18760
+      internalID: -747007076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 859
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ffdc6f793de34f913a7674dba30e2
+      internalID: 88999497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 864
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca68f234879d58547a15455103c599ec
+      internalID: -848472697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_23
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 846
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6975ed203079a41ac81d63ce8b52e5
+      internalID: 834678270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 840
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04319d14af1a6f43837ded8e4a8a7eb
+      internalID: 480388460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_25
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 844
+        width: 135
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb92667a97a5c544587bd0077b50437e
+      internalID: 198117459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 845
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a2ef3c710ec1a47b489c1e4bc342b4
+      internalID: -716933131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_27
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 844
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41415d7d327f457479d2028e3255182a
+      internalID: -278830113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_28
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 847
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ad5b9b9ae80044e82b67abef61d95e
+      internalID: -86374140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_29
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 847
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74076e2dcef6bbc4b9aec2054368118a
+      internalID: -2043626652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_30
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 843
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecd3a7450703254c8725dc7d769c177
+      internalID: 47841128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_31
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 850
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650dce7452158f6448d962ea684625ff
+      internalID: 352639737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 757
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcafc1094c5aa44680d165075de93fd
+      internalID: -1302464467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 739
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d29f40258a0b1409dabe4febff37ef
+      internalID: -903242904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 760
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0134c12bfdc734293e21722faf0b1c
+      internalID: -854256556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_35
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 737
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7613109daa37f174d82cbfe0de0aef99
+      internalID: 461084029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 758
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b301bcb99bf849992fcb2753d06c6
+      internalID: -1677163417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_37
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 752
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d9745948d7b2646b6987744e6e0a95
+      internalID: -118677873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_38
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 743
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d59699408dd5b94baa3bc09f722c222
+      internalID: -18836470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_39
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 745
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544e5f399db282a40877b4a1f210256c
+      internalID: -38118857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_40
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 741
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deb8d2b5b30f4a4d9cad4cae2ef5029
+      internalID: -1318790735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_41
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 746
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1487b7b29c60b2a42b497af0470d7b55
+      internalID: 1174166458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_42
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 743
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db484457cc3f80948a1e5a2b3a1836de
+      internalID: -152720762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_43
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 743
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f91dc6c156de747ae27cd95df68c25
+      internalID: 1582605835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_44
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 749
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa8866e87df41647aa2f5009e60fbae
+      internalID: -896572752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_45
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 748
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0f393c2cf3eff4894ddc755bc1a382
+      internalID: -141531359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_46
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 751
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9294641c344740e44a083d8b4ecce8f2
+      internalID: -1027850026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_47
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 745
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da5e14f4881dfb4aa293557179ec9bf
+      internalID: -1448401773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_48
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 743
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043466a31d2962542b2546e787d09897
+      internalID: -8608933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_49
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 746
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e6f52fb7194cb4997f9c446346759d
+      internalID: 1688096323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 654
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78dc83c1e7f51b419f1ad0deebd24c1
+      internalID: 931170309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 661
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ee395841a81e74b96c7a63020f4edc
+      internalID: -1560578071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 664
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dbda0d9c7cebd4dbb6aec8d00d1e72
+      internalID: 177663471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 673
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013e0c1385aeec54ab3d13e77fdf6c62
+      internalID: -1691962659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_54
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 671
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a57f8856d04274793159a9a64359b5
+      internalID: 1697524007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_55
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 655
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8beaa5dc9607945b5134d0f80c59b7
+      internalID: -1541052829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_56
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 648
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf0f4a3e55b6e64585355a50893241d
+      internalID: 154066668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_57
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 654
+        width: 143
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f865c4f7013ff41aa569ab7510956c
+      internalID: 1877336403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_58
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 650
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd0008490db3247a0201769aa559c1
+      internalID: -663260006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_59
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 654
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb447df84cec504a91f063dbadcfce7
+      internalID: 153849243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_60
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 652
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec70ccca1eeb84b9ce9807cd902175
+      internalID: 1310133792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_61
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 658
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426486f6ea370cf4aae1fc71e418493d
+      internalID: 1123388918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_62
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 653
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcd8d69d3e9d8e448ae4f65c6abb4f1
+      internalID: -1260516767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_63
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 658
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f1ff119884f4e42930b6ffc40649f1
+      internalID: -1524662685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 572
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f923124bdc264e89c032fb92b365e
+      internalID: 1993974326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_65
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 552
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c2932b5a7ac424cbe8f08b70649cdc
+      internalID: 242184267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 576
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7882403fc72e3344a8a223013def677
+      internalID: 903374696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 553
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc70ca977bc5df74b8b79715d71c4765
+      internalID: -348812770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_68
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 575
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf83f1519a33249b6bd054ae27292b
+      internalID: -436474889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_69
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 558
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9433d4ec1b9515a46b156d8dc501562a
+      internalID: 918899526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_70
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 552
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bd3a152eec178449ac726de028eb50
+      internalID: 4758508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_71
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 551
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594b4639df7932b45aead892753f2dd8
+      internalID: 95184466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_72
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 553
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ab7e8ae0d9434eb90ce78f45a569c
+      internalID: 962684858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_73
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 549
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399468f22fec8ba488df33bf547e5c60
+      internalID: 2104512112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_74
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 548
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba7b738f6b26914bbce59a7c55976f9
+      internalID: -1913230842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_75
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 551
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95fb7e82c2a9014f8fb57048fff0b7a
+      internalID: -1743022318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_76
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 559
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1474895e587274744859a38283e0a9d1
+      internalID: -332529660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_77
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 557
+        width: 32
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef7f4a2434bbb4dbb65a24e9d24761
+      internalID: -233273864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_78
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 559
+        width: 31
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e568f4d9b115d458ad0ff16af33666
+      internalID: -451749629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_79
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 555
+        width: 43
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc7ea806dc6f9b4dbfe725451d6588a
+      internalID: -1014818866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_80
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 549
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4faae3bc2a71d44abe219260725550
+      internalID: -360957143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 464
+        width: 118
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9401f95202a0fc54484ee67d97f85c0b
+      internalID: -1691541272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_82
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 467
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64728a431a5f4454cb744c83f7aab36e
+      internalID: -233460180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_83
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 473
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b66c132474ff4cb0bcdc482d63d64
+      internalID: 801250184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_84
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 481
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f4d603f9e22b488092fb723afa2d5
+      internalID: 1708539463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_85
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 476
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d79cc9e921364d4e955d1ac6304b55c
+      internalID: 728769806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_86
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 462
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c472a5d80e8e45b4a894daaee1511166
+      internalID: -34148656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_87
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 453
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dfae7def21c974f80dcc344fd532bc
+      internalID: 665259387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_88
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 461
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a926fa7eb41b6249b45fccaa5344abc
+      internalID: -1321414271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_89
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 463
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f8ddaab3ec474c9dce7738a7cef84
+      internalID: -946046587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_90
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 460
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034b53846e7482741813bea7fae376ad
+      internalID: -2145242436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_91
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 462
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9412d28526a0fa4498949fd624e77e8c
+      internalID: -1566900040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_92
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 465
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1bb6b3b8b93d64b85ef65f8ba27a86
+      internalID: 823449464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_93
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 458
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7623ec18b28a2434f86ffbd99c19111e
+      internalID: -1800455654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_94
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 462
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbb7353e3f28674b961bef8d9c2e1b9
+      internalID: 1513947199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 347
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ddea5782af9c54d8ffc86f0c863c71
+      internalID: 44364972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_96
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 369
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2a1706b0a2eb43be6b7a3dfaf2eba
+      internalID: -991926593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_97
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 344
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741c4c8d80b872e4697961cb94e34694
+      internalID: 1873383588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_98
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 368
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846496912293b8340b5d2ea826c54c87
+      internalID: 507870056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_99
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 359
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7122978c9ebad5f439f62e9fd5cdd5b6
+      internalID: -270886168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_100
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 352
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30628720897d5a646a24a46b1a1cf045
+      internalID: 1030971696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_101
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 348
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3413f985f785f94e94a693bf9403bf5
+      internalID: 435593568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_102
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 352
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d786d6108be8b4aaed606e12677653
+      internalID: -1336965245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_103
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 346
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7fad21f40e3654e903a0f7bd67e61b
+      internalID: 1428689618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_104
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 351
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e765e51eb3fcb8f4195e56040f5b0b17
+      internalID: 546135672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_105
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 353
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119bf9035398cb347ac3fd51539dcb87
+      internalID: -1022500714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_106
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 360
+        width: 24
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e880441f3c7df764c8c6f2cda1829370
+      internalID: -1728417853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_107
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 356
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca09f97561df7446b9d041a74d91c63
+      internalID: 1620325638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_108
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 362
+        width: 29
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45737bd79bd69f49b5841bbb5cfaad5
+      internalID: -1398826715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_109
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 360
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c50ad49b5331654ca2326345dab8649
+      internalID: -2008527371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_110
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 354
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb988f3f04fb3e41b2e6eb331dc0531
+      internalID: 782493546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_111
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 355
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335304d80fd94aa49926a5b309bffeb4
+      internalID: 1735552938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 253
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17cbdd310946354a8b30e56085974f6
+      internalID: 898487833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_113
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 263
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a9fdc161c80a341bbbe13afa0327e6
+      internalID: 2028051355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_114
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 270
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653967fb640f50345bb0330b53a3b33d
+      internalID: 1272293020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 273
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c451174c0ef444942c7af77aeb976
+      internalID: -1196680741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_116
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 271
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c71f1419a28d934587069291b1592de
+      internalID: 1674587238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_117
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 254
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a364f2f7e5d97e4f9dea8aec4b98320
+      internalID: -413618396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_118
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 248
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f2b85091c098408ada3bf11f2fb80
+      internalID: -30641989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_119
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 254
+        width: 132
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb40438cc36532549a04de8979b0ab7f
+      internalID: -149298059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_120
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 254
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15189dff2012fa4d861fa8e9b6c8cd1
+      internalID: -638183423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_121
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 257
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7f6011dd7c168409dc246bbc94c3f8
+      internalID: -693361594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_122
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 268
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9aeab837ed15e478e2f0a2108ee018
+      internalID: 1623056888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_123
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 259
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f30737812acc246947c15d7ed8829f
+      internalID: 1326095816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_124
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 254
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4128354f902f078448294be74c8c8714
+      internalID: -1069678195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_125
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 255
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f954b2fa43ea9cc4cad6b96c9b977845
+      internalID: 2033094994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_126
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 170
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49b05e656f2de0498e5c063e1274eea
+      internalID: -567207537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_127
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 149
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e1788a2e9b66049a312153d88812e1
+      internalID: 1438134918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_128
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 169
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd6f230a25d8aa4aac0ed456aa952de
+      internalID: -1308684693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 148
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0980f6d3330a4894f9366cd0bcfdaae6
+      internalID: 895299571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_130
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 168
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c743cc75cecb4c8960926a671622a
+      internalID: 1286730205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_131
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 155
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae96ea62ba81ad749bd0572d82d94bf1
+      internalID: -1102685388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_132
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 150
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671358fd275e13b4ab2e21ad9e7275cc
+      internalID: -518228601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_133
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 150
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60126d8ed5b1f714faae6f1cd27c65bd
+      internalID: 1820995029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_134
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 154
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8304bbbe7f7296d449b9b7d624317965
+      internalID: 364080585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_135
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 150
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d94b54ccef8f4cbfb96768e91798f
+      internalID: -1243241220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_136
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 148
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c987f6d788b87034a895619c869975fd
+      internalID: -134551442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_137
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 144
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7723aa698967c77459ffaac999fdef1a
+      internalID: -1752081437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_138
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 153
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3308219103b3cd4181c29f4dbd0a290
+      internalID: 707079640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_139
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 151
+        width: 31
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d7b2f02980f2a459ebdbb58439f92d
+      internalID: 446651992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_140
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 156
+        width: 29
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140202b8131af642bed6b285d8a1ef7
+      internalID: -577959104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_141
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 148
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15bd7c5fc54f874387f090b31f859be
+      internalID: 2055119780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_142
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 147
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae119a22d1c9b7b4abf761affa806f79
+      internalID: -152272870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_143
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 147
+        width: 45
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8638d51c95b47f41a8d0056f70a4412
+      internalID: -966519676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235d757a4e124284cbceb3f7768e8667
+      internalID: 1100666437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_145
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 68
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6fd34ce3e8424d99ff71ccc796723
+      internalID: 272257716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_146
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 68
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d5b6adf874b624c994c7fc0e997b44
+      internalID: 541849893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_147
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 74
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916e14367879db44280ae1f7b9c3e13b
+      internalID: 2120018787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_148
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 72
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06b926a374458f4596a71d671dbc860
+      internalID: 792546614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_149
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 57
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bd322dd00cc174e83a6157f5fe4e9d
+      internalID: -374915052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_150
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 57
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060f7f060ec22f5448283ceae0bf4807
+      internalID: 1311667642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_151
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 67
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0749e61cf68fa547808559080913331
+      internalID: -1464243668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_152
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 64
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462572c0fbcbb0f4e9692d3ab6ca8ff7
+      internalID: 1551779350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_153
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 59
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f6d1cae3179044baaa1a177beb4b83
+      internalID: 516403351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_154
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 69
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3acbbcb5df0784f970de91db99c253
+      internalID: 1042054040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_155
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 67
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af392f95fec21f643a3845dd6eb7ba89
+      internalID: -510161868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_156
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 58
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91784c5f1df2bc46a7587ef078bb194
+      internalID: 1404108621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_157
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 55
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63873656bd22d6a4e87f709fcc318332
+      internalID: 1021650223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_158
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 57
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a6446ae95f5d14cb62adb4ef562a24
+      internalID: -1362102400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_159
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd37fd2e2c6f84c9aba03b44bdb087
+      internalID: 2106659414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_160
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e218f6b00fc2f643ae5cda48dad18b5
+      internalID: 1757672361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_161
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 10
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f356636e867adf4c816e95d3ca35c8d
+      internalID: 838783158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_162
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 11
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f7161b5131db4199e9572a21136b0
+      internalID: 1720445846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_163
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 10
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f40d5a119b92d4f963c185c90f326f
+      internalID: 2088146602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_164
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 11
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345cb6f726a7fc441a04e00c11a12681
+      internalID: 1623288177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_165
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 9
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7a306dffcc641459d6cb64a1d136d5
+      internalID: -913282141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_166
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 5
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09521b9467480d949b9c96a357d2671d
+      internalID: -1770591074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_167
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 7
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c5ae1cbe6dbf647867052bf931dad2
+      internalID: 94662972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_168
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 10
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a87e2fd9ee8754eac1b26da7255023
+      internalID: 1250789009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_169
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8879d2ce9b648a94ba366af8e2ff1ceb
+      internalID: 183146896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_170
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 5
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1b58890bcbb474fbbafb56e5af72a5
+      internalID: 481542549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_171
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 10
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e861e09b5aad864ba28d5a671cfa3e5
+      internalID: -1078727418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_172
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 12
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47852c15e264c524fa2dff0226e9c156
+      internalID: 990257643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countryFurnitureCollection_173
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 11
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5566be2c19a529a439f5da5ab3f65896
+      internalID: -1467965684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b30c88f7941576c41ae10a839cd08ada
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      countryFurnitureCollection_0: 335297199
+      countryFurnitureCollection_1: -2061472114
+      countryFurnitureCollection_10: -305700645
+      countryFurnitureCollection_100: 1030971696
+      countryFurnitureCollection_101: 435593568
+      countryFurnitureCollection_102: -1336965245
+      countryFurnitureCollection_103: 1428689618
+      countryFurnitureCollection_104: 546135672
+      countryFurnitureCollection_105: -1022500714
+      countryFurnitureCollection_106: -1728417853
+      countryFurnitureCollection_107: 1620325638
+      countryFurnitureCollection_108: -1398826715
+      countryFurnitureCollection_109: -2008527371
+      countryFurnitureCollection_11: -1213101067
+      countryFurnitureCollection_110: 782493546
+      countryFurnitureCollection_111: 1735552938
+      countryFurnitureCollection_112: 898487833
+      countryFurnitureCollection_113: 2028051355
+      countryFurnitureCollection_114: 1272293020
+      countryFurnitureCollection_115: -1196680741
+      countryFurnitureCollection_116: 1674587238
+      countryFurnitureCollection_117: -413618396
+      countryFurnitureCollection_118: -30641989
+      countryFurnitureCollection_119: -149298059
+      countryFurnitureCollection_12: -748198875
+      countryFurnitureCollection_120: -638183423
+      countryFurnitureCollection_121: -693361594
+      countryFurnitureCollection_122: 1623056888
+      countryFurnitureCollection_123: 1326095816
+      countryFurnitureCollection_124: -1069678195
+      countryFurnitureCollection_125: 2033094994
+      countryFurnitureCollection_126: -567207537
+      countryFurnitureCollection_127: 1438134918
+      countryFurnitureCollection_128: -1308684693
+      countryFurnitureCollection_129: 895299571
+      countryFurnitureCollection_13: 821628262
+      countryFurnitureCollection_130: 1286730205
+      countryFurnitureCollection_131: -1102685388
+      countryFurnitureCollection_132: -518228601
+      countryFurnitureCollection_133: 1820995029
+      countryFurnitureCollection_134: 364080585
+      countryFurnitureCollection_135: -1243241220
+      countryFurnitureCollection_136: -134551442
+      countryFurnitureCollection_137: -1752081437
+      countryFurnitureCollection_138: 707079640
+      countryFurnitureCollection_139: 446651992
+      countryFurnitureCollection_14: 591553254
+      countryFurnitureCollection_140: -577959104
+      countryFurnitureCollection_141: 2055119780
+      countryFurnitureCollection_142: -152272870
+      countryFurnitureCollection_143: -966519676
+      countryFurnitureCollection_144: 1100666437
+      countryFurnitureCollection_145: 272257716
+      countryFurnitureCollection_146: 541849893
+      countryFurnitureCollection_147: 2120018787
+      countryFurnitureCollection_148: 792546614
+      countryFurnitureCollection_149: -374915052
+      countryFurnitureCollection_15: 1666000093
+      countryFurnitureCollection_150: 1311667642
+      countryFurnitureCollection_151: -1464243668
+      countryFurnitureCollection_152: 1551779350
+      countryFurnitureCollection_153: 516403351
+      countryFurnitureCollection_154: 1042054040
+      countryFurnitureCollection_155: -510161868
+      countryFurnitureCollection_156: 1404108621
+      countryFurnitureCollection_157: 1021650223
+      countryFurnitureCollection_158: -1362102400
+      countryFurnitureCollection_159: 2106659414
+      countryFurnitureCollection_16: -1509915744
+      countryFurnitureCollection_160: 1757672361
+      countryFurnitureCollection_161: 838783158
+      countryFurnitureCollection_162: 1720445846
+      countryFurnitureCollection_163: 2088146602
+      countryFurnitureCollection_164: 1623288177
+      countryFurnitureCollection_165: -913282141
+      countryFurnitureCollection_166: -1770591074
+      countryFurnitureCollection_167: 94662972
+      countryFurnitureCollection_168: 1250789009
+      countryFurnitureCollection_169: 183146896
+      countryFurnitureCollection_17: 2009997433
+      countryFurnitureCollection_170: 481542549
+      countryFurnitureCollection_171: -1078727418
+      countryFurnitureCollection_172: 990257643
+      countryFurnitureCollection_173: -1467965684
+      countryFurnitureCollection_18: -258066924
+      countryFurnitureCollection_19: -1711438003
+      countryFurnitureCollection_2: -31096216
+      countryFurnitureCollection_20: -747007076
+      countryFurnitureCollection_21: 88999497
+      countryFurnitureCollection_22: -848472697
+      countryFurnitureCollection_23: 834678270
+      countryFurnitureCollection_24: 480388460
+      countryFurnitureCollection_25: 198117459
+      countryFurnitureCollection_26: -716933131
+      countryFurnitureCollection_27: -278830113
+      countryFurnitureCollection_28: -86374140
+      countryFurnitureCollection_29: -2043626652
+      countryFurnitureCollection_3: 387891262
+      countryFurnitureCollection_30: 47841128
+      countryFurnitureCollection_31: 352639737
+      countryFurnitureCollection_32: -1302464467
+      countryFurnitureCollection_33: -903242904
+      countryFurnitureCollection_34: -854256556
+      countryFurnitureCollection_35: 461084029
+      countryFurnitureCollection_36: -1677163417
+      countryFurnitureCollection_37: -118677873
+      countryFurnitureCollection_38: -18836470
+      countryFurnitureCollection_39: -38118857
+      countryFurnitureCollection_4: -137520808
+      countryFurnitureCollection_40: -1318790735
+      countryFurnitureCollection_41: 1174166458
+      countryFurnitureCollection_42: -152720762
+      countryFurnitureCollection_43: 1582605835
+      countryFurnitureCollection_44: -896572752
+      countryFurnitureCollection_45: -141531359
+      countryFurnitureCollection_46: -1027850026
+      countryFurnitureCollection_47: -1448401773
+      countryFurnitureCollection_48: -8608933
+      countryFurnitureCollection_49: 1688096323
+      countryFurnitureCollection_5: 1916700417
+      countryFurnitureCollection_50: 931170309
+      countryFurnitureCollection_51: -1560578071
+      countryFurnitureCollection_52: 177663471
+      countryFurnitureCollection_53: -1691962659
+      countryFurnitureCollection_54: 1697524007
+      countryFurnitureCollection_55: -1541052829
+      countryFurnitureCollection_56: 154066668
+      countryFurnitureCollection_57: 1877336403
+      countryFurnitureCollection_58: -663260006
+      countryFurnitureCollection_59: 153849243
+      countryFurnitureCollection_6: 148052513
+      countryFurnitureCollection_60: 1310133792
+      countryFurnitureCollection_61: 1123388918
+      countryFurnitureCollection_62: -1260516767
+      countryFurnitureCollection_63: -1524662685
+      countryFurnitureCollection_64: 1993974326
+      countryFurnitureCollection_65: 242184267
+      countryFurnitureCollection_66: 903374696
+      countryFurnitureCollection_67: -348812770
+      countryFurnitureCollection_68: -436474889
+      countryFurnitureCollection_69: 918899526
+      countryFurnitureCollection_7: -1988973831
+      countryFurnitureCollection_70: 4758508
+      countryFurnitureCollection_71: 95184466
+      countryFurnitureCollection_72: 962684858
+      countryFurnitureCollection_73: 2104512112
+      countryFurnitureCollection_74: -1913230842
+      countryFurnitureCollection_75: -1743022318
+      countryFurnitureCollection_76: -332529660
+      countryFurnitureCollection_77: -233273864
+      countryFurnitureCollection_78: -451749629
+      countryFurnitureCollection_79: -1014818866
+      countryFurnitureCollection_8: 904322625
+      countryFurnitureCollection_80: -360957143
+      countryFurnitureCollection_81: -1691541272
+      countryFurnitureCollection_82: -233460180
+      countryFurnitureCollection_83: 801250184
+      countryFurnitureCollection_84: 1708539463
+      countryFurnitureCollection_85: 728769806
+      countryFurnitureCollection_86: -34148656
+      countryFurnitureCollection_87: 665259387
+      countryFurnitureCollection_88: -1321414271
+      countryFurnitureCollection_89: -946046587
+      countryFurnitureCollection_9: -1355049849
+      countryFurnitureCollection_90: -2145242436
+      countryFurnitureCollection_91: -1566900040
+      countryFurnitureCollection_92: 823449464
+      countryFurnitureCollection_93: -1800455654
+      countryFurnitureCollection_94: 1513947199
+      countryFurnitureCollection_95: 44364972
+      countryFurnitureCollection_96: -991926593
+      countryFurnitureCollection_97: 1873383588
+      countryFurnitureCollection_98: 507870056
+      countryFurnitureCollection_99: -270886168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

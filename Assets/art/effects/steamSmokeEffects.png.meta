@@ -1,0 +1,4226 @@
+fileFormatVersion: 2
+guid: d49876bb5c3620647b1f953c8d91a493
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: steamSmokeEffects_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 885
+        width: 14
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d107eb6cb6827147ab86f382b9cbefe
+      internalID: -1300630547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 951
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215ba0a5864c8d44bb7cb8d1b240787e
+      internalID: -2080459514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 950
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e7ad095bd1a147b59e375d81fffb5
+      internalID: 1849436477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 951
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb90e0299ebc98944bbf1e13b3d74938
+      internalID: 1019768688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 950
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eb7496f1f1ecd42b40e21542d1cd7a
+      internalID: -122470083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_5
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 950
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c8d30055d15924495f29680e92c84a
+      internalID: 409246875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 962
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c42173821e3b3c449c816f5a534ad4e
+      internalID: 75252604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_7
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 961
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbf99f7af1dae94fba6152ce7341a0b
+      internalID: -1712278289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_8
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 951
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cd86abb9b44ab4aae40f90ca1ef07e
+      internalID: -46160954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 861
+        width: 89
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17215b1cb8c724948aba66f2d2369193
+      internalID: 817126323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 951
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1155432a244854783e3cb6f5bb21d2
+      internalID: 1564907915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 956
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea4f5f635d899a4788318d8d570f2f9
+      internalID: 1100178323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 873
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e58cf0054d87544986c7ef3ff58b9c
+      internalID: 72066047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 875
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b42bd6c60dae5b4eaaea8bdfbb86be0
+      internalID: 1269120286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 888
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506ec2e1eb7ff354298ff93d8721bfa9
+      internalID: -1946331627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 874
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32de1a82a7ffb6944925deba8d2e338d
+      internalID: -86994191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 886
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f065061a708654782a6e4fe8540dba
+      internalID: -526803440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 883
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d0c407fa515a54cbc919d6338e9022
+      internalID: -1575787265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 890
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192627759440b8f4684e863e7a037ee9
+      internalID: 279459517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 880
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec1c0cc55288344282fa87844ce727e
+      internalID: 2138712896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 859
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3793246e0ba2b884ba097343b9e2fa24
+      internalID: 151137483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 874
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4402c2a5ea97a0d4ab6b192127bd6acb
+      internalID: -186321926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 859
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761154e164cb36d40a1dc27c95c10720
+      internalID: -1958192260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 859
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bd51c9039326e4385f2a4c469c6d6f
+      internalID: 377974625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 877
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8759b226888f7c241929f35148fcaf3f
+      internalID: 455733449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 859
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f319c31bcb79440bbf23a8318c668d
+      internalID: -221294349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 858
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b9e709c2d65dd4abbabd311f60a8d0
+      internalID: 1394103862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 876
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d8f1b3d4c5c464b9821f7f530910f5
+      internalID: 335371115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 859
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6831067600f7e54abb80a96cc1ce052
+      internalID: -1829709798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 871
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d318ba7ad9f09fc4584d82255462b30c
+      internalID: 2027859512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 876
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead00536a089bdb47b8d99fd23ad14b4
+      internalID: 2058624365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_31
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 859
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6defca56a5ed869469f62727890f661f
+      internalID: 45270050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_32
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 859
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f17610800a2e84c85325fe4a95aa98
+      internalID: -2124233595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 864
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfa3d660732794a847b7ebbcd0edd6
+      internalID: -1122229659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 687
+        width: 63
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0281faae69dca7643a7ecc80d8d0a7e3
+      internalID: 577593716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 766
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdcef6be1605214283e03039bce2c6e
+      internalID: -1370550624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 821
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d4bddeb4449ce43bef37c601295874
+      internalID: -460854147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 827
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd29796983454f244bc1067dcb88e4f4
+      internalID: 2052826713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 803
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe1480970ce9764a87c2cf4ee4196c0
+      internalID: 1277123698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_39
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 634
+        width: 44
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba55f1e788cdce4eaf2992d69e349d3
+      internalID: -444967689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 817
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a960df6cb3aa4b4e8da8a6d05cb482a
+      internalID: -1106263705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 811
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06103755ceb61cf429a558bb1bcfd270
+      internalID: -535644409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 806
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c4428c72fb5214498deffd5a7ab2c9
+      internalID: 1063310969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 801
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc2fe080aaebf045bae8a394ee87ae9
+      internalID: 1989641138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 787
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7858983c692f441ab17c71b5b8abfa
+      internalID: 552033007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 810
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affaee0518c1f4b4fb035d4e162d5451
+      internalID: -416492567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_46
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 794
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75965534e84a6734e9c0e5b0e7035f84
+      internalID: 325597389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_47
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 751
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0189d18877da1cc40ab1df2c291e0115
+      internalID: -480203635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_48
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 796
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917feb541675f56429ff3807edfbbbb4
+      internalID: -1681271344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 777
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5b73a7f8748b48b244c8277950da8
+      internalID: -266717072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_50
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 803
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36bb1b2b0e64cc428f03c66ae8fc300
+      internalID: -351314267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 778
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01453ad38ccea941a88f052c7603b28
+      internalID: 573537553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 758
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37471f068a995084d858f8e2f2f10973
+      internalID: 1784465353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 781
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8a6277dd31f15418d45a9f01c28e58
+      internalID: 1874625534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 792
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ab46a55c317764896a80684bf66637
+      internalID: -1715418412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_55
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 787
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2055b10ba7f980e40ba55dbf38fb2ca6
+      internalID: 369417875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 764
+        width: 87
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db82c96fe3ecf114c991185a8bcec0ae
+      internalID: 1522603139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_57
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 784
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00740349c0abeb429394cbd84197b09
+      internalID: -1247163407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 751
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8ce043e26f11c4ca94aec7644192cd
+      internalID: 1107660907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_59
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 758
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc1d7156fa1b1b4e858b0350d191da9
+      internalID: 1296426468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_60
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 779
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453e3399a6de50340a4d9acc8dd41c82
+      internalID: 217714086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_61
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 772
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2befcde4c214ef8438a0128e4083d72b
+      internalID: -87820275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 751
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1988ad09e8623da4d9f4917f4651f858
+      internalID: -1300114618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 634
+        width: 87
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86671ed128731c24c9f45e7ff6918e1f
+      internalID: 925669161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 766
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1958389b698a246a66dacd208709d0
+      internalID: 1423692046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_65
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 750
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885a0a5ebb819344aad3dfafb7d5793
+      internalID: -1491715059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_66
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 753
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e3fd0f604efd34291b4ebe6dd56078
+      internalID: 267417704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_67
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 750
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84df2cb3307b3fc44a76490392d6035b
+      internalID: -1885381722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_68
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 642
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0741a91e1636f4287ca4536650c186
+      internalID: -533331029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_69
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 551
+        width: 37
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc2c253c0d2a2a4ab29d6905d37d991
+      internalID: -61002003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_70
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 578
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63a16bf28e89a409eeb082e7f63a7b
+      internalID: 1415376313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 577
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddcb57eb7c5d1d44b5c89ac8089faf3
+      internalID: 986919070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 587
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0203793fe8f319f4c9baaafdafe89b6e
+      internalID: -1273665096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_73
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 569
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a600ea7a9fe7cd43940bbefb7fea454
+      internalID: -956909930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_74
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 577
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c06e942aeecf4ab8318431ef68182
+      internalID: -416208394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_75
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 554
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be51df2dcdfc7d48b4ef08a699a077d
+      internalID: -2042812098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 571
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc40d76b9a49444abf7fae40d851089
+      internalID: -636472109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_77
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 557
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b47a7af8cec594a97b0a145441e7dd
+      internalID: 686567245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_78
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 551
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f3499e2d348047af3b2be9f94e5b0
+      internalID: 843133294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_79
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 577
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d359a0103f6248b39ba8558b7f573
+      internalID: -1287400423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_80
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 576
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e81320acf72954b8d4d38a19a0639a
+      internalID: -167872298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_81
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 560
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcfbd00a3ed8604c9838585ee616922
+      internalID: 481398204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_82
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 547
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4189d2e417440409a6ebd333334379
+      internalID: -1538307910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_83
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 551
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3b2b30f587fd4f8831da4e6fdc4c4
+      internalID: 748180311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_84
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 565
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5226c788bd81f3445964f60b7887de05
+      internalID: 512992188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_85
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 563
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325c71ff56ba11144811872ef7e8b87b
+      internalID: 956650329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 563
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c82f0672b84884086d4227a437b5d2
+      internalID: 1158959978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_87
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 563
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f698e7349cd178745ad8201a08debd0f
+      internalID: -6930277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 483
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47859ad18931e1343ab27ede33910f74
+      internalID: 964104336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 547
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda1549fdc8031e49be0476d655cbdc3
+      internalID: 19870881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_90
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 548
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe88f2f997fac4aba17cfdf0a998a1
+      internalID: 1886420624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_91
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 547
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9118ab2cc3e70104585ec754a0b8fe77
+      internalID: 1378559274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_92
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 547
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922fe892cf46a9747a3e34d9955b6fe3
+      internalID: -315069037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_93
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 442
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559bd8bf811b63040ae50e848a24c9da
+      internalID: -1302996935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_94
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 492
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c7c91cc053cd40afd6c97d5a4fef8
+      internalID: -1170799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_95
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 478
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc5a1da382ce444b8a6f4bd43229200
+      internalID: -1753814413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_96
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 484
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3f980212b5f2d4090fd385d0f05810
+      internalID: 1399155965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_97
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 497
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a12e7d23d4513a4d8b9d1d32d813bbf
+      internalID: -1265436352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_98
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 441
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e45f9d63546b3b48a520efb273a5890
+      internalID: -148486638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_99
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 479
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394d1be0361acb40bab939f7536e869
+      internalID: 1565329717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_100
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 482
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e4ecbefd1b9d4d890f15c9afce055
+      internalID: -114412780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_101
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 470
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d1398e26b06ad4490843e01d166e94
+      internalID: -703015856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_102
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 453
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e516344e4e32945b837aee3b31b357
+      internalID: 1896039111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_103
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 466
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a1fba3c3b3b8940a51dc3fad0789d1
+      internalID: -856309424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_104
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 449
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f96cdb9e13a09b45a23252540af719b
+      internalID: 2051517907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_105
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 457
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec9cd6dfc73d44d819b3cccdc77ce8
+      internalID: 327522482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_106
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 443
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16029867260322b428ed82c2383a615a
+      internalID: -385119794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_107
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 395
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c9059663eff645b9ba4a65833fffd
+      internalID: -491590763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 385
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bdad254f49eb44ca200575772cd377
+      internalID: 1237556016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_109
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 407
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e669a72aae1eb6b4aafc4f393f89d9c1
+      internalID: 1478372957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 389
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9875977e5c4779948a660fdcbe5787e9
+      internalID: -266790765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_111
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 407
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27bd5616cec34459d66d35f9211700
+      internalID: -1948238106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_112
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 386
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdeffc4bdd42f048ba6c99ab3074fc0
+      internalID: 1635136548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_113
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 386
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e2f06eca3c5cf498c9b8efb283a945
+      internalID: 1395045935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_114
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 384
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e3677509bd74e4788c909192f084a1
+      internalID: 394562255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_115
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 442
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0404f814a9cd707449aa86f0c79ec49d
+      internalID: 1218354098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_116
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 378
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0158d4889d9dc4f8321959efc871f9
+      internalID: -1341017549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_117
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 442
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0566058b46be8a4418c7e124d2729b9b
+      internalID: 1432965004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_118
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 384
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ef81a0535fa9f48960f8df16172511
+      internalID: 1271692755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_119
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 292
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b741d7fec1df5814b97862796212eea4
+      internalID: 467253130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_120
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 341
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f73f8f8c80130a489297a1998f3b704
+      internalID: 391468055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_121
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695f53aa11eb5bb4ba0f8e54c7df540a
+      internalID: 559158324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_122
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 331
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1794f133258e47409003addada40b7d
+      internalID: -300359872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_123
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 345
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa06542e0b89c545a783ab83b13b9f8
+      internalID: 469211185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_124
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 292
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba274293f2caf9a4e84c1744329e3b37
+      internalID: 1134743061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_125
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 317
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc58aa42bb012a428d4c8cbd192f21f
+      internalID: 1627466480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_126
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 327
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba74e2ee901a1f45827ae3122ee4736
+      internalID: 1601254339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_127
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 325
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0c8a1f6bbaadc40a6ca0ba8cdcc7cc
+      internalID: 150923616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_128
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 293
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d48981fc0df2f84db948aa5c86a2d77
+      internalID: -786634969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_129
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 292
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b462106c1ffe58a44b2427fbbe006a92
+      internalID: 1262404609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_130
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 307
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790e5bc1ffccdb42a062ed8589c06d8
+      internalID: -777485355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_131
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 293
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892c8544dfaa8b74993f1ee25f532cc6
+      internalID: -1946881715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_132
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 292
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4833fc031160e79439c64ab28e7ac1b9
+      internalID: 532032290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_133
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 303
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9119d863b387a45bc8a654fb8b88e5
+      internalID: -2025883798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_134
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 293
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cad53a3f9d6b84c8907c1122854abc
+      internalID: 880563930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_135
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 293
+        width: 81
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a24484ec222b94a8b635c07d3adb8b
+      internalID: 711713376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_136
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 224
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad10d6d377f1e1b4cbcf59b3cc581b35
+      internalID: 1124059445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_137
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 246
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c12b690638e3c43940d5f675c75fd3
+      internalID: -846924932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_138
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 254
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120beb8a051647d458d77064501dfe64
+      internalID: 146566569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_139
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 243
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4018c43464100f43985c4f60b9e195d
+      internalID: 423704252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_140
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 219
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b40ce6fc2d6b9145a7de99ab766c814
+      internalID: 1442908942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_141
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc80b8a3f178b4a8a876b942320392
+      internalID: -1240399203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_142
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 227
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e369d1bd433e8234aaa270d15a3dc2c7
+      internalID: -491955483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_143
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 218
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118bc2127603c0141ae48417650e6406
+      internalID: -935511583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_144
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 241
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc96d429660f54cb25f037b688b4aa
+      internalID: 705796492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_145
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 227
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee63d6e9a8edf744bb3b3b74c9cf35eb
+      internalID: 313426807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_146
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 228
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee2b94e20c1add498035f0fbc8aee6a
+      internalID: 69948154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_147
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 219
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37373327b74788548abf4481056e5b41
+      internalID: -1939311148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_148
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 234
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4722681608e51a408dcd4845b33c904
+      internalID: -499833531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_149
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 235
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccda0bbb36fb5d49aa1abebfc980388
+      internalID: 405056848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_150
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 220
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe418dcb5449c644b9c88e5971819f20
+      internalID: -1068014554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_151
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 237
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c6714f52cb9f499a519e3cc4780eb
+      internalID: 1689293128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_152
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 220
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4955c89963cafdf40a2936e971ce41ca
+      internalID: 1048217525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_153
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209b37c56fdd0b74faa945ed3bae88bb
+      internalID: 705584644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_154
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 235
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120616bbcc12fc4388179dd628f659a
+      internalID: -7812227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_155
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 219
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d169e5782e0f54a8686b22ceed591d
+      internalID: -2077964850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_156
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 218
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cea7ead79d2854499b20dfd31a541d9
+      internalID: 1604578083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_157
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 158
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3d1eceaef5efd4f8728a590fcfb7d4
+      internalID: -656559160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_158
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 166
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676c1198993070045860aed39b30842b
+      internalID: -703107169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_159
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 174
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffc45a301f838c488bd881f08cdb372
+      internalID: -962999596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_160
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 173
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e44cf026488944a915d3625e8d797f
+      internalID: 1735709510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_161
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 164
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b796d725a2682740ae86a5e189269b4
+      internalID: -299982941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_162
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 158
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bec902f55140f1459f94356c8f97045
+      internalID: -480335237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_163
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 168
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6eeef8492172345978140ddf6d8399
+      internalID: -977355172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_164
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 171
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab028ff423328a468b5dadf06c0df5d
+      internalID: 1574825143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_165
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 160
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe05230d93fdab40900bab4b92b28cb
+      internalID: 1946503503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_166
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 162
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2b3f927033b3d46a565953779ee70b
+      internalID: -1188058085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_167
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 159
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617851ee10c3c946a3934dc6fc05705
+      internalID: 1502607138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_168
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 161
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5ac264f7bba5f40b3237662f06e39c
+      internalID: -1905737132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_169
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 158
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93483e252a996e458a1a43f4a13c3dd
+      internalID: 1150567294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_170
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 159
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0778e3f3da8654da29be839eda810b
+      internalID: 561224052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_171
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 79
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23b43bc757ad2942a102bb27f0c3b84
+      internalID: -1628070720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_172
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 111
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5838dfcf10663944a16ce3f87c6a54c
+      internalID: -1573014086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_173
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 110
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89983bacd21f6de478d708ae9a3632d4
+      internalID: -730485193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_174
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 95
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b5abe8ca089204cbb2262cc5759d65
+      internalID: 1508789547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_175
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 93
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e4bda85920d344e908875e92763452
+      internalID: -1703635946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_176
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a767cf40b0237dd41a850d38317447f7
+      internalID: -1369176089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steamSmokeEffects_177
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 78
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f2b555ea9125043b31541299d9c595
+      internalID: -232125943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 799987a8798c8614bacad93c901a1471
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      steamSmokeEffects_0: -1300630547
+      steamSmokeEffects_1: -2080459514
+      steamSmokeEffects_10: 1564907915
+      steamSmokeEffects_100: -114412780
+      steamSmokeEffects_101: -703015856
+      steamSmokeEffects_102: 1896039111
+      steamSmokeEffects_103: -856309424
+      steamSmokeEffects_104: 2051517907
+      steamSmokeEffects_105: 327522482
+      steamSmokeEffects_106: -385119794
+      steamSmokeEffects_107: -491590763
+      steamSmokeEffects_108: 1237556016
+      steamSmokeEffects_109: 1478372957
+      steamSmokeEffects_11: 1100178323
+      steamSmokeEffects_110: -266790765
+      steamSmokeEffects_111: -1948238106
+      steamSmokeEffects_112: 1635136548
+      steamSmokeEffects_113: 1395045935
+      steamSmokeEffects_114: 394562255
+      steamSmokeEffects_115: 1218354098
+      steamSmokeEffects_116: -1341017549
+      steamSmokeEffects_117: 1432965004
+      steamSmokeEffects_118: 1271692755
+      steamSmokeEffects_119: 467253130
+      steamSmokeEffects_12: 72066047
+      steamSmokeEffects_120: 391468055
+      steamSmokeEffects_121: 559158324
+      steamSmokeEffects_122: -300359872
+      steamSmokeEffects_123: 469211185
+      steamSmokeEffects_124: 1134743061
+      steamSmokeEffects_125: 1627466480
+      steamSmokeEffects_126: 1601254339
+      steamSmokeEffects_127: 150923616
+      steamSmokeEffects_128: -786634969
+      steamSmokeEffects_129: 1262404609
+      steamSmokeEffects_13: 1269120286
+      steamSmokeEffects_130: -777485355
+      steamSmokeEffects_131: -1946881715
+      steamSmokeEffects_132: 532032290
+      steamSmokeEffects_133: -2025883798
+      steamSmokeEffects_134: 880563930
+      steamSmokeEffects_135: 711713376
+      steamSmokeEffects_136: 1124059445
+      steamSmokeEffects_137: -846924932
+      steamSmokeEffects_138: 146566569
+      steamSmokeEffects_139: 423704252
+      steamSmokeEffects_14: -1946331627
+      steamSmokeEffects_140: 1442908942
+      steamSmokeEffects_141: -1240399203
+      steamSmokeEffects_142: -491955483
+      steamSmokeEffects_143: -935511583
+      steamSmokeEffects_144: 705796492
+      steamSmokeEffects_145: 313426807
+      steamSmokeEffects_146: 69948154
+      steamSmokeEffects_147: -1939311148
+      steamSmokeEffects_148: -499833531
+      steamSmokeEffects_149: 405056848
+      steamSmokeEffects_15: -86994191
+      steamSmokeEffects_150: -1068014554
+      steamSmokeEffects_151: 1689293128
+      steamSmokeEffects_152: 1048217525
+      steamSmokeEffects_153: 705584644
+      steamSmokeEffects_154: -7812227
+      steamSmokeEffects_155: -2077964850
+      steamSmokeEffects_156: 1604578083
+      steamSmokeEffects_157: -656559160
+      steamSmokeEffects_158: -703107169
+      steamSmokeEffects_159: -962999596
+      steamSmokeEffects_16: -526803440
+      steamSmokeEffects_160: 1735709510
+      steamSmokeEffects_161: -299982941
+      steamSmokeEffects_162: -480335237
+      steamSmokeEffects_163: -977355172
+      steamSmokeEffects_164: 1574825143
+      steamSmokeEffects_165: 1946503503
+      steamSmokeEffects_166: -1188058085
+      steamSmokeEffects_167: 1502607138
+      steamSmokeEffects_168: -1905737132
+      steamSmokeEffects_169: 1150567294
+      steamSmokeEffects_17: -1575787265
+      steamSmokeEffects_170: 561224052
+      steamSmokeEffects_171: -1628070720
+      steamSmokeEffects_172: -1573014086
+      steamSmokeEffects_173: -730485193
+      steamSmokeEffects_174: 1508789547
+      steamSmokeEffects_175: -1703635946
+      steamSmokeEffects_176: -1369176089
+      steamSmokeEffects_177: -232125943
+      steamSmokeEffects_18: 279459517
+      steamSmokeEffects_19: 2138712896
+      steamSmokeEffects_2: 1849436477
+      steamSmokeEffects_20: 151137483
+      steamSmokeEffects_21: -186321926
+      steamSmokeEffects_22: -1958192260
+      steamSmokeEffects_23: 377974625
+      steamSmokeEffects_24: 455733449
+      steamSmokeEffects_25: -221294349
+      steamSmokeEffects_26: 1394103862
+      steamSmokeEffects_27: 335371115
+      steamSmokeEffects_28: -1829709798
+      steamSmokeEffects_29: 2027859512
+      steamSmokeEffects_3: 1019768688
+      steamSmokeEffects_30: 2058624365
+      steamSmokeEffects_31: 45270050
+      steamSmokeEffects_32: -2124233595
+      steamSmokeEffects_33: -1122229659
+      steamSmokeEffects_34: 577593716
+      steamSmokeEffects_35: -1370550624
+      steamSmokeEffects_36: -460854147
+      steamSmokeEffects_37: 2052826713
+      steamSmokeEffects_38: 1277123698
+      steamSmokeEffects_39: -444967689
+      steamSmokeEffects_4: -122470083
+      steamSmokeEffects_40: -1106263705
+      steamSmokeEffects_41: -535644409
+      steamSmokeEffects_42: 1063310969
+      steamSmokeEffects_43: 1989641138
+      steamSmokeEffects_44: 552033007
+      steamSmokeEffects_45: -416492567
+      steamSmokeEffects_46: 325597389
+      steamSmokeEffects_47: -480203635
+      steamSmokeEffects_48: -1681271344
+      steamSmokeEffects_49: -266717072
+      steamSmokeEffects_5: 409246875
+      steamSmokeEffects_50: -351314267
+      steamSmokeEffects_51: 573537553
+      steamSmokeEffects_52: 1784465353
+      steamSmokeEffects_53: 1874625534
+      steamSmokeEffects_54: -1715418412
+      steamSmokeEffects_55: 369417875
+      steamSmokeEffects_56: 1522603139
+      steamSmokeEffects_57: -1247163407
+      steamSmokeEffects_58: 1107660907
+      steamSmokeEffects_59: 1296426468
+      steamSmokeEffects_6: 75252604
+      steamSmokeEffects_60: 217714086
+      steamSmokeEffects_61: -87820275
+      steamSmokeEffects_62: -1300114618
+      steamSmokeEffects_63: 925669161
+      steamSmokeEffects_64: 1423692046
+      steamSmokeEffects_65: -1491715059
+      steamSmokeEffects_66: 267417704
+      steamSmokeEffects_67: -1885381722
+      steamSmokeEffects_68: -533331029
+      steamSmokeEffects_69: -61002003
+      steamSmokeEffects_7: -1712278289
+      steamSmokeEffects_70: 1415376313
+      steamSmokeEffects_71: 986919070
+      steamSmokeEffects_72: -1273665096
+      steamSmokeEffects_73: -956909930
+      steamSmokeEffects_74: -416208394
+      steamSmokeEffects_75: -2042812098
+      steamSmokeEffects_76: -636472109
+      steamSmokeEffects_77: 686567245
+      steamSmokeEffects_78: 843133294
+      steamSmokeEffects_79: -1287400423
+      steamSmokeEffects_8: -46160954
+      steamSmokeEffects_80: -167872298
+      steamSmokeEffects_81: 481398204
+      steamSmokeEffects_82: -1538307910
+      steamSmokeEffects_83: 748180311
+      steamSmokeEffects_84: 512992188
+      steamSmokeEffects_85: 956650329
+      steamSmokeEffects_86: 1158959978
+      steamSmokeEffects_87: -6930277
+      steamSmokeEffects_88: 964104336
+      steamSmokeEffects_89: 19870881
+      steamSmokeEffects_9: 817126323
+      steamSmokeEffects_90: 1886420624
+      steamSmokeEffects_91: 1378559274
+      steamSmokeEffects_92: -315069037
+      steamSmokeEffects_93: -1302996935
+      steamSmokeEffects_94: -1170799
+      steamSmokeEffects_95: -1753814413
+      steamSmokeEffects_96: 1399155965
+      steamSmokeEffects_97: -1265436352
+      steamSmokeEffects_98: -148486638
+      steamSmokeEffects_99: 1565329717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

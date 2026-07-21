@@ -1,0 +1,6526 @@
+fileFormatVersion: 2
+guid: d18a19461424ec945a8287fa28b84538
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sparkleMagicalLight_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 919
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02102bfa8e8ebe64280b0f03065d2193
+      internalID: 1346490178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 916
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fadadaac8550e341be637a777d21144
+      internalID: 1259483118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 910
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87cd55c3859e2b419ecea593e7fa0ab
+      internalID: -1588184071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 914
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f867035ac326ce4c96a8b00e265c2cc
+      internalID: 1840800120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 913
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e48962a860d0cc48aeb7544dd012443
+      internalID: 1187859794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 916
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489fd89dcc850ef4cb5c564f6d8d6793
+      internalID: -1955178366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 912
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46579982d6a70614abc1300607123fff
+      internalID: 1835151459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_7
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 910
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d86f1bdfec0d2e4f8a69396f32266cf
+      internalID: -957222998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_8
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 918
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfc396eecba4b24094628e866c42d3a
+      internalID: -1118173796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_9
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 917
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f24adb0898170041b6cc145fef3543a
+      internalID: 1570061307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 805
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d55686030f43284d94c5ad7095ae777
+      internalID: 1346917211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 805
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e32381a9a3314d428236f4329bf799f
+      internalID: 282571478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 802
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f501d27c5c6774a94b9f9ac2f47619
+      internalID: 1375085305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 806
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614c4ce02921a443aaeccd66ce08ee6
+      internalID: 719223743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 802
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eb8eb46fed1894baab7e0c132acb23
+      internalID: 1428140126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_15
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 803
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5477450b5ca8c4bbbf55fdc1695c96
+      internalID: -140518810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_16
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 804
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8b7450b0cb84343b074e0a0eba0fd7
+      internalID: -381125515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_17
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 804
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b3dc6926707cb4caeba3ae7e350e53
+      internalID: -225478805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_18
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 805
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668061f3571f3814aa93e40b768c4106
+      internalID: 70979030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_19
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 804
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cedec4be7f4c84c89074e6b11de412
+      internalID: -1128899338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 686
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fd9ffccfd043248b59bba2f285f930
+      internalID: 285840982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 675
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326581309ff805b4bb2c2ba8f4ebfbc3
+      internalID: 1983740342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 687
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd04a8fcc251d0c4d81c54f733e44349
+      internalID: -1785726507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 685
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358bd9ffc6d3e6e45b8c0d28910a6620
+      internalID: -885428933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 679
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4e365c7dd116249ac3f191b2c63920
+      internalID: 987884366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 685
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a9ed9d8a723cb46a7d4ad606569fe4
+      internalID: -2034329621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 689
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763ca7f00a2c8694f9a307a6edd67a77
+      internalID: 1252701086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_27
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 688
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ac6d00bdd20b54ea07afbcc9ebacf6
+      internalID: -130688516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_28
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 686
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c685a5617dc134098126ec135228e8
+      internalID: -1935865248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_29
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 685
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a618cf1b6746544970ded752d9f848
+      internalID: 1913353082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 564
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5832f01db991913418016cb81344100e
+      internalID: 322407878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 567
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fee38ee9feecf543ae45b2ace038940
+      internalID: -874263992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 567
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7f3d1e244c1b74081cfe315627a479
+      internalID: 1537548465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_33
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 564
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc93664f1838301449695896ad82a5f9
+      internalID: 18434336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 566
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd090bf706ded47a5e5b2e20615a7b
+      internalID: 2085510552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 569
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcac90acd1cd3244b8380bfea42858c
+      internalID: -1526280067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_36
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 565
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c988c325d3959449dbbc6ccf2239a0
+      internalID: 1026855909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_37
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 574
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da7b2ccfeeb2a4ea28512e9e06254d
+      internalID: 426650285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_38
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 565
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a441d8dbf1e044f8d74864ac4fa12e
+      internalID: -715041986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_39
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 564
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18dc23c894516a40a51b458caa8552c
+      internalID: -2144081581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 462
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0c4b591d20034e9a397920ab74a75
+      internalID: -1435153241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 460
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e10b6f7d8fa2f458ccbe9cd6138908
+      internalID: -1235905970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 454
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fc86f1fe7ef674c83b481365ffbf3f
+      internalID: -999078875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 457
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4cc2aa27141514fa716e7e7986cdcf
+      internalID: -967929913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_44
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 463
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56057022d96472e42aa9526c82591ba6
+      internalID: -1818788866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_45
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 464
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34c14d154620404a98cc98d1fee76aa
+      internalID: 543334841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_46
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 461
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32fa5b2bfcefa4594632b7d527c53d
+      internalID: -1124190673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_47
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 458
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f35dd9a4d63ec45ab1cfa4410e16cc
+      internalID: 2108039658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_48
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 464
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65f8f668421dfe4b8c0e7db80cadc1c
+      internalID: -745145827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_49
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 470
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b611063810ea12e45956bab502e18eb0
+      internalID: 667512071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_50
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 460
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678f9e41c4d587146b49a5833960da39
+      internalID: -1515573217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_51
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 463
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93870137905e5484a84a64332fa1deb8
+      internalID: -1492782196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_52
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 454
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc3924aeb6bc6f4d8d494f1231fde30
+      internalID: -345979393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_53
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 450
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115140bc96346f646a87459fee45dde6
+      internalID: 1859106804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 387
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a1cd7e6b082b34bb0bd40a02256850
+      internalID: 1523063350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 393
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07379683ed2310640aaf8e39b147ed46
+      internalID: 2127677861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 383
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c548c4f8a160020418b91d2e904c42df
+      internalID: -1980531398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 392
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b2aeb86958dd449d62f2dc8ae6f6c
+      internalID: -1356033930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_58
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 386
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e31ef48f989849b532ced9ac48cb1
+      internalID: 1272020663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_59
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 379
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6c8e0820cf18f4b9f7b31805ea519f
+      internalID: -1286632396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_60
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 389
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a183e725b7415840980be6d2b563c11
+      internalID: 1859388448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_61
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 390
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197338a54766f3042a82e32021b917d4
+      internalID: -367350311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_62
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 382
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f58c7574ff7fef4caf7a2e65b5e9456
+      internalID: 1770067952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 381
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb5bdc13455c8649ab73d2ca0ec92e1
+      internalID: 1115515419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 354
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b12711b8d3ae3542892309a7d518d3d
+      internalID: -1967928865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 332
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b235c41e532694eae4ca90a5d32907
+      internalID: -1359053369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 381
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51a9f2ad98d19143a967518a9ccf29f
+      internalID: 1195941067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_67
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 385
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6993ad03242024dab130d324806924
+      internalID: 1987399732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_68
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 376
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb0b2da5663054b8632421a2dd7c20
+      internalID: 1404483216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_69
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 372
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc7240a224eb034f8b323526113c5e1
+      internalID: 1896625474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_70
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 383
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c576c83cfe889a2449745dd2dd579b42
+      internalID: -419955574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_71
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 377
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbf4d265e4482840acb9c4ac98c0983
+      internalID: 405215135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_72
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 379
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0657d913b1c24914ba3b51f3b862837c
+      internalID: -1963992049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_73
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 374
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1545999bd4afc9f48b1c06343427aa15
+      internalID: 2071284811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_74
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 386
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24db6fbeec1798449b8f56828b72de1d
+      internalID: 658489889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_75
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 381
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d246620ba8b854d9223db2e48ad843
+      internalID: -1497531160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_76
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 385
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6cc3b0bbbb90a43b05dc43258b15a3
+      internalID: 918885914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_77
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 340
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7187f7a7c2a9140bac7dcf0269b242
+      internalID: 1270518285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_78
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 371
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba92c3ffa1d5624f9abb6caff1ad3fb
+      internalID: 1460885883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_79
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 367
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeb3296ece51be4ebc6eac8b39344fd
+      internalID: 664530282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_80
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 349
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41da1899d47da5440b4beea002c60f27
+      internalID: -118033823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_81
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 373
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968f29a5aaf389e419686cf59315dc40
+      internalID: -2021167165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_82
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 337
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd03174d8af9d4a98e99b95d6a3ef8
+      internalID: 1316144804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_83
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 370
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bea1009036640842a8cef4a0f850de3
+      internalID: 1420460863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_84
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 346
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9dabe6a443a9b4ba383f2de1b773d5
+      internalID: 1017228484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_85
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 368
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2662bc22442fd408c02813f830580d
+      internalID: 1249374423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_86
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 365
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445dd38b0dd0df5428580d1434200e05
+      internalID: -643750499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_87
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 354
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36aeaa1ba2870b42b03876d6205af38
+      internalID: 315038739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_88
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 336
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54bf158e80753f4fa21c4489ab2c975
+      internalID: -14333853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_89
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 371
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7acf02fe1d2ac4baa3deba5a193f1d
+      internalID: 1718383040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_90
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 347
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97de19d81d4aeab4e9f81824701452b0
+      internalID: -313923531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_91
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 371
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1d6bde1fa3a04b92150eecf7cefbd
+      internalID: -341495363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_92
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 339
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a0ad2fcefb36d4ea9046000b5293e7
+      internalID: -1904370875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_93
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 360
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d63deb9332cc2d4a88a9a82fd2ff59b
+      internalID: -1248978833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_94
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 349
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de9caa8056bee744b295ed4fd401765
+      internalID: -650185286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_95
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 339
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef55441deb619d4e830e1677ff04526
+      internalID: 946875631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_96
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 375
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bc6a796f34519449d8b2af5454f3cb
+      internalID: -2035409078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_97
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 364
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac292f8bd1420c448ca97df61ff3d10
+      internalID: 476106496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_98
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 348
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd04f4a59f51641b94d063154b30fa
+      internalID: -857540232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_99
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7758cd022050fb42a396efe9f1e7e3e
+      internalID: 134505309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_100
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 367
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9325ffdf28b2c924a98e15bb299d9e6f
+      internalID: -2119620289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_101
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 329
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89de9b836cef3148b7f9499ca29d7e1
+      internalID: -172957164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_102
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 376
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2e9e3a1f77f514d9a1091c326ac316
+      internalID: 278234077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_103
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 358
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42153bd19f6cf4744a6e664fb2d49fde
+      internalID: 864555810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_104
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 351
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0497729caf3000429ca472b8f71386a
+      internalID: 918290383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 360
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ed8699bb65074b8118410727fd8bc
+      internalID: -1555946552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_106
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 340
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4478c41ec0b0704687546d75574b420
+      internalID: 1228813786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_107
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 358
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7be8a4a9250eb4395b6a8c30ec50a7
+      internalID: 254824831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_108
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 341
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0132d8f6137ae294181211de1681a152
+      internalID: 1832378397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_109
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 354
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1fd1ca7d5f69644a313e6a2b1ac9a1
+      internalID: 2005185188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_110
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 346
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998297a36def3c947a94203371c9fa55
+      internalID: -1055463673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_111
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 334
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2692bbf45059c4db3c641b1cae3d0b
+      internalID: -1072281776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_112
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 344
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3417b6ca9b3e1eb449435f1b52eef36d
+      internalID: -2091919089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_113
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 333
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4046a195e929d5e4391290c6e64a3ac5
+      internalID: -1037933165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_114
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 345
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca67fd421e6c03f4c80559ecee76f695
+      internalID: -1756950177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_115
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 333
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dad37108857cc4a98901d77eb59c1f
+      internalID: 436865244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_116
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 343
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b21a7ca67beba41ae46818e5b0686b
+      internalID: -777170756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_117
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 337
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7e28411e5e8be47bcc4a6a9f548834
+      internalID: 1397182251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_118
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 336
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c77a6dc3b772354e8a63b61e1f43ee4
+      internalID: 835200208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_119
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 347
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a9c73ab3a01854987583c4cedf4c74
+      internalID: -2074983280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_120
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 336
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd42d1e69039674ea660244db25e3cf
+      internalID: 877077821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_121
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 346
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3760e6c1797ae4042a3d8d2d3cdfa0a4
+      internalID: 39018297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_122
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 348
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64dd30e5ffb464dab4c83b5cebb726
+      internalID: 172544931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_123
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 344
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bcfd8f497394c458af4fd46460ceb7
+      internalID: 2040236363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_124
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 338
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28575e7e85f279844b98f3b3f791cec1
+      internalID: -654616599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_125
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 335
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432301e59a1e494eb6eb3ad850d728e
+      internalID: 1640451835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_126
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 337
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd912d0f052cb794986c7a874852bd07
+      internalID: 1784117416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_127
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 342
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7676a0c930e9c7f47ae7086aa23aace7
+      internalID: 49417561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_128
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 331
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1687b6d400c6cfb4fa3f8d49692f1c3e
+      internalID: 1415398392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_129
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 335
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5b99fb9d2674a4dbecde33729a6c51
+      internalID: 26897614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_130
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 334
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b748f3138cf686042817b9f87f9a39c2
+      internalID: -1339268094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_131
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 335
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f7d86a9319a3b40a4843bdd45d3361
+      internalID: -545203902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_132
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 331
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caed4844a4a3294594d4e07c6321ef2
+      internalID: -717696979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_133
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 330
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2697c8611b9147c46b879f88bdb3523a
+      internalID: -2087915266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_134
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 329
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c07631c144e774b87d8e0784d64b03
+      internalID: -2020042868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_135
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 329
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e543b6de2cba4c64a803ed2523c4a7e1
+      internalID: -158105964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_136
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 327
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1980090065ff7f2468496fb194acbde5
+      internalID: 522191292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_137
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 325
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279a66fc0a9b804288b57cb69a0c746
+      internalID: 1337438632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_138
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 259
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034224ed85d7e79409a31a75f9507548
+      internalID: -832087257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_139
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 258
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af858fd1b323094e9f03a5162cdf39f
+      internalID: 574543376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_140
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 267
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df22f85c0dfbd48824ac73946a63c6
+      internalID: -316801744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_141
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 245
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f456c2a60a6f948bc48a6ffcb82e1d
+      internalID: -1837410484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_142
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 264
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566d8f130d2b31549965fb85f2dc859b
+      internalID: 1022871163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_143
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 267
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c70b9bd24877948b2a889f550c4dc0
+      internalID: -423000701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_144
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 257
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf6356fb257ec440805b01218923f4b
+      internalID: 354281827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_145
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 217
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b65f13e1abd24b9382ca6822245e6
+      internalID: -2044206850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_146
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 251
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea12bc49bd0f22d49af536b578ed5824
+      internalID: 709518599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 250
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f82350922ba6a4f9803e4fe6979939
+      internalID: 1179125514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 244
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8313bdd068ecc294b983831e079d754b
+      internalID: -1018248375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_149
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 246
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e9d432d75175141a617dcb36de26e7
+      internalID: 428023183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_150
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 254
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e22b9efe28a144d9b4d63b65185650
+      internalID: 1647347000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_151
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 254
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78860916d8f9a6d408be2e84c12b9939
+      internalID: 939485658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_152
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 241
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2dbd1bec5cfda4a9a5e0b07bc4978e
+      internalID: 1816443144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_153
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 253
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669394ddaa7681c41ae8a713288559ce
+      internalID: -1174082029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_154
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 257
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576cc8560e4ef9f4d8052238d909d8d5
+      internalID: 1312365453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_155
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 258
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6246812ff5a680e42a56ce1742befc44
+      internalID: 1568959479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_156
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 246
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f44ceef4c83344889d333da43e7344
+      internalID: 1306836367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_157
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 239
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab5f2d9eb8a51459376a66fa021d43
+      internalID: 961232220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_158
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 246
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365965f37a21fee47b8ea05680969bb7
+      internalID: -318834269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_159
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 237
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57e404c34fc21e41940751d7642a6d7
+      internalID: 923519392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_160
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 242
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a5b47128b3e024f8282a477b5a72cf
+      internalID: -1831501923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_161
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 249
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd75af0d1b4d347ba41569eda3b61f
+      internalID: -1621797824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_162
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 237
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e46b1c23b1b3342bfc84793c7fd314
+      internalID: -1789649241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_163
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 233
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c258af409eb6d5449d220678e2debdb
+      internalID: 249747304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_164
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 245
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024fcf4767b7a6d4184b9218570a1095
+      internalID: -257670106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_165
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 249
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6282a42ba930ab946850b924f7ddc43e
+      internalID: -1478097531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_166
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 242
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ed4854e78e4d44af25da30812ab3d
+      internalID: -935059252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_167
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 245
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add60519f77140469036117f905b2f6
+      internalID: 1754453501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_168
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 247
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9a997db2d9af458f99104452c8a1d
+      internalID: 785101724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_169
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 234
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f33f67651330643a14f2eba3bc7bd3
+      internalID: -2134955329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_170
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 239
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574f869c6857f924aa60739ac2583257
+      internalID: 1697896321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_171
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 247
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f5c7042057afa4baa1c7a97843e7c5
+      internalID: -2087835745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_172
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 247
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31f5e8649a5c3544b07971975faae07
+      internalID: 685170565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_173
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 249
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5905e9fa095ce941a9088c5735ec396
+      internalID: 2079339374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_174
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a08b6824d2a464caca64f46c1f360c
+      internalID: -849020533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_175
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 206
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af8d7701f36bed4b88fe89d05dcf9b7
+      internalID: 1049265061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_176
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 238
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13c273d8cd43864d999a73d9d57452d
+      internalID: 2017560889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_177
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 227
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88124eb7477d3d049967f9ffd8f9b62e
+      internalID: -1241716740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_178
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 239
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde607f88f1d8514e8908a8033219918
+      internalID: 1404611074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_179
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 243
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683aaadf6389af48b37bf6390b0e38a
+      internalID: -860408720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_180
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 234
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ee5c2bf4114e4e950bc4f8fa7cc3c
+      internalID: -502852094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_181
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 221
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af9c228ea553d24eb553cf119f04f24
+      internalID: -2060087032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_182
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 235
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8c817f2368ca2459a1f9e81545415a
+      internalID: 200209001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_183
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 214
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b8b168117d0542ad0284cac2923bc
+      internalID: 1653094763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 231
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572425ca3890ae64cad07d6494a5da03
+      internalID: 2081478375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_185
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 216
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a76b22712f144abe58c02dc7fe24a
+      internalID: -1615888129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_186
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 208
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6ae408e449774eac22350434e8354
+      internalID: -1915392316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_187
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 230
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54772ab6d806551468d7754ed335f850
+      internalID: -165141521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_188
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 205
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed4a7c94544e5144a3a2b6a95e1921c
+      internalID: 1335399103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_189
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 226
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a690e91a7ec891428554fe9b649006a
+      internalID: -1311099694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_190
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 230
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dcbc4c7ddb76f40975dd78f2702eb3
+      internalID: 1707103901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_191
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 228
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4428d5da5eae4c543bd91c5d246f5d37
+      internalID: -282278700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_192
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 225
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f549c5343ca65d4db55446ecc1249d3
+      internalID: -523244316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_193
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 217
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d00ba270f8ba04f9a92f1e5229ac00
+      internalID: -100116438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_194
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 229
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2181ad4a68633c541855ef64cc7d175c
+      internalID: -1160751467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_195
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 226
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf25aa5b381f1241864a43b680364fa
+      internalID: 80488793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_196
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 225
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b0f12d40097648b05b1c5d852f570
+      internalID: 623931250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_197
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd44220826a5c49bb3e4f4795f88a1
+      internalID: 479579887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_198
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 226
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63326d9cc7d889941931e354cc78a650
+      internalID: -1107497085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_199
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 222
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cace46b5f843d934e82bcf0c7529481b
+      internalID: 638406162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_200
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 226
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea89dbd3ac84f5045ba066575f04893c
+      internalID: -784083344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_201
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 223
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8824cbad475b49d4abd1789270b1d50f
+      internalID: -725340327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_202
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 226
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7de63ea04087243a8a3710dd32ced3
+      internalID: 862322144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_203
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 230
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f758af3d61098a488b36bbad2de3239
+      internalID: -492503308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_204
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 208
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd33ad0485b3bd24fb154134735641ea
+      internalID: 424539432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_205
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 207
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78883ccd54e07cb469766b77cb254e9d
+      internalID: 1512787052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_206
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 219
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809656287554a594db2aa66028f4519f
+      internalID: 1814925108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_207
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 217
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b986bc47afabb45989ba0abca91eb5
+      internalID: -438326930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_208
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 219
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3892d7bfd1f4f1a46bdba7a4791c58dd
+      internalID: -2016102429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_209
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 216
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61477cb67c64dfb459d313a537aa6888
+      internalID: 366594979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_210
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 204
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a03de8b5a8ee4e94fdd08d90fd791
+      internalID: 531823587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_211
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 218
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffffaad423b812448aa4902e7948bdd
+      internalID: -2026744992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_212
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 223
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f721efc7f2a5d6478869faf5091fc41
+      internalID: 558446339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_213
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 224
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b8f694c3034784ab0ac6adf36fb688
+      internalID: -1314672859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_214
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 214
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e3df3aabd529a4d883be48f9c316d6
+      internalID: 126644688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_215
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 214
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b488b2bcbc49498b06eb12844afa8
+      internalID: -1797217425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_216
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 219
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018f423047123943bca32c0cf9da9e5
+      internalID: -331772395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_217
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 208
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58669bb1ef6ff2c4a9c3561f5f95aedd
+      internalID: -99287584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_218
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 219
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb759e415b07e458f66a0ea0a193af
+      internalID: 730837300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_219
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 215
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91678caae80ca814a9e4c0f324208bed
+      internalID: -1919362541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_220
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 215
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7581a1a789dfc44bd0e5c0abccd145
+      internalID: -1221505343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_221
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 217
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806d66167a9581d4194b3455ab0e78b7
+      internalID: 1559215824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_222
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 212
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90608a625a54da84d981bbbaf2cc3360
+      internalID: -593829754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_223
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 212
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9f3fe2af6bf504e912e8ae09897c70
+      internalID: -1042937953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_224
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 209
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64faf7cec45b06643be5b0a239301366
+      internalID: 631677254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_225
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 207
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb5eb2b9ce4bb94aa1ebe67d116e085
+      internalID: -867339234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_226
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d099727f358b0446b3a52f153869a4e
+      internalID: 2108654017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_227
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 206
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff31047f882ad4a86f757c135c2ffb
+      internalID: -157098681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_228
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 212
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b626aff2f5c979348951c34f133c7933
+      internalID: 587339897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_229
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 208
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e39841f7febbe40bf31a898a02dc74
+      internalID: 1415832467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_230
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 211
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d66b7981f0b34a9e34d4ef28c64a8
+      internalID: 8217999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_231
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 203
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7128e60196555cb4c87d85185bba14d4
+      internalID: -932091925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_232
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 204
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d439c44951a574390e3b66c5cd1f3c
+      internalID: -2015190442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_233
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 205
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f69597f37caa4497e7844c33e8ce1
+      internalID: 322802685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_234
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 201
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497151889a837c84f86014923a592886
+      internalID: -1099125203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_235
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 79
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec4d1711edf5234bb27851a74ae1cb1
+      internalID: -1716266887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_236
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 138
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245307db06f5ddf4caf8b7b3d1dc3948
+      internalID: 1282640603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_237
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5eac5c0394fc3448964a3a18c42c78
+      internalID: 1152253665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_238
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 144
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6153743106bb251408b0528c5b874073
+      internalID: 1693031451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_239
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 125
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299ab3b1dbec9c24ea2e7c6d8666f7eb
+      internalID: -558356503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_240
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 132
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956705cc9f95e3c46841f41efb91e3f8
+      internalID: 1732453501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_241
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 137
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49909029ff9ae40ac967e11623efca
+      internalID: -781183409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_242
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 141
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a64a33dfc4ee7646b1980fb6f650289
+      internalID: -169988249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_243
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 134
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017a3fa41b0451e4aabec399ab3c2230
+      internalID: -830971615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_244
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 75
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16c5126d0066184fa98eb37d6f7e1e5
+      internalID: 1500826829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_245
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 122
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b73a20d359664da81f0958873497d
+      internalID: 834051079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_246
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 130
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d957ad1d4a7e38a42b0e390efff768a7
+      internalID: -346163728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_247
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 134
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baef2341329283241a0574c8552a782c
+      internalID: 1446096076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_248
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 132
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27075cef50d443e49a0a755369facee1
+      internalID: -676788684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_249
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 116
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ca9c2d2a786f146b64580a831e4fd4
+      internalID: -1660989797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_250
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 75
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7b806663110854483d66c0ecfdf2ea
+      internalID: -850143699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_251
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 79
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459c2fd9ced648249a49b7a285dc3c73
+      internalID: -864845707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_252
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 124
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea365dde373c1294d9218aa8c3959910
+      internalID: -1518927504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_253
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 119
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec383c071a2c354486d322b30843825
+      internalID: 1927820101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_254
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 108
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d03c8dad3c2e0b4d907d67521593bb2
+      internalID: -623249364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_255
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 81
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a826a1d047d1f542abbafe8716aa8dd
+      internalID: 1915837230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_256
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 83
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669f685d2ece9c7438db184ddb11fe9d
+      internalID: 1901953646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_257
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 88
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fec422fe06ef94b9d011a03345db6d
+      internalID: 1698994857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_258
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f029781fdc66e649a5e8fc2ce849ddc
+      internalID: -273457869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_259
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 111
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc97389d054a5cf41900e911c4dc7424
+      internalID: -973126043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_260
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 93
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d9fe42d7606145b35f02158b1e13a
+      internalID: -1181767933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_261
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 92
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821f0425939b9784e8ae951dc70188a7
+      internalID: 894575915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_262
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 96
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d184a63e3015a44977d907d97ad5f0
+      internalID: -1055552852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_263
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 89
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de90ec947ddf9bc41bbf07ff9e2c88f8
+      internalID: -1724693662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_264
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 84
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0713625741bc5438abc4d24cf29920
+      internalID: 521338400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_265
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 88
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa5e47127129cf4ea070d651c7dae70
+      internalID: -1217489433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_266
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 76
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83763170c36e23d4eabdba62fc6e22ff
+      internalID: 1962721853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_267
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 89
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1fbd6155b1e12438d72fb9807bbe9e
+      internalID: 997835352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_268
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 78
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef6063f5db0af74d88f860482bfdfdd
+      internalID: -1378886273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_269
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 78
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136adb121c127fd40b0e406d8d51eabe
+      internalID: -1156316844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_270
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 83
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3505752a3ed163e42a6f519bfa6e3be9
+      internalID: -590152959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_271
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 73
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6b440ccdf8bea469f846198a76fda3
+      internalID: -1004560648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_272
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 80
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee4fdfcd85364a489234a78f52ca300
+      internalID: -1813195891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_273
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 75
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8158e966756cdea4382dec820ea2fd98
+      internalID: -1141287744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_274
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 70
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8db3683ec617a14eaaa561529773b81
+      internalID: -2131480104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_275
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b579e2495f6d4bc4bb4fc7483755b0a0
+      internalID: -1845642378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_276
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 69
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c25b648a562ff478f9d62478848b7e
+      internalID: 1579493632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkleMagicalLight_277
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 63
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b35cce3a9101c499f3aea1f3961631
+      internalID: 1182683646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 81b44f52cfcc69f428c9c08dcda23e93
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sparkleMagicalLight_0: 1346490178
+      sparkleMagicalLight_1: 1259483118
+      sparkleMagicalLight_10: 1346917211
+      sparkleMagicalLight_100: -2119620289
+      sparkleMagicalLight_101: -172957164
+      sparkleMagicalLight_102: 278234077
+      sparkleMagicalLight_103: 864555810
+      sparkleMagicalLight_104: 918290383
+      sparkleMagicalLight_105: -1555946552
+      sparkleMagicalLight_106: 1228813786
+      sparkleMagicalLight_107: 254824831
+      sparkleMagicalLight_108: 1832378397
+      sparkleMagicalLight_109: 2005185188
+      sparkleMagicalLight_11: 282571478
+      sparkleMagicalLight_110: -1055463673
+      sparkleMagicalLight_111: -1072281776
+      sparkleMagicalLight_112: -2091919089
+      sparkleMagicalLight_113: -1037933165
+      sparkleMagicalLight_114: -1756950177
+      sparkleMagicalLight_115: 436865244
+      sparkleMagicalLight_116: -777170756
+      sparkleMagicalLight_117: 1397182251
+      sparkleMagicalLight_118: 835200208
+      sparkleMagicalLight_119: -2074983280
+      sparkleMagicalLight_12: 1375085305
+      sparkleMagicalLight_120: 877077821
+      sparkleMagicalLight_121: 39018297
+      sparkleMagicalLight_122: 172544931
+      sparkleMagicalLight_123: 2040236363
+      sparkleMagicalLight_124: -654616599
+      sparkleMagicalLight_125: 1640451835
+      sparkleMagicalLight_126: 1784117416
+      sparkleMagicalLight_127: 49417561
+      sparkleMagicalLight_128: 1415398392
+      sparkleMagicalLight_129: 26897614
+      sparkleMagicalLight_13: 719223743
+      sparkleMagicalLight_130: -1339268094
+      sparkleMagicalLight_131: -545203902
+      sparkleMagicalLight_132: -717696979
+      sparkleMagicalLight_133: -2087915266
+      sparkleMagicalLight_134: -2020042868
+      sparkleMagicalLight_135: -158105964
+      sparkleMagicalLight_136: 522191292
+      sparkleMagicalLight_137: 1337438632
+      sparkleMagicalLight_138: -832087257
+      sparkleMagicalLight_139: 574543376
+      sparkleMagicalLight_14: 1428140126
+      sparkleMagicalLight_140: -316801744
+      sparkleMagicalLight_141: -1837410484
+      sparkleMagicalLight_142: 1022871163
+      sparkleMagicalLight_143: -423000701
+      sparkleMagicalLight_144: 354281827
+      sparkleMagicalLight_145: -2044206850
+      sparkleMagicalLight_146: 709518599
+      sparkleMagicalLight_147: 1179125514
+      sparkleMagicalLight_148: -1018248375
+      sparkleMagicalLight_149: 428023183
+      sparkleMagicalLight_15: -140518810
+      sparkleMagicalLight_150: 1647347000
+      sparkleMagicalLight_151: 939485658
+      sparkleMagicalLight_152: 1816443144
+      sparkleMagicalLight_153: -1174082029
+      sparkleMagicalLight_154: 1312365453
+      sparkleMagicalLight_155: 1568959479
+      sparkleMagicalLight_156: 1306836367
+      sparkleMagicalLight_157: 961232220
+      sparkleMagicalLight_158: -318834269
+      sparkleMagicalLight_159: 923519392
+      sparkleMagicalLight_16: -381125515
+      sparkleMagicalLight_160: -1831501923
+      sparkleMagicalLight_161: -1621797824
+      sparkleMagicalLight_162: -1789649241
+      sparkleMagicalLight_163: 249747304
+      sparkleMagicalLight_164: -257670106
+      sparkleMagicalLight_165: -1478097531
+      sparkleMagicalLight_166: -935059252
+      sparkleMagicalLight_167: 1754453501
+      sparkleMagicalLight_168: 785101724
+      sparkleMagicalLight_169: -2134955329
+      sparkleMagicalLight_17: -225478805
+      sparkleMagicalLight_170: 1697896321
+      sparkleMagicalLight_171: -2087835745
+      sparkleMagicalLight_172: 685170565
+      sparkleMagicalLight_173: 2079339374
+      sparkleMagicalLight_174: -849020533
+      sparkleMagicalLight_175: 1049265061
+      sparkleMagicalLight_176: 2017560889
+      sparkleMagicalLight_177: -1241716740
+      sparkleMagicalLight_178: 1404611074
+      sparkleMagicalLight_179: -860408720
+      sparkleMagicalLight_18: 70979030
+      sparkleMagicalLight_180: -502852094
+      sparkleMagicalLight_181: -2060087032
+      sparkleMagicalLight_182: 200209001
+      sparkleMagicalLight_183: 1653094763
+      sparkleMagicalLight_184: 2081478375
+      sparkleMagicalLight_185: -1615888129
+      sparkleMagicalLight_186: -1915392316
+      sparkleMagicalLight_187: -165141521
+      sparkleMagicalLight_188: 1335399103
+      sparkleMagicalLight_189: -1311099694
+      sparkleMagicalLight_19: -1128899338
+      sparkleMagicalLight_190: 1707103901
+      sparkleMagicalLight_191: -282278700
+      sparkleMagicalLight_192: -523244316
+      sparkleMagicalLight_193: -100116438
+      sparkleMagicalLight_194: -1160751467
+      sparkleMagicalLight_195: 80488793
+      sparkleMagicalLight_196: 623931250
+      sparkleMagicalLight_197: 479579887
+      sparkleMagicalLight_198: -1107497085
+      sparkleMagicalLight_199: 638406162
+      sparkleMagicalLight_2: -1588184071
+      sparkleMagicalLight_20: 285840982
+      sparkleMagicalLight_200: -784083344
+      sparkleMagicalLight_201: -725340327
+      sparkleMagicalLight_202: 862322144
+      sparkleMagicalLight_203: -492503308
+      sparkleMagicalLight_204: 424539432
+      sparkleMagicalLight_205: 1512787052
+      sparkleMagicalLight_206: 1814925108
+      sparkleMagicalLight_207: -438326930
+      sparkleMagicalLight_208: -2016102429
+      sparkleMagicalLight_209: 366594979
+      sparkleMagicalLight_21: 1983740342
+      sparkleMagicalLight_210: 531823587
+      sparkleMagicalLight_211: -2026744992
+      sparkleMagicalLight_212: 558446339
+      sparkleMagicalLight_213: -1314672859
+      sparkleMagicalLight_214: 126644688
+      sparkleMagicalLight_215: -1797217425
+      sparkleMagicalLight_216: -331772395
+      sparkleMagicalLight_217: -99287584
+      sparkleMagicalLight_218: 730837300
+      sparkleMagicalLight_219: -1919362541
+      sparkleMagicalLight_22: -1785726507
+      sparkleMagicalLight_220: -1221505343
+      sparkleMagicalLight_221: 1559215824
+      sparkleMagicalLight_222: -593829754
+      sparkleMagicalLight_223: -1042937953
+      sparkleMagicalLight_224: 631677254
+      sparkleMagicalLight_225: -867339234
+      sparkleMagicalLight_226: 2108654017
+      sparkleMagicalLight_227: -157098681
+      sparkleMagicalLight_228: 587339897
+      sparkleMagicalLight_229: 1415832467
+      sparkleMagicalLight_23: -885428933
+      sparkleMagicalLight_230: 8217999
+      sparkleMagicalLight_231: -932091925
+      sparkleMagicalLight_232: -2015190442
+      sparkleMagicalLight_233: 322802685
+      sparkleMagicalLight_234: -1099125203
+      sparkleMagicalLight_235: -1716266887
+      sparkleMagicalLight_236: 1282640603
+      sparkleMagicalLight_237: 1152253665
+      sparkleMagicalLight_238: 1693031451
+      sparkleMagicalLight_239: -558356503
+      sparkleMagicalLight_24: 987884366
+      sparkleMagicalLight_240: 1732453501
+      sparkleMagicalLight_241: -781183409
+      sparkleMagicalLight_242: -169988249
+      sparkleMagicalLight_243: -830971615
+      sparkleMagicalLight_244: 1500826829
+      sparkleMagicalLight_245: 834051079
+      sparkleMagicalLight_246: -346163728
+      sparkleMagicalLight_247: 1446096076
+      sparkleMagicalLight_248: -676788684
+      sparkleMagicalLight_249: -1660989797
+      sparkleMagicalLight_25: -2034329621
+      sparkleMagicalLight_250: -850143699
+      sparkleMagicalLight_251: -864845707
+      sparkleMagicalLight_252: -1518927504
+      sparkleMagicalLight_253: 1927820101
+      sparkleMagicalLight_254: -623249364
+      sparkleMagicalLight_255: 1915837230
+      sparkleMagicalLight_256: 1901953646
+      sparkleMagicalLight_257: 1698994857
+      sparkleMagicalLight_258: -273457869
+      sparkleMagicalLight_259: -973126043
+      sparkleMagicalLight_26: 1252701086
+      sparkleMagicalLight_260: -1181767933
+      sparkleMagicalLight_261: 894575915
+      sparkleMagicalLight_262: -1055552852
+      sparkleMagicalLight_263: -1724693662
+      sparkleMagicalLight_264: 521338400
+      sparkleMagicalLight_265: -1217489433
+      sparkleMagicalLight_266: 1962721853
+      sparkleMagicalLight_267: 997835352
+      sparkleMagicalLight_268: -1378886273
+      sparkleMagicalLight_269: -1156316844
+      sparkleMagicalLight_27: -130688516
+      sparkleMagicalLight_270: -590152959
+      sparkleMagicalLight_271: -1004560648
+      sparkleMagicalLight_272: -1813195891
+      sparkleMagicalLight_273: -1141287744
+      sparkleMagicalLight_274: -2131480104
+      sparkleMagicalLight_275: -1845642378
+      sparkleMagicalLight_276: 1579493632
+      sparkleMagicalLight_277: 1182683646
+      sparkleMagicalLight_28: -1935865248
+      sparkleMagicalLight_29: 1913353082
+      sparkleMagicalLight_3: 1840800120
+      sparkleMagicalLight_30: 322407878
+      sparkleMagicalLight_31: -874263992
+      sparkleMagicalLight_32: 1537548465
+      sparkleMagicalLight_33: 18434336
+      sparkleMagicalLight_34: 2085510552
+      sparkleMagicalLight_35: -1526280067
+      sparkleMagicalLight_36: 1026855909
+      sparkleMagicalLight_37: 426650285
+      sparkleMagicalLight_38: -715041986
+      sparkleMagicalLight_39: -2144081581
+      sparkleMagicalLight_4: 1187859794
+      sparkleMagicalLight_40: -1435153241
+      sparkleMagicalLight_41: -1235905970
+      sparkleMagicalLight_42: -999078875
+      sparkleMagicalLight_43: -967929913
+      sparkleMagicalLight_44: -1818788866
+      sparkleMagicalLight_45: 543334841
+      sparkleMagicalLight_46: -1124190673
+      sparkleMagicalLight_47: 2108039658
+      sparkleMagicalLight_48: -745145827
+      sparkleMagicalLight_49: 667512071
+      sparkleMagicalLight_5: -1955178366
+      sparkleMagicalLight_50: -1515573217
+      sparkleMagicalLight_51: -1492782196
+      sparkleMagicalLight_52: -345979393
+      sparkleMagicalLight_53: 1859106804
+      sparkleMagicalLight_54: 1523063350
+      sparkleMagicalLight_55: 2127677861
+      sparkleMagicalLight_56: -1980531398
+      sparkleMagicalLight_57: -1356033930
+      sparkleMagicalLight_58: 1272020663
+      sparkleMagicalLight_59: -1286632396
+      sparkleMagicalLight_6: 1835151459
+      sparkleMagicalLight_60: 1859388448
+      sparkleMagicalLight_61: -367350311
+      sparkleMagicalLight_62: 1770067952
+      sparkleMagicalLight_63: 1115515419
+      sparkleMagicalLight_64: -1967928865
+      sparkleMagicalLight_65: -1359053369
+      sparkleMagicalLight_66: 1195941067
+      sparkleMagicalLight_67: 1987399732
+      sparkleMagicalLight_68: 1404483216
+      sparkleMagicalLight_69: 1896625474
+      sparkleMagicalLight_7: -957222998
+      sparkleMagicalLight_70: -419955574
+      sparkleMagicalLight_71: 405215135
+      sparkleMagicalLight_72: -1963992049
+      sparkleMagicalLight_73: 2071284811
+      sparkleMagicalLight_74: 658489889
+      sparkleMagicalLight_75: -1497531160
+      sparkleMagicalLight_76: 918885914
+      sparkleMagicalLight_77: 1270518285
+      sparkleMagicalLight_78: 1460885883
+      sparkleMagicalLight_79: 664530282
+      sparkleMagicalLight_8: -1118173796
+      sparkleMagicalLight_80: -118033823
+      sparkleMagicalLight_81: -2021167165
+      sparkleMagicalLight_82: 1316144804
+      sparkleMagicalLight_83: 1420460863
+      sparkleMagicalLight_84: 1017228484
+      sparkleMagicalLight_85: 1249374423
+      sparkleMagicalLight_86: -643750499
+      sparkleMagicalLight_87: 315038739
+      sparkleMagicalLight_88: -14333853
+      sparkleMagicalLight_89: 1718383040
+      sparkleMagicalLight_9: 1570061307
+      sparkleMagicalLight_90: -313923531
+      sparkleMagicalLight_91: -341495363
+      sparkleMagicalLight_92: -1904370875
+      sparkleMagicalLight_93: -1248978833
+      sparkleMagicalLight_94: -650185286
+      sparkleMagicalLight_95: 946875631
+      sparkleMagicalLight_96: -2035409078
+      sparkleMagicalLight_97: 476106496
+      sparkleMagicalLight_98: -857540232
+      sparkleMagicalLight_99: 134505309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

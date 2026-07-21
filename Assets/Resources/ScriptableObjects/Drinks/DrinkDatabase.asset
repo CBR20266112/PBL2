@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15511933ebd8bc24cad5e3e5eac85ad7, type: 3}
+  m_Name: DrinkDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::DrinkDatabase
+  drinks:
+  - {fileID: 11400000, guid: bd2fbdd674902c844bcaede66246bcd7, type: 2}
+  - {fileID: 11400000, guid: 9b18c5650ed8a0449b5dfd2e1a2641d2, type: 2}
+  - {fileID: 11400000, guid: edbf794b3be1a3c46b475078c656519f, type: 2}
+  - {fileID: 11400000, guid: 16f7342afba7dc2419a79725e33cbc67, type: 2}
+  - {fileID: 11400000, guid: ffb2d9ffe01041047b39ee540d520643, type: 2}

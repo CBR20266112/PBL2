@@ -205,6 +205,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1993886970}
   - component: {fileID: 1993886969}
+  - component: {fileID: 1993886971}
+  - component: {fileID: 1993886972}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -276,7 +278,9 @@ Canvas:
   m_CanvasScaler:
     m_UnitMode: 0
     m_ReferenceResolution: {x: 1080, y: 2340}
-    m_ScaleMode: 0
+    m_ScaleMode: 1
+    m_ScreenMatchMode: 0
+    m_MatchWidthOrHeight: 0.5
     m_PhysicalUnit: 3
     m_FallbackScreenDPI: 96
     m_DefaultSpriteDPI: 96
@@ -292,3 +296,27 @@ Canvas:
     m_BlockingMask:
       serializedVersion: 2
       m_Bits: 4294967295
+--- !u!114 &1993886971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1993886968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5486065059cff7498674b3ee146bdce, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+--- !u!114 &1993886972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1993886968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a032f7cc893b87e45a961e6cff2d354b, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:

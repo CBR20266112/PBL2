@@ -1,0 +1,9 @@
+- [x] Step 1: Title Screen Visual Refinement
+  - [x] Modify `TitleScreenUIBuilder.cs` to add serialized properties for Sprites (Background, Button, Panel)
+  - [x] Adjust Layout (Pivot, Anchors, offsets, sizing) of Title screen elements for premium look
+  - [x] Assign actual sprite GUIDs in `Title.unity` EditorBuildSettings and Canvas components
+  - [x] Verify functionality (Start, Continue, Settings click propagation) in Title scene
+- [x] Step 2: Name Input Popup Visual Refinement
+  - [x] Replace solid color name input panel with actual panel sprite
+  - [x] Position and scale name input box, input field, and buttons (Confirm, Skip) for native UI feel
+  - [x] Verify functionality of Confirm/Skip buttons in Title scene

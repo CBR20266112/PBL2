@@ -25,6 +25,8 @@ public class TutorialManager : MonoBehaviour
 
     private void Start()
     {
+        RegisterListeners();
+
         // 새 게임일 경우만 튜토리얼 표시
         if (!PlayerPrefs.HasKey("TutorialCompleted"))
         {
@@ -38,13 +40,29 @@ public class TutorialManager : MonoBehaviour
 
     private void OnEnable()
     {
-        if (_nextButton != null)
-            _nextButton.onClick.AddListener(OnNextClicked);
-        if (_skipButton != null)
-            _skipButton.onClick.AddListener(OnSkipClicked);
+        RegisterListeners();
     }
 
     private void OnDisable()
+    {
+        UnregisterListeners();
+    }
+
+    private void RegisterListeners()
+    {
+        if (_nextButton != null)
+        {
+            _nextButton.onClick.RemoveListener(OnNextClicked);
+            _nextButton.onClick.AddListener(OnNextClicked);
+        }
+        if (_skipButton != null)
+        {
+            _skipButton.onClick.RemoveListener(OnSkipClicked);
+            _skipButton.onClick.AddListener(OnSkipClicked);
+        }
+    }
+
+    private void UnregisterListeners()
     {
         if (_nextButton != null)
             _nextButton.onClick.RemoveListener(OnNextClicked);

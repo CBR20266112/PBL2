@@ -1,0 +1,5123 @@
+fileFormatVersion: 2
+guid: c3e397ce4404235419a7d09753a8676d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leavesPetals_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 968
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f8aad8a82c434db3e62174483c914
+      internalID: -1168368490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 962
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1f5a41e7a9c384198addabca9faab6
+      internalID: -1204706895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 957
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118160836122dd6468f7d8c50a9a2ca5
+      internalID: -2059272427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 954
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c434c9b9b5f1724c9660679a5bc1afc
+      internalID: 439448110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 951
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39020c1ef22fe284caf3b0c67758af13
+      internalID: -394779853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 950
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0514bdb632eb6459b232dd883ea733
+      internalID: 1245606099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 948
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b76912e7a75fa4eba2fd7d54008dfb
+      internalID: 2142481778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_7
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 950
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ab5b7821e63e4b802eac18d88c1b2
+      internalID: -64968090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_8
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 963
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fac70c7a71f6b48a08dc1e4d70de63
+      internalID: 85330634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 891
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af6d74c1d999c94d9513de18b56df31
+      internalID: 811394584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 877
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1530b5e932f614da0f0d5998cfd294
+      internalID: -2017807502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 870
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e6f16e7a92cbf40ba8003c19224f67
+      internalID: -464501208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 868
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb0fe234f95f964d9dfd43362c529b4
+      internalID: -882604091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 865
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249c18c906b658b44bd04fb42f2bbc63
+      internalID: 991105660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_14
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 869
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c35c7211b5e9fe40b320d69447c5623
+      internalID: 1133098083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 869
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e71d19b38039ef4eb3918c6e7432b54
+      internalID: 1906152437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 875
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1249a2a99989448b296b0bac2118a3
+      internalID: -917646997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_17
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 886
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ba21c9558df64d80d8659346fad0c
+      internalID: 2095523279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_18
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 893
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d1dcde97b20284db717402f74c76a3
+      internalID: 2081627471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 815
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbc3609b473c9b4eae6c462eb6648cd
+      internalID: -1523709811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 809
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ba6ebf725dbc40b0c6418ec1b1df5
+      internalID: 1386873162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 807
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1015352d44de448b3ebab451719c62
+      internalID: 1121151061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_22
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 803
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d950a9af3ccecb84e821c7ce5bbf8952
+      internalID: 406745977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 804
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7e51b63507d654eb54fad2850ecbce
+      internalID: -1656482538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 802
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7999a19f04819b742b20d13e64821e6b
+      internalID: -1814826369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 802
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aeea15c53c21b4988a8b15a28865fa
+      internalID: 601485081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_26
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 808
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d641f1c77d1af12459dff4a3d01f1f5e
+      internalID: 1693961530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_27
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 817
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565973ebf714f004cb52de575232e256
+      internalID: -838868073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_28
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 820
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84efca0553230b4082a26c078cb1b0b
+      internalID: -1962793674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 745
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaf64f7a28871342b6ffbb8d74e5c17
+      internalID: 1231074745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 507
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1341c7ada3663db43b42df865a961e11
+      internalID: 837922477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 593
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d66afd548807408237cc671cee3c1
+      internalID: -502939648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 676
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1341a9c9db10eac48923d532ab47b179
+      internalID: 1553942850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 583
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027f7476306656549bf0e372385817b7
+      internalID: -630958619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 739
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f2022dbdb27464fb2aafce6ebdf9fd
+      internalID: 388056778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 664
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da577aedd076a42b37e7c1aa769cf3
+      internalID: 1863661354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 499
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cd4f42a6992bd47b2cd0e9d385b445
+      internalID: -247294037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 600
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeb3e9219e68a648953a35628d8914e
+      internalID: 1691224778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_38
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 661
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a5f3dacaadb02478d70de98ebdba8c
+      internalID: 442733767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 494
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1acc9b6043910b4ea5d673ebeeba8ac
+      internalID: 1924317230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_40
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 736
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ccb21f20352a244b55ef4735dd2126
+      internalID: 305803089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 618
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294970a7d546121419f2094b4165110b
+      internalID: 1076544518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_42
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 578
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a45a2196919ce4bb602a13cf49408e
+      internalID: 1586322724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_43
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 580
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa38dd3b577e4744b8f83717f9f2da95
+      internalID: -1602815858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_44
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 595
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9132623caffef84c8b89f594e377008
+      internalID: 1218524594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 568
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcc0ca3a09a83c468e997a3a2db75e9
+      internalID: 1401864302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_46
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 581
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55251e564f2a8040a211c4275ab90fb
+      internalID: 970799798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 489
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15b77842160d514c8dea1c52144128c
+      internalID: -645703009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_48
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 730
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f0e520b46408f48b3ebe8a3d85a0c2
+      internalID: 2133649527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 657
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e11ab9760de5d3459c3cdfbd4145596
+      internalID: -294348366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_50
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 631
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7081e8f77e0da4ea19a88a725614e5
+      internalID: 1270416371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_51
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 571
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50befacb2a9b4f04a9e6ece647197efa
+      internalID: 1791682445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_52
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 596
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73269f9dc1d923848a7d08e79d493af3
+      internalID: 2121807422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_53
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 601
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7ac9b33e9476d489fb8598ec8777e9
+      internalID: -1574328541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_54
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 650
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a997a920bcfc447a011ff3f49f793c
+      internalID: 374957660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_55
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 568
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6013a7e112ca040b14f45e051f4faf
+      internalID: 1739289034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_56
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 625
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b8e5872f236a040a5e4f2a90d5f4a3
+      internalID: -1065277435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 487
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643458e061bed7b4e89bdcbf900ad7c1
+      internalID: 152741303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_58
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 727
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ead34202b5bb845ababfd5dc49cf45
+      internalID: -1408920375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_59
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 626
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806cd03615c8b9e429e37fc573e0a6a4
+      internalID: -1770936004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_60
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 632
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf757fba0097ca41b6240eeb799021b
+      internalID: 490176594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_61
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 566
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aac22bb0b376b245b6a566fbf3510e2
+      internalID: 1596669658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 626
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750eb8751353c3642bd9b79d10ea754d
+      internalID: -1357950431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_63
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 591
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359c7cb93538ac8439bf7eb18e9cf12b
+      internalID: 23713587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_64
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 648
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b89f056eb5e97347b585efd23dd6309
+      internalID: 350540680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_65
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 570
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8bcc5f11ed9744585cb3ac04249789
+      internalID: -140175691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_66
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 486
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3d74afd25a18a45a266ee8a5b61fd7
+      internalID: -1614187618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 727
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454a0c4b84be124391c17091b29643b
+      internalID: 1659425152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_68
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 621
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df35c110f565dbb498b658fdb493e86c
+      internalID: 2009849040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_69
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 631
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781dcb0c910ec2948935a608d0877230
+      internalID: 1430575063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_70
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 566
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576cbd7f99342ef48a63b5593951718a
+      internalID: 1993843827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_71
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 568
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f11492ab09d14a9d392b0ebf827d4
+      internalID: 349124543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_72
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 601
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159e3d819da5a1a4f9e114e5b933bef8
+      internalID: 272948468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_73
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 610
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63def96855fd59046b6c809b461d7c06
+      internalID: -2038992671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_74
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 584
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871aa5981623e7d4fb9a4612439a7b94
+      internalID: -1737744282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_75
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 647
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7f80fc846e82c41881af9a4d2af352
+      internalID: 1501381713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_76
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 486
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636c07754994cf43a2ca98acc72d4a7
+      internalID: 1533478850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_77
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 593
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b0c0962052384094f6ec93a3102ee
+      internalID: 1509427907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_78
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 729
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c1490917cd53d4e8d782999475c085
+      internalID: 1356552472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_79
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 607
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df9a53d058d4b94390bfbdf1feedaf8
+      internalID: 553180665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_80
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 575
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c3979625b50c48a717f13a0a93503
+      internalID: 71564629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_81
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 622
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ac11c976031ec40bbf723ee27bd599
+      internalID: 296215502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_82
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 575
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8fa3081e7b728438936c0a16df735c
+      internalID: -518137241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_83
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 578
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22002a9a187bcdb49969589d92daa857
+      internalID: -899234425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_84
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 626
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a4a214c227c7a4a8326a99cde7a377
+      internalID: 276993912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_85
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 574
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7a8d1a3bbfd7c47a667f991908d5a6
+      internalID: -1071401750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_86
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 628
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e0dfb73e8a606438375b6a231e5802
+      internalID: 492681831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_87
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 580
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f176f9d3cf14d46b5b77b4e77052fc
+      internalID: -1125468094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_88
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 610
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdadcb0d910c014d83dc88d4e8c540f
+      internalID: -896828327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_89
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 591
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d7916fc0ceda4a857001f539b3ca9
+      internalID: -1962069159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_90
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 655
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977f0173699a2db48978d62c6e961f23
+      internalID: 1809164069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_91
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 491
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4bbbf73f73fa4aba0b0ab36a16004
+      internalID: 1085925413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_92
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 515
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db236896f3de264449085f01a236d8f7
+      internalID: 118071832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_93
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 601
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60696549acfb7c49afcac9d1fab9f4d
+      internalID: -294242166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_94
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 736
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb73dd0050ac6d44b00c77ab98971cf
+      internalID: -316332282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_95
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 589
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09542475bc15ed14a83f4232b398ca43
+      internalID: -445064854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_96
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 617
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353ddfdc5c685814da2e41a39b6bd7d6
+      internalID: -333605886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_97
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 533
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca3f54dd0c8ee14bbd14a60f154b7e8
+      internalID: -1735515624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_98
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 580
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa275ab14145424a8bed07a560b7e2d
+      internalID: -113046885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_99
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 580
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe5a9967b427a41b92d506bd928ead
+      internalID: 993762750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_100
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 620
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7cb5d9f3d3a094fb57df65d885cccd
+      internalID: -294833139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_101
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 486
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41c2a9f6abae44438349c8dff2c605c
+      internalID: 1312281812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_102
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 523
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55586e3a5afb06f47b645440dd34764e
+      internalID: -1853855894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_103
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 578
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee209ed115133f4d997f8014735a0b0
+      internalID: 1740003399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_104
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 496
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6575595f73a684498434d4dc8483369
+      internalID: -218488823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_105
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 586
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5abd03579768974d8e9d2dafa8eeac5
+      internalID: -536734288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_106
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 504
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ec0ddd86cbd14bb0f44a9ddd2caa2
+      internalID: 1392057187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_107
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 577
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7346292a9cde4004c84fe726c237abb1
+      internalID: 638772274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_108
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 528
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26809430b2d39994f8258bce1b716c9c
+      internalID: 1270524379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_109
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 503
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39164347e8beb1438f3af3f553e6bad
+      internalID: 347348174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_110
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 662
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1036433b725fb459afa122557ba860
+      internalID: -1218677945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_111
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 589
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ded002b7734e045af761deef5a547c
+      internalID: 915482207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_112
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 743
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e446cf2f30b0d4d96092464b27322f
+      internalID: 2065355054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_113
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 494
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516152e30663fc348b85a78f52be4c9a
+      internalID: 107492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_114
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 534
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef62398d05f794fb8a0993c224aa2b
+      internalID: -1660403864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_115
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 618
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb5ea771775ff7408480ad5f3690f15
+      internalID: -743646863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_116
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 610
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5184a339e8f624b98420640c771afa
+      internalID: -1698339472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_117
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 494
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69381a1f9bd45c4faa2b4fb65a5fc85
+      internalID: -640642876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_118
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 611
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b8d03afafe2d148aa7108e5aaccfae
+      internalID: -1603711244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_119
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 495
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb7aa4c6659f304b9d881f7bf27649f
+      internalID: -1179401387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_120
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 607
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d1206a2bce2c4883e3aacf90834a4
+      internalID: -1998635014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_121
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 532
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab6afed794b2a748aa9917a3dfe109d
+      internalID: 1269558078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_122
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 583
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f839a7756ed83264f928aa1f785fa2a1
+      internalID: 1437130849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_123
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 606
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f3669949de8c6489ed8b8c1348d4e1
+      internalID: -1171723794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_124
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 527
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfb1dafe745e8c46aca12cb79d1e24a
+      internalID: 765926251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_125
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 496
+        width: 47
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ed026a7e0a5245bc88298af29d584
+      internalID: -988870737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_126
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 426
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4bf3e251e6b35439c4dc5ab42d64ab
+      internalID: 1750303621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_127
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 418
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f675002a49b25a3488afa3a142760f09
+      internalID: -1294678077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_128
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 413
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c834bcc985e3c4469625b56e3d3c9ea
+      internalID: -795448255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_129
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 410
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd5b7162848734da7b553fa620cecb
+      internalID: -956076745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_130
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 406
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de09cc8850b8f4bb388dad2b72da05
+      internalID: -2055242473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_131
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 408
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f5f38e456366b499859684ebdee18e
+      internalID: 923874469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_132
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 413
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42127537618d1c4f83d98cadf8ca878
+      internalID: 662135718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_133
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 421
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992b43e7760b9e845b486b5558b702ae
+      internalID: -1871471162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_134
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 428
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06b9838e2481664bb496fb3621c28c9
+      internalID: 1119813420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_135
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 349
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bffc7902643dd94a983fb2f85f18f31
+      internalID: 717566485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_136
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 367
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8803e73eb8710284d9b44ac6e01357e8
+      internalID: 1388405852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 364
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da46498cedb7a17489e2c4fd83d724c4
+      internalID: 14413231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_138
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 344
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb717dd22cb3f648afa901677a0c535
+      internalID: -380340735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_139
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 367
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e044585be73a84044b6318ea4bb85719
+      internalID: 53546072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_140
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 345
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9116da36b861a2240813395e66f73a0f
+      internalID: 1638719896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_141
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 341
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893366f60faef4f4c9e4bea2a77e99c4
+      internalID: -1117252898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_142
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 344
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad986c07c3c226147bbba77847fe7d14
+      internalID: -110400871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_143
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 360
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3593cd6b25a546e4688e281520a0df43
+      internalID: -1322360071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_144
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 345
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1818dc627663b504eb325eb151ebeeb6
+      internalID: -1323203783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_145
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 365
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ff73678c0bdf44a9d7fcc40f51fb65
+      internalID: -836372948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_146
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 361
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f74870a079445f4e9425b38cd046b93
+      internalID: 1747852500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_147
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 349
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0f86b9b36ab5844b62e51048c57d26
+      internalID: 186478476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_148
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 361
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05665ba3d23a0148aa2b115aa0e3b2c
+      internalID: -1007154277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_149
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 362
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d58915b873d3b744bc10d8fe68bad83
+      internalID: -1563431449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_150
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 346
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c118d2ca184a92b4b93e6c7a6385c9f4
+      internalID: 1884957660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_151
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 364
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0eb81271b96034d8117b99a5e1f7cd
+      internalID: -76406764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_152
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 346
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736350fee6da61c4382041faee35775e
+      internalID: 296371348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_153
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 269
+        width: 37
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fe1d7b622360446975369cc2b963a1
+      internalID: 383719845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_154
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 345
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495a1b02c54164e4891db626f89a65d3
+      internalID: 1145077871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_155
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 354
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209beefd16f59a74fbd78d428b4715c0
+      internalID: -1766715208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_156
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 353
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce432aeaf601b1468b625e7e4cd4fb8
+      internalID: -1593575254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_157
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 354
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234c46ebf0586074e97de9e9af1b0f55
+      internalID: 148200233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_158
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 346
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc23ee77735f7ca4ebd3d02a7e5eed6a
+      internalID: 541627061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_159
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 359
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff75bf39682dcb4458fe7af4d7c466e1
+      internalID: 9510809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_160
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 357
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d2b3e50a9e7f64c9d698c013b83875
+      internalID: 1998845712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_161
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b65bafbd6b60e14bbbef50fd6fc2f67
+      internalID: -1558494097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_162
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9278667a14c2bf4b8d7ab8997737fb6
+      internalID: -371631938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_163
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 352
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e21804d0e6e7cd4395c55649cc320e2
+      internalID: 1603008958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_164
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 353
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2dea26beff41748b1c3bdd6c561e4c
+      internalID: -268771701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_165
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 344
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c10800458a07b4db4ee845339403bb
+      internalID: 1816284559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_166
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 341
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696c01e1f642d554288d11eada798266
+      internalID: 411593502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_167
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c86b6ecc3d4d14681f37c48cf48855
+      internalID: -1167255895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_168
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 341
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ddf40295737d144a2e6918b88a1a82
+      internalID: -1742399751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_169
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237ae30552ad53246bc1a1821e9058d0
+      internalID: 2129388208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_170
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 346
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38905f5d414e647a98fb3cc1047398
+      internalID: -1156051987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_171
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d243be88157724f40b196b65be407170
+      internalID: -1606686589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_172
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 346
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51f96206252b214189c202cc5959180
+      internalID: 551636588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_173
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 343
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3d92d8e78cbb541a496b0dbeb06b03
+      internalID: 147465271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_174
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 346
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edc2c1a301800c4d86d6d48717fa252
+      internalID: -1817783460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_175
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 345
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4461828fb29ec49b54ff6357c56439
+      internalID: -2048347504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_176
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 259
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e78de6708968c14db1ceb75799b7224
+      internalID: 1570841202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_177
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 259
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadac1748fe2e2b4ca6b25022a50f833
+      internalID: 674690421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_178
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 256
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e50436dd14f34ba71236cbc820499
+      internalID: -570663481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_179
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 250
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a9140f884102c4f85f8680860cd4f9
+      internalID: 906692474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_180
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 300
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc3d23bce7cf6b4db2becae119015c3
+      internalID: 481520627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_181
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 250
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da928071e1b31742a902e477226e976
+      internalID: 1620722588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_182
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 293
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108e449cc7aa8ce45be55df5374ccdc8
+      internalID: 1211335195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_183
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 287
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09878d0ca9983447b8c302f697ccccf
+      internalID: 1405390630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_184
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 271
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb529c495a0842b41bc1942bbe4ac407
+      internalID: -1697317313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_185
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 293
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1518340cce695be4d9a111d0cea54395
+      internalID: -1844322356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_186
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 291
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368d0058cde74584f9eadbeb47693b31
+      internalID: -114599180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_187
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 250
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21c8a89ec37c1d468630050145742bf
+      internalID: -840397118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_188
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 285
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f75e6f41f1ff4f4ca28ad1e39573f9e
+      internalID: -315983083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_189
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 289
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb57c0bac8b1b4bb35c09bf91616d5
+      internalID: -682862026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_190
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 287
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17c0c54ba2404542ac6668861ed970e
+      internalID: -1242618887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_191
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 272
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a939f58346ba0489c5b2a3a547f4f0
+      internalID: -1138011418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_192
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 257
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a51fa3e6aabcaa48869948d5fde07ca
+      internalID: 97321940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_193
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8431e3aee5e71044a52168aeb06358a
+      internalID: -2035314547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_194
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 273
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44200ae426c496e498d683192e6b6c0a
+      internalID: -1138154295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_195
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 261
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c46234002dbf04ea5292d9777b020f
+      internalID: 127617501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_196
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 253
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc9659c96cc2b041b4feffb0ed83098
+      internalID: 528810628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_197
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 257
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b728b202407c442b50af2ef4f9c84e
+      internalID: 1646527785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_198
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 175
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60124345c4484ca4585b503227cb0242
+      internalID: -596315423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_199
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 170
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a62b54fa16370458fe962b4b74c594
+      internalID: 1190724080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_200
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 164
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53116e63fea0b6c4388e09e969ab83a8
+      internalID: 948302871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_201
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 159
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6349cb0ae60f541b277bdbc40475fa
+      internalID: -1492924224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_202
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 150
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c178d741476460498bbb3ead18afcdd
+      internalID: 2091707587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_203
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1835bd8c74b3c4883a6fa961e88e51
+      internalID: -861540215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_204
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 163
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff162e44a9481b41aefd31a4893d4fb
+      internalID: 1472868431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_205
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 172
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654b688e20d5b7e4e8b330c83c04fb24
+      internalID: 115452281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_206
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 182
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2595caaa515c8a41a1ca2e7fcab8097
+      internalID: -1358500340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_207
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 184
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59014b520509cd43a9e762b3dc3c37a
+      internalID: 994533365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_208
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 55
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3cd1a4dfe0a1c43801dc71538eef4a
+      internalID: -248679374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_209
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 54
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b9fa7595f495b4bb1da3ea71e1725c
+      internalID: -322889298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_210
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 53
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492da06c8d155b14f8c0f733acd80529
+      internalID: 1226154893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_211
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 53
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0dcff92f85aaf4e8587eca40298e3f
+      internalID: -645073115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_212
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 51
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c94d91b3fb6a84bb221f1933486950
+      internalID: 1275485908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_213
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 50
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5959031daba4d842a507b076a211d27
+      internalID: -1543939886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_214
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 53
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d941bc0b2917c234ebe1272a11cb0123
+      internalID: 1118741516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_215
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 55
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22cb1d0d8f6e254e866c6f13d43285b
+      internalID: 535686519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leavesPetals_216
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 56
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5f12815589c244cb7a0f699c9db14f
+      internalID: 1926863300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e21d7ec428685234ea68e460deded733
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      leavesPetals_0: -1168368490
+      leavesPetals_1: -1204706895
+      leavesPetals_10: -2017807502
+      leavesPetals_100: -294833139
+      leavesPetals_101: 1312281812
+      leavesPetals_102: -1853855894
+      leavesPetals_103: 1740003399
+      leavesPetals_104: -218488823
+      leavesPetals_105: -536734288
+      leavesPetals_106: 1392057187
+      leavesPetals_107: 638772274
+      leavesPetals_108: 1270524379
+      leavesPetals_109: 347348174
+      leavesPetals_11: -464501208
+      leavesPetals_110: -1218677945
+      leavesPetals_111: 915482207
+      leavesPetals_112: 2065355054
+      leavesPetals_113: 107492
+      leavesPetals_114: -1660403864
+      leavesPetals_115: -743646863
+      leavesPetals_116: -1698339472
+      leavesPetals_117: -640642876
+      leavesPetals_118: -1603711244
+      leavesPetals_119: -1179401387
+      leavesPetals_12: -882604091
+      leavesPetals_120: -1998635014
+      leavesPetals_121: 1269558078
+      leavesPetals_122: 1437130849
+      leavesPetals_123: -1171723794
+      leavesPetals_124: 765926251
+      leavesPetals_125: -988870737
+      leavesPetals_126: 1750303621
+      leavesPetals_127: -1294678077
+      leavesPetals_128: -795448255
+      leavesPetals_129: -956076745
+      leavesPetals_13: 991105660
+      leavesPetals_130: -2055242473
+      leavesPetals_131: 923874469
+      leavesPetals_132: 662135718
+      leavesPetals_133: -1871471162
+      leavesPetals_134: 1119813420
+      leavesPetals_135: 717566485
+      leavesPetals_136: 1388405852
+      leavesPetals_137: 14413231
+      leavesPetals_138: -380340735
+      leavesPetals_139: 53546072
+      leavesPetals_14: 1133098083
+      leavesPetals_140: 1638719896
+      leavesPetals_141: -1117252898
+      leavesPetals_142: -110400871
+      leavesPetals_143: -1322360071
+      leavesPetals_144: -1323203783
+      leavesPetals_145: -836372948
+      leavesPetals_146: 1747852500
+      leavesPetals_147: 186478476
+      leavesPetals_148: -1007154277
+      leavesPetals_149: -1563431449
+      leavesPetals_15: 1906152437
+      leavesPetals_150: 1884957660
+      leavesPetals_151: -76406764
+      leavesPetals_152: 296371348
+      leavesPetals_153: 383719845
+      leavesPetals_154: 1145077871
+      leavesPetals_155: -1766715208
+      leavesPetals_156: -1593575254
+      leavesPetals_157: 148200233
+      leavesPetals_158: 541627061
+      leavesPetals_159: 9510809
+      leavesPetals_16: -917646997
+      leavesPetals_160: 1998845712
+      leavesPetals_161: -1558494097
+      leavesPetals_162: -371631938
+      leavesPetals_163: 1603008958
+      leavesPetals_164: -268771701
+      leavesPetals_165: 1816284559
+      leavesPetals_166: 411593502
+      leavesPetals_167: -1167255895
+      leavesPetals_168: -1742399751
+      leavesPetals_169: 2129388208
+      leavesPetals_17: 2095523279
+      leavesPetals_170: -1156051987
+      leavesPetals_171: -1606686589
+      leavesPetals_172: 551636588
+      leavesPetals_173: 147465271
+      leavesPetals_174: -1817783460
+      leavesPetals_175: -2048347504
+      leavesPetals_176: 1570841202
+      leavesPetals_177: 674690421
+      leavesPetals_178: -570663481
+      leavesPetals_179: 906692474
+      leavesPetals_18: 2081627471
+      leavesPetals_180: 481520627
+      leavesPetals_181: 1620722588
+      leavesPetals_182: 1211335195
+      leavesPetals_183: 1405390630
+      leavesPetals_184: -1697317313
+      leavesPetals_185: -1844322356
+      leavesPetals_186: -114599180
+      leavesPetals_187: -840397118
+      leavesPetals_188: -315983083
+      leavesPetals_189: -682862026
+      leavesPetals_19: -1523709811
+      leavesPetals_190: -1242618887
+      leavesPetals_191: -1138011418
+      leavesPetals_192: 97321940
+      leavesPetals_193: -2035314547
+      leavesPetals_194: -1138154295
+      leavesPetals_195: 127617501
+      leavesPetals_196: 528810628
+      leavesPetals_197: 1646527785
+      leavesPetals_198: -596315423
+      leavesPetals_199: 1190724080
+      leavesPetals_2: -2059272427
+      leavesPetals_20: 1386873162
+      leavesPetals_200: 948302871
+      leavesPetals_201: -1492924224
+      leavesPetals_202: 2091707587
+      leavesPetals_203: -861540215
+      leavesPetals_204: 1472868431
+      leavesPetals_205: 115452281
+      leavesPetals_206: -1358500340
+      leavesPetals_207: 994533365
+      leavesPetals_208: -248679374
+      leavesPetals_209: -322889298
+      leavesPetals_21: 1121151061
+      leavesPetals_210: 1226154893
+      leavesPetals_211: -645073115
+      leavesPetals_212: 1275485908
+      leavesPetals_213: -1543939886
+      leavesPetals_214: 1118741516
+      leavesPetals_215: 535686519
+      leavesPetals_216: 1926863300
+      leavesPetals_22: 406745977
+      leavesPetals_23: -1656482538
+      leavesPetals_24: -1814826369
+      leavesPetals_25: 601485081
+      leavesPetals_26: 1693961530
+      leavesPetals_27: -838868073
+      leavesPetals_28: -1962793674
+      leavesPetals_29: 1231074745
+      leavesPetals_3: 439448110
+      leavesPetals_30: 837922477
+      leavesPetals_31: -502939648
+      leavesPetals_32: 1553942850
+      leavesPetals_33: -630958619
+      leavesPetals_34: 388056778
+      leavesPetals_35: 1863661354
+      leavesPetals_36: -247294037
+      leavesPetals_37: 1691224778
+      leavesPetals_38: 442733767
+      leavesPetals_39: 1924317230
+      leavesPetals_4: -394779853
+      leavesPetals_40: 305803089
+      leavesPetals_41: 1076544518
+      leavesPetals_42: 1586322724
+      leavesPetals_43: -1602815858
+      leavesPetals_44: 1218524594
+      leavesPetals_45: 1401864302
+      leavesPetals_46: 970799798
+      leavesPetals_47: -645703009
+      leavesPetals_48: 2133649527
+      leavesPetals_49: -294348366
+      leavesPetals_5: 1245606099
+      leavesPetals_50: 1270416371
+      leavesPetals_51: 1791682445
+      leavesPetals_52: 2121807422
+      leavesPetals_53: -1574328541
+      leavesPetals_54: 374957660
+      leavesPetals_55: 1739289034
+      leavesPetals_56: -1065277435
+      leavesPetals_57: 152741303
+      leavesPetals_58: -1408920375
+      leavesPetals_59: -1770936004
+      leavesPetals_6: 2142481778
+      leavesPetals_60: 490176594
+      leavesPetals_61: 1596669658
+      leavesPetals_62: -1357950431
+      leavesPetals_63: 23713587
+      leavesPetals_64: 350540680
+      leavesPetals_65: -140175691
+      leavesPetals_66: -1614187618
+      leavesPetals_67: 1659425152
+      leavesPetals_68: 2009849040
+      leavesPetals_69: 1430575063
+      leavesPetals_7: -64968090
+      leavesPetals_70: 1993843827
+      leavesPetals_71: 349124543
+      leavesPetals_72: 272948468
+      leavesPetals_73: -2038992671
+      leavesPetals_74: -1737744282
+      leavesPetals_75: 1501381713
+      leavesPetals_76: 1533478850
+      leavesPetals_77: 1509427907
+      leavesPetals_78: 1356552472
+      leavesPetals_79: 553180665
+      leavesPetals_8: 85330634
+      leavesPetals_80: 71564629
+      leavesPetals_81: 296215502
+      leavesPetals_82: -518137241
+      leavesPetals_83: -899234425
+      leavesPetals_84: 276993912
+      leavesPetals_85: -1071401750
+      leavesPetals_86: 492681831
+      leavesPetals_87: -1125468094
+      leavesPetals_88: -896828327
+      leavesPetals_89: -1962069159
+      leavesPetals_9: 811394584
+      leavesPetals_90: 1809164069
+      leavesPetals_91: 1085925413
+      leavesPetals_92: 118071832
+      leavesPetals_93: -294242166
+      leavesPetals_94: -316332282
+      leavesPetals_95: -445064854
+      leavesPetals_96: -333605886
+      leavesPetals_97: -1735515624
+      leavesPetals_98: -113046885
+      leavesPetals_99: 993762750
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6158 @@
+fileFormatVersion: 2
+guid: 180ff2c7e9b918e4e98ad1ca07c0ca9f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 936
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab9ee319cdc4c445999f6ea11d4183b
+      internalID: -1202074366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 934
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868fac6c34e20224791951fcc864113f
+      internalID: -639045068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 976
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc518f087feb14f4390a7e554ca4e586
+      internalID: -1061639864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 929
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec816d81cb4af24d946329743edf4c5
+      internalID: 1464310395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 930
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c548c6127a1a0134da1fed548eabff4f
+      internalID: 1805052626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 931
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059442a15cbb064a825e46cd2326c7c
+      internalID: 1315382444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 933
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b9883376ceb604d962991712f5cbb5
+      internalID: -1924240440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 935
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bae49a76a15ef4c9410521f80d3a74
+      internalID: -884727563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 964
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482a3e917ad46374ea93b6cad5bceae0
+      internalID: -1202328872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 961
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7f747e09b6fd04e9a1bb04e129a149
+      internalID: -499680988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 940
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979715cf9221fed458af12111c8ad5b2
+      internalID: -10659196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 961
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e857f362c73774fb4cb4a2c398b5ba
+      internalID: 934707479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 967
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993dfbadad7281d4fbecdfe425b9ee4b
+      internalID: -2142019474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 951
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5878e75f898d5b4287cd7c1e4cf30da
+      internalID: 1176029592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 960
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc51f3c65726b640871a1fe8772e8eb
+      internalID: -1825209050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 941
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77dc0546151b5b45a2ad5961b9a4e66
+      internalID: 359832799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 947
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce4b7c0be5ae37468df8cd218cea985
+      internalID: 1751251905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 949
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029a489bc79b1c94586a3cdc5dc9d879
+      internalID: -904003392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 954
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e392d5e6957d049bf13fd4687501ec
+      internalID: -1827559200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 943
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a21f4b1f945bd49a520ecf25b8edb7
+      internalID: 1128746904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 849
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b19f0c5c4981a941af23f90fc7baab0
+      internalID: 1655913963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 845
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f07e5adf68956842ac958ee2fb99063
+      internalID: -290892378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 842
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d396eaa2e93f04887fe63197de1a4d
+      internalID: -721959830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 837
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5034ba88430f674b9baa5f0a2c93fa2
+      internalID: 1806671710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 832
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d616a1292f6d65043805c1ee3e9e114f
+      internalID: 191520111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 832
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c8c1903d57abd4b92961e874d0707c
+      internalID: 895761587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 829
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85577b0bde49b0849b04035fd6612bc6
+      internalID: -1630805275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 837
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb28682cd4450c4f91295a14e35df80
+      internalID: 2017740952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 852
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d584024e80766840a9fbbd0650b237c
+      internalID: -728932777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 855
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2e69da95c818548a6baf60be69b137
+      internalID: 1048868131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 738
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf17e072df22c3340b894f380efabc01
+      internalID: -910555262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 767
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5259d0c6ecfc2e4e80a4108348f6b27
+      internalID: -2001142881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 734
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01150dcb75f1dc8439da6de3a46deba9
+      internalID: -1268667806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 729
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5856e009f071c4bb6d12047656edf3
+      internalID: -1756360399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 724
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa16245c1622b8438313a1dbc0c9683
+      internalID: 1019239552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 721
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419ce3bebb5b1b418c17a03784fb834
+      internalID: -363948778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 721
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c32f69e0e79744384ad59b5609e53f
+      internalID: -563341756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 721
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49f691148adcd8408aacd7523b3d029
+      internalID: 1897935537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 724
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c630f4877b42f4842bedcdae23589165
+      internalID: 1833606891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 728
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20f2844f0de01641b4e6f71c3f33d00
+      internalID: 893161042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 644
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a351bf838a4ea442bb1985e4119ba4e
+      internalID: -786234261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 755
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9495000e9191d244a28a20c71459889
+      internalID: 2053212994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 750
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c353a26fc4e4d45be2cffc455283d7
+      internalID: 343965630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 740
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7176443a9487d2e4c9d9d97b03fa2028
+      internalID: -1573736802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 744
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb35b1ec843a60b4894416546c5b93cd
+      internalID: 1579692913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 737
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5207e6a8fa73d3f43be3ab48884ae462
+      internalID: 1554682889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 690
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19100fc124b921543ad65b323d483183
+      internalID: 1816497059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 690
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d7e0e38dc0eda4aaf99c5b38add8c2
+      internalID: 167663525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 696
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88924c627f9a2b4aa38bcc208e7f925
+      internalID: 1201702635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 690
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8191fb99b8e45a4680897f6ed548ede
+      internalID: 176249055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 690
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964f39e43c11a3b45915246b15d80c32
+      internalID: -374911266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 687
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dc68f64452f3048adcbd0cd06a9193
+      internalID: -2021865017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 680
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad306fd56b28d459b7b12043b5e24e
+      internalID: -1155103558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 686
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bcbad793ca5dd45b91e17068c2d390
+      internalID: -1220674187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 680
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b29f398e2163e40972c76d37763941
+      internalID: 1811708420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 681
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f25c312f70fa444daabd89fd20c3491
+      internalID: 701975320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 651
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e306073e32a0a784ebb93813e5ef9104
+      internalID: 1140068525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 688
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdbfec47f02e3f45b1e72189541a71d
+      internalID: -1322857250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 636
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d212a7df0ed7f44295d072b7afdd31c
+      internalID: 882036010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 682
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fce6ea0a1e3b9942b32b5f3fceedbf7
+      internalID: -82567562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 670
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e3f3c83f019b9448de78804209bc84
+      internalID: 1932068971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 681
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff18d50efcea1b349a00f970f5ec4c2b
+      internalID: 1602611262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 679
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf924cafd6cdbe4cba5b2e90b56584b
+      internalID: -2045054062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 677
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a231d99fa6ba814c85bbae19b0ce0a0
+      internalID: 1329739047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 646
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2536bbc6aa036a54db9ab1293b78b35d
+      internalID: -141975510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 647
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e52e977f738bb4ca0672d43da007c4
+      internalID: 184291948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 673
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b0883b7361b4946ae99eca9af3bd74
+      internalID: 1124064614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 675
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4969e2536b11414e8f3be98e680f003
+      internalID: 925966589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 680
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fa5755f59f15045810a026eb0ef8a1
+      internalID: -200924619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 648
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd80cdc0d0a93644ba24ba8824e3f7b
+      internalID: -1640950088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 649
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973abb6b62e727a4db5fd76f5139c4a6
+      internalID: 1964276679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 681
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222575930a63ebf4c9e008cf9c81cf3d
+      internalID: -1944470081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 670
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa83912bfd5d704bab1674b1b1e3c54
+      internalID: 535823525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 669
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa15e63ebd96d4bb9b88afaec93b71
+      internalID: -97428725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 654
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4469d50d8d21af44a9a64380cf8ae7e
+      internalID: -1724254288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 670
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017ee966444ab7c48b8ae026e46a0160
+      internalID: 2102162242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 662
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19451b3a57069ee41b2bcc8b45f22af3
+      internalID: -1154304719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 675
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86dc4172e09c7848b646c1705c98e34
+      internalID: -1826196947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 672
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927580eab1cf0b34182c601984fc0a73
+      internalID: 1235287171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 670
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d25074e2973946aa1cb743c255190
+      internalID: 1828286740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 671
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e412e51bb70b7644aa6786df0adee418
+      internalID: -1109323769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 668
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd305845d1376d244844e79124f0cc14
+      internalID: -1750467118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 665
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd102fd87bcb674aa2334ae45abbb20
+      internalID: 573153821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 664
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9751c067f3ccdee4e89bcdb41bb8552a
+      internalID: -1526107619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 665
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca67ba123e4730489f67ca5062d4314
+      internalID: -657649948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 658
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6403ba6596accb4f84c3533f1856e3f
+      internalID: -1050959445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 648
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1de8052cb20c4b499ce1cb7476346ab
+      internalID: 254698907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 659
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44245ee7bb47a0945b094125176512e7
+      internalID: 1169969231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 659
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9445f44ec15f2f14c81f951b70a0f795
+      internalID: 324556482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 659
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9808a3906441da34babdfc88c38e4d70
+      internalID: 467636144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 659
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2018d5e546ea47e4e95c7f063f7727f8
+      internalID: 56445803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 654
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2500da66a8026004591cab2e82d8a025
+      internalID: -1037396071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 645
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8101cfcd9c345104cb0f2b93472a3ad0
+      internalID: -999666951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 641
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5759145d70704e4e81cf6777e13f407
+      internalID: 414509059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 654
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06811d05a297d974fa85bfcf897149e3
+      internalID: -749441519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 659
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24acdb5d8e593ad4682844be0dc77192
+      internalID: -2032746292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 645
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f28c9126dac34e89d675c3c2e1f9f
+      internalID: 235020829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 645
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c3526ff4922b840b7e50e335432159
+      internalID: -80071193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 653
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b4ea80ede13d54bb0dd76c5ed176d9
+      internalID: 407604189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 650
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710c6710115f6a149adfd71e36e849f6
+      internalID: 504116476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 645
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f471172ae2ed6a14e950186ffefb79bf
+      internalID: 1527643268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 644
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0bd6974766860488ed419f1da7f098
+      internalID: -441662753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 642
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21a5c59375534846ae662287f014d6b
+      internalID: 1844640757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 644
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d0d43a1c139ce4ba8189eb9140626f
+      internalID: 590299373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 643
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc124310ab02c84d81fac2882169d09
+      internalID: 1995289967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 638
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f488c5fce3bee94ca67afb9ad529a38
+      internalID: 2013368532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed2adf0ba911f94ca417f4dfd18e964
+      internalID: -1860535789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 642
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47351a71fac85541a7eaca900f5093b
+      internalID: -1481302456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 642
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c2116542f249a4d9425672e5946ade
+      internalID: -921423237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 638
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db43fb300bfc6b846a23d73c2b7501c4
+      internalID: 350491685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 639
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf3cb31855cbb24796a9d585881f030
+      internalID: -1457139934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 644
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e47217e1497c9d40a501d79d21241bd
+      internalID: 1379282297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 636
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefb6e2484ef72a4bacc4e623396a357
+      internalID: 97592634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 635
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c633701a027944948138b19089dc2
+      internalID: 509522733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 629
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c265a6bae476774bb926c300285a2db
+      internalID: -846049298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 632
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4fba991e289148b703ae4cca2e7f9
+      internalID: -1452076178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 636
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cb218f59c455d4b98b42f8332f9e97
+      internalID: -1297092136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 563
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbb7258cb08e5b46ba4b8741bfa499e
+      internalID: -289282962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 563
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6dd7e1ba2586441afc06ff629846c7
+      internalID: -18495919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 560
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd4a16e8c9478249b991260f5de866d
+      internalID: 214458635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 559
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f4f9cc90805f64d9b5810e742f634f
+      internalID: 1264288166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 560
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68c3f7b3db1cb9448a3e857e5f45a9a
+      internalID: 699928758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 562
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2d61678dbbb8449bdd0ca3246ef2d9
+      internalID: 297836738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 564
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36675e469359bc44c9f9aae80e98d476
+      internalID: -801463022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 566
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b32a7415f184745908a5474e29ad71
+      internalID: 73049507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 570
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c42389f77171e84bbf28d4a9b55b6b1
+      internalID: 820102284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 573
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9c23b8bf410134ea0013953e23a672
+      internalID: -1597403894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 471
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e08299c84fc824e8669f435eefa920
+      internalID: 1324651380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 473
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c61144b821ba443b9197f66e2740cf
+      internalID: -1894153581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 473
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a7270f830984a409f1d65c415f1f62
+      internalID: -389872071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 470
+        width: 80
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d095b7a60d2b4f4f9d7220f81a280f8
+      internalID: 924946520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 468
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae97a7d4b4c82ab408d756531ef5e054
+      internalID: -444421904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 464
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730112bf8d7aca24e9d7bfdbf9a6b270
+      internalID: -1279211446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 464
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f864ae5b4348614b94b46ba6b6949e5
+      internalID: -891428291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 469
+        width: 83
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1976a9cc18248ae45a603ba255182f47
+      internalID: 474095520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 475
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a665722bd2a2240a9fd6ccdb34b919
+      internalID: -410104651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 480
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378303e54bacf334aadac600542137ca
+      internalID: -2045368564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 385
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96141f5e40abbdb40b0d5bd7feceb798
+      internalID: 1385619878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 381
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605d3161f6a9aae4a98ed0e776320ff0
+      internalID: 1816910252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 421
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4002ec0d28e257b45a9c911d870cac71
+      internalID: 1480359719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 378
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a689276d6bd009546afdb958c649f39f
+      internalID: -296084074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 382
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cf0a5fe68209b4fb56f8399d166c11
+      internalID: 179821584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 376
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2feb2374075e4e49824a0d37b7bf4fb
+      internalID: 169943308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 419
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6335ae73c5b8f094b9b35024d16bf01e
+      internalID: -1984767248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 417
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fb084c64782964a8ae7bd0c30c1922
+      internalID: -780689153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 415
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e646bac9369e94e8d0e7824ca6cde6
+      internalID: 113268450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 409
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114b5fcb0b0d59c41baf718b561461c4
+      internalID: -1132001091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 412
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fbde0a28d498b40bbd2fd3dcf6cb13
+      internalID: 1471306778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 403
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265108fa5e734d24ba03a178fb532818
+      internalID: -399490585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 399
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c3461368717c44caa8c43009559c84
+      internalID: -1111529453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 407
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c5fb01f487a6c4eb97df6c75c8603c
+      internalID: -2114856371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 391
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea5f9a8c5cf1745a49ebf4fdfd9f27
+      internalID: 1511755251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 411
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e91a57ca509e14f8e8f69639de63ca
+      internalID: 1519523134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 409
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce4378d11b061d479e70ee55b8c8a78
+      internalID: 2050301230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8f3aa81cc08be4f969023c9f17b6cb
+      internalID: 1670952245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 409
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b154035e89a5504daedf9f088ec59ee
+      internalID: -936129070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 407
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9355e992c6413cc409c3ac8aaaf3b2b4
+      internalID: -1092660981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 401
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563077b566f021843af8f8ea977e35e9
+      internalID: 1387204257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 401
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc84720565164074095ae71825193f8b
+      internalID: 2055427587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 375
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4499a6a1a5deb6d439ae8f2c8971ebf6
+      internalID: 379269657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 386
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a164023e1ff865a419eba3dad692c969
+      internalID: 1592488243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 386
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca48cfe9b3928849806a8b1aff84235
+      internalID: -897969551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 405
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007669e0d7db14a4e87bd329a75a8be0
+      internalID: -1061913711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 388
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d708f0c9c9fd743a1afb2516ef1b7a
+      internalID: 1485056960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 402
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7d3d4eaeb4c34f8266eaad5b7735e
+      internalID: -1083664052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 376
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3250e7421f5a4aa55f3f5213cbed1
+      internalID: -2072012890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 377
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2ee0e9e1d92c84394aa3ae7a5f106e
+      internalID: -1810192296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 390
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4f39d2ab5a1664ea2278e148f5e7a2
+      internalID: -1444953270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6fa4bcedd1e0a48ab77dfe69316611
+      internalID: -337642252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 292
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8309f39337ff1141bf406bb7ad9e093
+      internalID: -1981022944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 379
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c4f111d32e7a4686802a0f9ad81e0
+      internalID: -1406125201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 283
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac714bd6233fc468763b9eaa083bc4
+      internalID: -290417589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 380
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58edf36b53ec0246aa2b0b4e4b22e3e
+      internalID: 759242296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 276
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34161b3401467d04191701c2e6d1b377
+      internalID: -1837733444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 275
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4135f06fa591e464c88f4c40c6c21d26
+      internalID: 120373934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 310
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88200be7088d5148b63d3bbe531724c
+      internalID: -1424108315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 270
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7eb42bfd2315f46a2e87415cf98246
+      internalID: -765120060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5e0bbf7927c074fbb004050224cff1
+      internalID: 886758785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 313
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345a90f3a5cf8c40ab80b58d396168a
+      internalID: -1123267969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 334
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef0f13629422ff4095bf8c5517d135e
+      internalID: 1071221710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 373
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bf0427b6c1f7e49bdb34d7a3b88892
+      internalID: 93151664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 336
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3125c376dfc4348ad3585801c6b1ca
+      internalID: 399638028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 336
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aab966070cd6db4d9818483c93c44a1
+      internalID: 1249821579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 328
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a26e02fda4c0e49981e772a97c65a5
+      internalID: 403270171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 304
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276bd8ebdbc7f0419b9bed6dc627a32
+      internalID: -146624068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 314
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adce1e4f40b5ac143b9c489bc8d2a95d
+      internalID: 1294603205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 374
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342387b71f0656741b383c63414c530c
+      internalID: -952262793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 332
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8f6636bd938ec47b7368064ea605cd
+      internalID: 1356384741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 383
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b415602634455044a9aec3f32ec516e5
+      internalID: -158371156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 328
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae0d33d3f3e97745ae319b3318ac921
+      internalID: 2119132922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 306
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45724f84a946b5f4b9e807ad93c17a33
+      internalID: 1391513984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 316
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f911fa6e0804cb4883005f97a637b71
+      internalID: -339248455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 334
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4426cd8c8321e942a711de61abccb3e
+      internalID: 1253874822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 382
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ae2b3a3b2ada346bf10288bcee2033
+      internalID: 2060681429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 308
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a96c2d8398241e409d8a68c0f64e9de
+      internalID: -1071903134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 322
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48abeb02611ccf429a45fed3df12f38
+      internalID: 770119200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 306
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5925e8670d35854fb3b777a49f8e904
+      internalID: -45274453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 273
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189fb989425547b4ea02906432abd82b
+      internalID: -1558537124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 305
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aaac70089812a49962952c8b840afa
+      internalID: -1518037608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 300
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0aa0a8a9a64c24c907d12563a0e9f3
+      internalID: -678571248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 303
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314100b76686ea747b23f800bb55a5b2
+      internalID: 308942425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 291
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42c9259e405c624d9d206489b2dadc5
+      internalID: 2034680500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 280
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f7698ce6f014d468ae68466887b2cc
+      internalID: -1863784863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 300
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0a025e447ece54996e9d1396df20c2
+      internalID: 800068097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 286
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3eba4a42e3a0344b6adc8dfa1eb9f0
+      internalID: -1057499099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 284
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a710daf279a64481c91347f224597
+      internalID: -263358322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 287
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7688220f59939154a9c6cc1b4b078646
+      internalID: -1918944792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 291
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f487160836d1484ab811f9448fb8b62
+      internalID: -966988851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_208
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 284
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea5500c30e7a7843a2f97f4da8a7ac8
+      internalID: 1222477596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_209
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 284
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d590d86a07ac6841b5bb7fd78293c25
+      internalID: -1584982500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_210
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 281
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2a98d21324c442bbcdce5db028ea6
+      internalID: -1870854751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_211
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 273
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aa95f65f284ae419b2694e001f6835
+      internalID: 180364112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_212
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 279
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f28ffccbcc194b88d176a306d02f3
+      internalID: -1868306912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_213
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 282
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9e2a2d0c3c4a6439f6e4776e38a820
+      internalID: -567539027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_214
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 188
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156ae820cefff95478fee3c3610c7166
+      internalID: 297995364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_215
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 181
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc22dcf58b9c8c49bffb2387084ee5f
+      internalID: -776769062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_216
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 177
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2f7af744834846af11a5d3310ddc0
+      internalID: -1376718405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_217
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 173
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e9e72f14d0bec458df383cb4ef927e
+      internalID: -775653743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_218
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 171
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bbf665961fdfc40bd440094b28ef73
+      internalID: -395302336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_219
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 170
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73463f2b0d2724caea271593dd99de
+      internalID: -1983651664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_220
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 170
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027cc2a4d726d32448f198ba4b32bba5
+      internalID: 2058835501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_221
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 215
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6f1148fff7c249aaf608db2594447
+      internalID: -1260548915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_222
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 218
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02547c4c07b16041a1b60c698c31363
+      internalID: 1333744947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_223
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 194
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99ce4af6bdbdf24ea0fb7e2a82834a2
+      internalID: 592929356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_224
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 192
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bdc17b18f331d4eacd271bb05cd2f5
+      internalID: -249128105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_225
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8995cdbc0d49e4ea8616e913e82e61
+      internalID: -1356159314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_226
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 178
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e88a485afeb1ee4ca4a959f38bbc586
+      internalID: 279188628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_227
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 80
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31412d8d755341c45a7c0793cdc02f26
+      internalID: -988979939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_228
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 73
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac8a87239efab244a5d5664eaaca58f
+      internalID: 1673974068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_229
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 67
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3c0ed6c3725fe43b2e421239b18eee
+      internalID: 46891053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_230
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 66
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013290a1d52d8514c9f7d15d7c7f456b
+      internalID: -851514890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_231
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 65
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49299852fe942842920d48120d7be88
+      internalID: 1631222925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_232
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 116
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c9a887f085722478d1e25e53170108
+      internalID: -1116702468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_233
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 129
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030f97cf09090f34ab829f995138a722
+      internalID: -1518116857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_234
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 124
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1ef470f2a1e724bb6f71e70d3ae1c8
+      internalID: -947641934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_235
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 118
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5367f476f7fe86446aff2ce548f37615
+      internalID: -1296695404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_236
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 89
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4115491cf8a009e4cab4437948d52cbf
+      internalID: -30432829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_237
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 127
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e79c93d4a326449ba7d9b5104ca747
+      internalID: 723463246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_238
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 124
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f99e54181ed974984d442e310be08e
+      internalID: -192944138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_239
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 83
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1541c0379d474b743bf32d5eba4ef779
+      internalID: -1344720592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_240
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 64
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef999f9578c2745b8226da2a1a940d
+      internalID: -355823207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_241
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 121
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d7dad520c94a44a5742f48e07be9d
+      internalID: 231518665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_242
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 112
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5650a7f2403ad0e4fb58fce514756fd1
+      internalID: -1357830521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_243
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 112
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03624269f61406a49a9d9fe30380d0ea
+      internalID: 75740226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_244
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f1ad0b1c7fe704a87fe4c1bc839623
+      internalID: 1561658382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_245
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9298142ddd388d4eb1ba206577a39fc
+      internalID: -1059403555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_246
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 74
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d83132cef9c94d90e1fb730d7c6bc
+      internalID: 1306922538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_247
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 94
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae78c9494518bc54b8cb18ebe137235e
+      internalID: -1328361041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_248
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 109
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d72ac78ffc32b459eb169549afcdaa
+      internalID: -856097546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_249
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 101
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20af1404a26f214088c3de8ff4296b5
+      internalID: -793842528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_250
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 101
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f902de81d5d3f5e42973f8b20d479536
+      internalID: 1706103364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_251
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 101
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9869e0eb3495d46a6385d0900e472e
+      internalID: 1536710096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_252
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 101
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655414a5e45db4347ae89977e4861c69
+      internalID: -1332023867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_253
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 102
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c617c13019da1946b8d8b9e81a268c5
+      internalID: -1839394930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_254
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 100
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543bc2fce9d6ec54c868cc453d6fed55
+      internalID: 1377383872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_255
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122031bb2accbe449d5805e249186ca
+      internalID: 1809866881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_256
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 71
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fcaebd733d5c14dbedf0e09b9cf203
+      internalID: 137324385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_257
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e190138d482a0b46a0c68f81ed5165b
+      internalID: 818919244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_258
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f6220ddbd20441afe609a0078d0dd
+      internalID: -334752073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_259
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 80
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5721abcfa230ab47ac3e783c7669153
+      internalID: -697245606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_260
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 81
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a2aa703c70f834da21c69766254219
+      internalID: 2041130202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUiEffectsSpriteSheet_261
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 72
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5d1863926e80a4180cf0ca407393fe
+      internalID: -1552857698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 01dd1fb837dd3ff40bd29a09c8bba4b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rewardUiEffectsSpriteSheet_0: -1202074366
+      rewardUiEffectsSpriteSheet_1: -639045068
+      rewardUiEffectsSpriteSheet_10: -10659196
+      rewardUiEffectsSpriteSheet_100: 1527643268
+      rewardUiEffectsSpriteSheet_101: -441662753
+      rewardUiEffectsSpriteSheet_102: 1844640757
+      rewardUiEffectsSpriteSheet_103: 590299373
+      rewardUiEffectsSpriteSheet_104: 1995289967
+      rewardUiEffectsSpriteSheet_105: 2013368532
+      rewardUiEffectsSpriteSheet_106: -1860535789
+      rewardUiEffectsSpriteSheet_107: -1481302456
+      rewardUiEffectsSpriteSheet_108: -921423237
+      rewardUiEffectsSpriteSheet_109: 350491685
+      rewardUiEffectsSpriteSheet_11: 934707479
+      rewardUiEffectsSpriteSheet_110: -1457139934
+      rewardUiEffectsSpriteSheet_111: 1379282297
+      rewardUiEffectsSpriteSheet_112: 97592634
+      rewardUiEffectsSpriteSheet_113: 509522733
+      rewardUiEffectsSpriteSheet_114: -846049298
+      rewardUiEffectsSpriteSheet_115: -1452076178
+      rewardUiEffectsSpriteSheet_116: -1297092136
+      rewardUiEffectsSpriteSheet_117: -289282962
+      rewardUiEffectsSpriteSheet_118: -18495919
+      rewardUiEffectsSpriteSheet_119: 214458635
+      rewardUiEffectsSpriteSheet_12: -2142019474
+      rewardUiEffectsSpriteSheet_120: 1264288166
+      rewardUiEffectsSpriteSheet_121: 699928758
+      rewardUiEffectsSpriteSheet_122: 297836738
+      rewardUiEffectsSpriteSheet_123: -801463022
+      rewardUiEffectsSpriteSheet_124: 73049507
+      rewardUiEffectsSpriteSheet_125: 820102284
+      rewardUiEffectsSpriteSheet_126: -1597403894
+      rewardUiEffectsSpriteSheet_127: 1324651380
+      rewardUiEffectsSpriteSheet_128: -1894153581
+      rewardUiEffectsSpriteSheet_129: -389872071
+      rewardUiEffectsSpriteSheet_13: 1176029592
+      rewardUiEffectsSpriteSheet_130: 924946520
+      rewardUiEffectsSpriteSheet_131: -444421904
+      rewardUiEffectsSpriteSheet_132: -1279211446
+      rewardUiEffectsSpriteSheet_133: -891428291
+      rewardUiEffectsSpriteSheet_134: 474095520
+      rewardUiEffectsSpriteSheet_135: -410104651
+      rewardUiEffectsSpriteSheet_136: -2045368564
+      rewardUiEffectsSpriteSheet_137: 1385619878
+      rewardUiEffectsSpriteSheet_138: 1816910252
+      rewardUiEffectsSpriteSheet_139: 1480359719
+      rewardUiEffectsSpriteSheet_14: -1825209050
+      rewardUiEffectsSpriteSheet_140: -296084074
+      rewardUiEffectsSpriteSheet_141: 179821584
+      rewardUiEffectsSpriteSheet_142: 169943308
+      rewardUiEffectsSpriteSheet_143: -1984767248
+      rewardUiEffectsSpriteSheet_144: -780689153
+      rewardUiEffectsSpriteSheet_145: 113268450
+      rewardUiEffectsSpriteSheet_146: -1132001091
+      rewardUiEffectsSpriteSheet_147: 1471306778
+      rewardUiEffectsSpriteSheet_148: -399490585
+      rewardUiEffectsSpriteSheet_149: -1111529453
+      rewardUiEffectsSpriteSheet_15: 359832799
+      rewardUiEffectsSpriteSheet_150: -2114856371
+      rewardUiEffectsSpriteSheet_151: 1511755251
+      rewardUiEffectsSpriteSheet_152: 1519523134
+      rewardUiEffectsSpriteSheet_153: 2050301230
+      rewardUiEffectsSpriteSheet_154: 1670952245
+      rewardUiEffectsSpriteSheet_155: -936129070
+      rewardUiEffectsSpriteSheet_156: -1092660981
+      rewardUiEffectsSpriteSheet_157: 1387204257
+      rewardUiEffectsSpriteSheet_158: 2055427587
+      rewardUiEffectsSpriteSheet_159: 379269657
+      rewardUiEffectsSpriteSheet_16: 1751251905
+      rewardUiEffectsSpriteSheet_160: 1592488243
+      rewardUiEffectsSpriteSheet_161: -897969551
+      rewardUiEffectsSpriteSheet_162: -1061913711
+      rewardUiEffectsSpriteSheet_163: 1485056960
+      rewardUiEffectsSpriteSheet_164: -1083664052
+      rewardUiEffectsSpriteSheet_165: -2072012890
+      rewardUiEffectsSpriteSheet_166: -1810192296
+      rewardUiEffectsSpriteSheet_167: -1444953270
+      rewardUiEffectsSpriteSheet_168: -337642252
+      rewardUiEffectsSpriteSheet_169: -1981022944
+      rewardUiEffectsSpriteSheet_17: -904003392
+      rewardUiEffectsSpriteSheet_170: -1406125201
+      rewardUiEffectsSpriteSheet_171: -290417589
+      rewardUiEffectsSpriteSheet_172: 759242296
+      rewardUiEffectsSpriteSheet_173: -1837733444
+      rewardUiEffectsSpriteSheet_174: 120373934
+      rewardUiEffectsSpriteSheet_175: -1424108315
+      rewardUiEffectsSpriteSheet_176: -765120060
+      rewardUiEffectsSpriteSheet_177: 886758785
+      rewardUiEffectsSpriteSheet_178: -1123267969
+      rewardUiEffectsSpriteSheet_179: 1071221710
+      rewardUiEffectsSpriteSheet_18: -1827559200
+      rewardUiEffectsSpriteSheet_180: 93151664
+      rewardUiEffectsSpriteSheet_181: 399638028
+      rewardUiEffectsSpriteSheet_182: 1249821579
+      rewardUiEffectsSpriteSheet_183: 403270171
+      rewardUiEffectsSpriteSheet_184: -146624068
+      rewardUiEffectsSpriteSheet_185: 1294603205
+      rewardUiEffectsSpriteSheet_186: -952262793
+      rewardUiEffectsSpriteSheet_187: 1356384741
+      rewardUiEffectsSpriteSheet_188: -158371156
+      rewardUiEffectsSpriteSheet_189: 2119132922
+      rewardUiEffectsSpriteSheet_19: 1128746904
+      rewardUiEffectsSpriteSheet_190: 1391513984
+      rewardUiEffectsSpriteSheet_191: -339248455
+      rewardUiEffectsSpriteSheet_192: 1253874822
+      rewardUiEffectsSpriteSheet_193: 2060681429
+      rewardUiEffectsSpriteSheet_194: -1071903134
+      rewardUiEffectsSpriteSheet_195: 770119200
+      rewardUiEffectsSpriteSheet_196: -45274453
+      rewardUiEffectsSpriteSheet_197: -1558537124
+      rewardUiEffectsSpriteSheet_198: -1518037608
+      rewardUiEffectsSpriteSheet_199: -678571248
+      rewardUiEffectsSpriteSheet_2: -1061639864
+      rewardUiEffectsSpriteSheet_20: 1655913963
+      rewardUiEffectsSpriteSheet_200: 308942425
+      rewardUiEffectsSpriteSheet_201: 2034680500
+      rewardUiEffectsSpriteSheet_202: -1863784863
+      rewardUiEffectsSpriteSheet_203: 800068097
+      rewardUiEffectsSpriteSheet_204: -1057499099
+      rewardUiEffectsSpriteSheet_205: -263358322
+      rewardUiEffectsSpriteSheet_206: -1918944792
+      rewardUiEffectsSpriteSheet_207: -966988851
+      rewardUiEffectsSpriteSheet_208: 1222477596
+      rewardUiEffectsSpriteSheet_209: -1584982500
+      rewardUiEffectsSpriteSheet_21: -290892378
+      rewardUiEffectsSpriteSheet_210: -1870854751
+      rewardUiEffectsSpriteSheet_211: 180364112
+      rewardUiEffectsSpriteSheet_212: -1868306912
+      rewardUiEffectsSpriteSheet_213: -567539027
+      rewardUiEffectsSpriteSheet_214: 297995364
+      rewardUiEffectsSpriteSheet_215: -776769062
+      rewardUiEffectsSpriteSheet_216: -1376718405
+      rewardUiEffectsSpriteSheet_217: -775653743
+      rewardUiEffectsSpriteSheet_218: -395302336
+      rewardUiEffectsSpriteSheet_219: -1983651664
+      rewardUiEffectsSpriteSheet_22: -721959830
+      rewardUiEffectsSpriteSheet_220: 2058835501
+      rewardUiEffectsSpriteSheet_221: -1260548915
+      rewardUiEffectsSpriteSheet_222: 1333744947
+      rewardUiEffectsSpriteSheet_223: 592929356
+      rewardUiEffectsSpriteSheet_224: -249128105
+      rewardUiEffectsSpriteSheet_225: -1356159314
+      rewardUiEffectsSpriteSheet_226: 279188628
+      rewardUiEffectsSpriteSheet_227: -988979939
+      rewardUiEffectsSpriteSheet_228: 1673974068
+      rewardUiEffectsSpriteSheet_229: 46891053
+      rewardUiEffectsSpriteSheet_23: 1806671710
+      rewardUiEffectsSpriteSheet_230: -851514890
+      rewardUiEffectsSpriteSheet_231: 1631222925
+      rewardUiEffectsSpriteSheet_232: -1116702468
+      rewardUiEffectsSpriteSheet_233: -1518116857
+      rewardUiEffectsSpriteSheet_234: -947641934
+      rewardUiEffectsSpriteSheet_235: -1296695404
+      rewardUiEffectsSpriteSheet_236: -30432829
+      rewardUiEffectsSpriteSheet_237: 723463246
+      rewardUiEffectsSpriteSheet_238: -192944138
+      rewardUiEffectsSpriteSheet_239: -1344720592
+      rewardUiEffectsSpriteSheet_24: 191520111
+      rewardUiEffectsSpriteSheet_240: -355823207
+      rewardUiEffectsSpriteSheet_241: 231518665
+      rewardUiEffectsSpriteSheet_242: -1357830521
+      rewardUiEffectsSpriteSheet_243: 75740226
+      rewardUiEffectsSpriteSheet_244: 1561658382
+      rewardUiEffectsSpriteSheet_245: -1059403555
+      rewardUiEffectsSpriteSheet_246: 1306922538
+      rewardUiEffectsSpriteSheet_247: -1328361041
+      rewardUiEffectsSpriteSheet_248: -856097546
+      rewardUiEffectsSpriteSheet_249: -793842528
+      rewardUiEffectsSpriteSheet_25: 895761587
+      rewardUiEffectsSpriteSheet_250: 1706103364
+      rewardUiEffectsSpriteSheet_251: 1536710096
+      rewardUiEffectsSpriteSheet_252: -1332023867
+      rewardUiEffectsSpriteSheet_253: -1839394930
+      rewardUiEffectsSpriteSheet_254: 1377383872
+      rewardUiEffectsSpriteSheet_255: 1809866881
+      rewardUiEffectsSpriteSheet_256: 137324385
+      rewardUiEffectsSpriteSheet_257: 818919244
+      rewardUiEffectsSpriteSheet_258: -334752073
+      rewardUiEffectsSpriteSheet_259: -697245606
+      rewardUiEffectsSpriteSheet_26: -1630805275
+      rewardUiEffectsSpriteSheet_260: 2041130202
+      rewardUiEffectsSpriteSheet_261: -1552857698
+      rewardUiEffectsSpriteSheet_27: 2017740952
+      rewardUiEffectsSpriteSheet_28: -728932777
+      rewardUiEffectsSpriteSheet_29: 1048868131
+      rewardUiEffectsSpriteSheet_3: 1464310395
+      rewardUiEffectsSpriteSheet_30: -910555262
+      rewardUiEffectsSpriteSheet_31: -2001142881
+      rewardUiEffectsSpriteSheet_32: -1268667806
+      rewardUiEffectsSpriteSheet_33: -1756360399
+      rewardUiEffectsSpriteSheet_34: 1019239552
+      rewardUiEffectsSpriteSheet_35: -363948778
+      rewardUiEffectsSpriteSheet_36: -563341756
+      rewardUiEffectsSpriteSheet_37: 1897935537
+      rewardUiEffectsSpriteSheet_38: 1833606891
+      rewardUiEffectsSpriteSheet_39: 893161042
+      rewardUiEffectsSpriteSheet_4: 1805052626
+      rewardUiEffectsSpriteSheet_40: -786234261
+      rewardUiEffectsSpriteSheet_41: 2053212994
+      rewardUiEffectsSpriteSheet_42: 343965630
+      rewardUiEffectsSpriteSheet_43: -1573736802
+      rewardUiEffectsSpriteSheet_44: 1579692913
+      rewardUiEffectsSpriteSheet_45: 1554682889
+      rewardUiEffectsSpriteSheet_46: 1816497059
+      rewardUiEffectsSpriteSheet_47: 167663525
+      rewardUiEffectsSpriteSheet_48: 1201702635
+      rewardUiEffectsSpriteSheet_49: 176249055
+      rewardUiEffectsSpriteSheet_5: 1315382444
+      rewardUiEffectsSpriteSheet_50: -374911266
+      rewardUiEffectsSpriteSheet_51: -2021865017
+      rewardUiEffectsSpriteSheet_52: -1155103558
+      rewardUiEffectsSpriteSheet_53: -1220674187
+      rewardUiEffectsSpriteSheet_54: 1811708420
+      rewardUiEffectsSpriteSheet_55: 701975320
+      rewardUiEffectsSpriteSheet_56: 1140068525
+      rewardUiEffectsSpriteSheet_57: -1322857250
+      rewardUiEffectsSpriteSheet_58: 882036010
+      rewardUiEffectsSpriteSheet_59: -82567562
+      rewardUiEffectsSpriteSheet_6: -1924240440
+      rewardUiEffectsSpriteSheet_60: 1932068971
+      rewardUiEffectsSpriteSheet_61: 1602611262
+      rewardUiEffectsSpriteSheet_62: -2045054062
+      rewardUiEffectsSpriteSheet_63: 1329739047
+      rewardUiEffectsSpriteSheet_64: -141975510
+      rewardUiEffectsSpriteSheet_65: 184291948
+      rewardUiEffectsSpriteSheet_66: 1124064614
+      rewardUiEffectsSpriteSheet_67: 925966589
+      rewardUiEffectsSpriteSheet_68: -200924619
+      rewardUiEffectsSpriteSheet_69: -1640950088
+      rewardUiEffectsSpriteSheet_7: -884727563
+      rewardUiEffectsSpriteSheet_70: 1964276679
+      rewardUiEffectsSpriteSheet_71: -1944470081
+      rewardUiEffectsSpriteSheet_72: 535823525
+      rewardUiEffectsSpriteSheet_73: -97428725
+      rewardUiEffectsSpriteSheet_74: -1724254288
+      rewardUiEffectsSpriteSheet_75: 2102162242
+      rewardUiEffectsSpriteSheet_76: -1154304719
+      rewardUiEffectsSpriteSheet_77: -1826196947
+      rewardUiEffectsSpriteSheet_78: 1235287171
+      rewardUiEffectsSpriteSheet_79: 1828286740
+      rewardUiEffectsSpriteSheet_8: -1202328872
+      rewardUiEffectsSpriteSheet_80: -1109323769
+      rewardUiEffectsSpriteSheet_81: -1750467118
+      rewardUiEffectsSpriteSheet_82: 573153821
+      rewardUiEffectsSpriteSheet_83: -1526107619
+      rewardUiEffectsSpriteSheet_84: -657649948
+      rewardUiEffectsSpriteSheet_85: -1050959445
+      rewardUiEffectsSpriteSheet_86: 254698907
+      rewardUiEffectsSpriteSheet_87: 1169969231
+      rewardUiEffectsSpriteSheet_88: 324556482
+      rewardUiEffectsSpriteSheet_89: 467636144
+      rewardUiEffectsSpriteSheet_9: -499680988
+      rewardUiEffectsSpriteSheet_90: 56445803
+      rewardUiEffectsSpriteSheet_91: -1037396071
+      rewardUiEffectsSpriteSheet_92: -999666951
+      rewardUiEffectsSpriteSheet_93: 414509059
+      rewardUiEffectsSpriteSheet_94: -749441519
+      rewardUiEffectsSpriteSheet_95: -2032746292
+      rewardUiEffectsSpriteSheet_96: 235020829
+      rewardUiEffectsSpriteSheet_97: -80071193
+      rewardUiEffectsSpriteSheet_98: 407604189
+      rewardUiEffectsSpriteSheet_99: 504116476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

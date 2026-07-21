@@ -1,0 +1,4663 @@
+fileFormatVersion: 2
+guid: 13d89a02c84442e4fbc2a1f9651d10f3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 829
+        width: 287
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7b734c087b6f74a8d4fba4b40c7122
+      internalID: -471867214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 839
+        width: 119
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379528e160524d44da9980ccf1669cfe
+      internalID: 903665263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 850
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397410fbc8a982340b8131887fc6d60d
+      internalID: 1860908468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 849
+        width: 140
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93274e39fa4fbc643ba63fc8a34e5abb
+      internalID: 1104587399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_4
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 939
+        width: 191
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5e084528f67964c9fda3cc2a0f4c9d
+      internalID: -556290675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 848
+        width: 223
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b8426f85f11094c8f63107f569cb46
+      internalID: -520347655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_6
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 894
+        width: 224
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ffa7e132e8ca44b8dac4f706cfd4e
+      internalID: -1069086399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 675
+        width: 169
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389d4b01459324841b47c3e794a3bc06
+      internalID: 921633255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 679
+        width: 309
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb24ff43572ab32498fe8f281fec8b9e
+      internalID: 11137623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 683
+        width: 108
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b3906d92b931044aaea162aba5a3c4
+      internalID: -1459206461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 800
+        width: 231
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c231842191d54a9a40ef5e5747407
+      internalID: -146019321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 693
+        width: 203
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf1d217bea22c540a63b4a92c7b79e7
+      internalID: -2053144153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_12
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 768
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dec29aad57b20499c79583727dbd26
+      internalID: -1074786159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_13
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 772
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934b3128e57e0e14b96c4f834c939efe
+      internalID: -1771924400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_14
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 774
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d9f9cd9eeb8304c9d6510fdd762f56
+      internalID: 1330761904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_15
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 776
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d65a6a2e11c34ca984ebabf0946e4
+      internalID: 1940126564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_16
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 777
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b136a7262eedb49b24c58a716513a4
+      internalID: -452168528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_17
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 763
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f83f84f5c96b5f41b0038263e7f1cf7
+      internalID: -401438679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_18
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 753
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a975ab3d18a724f96457fac8f499f7
+      internalID: 1077861168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_19
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 752
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1a5e7bbc5c73344a151e8d9954d734
+      internalID: -1854238692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_20
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 763
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31dbb0de5dec7b4897a0f0e0ac84f88
+      internalID: 1568088436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_21
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 760
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6a75ef9589fa7498c1e01b0b99a2a7
+      internalID: 1043186828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_22
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 752
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23296ed21af3c0040b3d22caacd8b098
+      internalID: 1106303193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_23
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 753
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fbc9c905cdc7f489d5ed4940d6a428
+      internalID: -1368585259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_24
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 743
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca95dcde97ab3c642b8c5306a8a1b2ab
+      internalID: -1015714915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_25
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 722
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50155243c1447584d9bcccf1013b60c6
+      internalID: 1052615620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_26
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 726
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e893f72b4606548945ac7369c5bca1
+      internalID: 1004993691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_27
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 743
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449011747acb673428d93ca77d29c266
+      internalID: 683824742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_28
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 740
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4d9e458d059e149867947919da46c4
+      internalID: 1709701466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 731
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddc3b35daf79d44f8d334279317e8b8
+      internalID: -654696285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_30
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 736
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422930f08a2785b47a49a03876d6a454
+      internalID: -1954898424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_31
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 724
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd34a765189d91d48858b08667aa2dda
+      internalID: 287578427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_32
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 722
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252ff2e4da826b345a6db6c78b8dace8
+      internalID: 1055263070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_33
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 725
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7d401bcebe6bf42a7a1977557f610e
+      internalID: -1307538803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 721
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa4a2117928ee48939d44861caaab2
+      internalID: 1588309866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_35
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 706
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858d863f052392b429afc5d149d6f267
+      internalID: 1475188038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_36
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 701
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0b63dcb728d9043afa1f44e2b6ee36
+      internalID: -466605451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_37
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 700
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28670eeb192073848899fd6db3706e17
+      internalID: -1105074336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_38
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 699
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd472c7249dd444995c2c6ac88a04de
+      internalID: -1925395553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_39
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 714
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee65344e21965f47b024e9b0c1c9e22
+      internalID: -537346803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_40
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 705
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3cbb00553b70d49af8761f3424daf7
+      internalID: 1353305626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_41
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 705
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97041f0910dbc47b756661ec98d865
+      internalID: 1985573296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_42
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 696
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1a5f175542e5d429de546d8bcea790
+      internalID: 7755280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 529
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f667c87b1846e348981ba6e69bceb1e
+      internalID: -115705223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 426
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b91f389d0084146a37f186971e040d
+      internalID: -1052626508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_45
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 540
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff4bc04f712ee84ca227ab43f5992ea
+      internalID: 665460867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 536
+        width: 101
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d199b3fb073d84a97446a1d0483582
+      internalID: -753921683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_47
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 534
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a316d5594ca948b4099e58aa04aa2
+      internalID: 508031044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_48
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 553
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb27ec0acd88a704ba58ca945be38d89
+      internalID: -1433794595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_49
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 591
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2699e2668746c724e809e4f4dc8262db
+      internalID: -1853639479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_50
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 540
+        width: 158
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3619bfcb1db02784da04fc866120cd1f
+      internalID: 715848897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_51
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 552
+        width: 95
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4731e059ac737f24ea7b4cf2029578b2
+      internalID: -1728589128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_52
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 434
+        width: 263
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248466ba4f3cb6f48ae342ac42278114
+      internalID: -1973577406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_53
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 496
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070b66f630ee36c4f86248d9cf29f69d
+      internalID: 360609220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_54
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 513
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e293d2dc87f0d46b2d7da14c4c18c5
+      internalID: -239580616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_55
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 505
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9bd6e6489ccc243aa9eebc552bc79d
+      internalID: -1623792379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_56
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 480
+        width: 142
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964a46024bd5bba45b7dca21a3b611e0
+      internalID: -1321839678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_57
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 431
+        width: 127
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fdcb223d163644495ffca4d25e2bf1
+      internalID: 599920341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 445
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3c403bc27224b44ae404d33ac99397
+      internalID: 122972272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_59
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 445
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec733bb98cf6484a90d4eb85854469a
+      internalID: 1379477981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_60
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 446
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0cb6662602674a84126eae325a732
+      internalID: -2001474598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_61
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 487
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c38b5f7b47426418389e8d7aa5a482
+      internalID: 1148257221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_62
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 489
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74939ad3b21558448cc1a02ae590920
+      internalID: 1077551291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_63
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 473
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471812ce32d331c40834d37209f1d02c
+      internalID: -1865646001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_64
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 468
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6505be90fc6ab4dbb386949adf6283
+      internalID: 866578428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_65
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c885a14a01ad3094b84b35be1fa243ee
+      internalID: 255368794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_66
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 465
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ca02de2a8d4a4c9346a30862b0880
+      internalID: -2069683079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_67
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 459
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5d5a5dca2012a458b98aae4a6122f9
+      internalID: -1458582261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_68
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 468
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2142039db58916548b00e765e61c192d
+      internalID: 1950903279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_69
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 461
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f134c10644f414887ebbe92fe1ea0b
+      internalID: -1954732309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_70
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 461
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262af5a2fc2859b488250265c9cfc691
+      internalID: 652394873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_71
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 464
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75d232fa8fbc0b47bb352203de7db4b
+      internalID: -1666621072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_72
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 451
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3091d70862eb37419e3f69a07e82aea
+      internalID: 1479010636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_73
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 452
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66698a4b36621204f8ce20a5fe416193
+      internalID: 1346031937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_74
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 454
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a75b95fe5fccc49802f5cebf56daed
+      internalID: 155058477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_75
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 460
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d45a8bad00260e44bb80f2cb3af9843
+      internalID: -2044861514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_76
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 462
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc27f21cadf9ee1469fb88521097551f
+      internalID: 1911665626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_77
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 452
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef705c8a6de6534ba385de9414cc7f8
+      internalID: -80807899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_78
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 447
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea90511f312ba4eb8733c921864119
+      internalID: -519681521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_79
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 452
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cf7bc27eb035446b0ae97a76badcab
+      internalID: 1568395946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_80
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 447
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b3038ba89f9904d93f8fa31c9346fb
+      internalID: 451753224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_81
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 448
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4355ebb6fb9ab6a429e5028e2e85f27e
+      internalID: 215327371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_82
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 455
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23a93261b986154a99b624a8d2f92ee
+      internalID: 1007667919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_83
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 439
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed90cdd77a4493a4ca9100d4a2b35d1d
+      internalID: 63977447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_84
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 437
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0d19d4ebf33747885c681c6afdf45
+      internalID: -294462009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_85
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 443
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99e0d55d4f67a24faf12a7ed5c7a11a
+      internalID: -1714364099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_86
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 440
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f636c58ed5c8343b40a1df256fad65
+      internalID: -396765876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_87
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 439
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabad7552ff9a7c4c96afb243fc9a203
+      internalID: -1649652620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_88
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 446
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fc087e789de024088b4ec6f5cf9f34
+      internalID: -1771089817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_89
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 434
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9fda31eba13724fb537bfce669252b
+      internalID: 245579604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4218f7c7983744b1ef957be3c67db
+      internalID: -19415220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_91
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 436
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5430d2d9d04f97844b99a73f75de398e
+      internalID: 617131615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 323
+        width: 187
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff554a00eeb9ed4bb83292f6af38d86
+      internalID: 267659785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_93
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 329
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffa86e2df2e7fe4a99cdd2ad95f3485
+      internalID: -1712304414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 328
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3430771d13e1c4d9e39f029e50fccd
+      internalID: -776984936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_95
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 330
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28730459e020d8d49988aa4c836f6a37
+      internalID: 670649793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_96
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 324
+        width: 138
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395461556b128194cb5d2df98157a695
+      internalID: 2099079717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_97
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 356
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9414ed7f2c30e864ca5c0796b981c765
+      internalID: -1129798816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_98
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 353
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8545c389bd59d34db5c65dd8f98bcfc
+      internalID: -413173263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_99
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 355
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741a270113953c04dbd19e2d9f6970e8
+      internalID: -1990241686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_100
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 353
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e895d2d991376468072702355c39fd
+      internalID: -2049415188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_101
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 113
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc18f9ccdd63740b1a3a824b7e6f19
+      internalID: -1027515619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_102
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 113
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d62855947fd534b9a4296dd5098149
+      internalID: 809415783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_103
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 241
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05ba545dd58a39479db3fe880907c72
+      internalID: 909102588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_104
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 241
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50395afcc8eeac34ca8aba06b07e3bc4
+      internalID: -2127285366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_105
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 243
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2705f7c11975e42b8cc4c0ff779e43
+      internalID: 1663617979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_106
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 239
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde8fd3447229d04b8ae364e3e12c440
+      internalID: -1835950823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_107
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 238
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b100912e895b0499e6871c86906463
+      internalID: -1631659308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_108
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 230
+        width: 175
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc0b0a6ed5bc2742aa774c7aa51979b
+      internalID: 104734352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_109
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 283
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e535c664921c454a82db43bd4942473
+      internalID: -377108266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_110
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 279
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914ed2fc5e7bb6043ab8b5480d96dd5a
+      internalID: -1100265353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_111
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 245
+        width: 118
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188dae82c7343704a95f17312a9388c0
+      internalID: -1225559975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_112
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 142
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a663f813879549d4dbca95e13ed0259d
+      internalID: 132353088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_113
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 208
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7495b8d54031c254c9524f96990e2c94
+      internalID: -1994396070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_114
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 203
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa04f52606ffe74459b1810c0f93a356
+      internalID: 1142016378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_115
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 210
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7683697a8d73e01479006249088a53d9
+      internalID: -533646000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_116
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 147
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1370e5786c4260f4a8fea57805d00cb9
+      internalID: -749453151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_117
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 149
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bf0cdbc6a09484d8f19bc8d7d32208
+      internalID: 1774070548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_118
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 207
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ef73006b1d3394283891aa62632bdd
+      internalID: -137424230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_119
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 207
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4962abd83df794fa4dadc7049ee4c2
+      internalID: -289027027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_120
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 202
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8a22da04d502348a5bdeaa1d34954c
+      internalID: 320802057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_121
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 206
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74bae2e3c8bd3a4a83bdec90341b8b8
+      internalID: 1802864351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_122
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 163
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0a99c931a2bb54da4e995a9e1f3ca4
+      internalID: -998086936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_123
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 158
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed40c44fa610ae64281657c9fe817ac6
+      internalID: -689218999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_124
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 159
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a49e0dc3a190144b4b568f587adf3e
+      internalID: -380983650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_125
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 194
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcafaddc4e91f04e8e49fa028cf4f25
+      internalID: -1506162154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_126
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 195
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896c38ba8c1ac8847ba9195210c03447
+      internalID: -119197222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_127
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 196
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d0756741d79f4c866d60e85dd711d
+      internalID: 1685745662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_128
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 196
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fa42793de163f4b8dd2cbd1b7305ce
+      internalID: 962980941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_129
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 203
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0b15faf50b6c14db8d10a54e157aec
+      internalID: -1682869714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_130
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 200
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f96e29c0c13d49a8bd73a76f5a2ab
+      internalID: 1114587283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_131
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 198
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05a992ae76a55249a54ccfcf84979e7
+      internalID: -1603519048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_132
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 176
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9753db731620544bc932d2e2f0c1e4
+      internalID: -1663465068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_133
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 196
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc0a5344408eb242bab7300247db27d
+      internalID: 47631999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_134
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 201
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d723fa638c380c4088be7285c57030f
+      internalID: -1022189849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_135
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 151
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943a9cc7fd3caa640b14a518bab7f644
+      internalID: 731069569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_136
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 184
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeffa56af6c931488ceac0923bd5211
+      internalID: -1623653269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_137
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 189
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7f640c3fa7c4549b29684528fce6a3
+      internalID: 967699916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_138
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 194
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a691a825d6da3d2498a2a9add83cb70c
+      internalID: 775398863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_139
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 165
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b83b91206b82ed4f96b81e6de389b72
+      internalID: 1993361257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_140
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 193
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee91bd535c3ede848a921b9fb1dc3746
+      internalID: 1967963784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_141
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 172
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33844efb9afc92642bfebae8c17f175f
+      internalID: 917867288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_142
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 182
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9514c7296ed4714caed332599e67cd4
+      internalID: 700820752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_143
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 173
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e07c5207d88454885bc05f8d13d8d6
+      internalID: 938082557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_144
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 183
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6944e4e0cc51e1e4091edb4143a86ff4
+      internalID: 923827014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_145
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 172
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17bcc45e3bfa4243af2a47e03b542a4
+      internalID: 1303766543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_146
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 181
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac67337ce154af4b80c75ec862d4c87
+      internalID: 2033725628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_147
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 182
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef2d32d91f17924198349da96e979d4
+      internalID: -1765816167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_148
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 180
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085fa04ff2cc0784285ff8d997897fc4
+      internalID: 1652114324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_149
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 175
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b242d2f5616eb7e4b99d9fd2ef17d36d
+      internalID: 277716888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_150
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 172
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1007d562ee783c04f8f4978e1d868721
+      internalID: 368651449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_151
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 178
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1c5f258a20a7a498eaa50d423123bc
+      internalID: 1166650301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_152
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 176
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bba55454f83239469e7854eec862b77
+      internalID: 536040393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_153
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 172
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b3dfcc3bbbc804b84e8dfbb5e882ce
+      internalID: 1035882862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_154
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2f4945840de934285ecdbda1d466b0
+      internalID: -1301327451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_155
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 162
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87993157b05f94c43a7d6eb68699387d
+      internalID: 739600812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_156
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 169
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f77cdadcc978b4498d6a453a64d4e1
+      internalID: -1807893602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_157
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 168
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef7290ac10d811419c3833807c91065
+      internalID: 1639576702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_158
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 157
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ca3cf940f045b488551303888e3115
+      internalID: -1810481069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_159
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 162
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f66481055863248ab25dfb1d9bfd0c
+      internalID: -2145360230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_160
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 163
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2403f45e1e8c249aca348cd8d3c193
+      internalID: 1872912386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_161
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 158
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf462b1e0a526e419cc56805c9fba34
+      internalID: -1335793534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_162
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 159
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6984a84c2609fff468c49c60080f2570
+      internalID: -1802353598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_163
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 160
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65c0eddee001e342b966df0811cfb21
+      internalID: -1704802630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_164
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 158
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21cea3a965524c439ababdb7e5e0471
+      internalID: -655470736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_165
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 159
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5bf66f889764648aff9481a913974d
+      internalID: 1138249036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_166
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 159
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cd566b984336a44a52433f4d32248b
+      internalID: 1623942866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_167
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 160
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4a5f1f97aacb94bafdb0e56c2e545a
+      internalID: 1430088857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_168
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 160
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da3b684b52eb7f4fbdef6640623d673
+      internalID: 461452957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_169
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9915370a65f9a14f8853e2c6db8e619
+      internalID: 248505200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_170
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 156
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf67a5ba730d04695e27b79de3aeac
+      internalID: 1533825008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_171
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 154
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d892b27186b5780449189ee1848fec97
+      internalID: 1810153165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_172
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 85
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9f630bce6323947bf21d02039eef1c
+      internalID: -1228443571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_173
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 83
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b67892a7f9e514cb6ac0626649afa6
+      internalID: -1539502570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_174
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 84
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b20ff9985e46d742856d98ef3f4d6ce
+      internalID: -1971927387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_175
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 83
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95d0f5197e30464e832bd5f200082ce
+      internalID: -830231889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_176
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 82
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe917c7e1e5e8b4ea2e731125fd2474
+      internalID: -2006448988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_177
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 80
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc9914bc256d8446ae5885036a41c97
+      internalID: 599359585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_178
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 82
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b0b51c532e7b4a8255d4c973c46e8
+      internalID: 976211898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_179
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 80
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea3d2350ad111438f19f775c53e0e1
+      internalID: -185218061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_180
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 82
+        width: 153
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68804e824df64404f87446249e36ac88
+      internalID: 966455888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_181
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 182
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52ff563968eebd41bb4b25a12388613
+      internalID: 821538641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_182
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 30
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44902bf68fa08814a93fa8f35f251062
+      internalID: 595048251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_183
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 29
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0384e6691455947ba4a8e467985ad9
+      internalID: -88860671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_184
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 29
+        width: 92
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bbdcef1b4e46f4c8cfbe30b31e2713
+      internalID: 1285400808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_185
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 29
+        width: 91
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d50ad356c4a1439fd4d01ba11d4f3
+      internalID: -455624961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_186
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 25
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab7422a452e574e85817b639316de4
+      internalID: 1105299780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_187
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 25
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5488e9fa5276d784bb207eeeea0489ce
+      internalID: -442470003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_188
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 25
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6206b50289e34d4f89eed5f5dd3989d
+      internalID: -1327343505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_189
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 25
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be0350972cd994391b55aa48f46148
+      internalID: -450384892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_190
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 25
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3601ee3c0a759547bd2f952ee1f3a53
+      internalID: 1730968101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_191
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 25
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efda7d1e3da4b64c85ebe83a41812d5
+      internalID: 226069539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_192
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 25
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b08696e3545bd43b1f8d208bbac467
+      internalID: -1439476108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_193
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 25
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8832095990785614d9502dc956519e44
+      internalID: 2134080981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_194
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 25
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b73e2adc1c08c40a06bc34f74dedd9
+      internalID: -580703329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_195
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 14
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d2eb2290b8ac24bb3ed7cb0674fc4f
+      internalID: 827927545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rewardUnlockLevelUpPresentationPack_196
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 9
+        width: 403
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576cccff07a04949888408deb95c9cd
+      internalID: -833300806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a18c156104ab8004598ad096301ef8aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rewardUnlockLevelUpPresentationPack_0: -471867214
+      rewardUnlockLevelUpPresentationPack_1: 903665263
+      rewardUnlockLevelUpPresentationPack_10: -146019321
+      rewardUnlockLevelUpPresentationPack_100: -2049415188
+      rewardUnlockLevelUpPresentationPack_101: -1027515619
+      rewardUnlockLevelUpPresentationPack_102: 809415783
+      rewardUnlockLevelUpPresentationPack_103: 909102588
+      rewardUnlockLevelUpPresentationPack_104: -2127285366
+      rewardUnlockLevelUpPresentationPack_105: 1663617979
+      rewardUnlockLevelUpPresentationPack_106: -1835950823
+      rewardUnlockLevelUpPresentationPack_107: -1631659308
+      rewardUnlockLevelUpPresentationPack_108: 104734352
+      rewardUnlockLevelUpPresentationPack_109: -377108266
+      rewardUnlockLevelUpPresentationPack_11: -2053144153
+      rewardUnlockLevelUpPresentationPack_110: -1100265353
+      rewardUnlockLevelUpPresentationPack_111: -1225559975
+      rewardUnlockLevelUpPresentationPack_112: 132353088
+      rewardUnlockLevelUpPresentationPack_113: -1994396070
+      rewardUnlockLevelUpPresentationPack_114: 1142016378
+      rewardUnlockLevelUpPresentationPack_115: -533646000
+      rewardUnlockLevelUpPresentationPack_116: -749453151
+      rewardUnlockLevelUpPresentationPack_117: 1774070548
+      rewardUnlockLevelUpPresentationPack_118: -137424230
+      rewardUnlockLevelUpPresentationPack_119: -289027027
+      rewardUnlockLevelUpPresentationPack_12: -1074786159
+      rewardUnlockLevelUpPresentationPack_120: 320802057
+      rewardUnlockLevelUpPresentationPack_121: 1802864351
+      rewardUnlockLevelUpPresentationPack_122: -998086936
+      rewardUnlockLevelUpPresentationPack_123: -689218999
+      rewardUnlockLevelUpPresentationPack_124: -380983650
+      rewardUnlockLevelUpPresentationPack_125: -1506162154
+      rewardUnlockLevelUpPresentationPack_126: -119197222
+      rewardUnlockLevelUpPresentationPack_127: 1685745662
+      rewardUnlockLevelUpPresentationPack_128: 962980941
+      rewardUnlockLevelUpPresentationPack_129: -1682869714
+      rewardUnlockLevelUpPresentationPack_13: -1771924400
+      rewardUnlockLevelUpPresentationPack_130: 1114587283
+      rewardUnlockLevelUpPresentationPack_131: -1603519048
+      rewardUnlockLevelUpPresentationPack_132: -1663465068
+      rewardUnlockLevelUpPresentationPack_133: 47631999
+      rewardUnlockLevelUpPresentationPack_134: -1022189849
+      rewardUnlockLevelUpPresentationPack_135: 731069569
+      rewardUnlockLevelUpPresentationPack_136: -1623653269
+      rewardUnlockLevelUpPresentationPack_137: 967699916
+      rewardUnlockLevelUpPresentationPack_138: 775398863
+      rewardUnlockLevelUpPresentationPack_139: 1993361257
+      rewardUnlockLevelUpPresentationPack_14: 1330761904
+      rewardUnlockLevelUpPresentationPack_140: 1967963784
+      rewardUnlockLevelUpPresentationPack_141: 917867288
+      rewardUnlockLevelUpPresentationPack_142: 700820752
+      rewardUnlockLevelUpPresentationPack_143: 938082557
+      rewardUnlockLevelUpPresentationPack_144: 923827014
+      rewardUnlockLevelUpPresentationPack_145: 1303766543
+      rewardUnlockLevelUpPresentationPack_146: 2033725628
+      rewardUnlockLevelUpPresentationPack_147: -1765816167
+      rewardUnlockLevelUpPresentationPack_148: 1652114324
+      rewardUnlockLevelUpPresentationPack_149: 277716888
+      rewardUnlockLevelUpPresentationPack_15: 1940126564
+      rewardUnlockLevelUpPresentationPack_150: 368651449
+      rewardUnlockLevelUpPresentationPack_151: 1166650301
+      rewardUnlockLevelUpPresentationPack_152: 536040393
+      rewardUnlockLevelUpPresentationPack_153: 1035882862
+      rewardUnlockLevelUpPresentationPack_154: -1301327451
+      rewardUnlockLevelUpPresentationPack_155: 739600812
+      rewardUnlockLevelUpPresentationPack_156: -1807893602
+      rewardUnlockLevelUpPresentationPack_157: 1639576702
+      rewardUnlockLevelUpPresentationPack_158: -1810481069
+      rewardUnlockLevelUpPresentationPack_159: -2145360230
+      rewardUnlockLevelUpPresentationPack_16: -452168528
+      rewardUnlockLevelUpPresentationPack_160: 1872912386
+      rewardUnlockLevelUpPresentationPack_161: -1335793534
+      rewardUnlockLevelUpPresentationPack_162: -1802353598
+      rewardUnlockLevelUpPresentationPack_163: -1704802630
+      rewardUnlockLevelUpPresentationPack_164: -655470736
+      rewardUnlockLevelUpPresentationPack_165: 1138249036
+      rewardUnlockLevelUpPresentationPack_166: 1623942866
+      rewardUnlockLevelUpPresentationPack_167: 1430088857
+      rewardUnlockLevelUpPresentationPack_168: 461452957
+      rewardUnlockLevelUpPresentationPack_169: 248505200
+      rewardUnlockLevelUpPresentationPack_17: -401438679
+      rewardUnlockLevelUpPresentationPack_170: 1533825008
+      rewardUnlockLevelUpPresentationPack_171: 1810153165
+      rewardUnlockLevelUpPresentationPack_172: -1228443571
+      rewardUnlockLevelUpPresentationPack_173: -1539502570
+      rewardUnlockLevelUpPresentationPack_174: -1971927387
+      rewardUnlockLevelUpPresentationPack_175: -830231889
+      rewardUnlockLevelUpPresentationPack_176: -2006448988
+      rewardUnlockLevelUpPresentationPack_177: 599359585
+      rewardUnlockLevelUpPresentationPack_178: 976211898
+      rewardUnlockLevelUpPresentationPack_179: -185218061
+      rewardUnlockLevelUpPresentationPack_18: 1077861168
+      rewardUnlockLevelUpPresentationPack_180: 966455888
+      rewardUnlockLevelUpPresentationPack_181: 821538641
+      rewardUnlockLevelUpPresentationPack_182: 595048251
+      rewardUnlockLevelUpPresentationPack_183: -88860671
+      rewardUnlockLevelUpPresentationPack_184: 1285400808
+      rewardUnlockLevelUpPresentationPack_185: -455624961
+      rewardUnlockLevelUpPresentationPack_186: 1105299780
+      rewardUnlockLevelUpPresentationPack_187: -442470003
+      rewardUnlockLevelUpPresentationPack_188: -1327343505
+      rewardUnlockLevelUpPresentationPack_189: -450384892
+      rewardUnlockLevelUpPresentationPack_19: -1854238692
+      rewardUnlockLevelUpPresentationPack_190: 1730968101
+      rewardUnlockLevelUpPresentationPack_191: 226069539
+      rewardUnlockLevelUpPresentationPack_192: -1439476108
+      rewardUnlockLevelUpPresentationPack_193: 2134080981
+      rewardUnlockLevelUpPresentationPack_194: -580703329
+      rewardUnlockLevelUpPresentationPack_195: 827927545
+      rewardUnlockLevelUpPresentationPack_196: -833300806
+      rewardUnlockLevelUpPresentationPack_2: 1860908468
+      rewardUnlockLevelUpPresentationPack_20: 1568088436
+      rewardUnlockLevelUpPresentationPack_21: 1043186828
+      rewardUnlockLevelUpPresentationPack_22: 1106303193
+      rewardUnlockLevelUpPresentationPack_23: -1368585259
+      rewardUnlockLevelUpPresentationPack_24: -1015714915
+      rewardUnlockLevelUpPresentationPack_25: 1052615620
+      rewardUnlockLevelUpPresentationPack_26: 1004993691
+      rewardUnlockLevelUpPresentationPack_27: 683824742
+      rewardUnlockLevelUpPresentationPack_28: 1709701466
+      rewardUnlockLevelUpPresentationPack_29: -654696285
+      rewardUnlockLevelUpPresentationPack_3: 1104587399
+      rewardUnlockLevelUpPresentationPack_30: -1954898424
+      rewardUnlockLevelUpPresentationPack_31: 287578427
+      rewardUnlockLevelUpPresentationPack_32: 1055263070
+      rewardUnlockLevelUpPresentationPack_33: -1307538803
+      rewardUnlockLevelUpPresentationPack_34: 1588309866
+      rewardUnlockLevelUpPresentationPack_35: 1475188038
+      rewardUnlockLevelUpPresentationPack_36: -466605451
+      rewardUnlockLevelUpPresentationPack_37: -1105074336
+      rewardUnlockLevelUpPresentationPack_38: -1925395553
+      rewardUnlockLevelUpPresentationPack_39: -537346803
+      rewardUnlockLevelUpPresentationPack_4: -556290675
+      rewardUnlockLevelUpPresentationPack_40: 1353305626
+      rewardUnlockLevelUpPresentationPack_41: 1985573296
+      rewardUnlockLevelUpPresentationPack_42: 7755280
+      rewardUnlockLevelUpPresentationPack_43: -115705223
+      rewardUnlockLevelUpPresentationPack_44: -1052626508
+      rewardUnlockLevelUpPresentationPack_45: 665460867
+      rewardUnlockLevelUpPresentationPack_46: -753921683
+      rewardUnlockLevelUpPresentationPack_47: 508031044
+      rewardUnlockLevelUpPresentationPack_48: -1433794595
+      rewardUnlockLevelUpPresentationPack_49: -1853639479
+      rewardUnlockLevelUpPresentationPack_5: -520347655
+      rewardUnlockLevelUpPresentationPack_50: 715848897
+      rewardUnlockLevelUpPresentationPack_51: -1728589128
+      rewardUnlockLevelUpPresentationPack_52: -1973577406
+      rewardUnlockLevelUpPresentationPack_53: 360609220
+      rewardUnlockLevelUpPresentationPack_54: -239580616
+      rewardUnlockLevelUpPresentationPack_55: -1623792379
+      rewardUnlockLevelUpPresentationPack_56: -1321839678
+      rewardUnlockLevelUpPresentationPack_57: 599920341
+      rewardUnlockLevelUpPresentationPack_58: 122972272
+      rewardUnlockLevelUpPresentationPack_59: 1379477981
+      rewardUnlockLevelUpPresentationPack_6: -1069086399
+      rewardUnlockLevelUpPresentationPack_60: -2001474598
+      rewardUnlockLevelUpPresentationPack_61: 1148257221
+      rewardUnlockLevelUpPresentationPack_62: 1077551291
+      rewardUnlockLevelUpPresentationPack_63: -1865646001
+      rewardUnlockLevelUpPresentationPack_64: 866578428
+      rewardUnlockLevelUpPresentationPack_65: 255368794
+      rewardUnlockLevelUpPresentationPack_66: -2069683079
+      rewardUnlockLevelUpPresentationPack_67: -1458582261
+      rewardUnlockLevelUpPresentationPack_68: 1950903279
+      rewardUnlockLevelUpPresentationPack_69: -1954732309
+      rewardUnlockLevelUpPresentationPack_7: 921633255
+      rewardUnlockLevelUpPresentationPack_70: 652394873
+      rewardUnlockLevelUpPresentationPack_71: -1666621072
+      rewardUnlockLevelUpPresentationPack_72: 1479010636
+      rewardUnlockLevelUpPresentationPack_73: 1346031937
+      rewardUnlockLevelUpPresentationPack_74: 155058477
+      rewardUnlockLevelUpPresentationPack_75: -2044861514
+      rewardUnlockLevelUpPresentationPack_76: 1911665626
+      rewardUnlockLevelUpPresentationPack_77: -80807899
+      rewardUnlockLevelUpPresentationPack_78: -519681521
+      rewardUnlockLevelUpPresentationPack_79: 1568395946
+      rewardUnlockLevelUpPresentationPack_8: 11137623
+      rewardUnlockLevelUpPresentationPack_80: 451753224
+      rewardUnlockLevelUpPresentationPack_81: 215327371
+      rewardUnlockLevelUpPresentationPack_82: 1007667919
+      rewardUnlockLevelUpPresentationPack_83: 63977447
+      rewardUnlockLevelUpPresentationPack_84: -294462009
+      rewardUnlockLevelUpPresentationPack_85: -1714364099
+      rewardUnlockLevelUpPresentationPack_86: -396765876
+      rewardUnlockLevelUpPresentationPack_87: -1649652620
+      rewardUnlockLevelUpPresentationPack_88: -1771089817
+      rewardUnlockLevelUpPresentationPack_89: 245579604
+      rewardUnlockLevelUpPresentationPack_9: -1459206461
+      rewardUnlockLevelUpPresentationPack_90: -19415220
+      rewardUnlockLevelUpPresentationPack_91: 617131615
+      rewardUnlockLevelUpPresentationPack_92: 267659785
+      rewardUnlockLevelUpPresentationPack_93: -1712304414
+      rewardUnlockLevelUpPresentationPack_94: -776984936
+      rewardUnlockLevelUpPresentationPack_95: 670649793
+      rewardUnlockLevelUpPresentationPack_96: 2099079717
+      rewardUnlockLevelUpPresentationPack_97: -1129798816
+      rewardUnlockLevelUpPresentationPack_98: -413173263
+      rewardUnlockLevelUpPresentationPack_99: -1990241686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

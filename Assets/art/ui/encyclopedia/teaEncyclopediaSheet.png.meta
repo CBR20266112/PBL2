@@ -1,0 +1,1397 @@
+fileFormatVersion: 2
+guid: fcd84dddafa66b3438d6c3a63f6d2b73
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 797
+        width: 213
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634903363c6ba9b4fb8c891ca2525c21
+      internalID: 230320388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 764
+        width: 309
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6d50f824f01ec4c90e8f2f64f1e07b
+      internalID: 2081640969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 808
+        width: 142
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545dd054356c04d4f8e1f35f2eedd8b7
+      internalID: -1208828925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_3
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 815
+        width: 43
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f7182fc35157b4485cb249c3a8bcda
+      internalID: -1530107324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_4
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 815
+        width: 43
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d54310a9d9c6d47bc92055a388aff6
+      internalID: 1901649200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_5
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 816
+        width: 43
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b6a113fd238df4bac29b8c34b2b7a1
+      internalID: 835436109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_6
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 815
+        width: 42
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aee63184ffde34393a967b9fae7e18
+      internalID: 1361247602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 815
+        width: 42
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdfa9ca751d5784bb0803c36f711c40
+      internalID: 2066012858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 535
+        width: 355
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4aabd924ac3f24ea70bbe94c2db0db
+      internalID: -1522226946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 553
+        width: 210
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b46748fba8e24782ba875bc8406f0
+      internalID: 1020178591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 288
+        width: 346
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcc5ce1b3aabed45984ad26832ffdb4
+      internalID: 2090440702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 396
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167698348d96cf2498b25a3997134928
+      internalID: -1176714079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 395
+        width: 106
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd2fbd6d8f67da4ebd29169535e1bcf
+      internalID: 218417607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 394
+        width: 109
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4ab57722454704cb975cfc6f9b1008
+      internalID: 696555116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 388
+        width: 127
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18711e55b7ad8ff42b90d6fab1b236c2
+      internalID: 1082680519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 390
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951d5c76741a94845ba1748c871a5fc7
+      internalID: 536668635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 310
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a3bc2abe81d4447b4fee0b4838c834
+      internalID: -1958843537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 309
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4e904b636072240ba8b187d38dbb2d
+      internalID: 1364388577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 309
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ef9712dcc5fdc4caf79bf8c084f46a
+      internalID: 20645236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 308
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e168f3b95b79b046892e8e2f92e55f9
+      internalID: 1137681852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 308
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e569d1a8b78ae1042a90b6c40cb57eef
+      internalID: -735982273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_21
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 309
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b69f1ef6e4fd40ba2e934c501cc95
+      internalID: -1294295104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 221
+        width: 356
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac7afc1f0a966a4f98ed6933d4ad3d5
+      internalID: -524892180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 230
+        width: 230
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21835618cb3c48e40b089597a45d4f22
+      internalID: 666515292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_24
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 205
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ba93b72e71e4e4c9e5d5dd64e7d67c
+      internalID: -856250157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_25
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 200
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1676a813512ddc42b643d1e45494ab2
+      internalID: 2099053907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_26
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 198
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e557b0dbb05e72f49bd641f7463aeec4
+      internalID: 603762292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 108
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d432c1ada54d3a4fa2926458824fc50
+      internalID: -239903407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 107
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4010610a77bba7845b1ae61fbb2afd52
+      internalID: -1822206063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 105
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba750026b37cfef408759c3a8277315e
+      internalID: -1437708644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 101
+        width: 126
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dfcc6fb23be5148b7d6c9ff649e9a1
+      internalID: 1833111671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_31
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 100
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6149fd9f12f14a9a0b6ece896c0a4
+      internalID: -587802366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_32
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 106
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccab26c3de792634a9232f43a70a197d
+      internalID: -1684420799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_33
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 108
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f93518bfbf5e6438736897b41c4362
+      internalID: 1550148380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_34
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 102
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881176d6cfbda6846b31927e824a3c9b
+      internalID: -100614110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 23
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64290be7029d4a64bb194b0aad2ac8e7
+      internalID: 2129220819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 20
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53b48465c01ec48a5038085aa4ea64
+      internalID: -1509143877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 22
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fb5e8204bb3db42a8637348bfbfa05
+      internalID: -1810364967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_38
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 23
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06483074afa8b89499c0627a45481b53
+      internalID: -397052773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_39
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 25
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d84e69e716f34049906da3bfadf9425
+      internalID: -1386702731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 45
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c1275a8a7137847bb1b612988a34af
+      internalID: -59519589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 71
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f146c7244f80a4cb8ebd2041bc72c7
+      internalID: -695760383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_42
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 20
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a004d20a9254c8c42ade148a370127e3
+      internalID: -2018633510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_43
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 48
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb29527205f9354b99b6d07fd07c387
+      internalID: 147588160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_44
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 21
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e7acfe5322f4348bfac8bc918350ec
+      internalID: 1752941777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_45
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 20
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6872398bacc11f4697e250bc30bdc83
+      internalID: 613080933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 16
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19533e261daac5d429ad1da8384a1048
+      internalID: 702955573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_47
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 47
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66070a92f5b0e541ada77e9d4bdef5e
+      internalID: 1164140225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_48
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 65
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d7c1fbc2ed90a4cbeed2c1fb8389cb
+      internalID: -190461200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 22
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf246867113248c4a871d0cd3ddf8773
+      internalID: -528190209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_50
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 19
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e8882faa700146989647d1914b19c
+      internalID: 1314198069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_51
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 22
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2846b1e7c5bedf40bc8d7172311ef1e
+      internalID: 1148100155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_52
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 21
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86156d0597565d4eba758282f58754e
+      internalID: -23663785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_53
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 21
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9d25de59d829445895e45005c293f3
+      internalID: -8898027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaEncyclopediaSheet_54
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 33
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bbf7c8e4a9fc34d8330bdc2c6d32ea
+      internalID: -2028327999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b7c2a87b4f788b44faa8021e7606e701
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      teaEncyclopediaSheet_0: 230320388
+      teaEncyclopediaSheet_1: 2081640969
+      teaEncyclopediaSheet_10: 2090440702
+      teaEncyclopediaSheet_11: -1176714079
+      teaEncyclopediaSheet_12: 218417607
+      teaEncyclopediaSheet_13: 696555116
+      teaEncyclopediaSheet_14: 1082680519
+      teaEncyclopediaSheet_15: 536668635
+      teaEncyclopediaSheet_16: -1958843537
+      teaEncyclopediaSheet_17: 1364388577
+      teaEncyclopediaSheet_18: 20645236
+      teaEncyclopediaSheet_19: 1137681852
+      teaEncyclopediaSheet_2: -1208828925
+      teaEncyclopediaSheet_20: -735982273
+      teaEncyclopediaSheet_21: -1294295104
+      teaEncyclopediaSheet_22: -524892180
+      teaEncyclopediaSheet_23: 666515292
+      teaEncyclopediaSheet_24: -856250157
+      teaEncyclopediaSheet_25: 2099053907
+      teaEncyclopediaSheet_26: 603762292
+      teaEncyclopediaSheet_27: -239903407
+      teaEncyclopediaSheet_28: -1822206063
+      teaEncyclopediaSheet_29: -1437708644
+      teaEncyclopediaSheet_3: -1530107324
+      teaEncyclopediaSheet_30: 1833111671
+      teaEncyclopediaSheet_31: -587802366
+      teaEncyclopediaSheet_32: -1684420799
+      teaEncyclopediaSheet_33: 1550148380
+      teaEncyclopediaSheet_34: -100614110
+      teaEncyclopediaSheet_35: 2129220819
+      teaEncyclopediaSheet_36: -1509143877
+      teaEncyclopediaSheet_37: -1810364967
+      teaEncyclopediaSheet_38: -397052773
+      teaEncyclopediaSheet_39: -1386702731
+      teaEncyclopediaSheet_4: 1901649200
+      teaEncyclopediaSheet_40: -59519589
+      teaEncyclopediaSheet_41: -695760383
+      teaEncyclopediaSheet_42: -2018633510
+      teaEncyclopediaSheet_43: 147588160
+      teaEncyclopediaSheet_44: 1752941777
+      teaEncyclopediaSheet_45: 613080933
+      teaEncyclopediaSheet_46: 702955573
+      teaEncyclopediaSheet_47: 1164140225
+      teaEncyclopediaSheet_48: -190461200
+      teaEncyclopediaSheet_49: -528190209
+      teaEncyclopediaSheet_5: 835436109
+      teaEncyclopediaSheet_50: 1314198069
+      teaEncyclopediaSheet_51: 1148100155
+      teaEncyclopediaSheet_52: -23663785
+      teaEncyclopediaSheet_53: -8898027
+      teaEncyclopediaSheet_54: -2028327999
+      teaEncyclopediaSheet_6: 1361247602
+      teaEncyclopediaSheet_7: 2066012858
+      teaEncyclopediaSheet_8: -1522226946
+      teaEncyclopediaSheet_9: 1020178591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

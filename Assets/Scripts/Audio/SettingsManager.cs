@@ -17,8 +17,10 @@ public enum SoundTheme
 /// </summary>
 public class SettingsManager : Singleton<SettingsManager>
 {
+    private const string MasterVolumeKey = "Settings_MasterVolume";
     private const string MusicVolumeKey = "Settings_MusicVolume";
     private const string SfxVolumeKey = "Settings_SfxVolume";
+    private const string AmbienceVolumeKey = "Settings_AmbienceVolume";
     private const string SoundThemeKey = "Settings_SoundTheme";
 
     private static readonly SoundTheme[] ExplicitThemes =
@@ -30,8 +32,10 @@ public class SettingsManager : Singleton<SettingsManager>
         SoundTheme.Kyrgyzstan
     };
 
+    public float MasterVolume { get; private set; } = 1.0f;
     public float MusicVolume { get; private set; } = 0.5f;
     public float SfxVolume { get; private set; } = 0.8f;
+    public float AmbienceVolume { get; private set; } = 0.7f;
     public SoundTheme SelectedTheme { get; private set; } = SoundTheme.Korea;
 
     protected override void Awake()
@@ -42,8 +46,10 @@ public class SettingsManager : Singleton<SettingsManager>
 
     public void LoadSettings()
     {
+        MasterVolume = PlayerPrefs.GetFloat(MasterVolumeKey, 1.0f);
         MusicVolume = PlayerPrefs.GetFloat(MusicVolumeKey, 0.5f);
         SfxVolume = PlayerPrefs.GetFloat(SfxVolumeKey, 0.8f);
+        AmbienceVolume = PlayerPrefs.GetFloat(AmbienceVolumeKey, 0.7f);
 
         int savedTheme = PlayerPrefs.GetInt(SoundThemeKey, (int)SoundTheme.Korea);
         if (Enum.IsDefined(typeof(SoundTheme), savedTheme))
@@ -60,10 +66,19 @@ public class SettingsManager : Singleton<SettingsManager>
 
     public void SaveSettings()
     {
+        PlayerPrefs.SetFloat(MasterVolumeKey, MasterVolume);
         PlayerPrefs.SetFloat(MusicVolumeKey, MusicVolume);
         PlayerPrefs.SetFloat(SfxVolumeKey, SfxVolume);
+        PlayerPrefs.SetFloat(AmbienceVolumeKey, AmbienceVolume);
         PlayerPrefs.SetInt(SoundThemeKey, (int)SelectedTheme);
         PlayerPrefs.Save();
+    }
+
+    public void SetMasterVolume(float volume)
+    {
+        MasterVolume = Mathf.Clamp01(volume);
+        SaveSettings();
+        AudioManager.Instance.SetMasterVolume(MasterVolume);
     }
 
     public void SetMusicVolume(float volume)
@@ -80,6 +95,13 @@ public class SettingsManager : Singleton<SettingsManager>
         AudioManager.Instance.SetSfxVolume(SfxVolume);
     }
 
+    public void SetAmbienceVolume(float volume)
+    {
+        AmbienceVolume = Mathf.Clamp01(volume);
+        SaveSettings();
+        AudioManager.Instance.SetAmbienceVolume(AmbienceVolume);
+    }
+
     public void SetSoundTheme(SoundTheme soundTheme)
     {
         SelectedTheme = soundTheme;
@@ -89,23 +111,11 @@ public class SettingsManager : Singleton<SettingsManager>
 
     public string GetCurrentThemeDisplayName()
     {
-        switch (SelectedTheme)
-        {
-            case SoundTheme.Korea:
-                return "한국";
-            case SoundTheme.China:
-                return "중국";
-            case SoundTheme.Japan:
-                return "일본";
-            case SoundTheme.Vietnam:
-                return "베트남";
-            case SoundTheme.Kyrgyzstan:
-                return "키르기스스탄";
-            case SoundTheme.Random:
-                return "랜덤";
-            default:
-                return "한국";
-        }
+        if (SelectedTheme == SoundTheme.Random)
+            return "랜덤";
+
+        string displayName = AudioManager.Instance.GetThemeDisplayName(SelectedTheme.ToString());
+        return !string.IsNullOrEmpty(displayName) ? displayName : SelectedTheme.ToString();
     }
 
     public SoundTheme GetPlaybackTheme()
@@ -130,23 +140,19 @@ public class SettingsManager : Singleton<SettingsManager>
 
     public string GetThemeMusicTrackName(SoundTheme theme)
     {
-        switch (theme)
+        if (theme == SoundTheme.Random)
         {
-            case SoundTheme.Korea:
-                return "01_Korea_TeaCafe";
-            case SoundTheme.China:
-                return "02_China_TeaCafe";
-            case SoundTheme.Japan:
-                return "03_Japan_TeaCafe";
-            case SoundTheme.Vietnam:
-                return "04_Vietnam_TeaCafe";
-            case SoundTheme.Kyrgyzstan:
-                return "05_Kyrgyzstan_TeaCafe";
-            case SoundTheme.Random:
-                return GetThemeMusicTrackName(GetRandomTheme());
-            default:
-                return "01_Korea_TeaCafe";
+            theme = GetRandomTheme();
         }
+
+        AudioClip clip = AudioManager.Instance.GetThemeBgmClip(theme.ToString());
+        if (clip != null)
+        {
+            return clip.name; // 기존 API 호환을 위해 clip 이름 반환
+        }
+
+        // DB에 없을 경우의 최소한의 기본값 (하드코딩 최소화)
+        return "01_Korea_TeaCafe";
     }
 
     public string GetThemeSpecificSfxClipName(string baseClipName)
@@ -162,16 +168,20 @@ public class SettingsManager : Singleton<SettingsManager>
 
     public void ApplyAudioVolumes()
     {
+        AudioManager.Instance.SetMasterVolume(MasterVolume);
         AudioManager.Instance.SetMusicVolume(MusicVolume);
         AudioManager.Instance.SetSfxVolume(SfxVolume);
+        AudioManager.Instance.SetAmbienceVolume(AmbienceVolume);
     }
 
     public void ApplyCurrentSceneMusic()
     {
-        string track = GetMusicTrackForScene(SceneManager.GetActiveScene().name);
-        if (!string.IsNullOrEmpty(track))
+        string sceneName = SceneManager.GetActiveScene().name;
+        if (sceneName == GameConstants.SCENE_TITLE || sceneName == GameConstants.SCENE_MAIN)
         {
-            AudioManager.Instance.PlayMusic(track, true, MusicVolume);
+            string themeStr = GetPlaybackTheme().ToString();
+            AudioManager.Instance.PlayThemeBGM(themeStr);
+            AudioManager.Instance.PlayThemeAmbience(themeStr);
         }
     }
 }

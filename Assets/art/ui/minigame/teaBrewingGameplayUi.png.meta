@@ -1,0 +1,2179 @@
+fileFormatVersion: 2
+guid: 43d5ea4c44bb6714ab4bdd798436678a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 945
+        width: 461
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d938b5a344c385c4793aa9454d0f087a
+      internalID: 781863010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 951
+        width: 198
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58afa5d08976f849bc430acbf3ed1c8
+      internalID: -1105402163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 963
+        width: 261
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3fccd9f40270e44b575961f5987cb2
+      internalID: -1365040923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 584
+        width: 87
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db489aff240ee458ce771a3a995a25
+      internalID: -62759343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 675
+        width: 77
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584bfd33d88bd8a4f986973d58ebf825
+      internalID: -1319406878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 680
+        width: 470
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5df9703688bff042a91a0ffdb2de2be
+      internalID: -872206137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_6
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 680
+        width: 149
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c28b9806575a46ba3b43636884cb2
+      internalID: -926003871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_7
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 846
+        width: 167
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50fb7b229e073a4f97e0e0da39d386c
+      internalID: -1635897121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_8
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 722
+        width: 152
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59f2a1439f7fd64292c5cfa4ff14f0e
+      internalID: -1426799678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 579
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e7c74a04d1cfb42ac467cf45724c03
+      internalID: 1816149618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 579
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c80c89b8c8dfa47b2399a4d3ec4b00
+      internalID: 1523288576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 577
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e613cdb4729a24b8da9a318040035e
+      internalID: 1864326933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 584
+        width: 153
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961543d5e83b9f0478bfce577b7f018f
+      internalID: 353690127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 585
+        width: 208
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c06c95c9c49644d9f9761ca036d384
+      internalID: -866203819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_14
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 585
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a40100ca6991bf4cbf3a4bbd78a91f4
+      internalID: 1319663279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_15
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 585
+        width: 135
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c16afc4c7ebe4182a2309adb5fa91
+      internalID: -1996317527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_16
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 584
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08386f9eda0147f4e9f0826d7d16b148
+      internalID: 1691157052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 480
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec984872ecf9dc4389b4ffdf2672211
+      internalID: -1342067947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 417
+        width: 138
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d898b6f290352e49a58cfe90203e578
+      internalID: 1951918166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 480
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdccd9eecfa51044aca8146c9b0e252
+      internalID: 957207627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 480
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e6467dcea942943bec0b73f3945e9a
+      internalID: -2003040359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 479
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeee7be04c0ab04c97f7fdaf240e580
+      internalID: -1846296987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_22
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 480
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1ea76cf30ecf04184760f5415bc653
+      internalID: -1943737628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_23
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 481
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af0d228dc95d37438bca8a1b0fd8d27
+      internalID: 1890950546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_24
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 479
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153bdaf4242da3543b2e7fbd31d26ebb
+      internalID: -579929869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 417
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43852c9a9f12cd84689f5be5581821be
+      internalID: 1871451574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 417
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02f97bb35048a34d8267aeb623ee2a9
+      internalID: -1757244149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 417
+        width: 129
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc7e661a30c5b8408a310a78080f649
+      internalID: -1886841636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_28
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 417
+        width: 130
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa21863f8a761a4aa7ef3494918df46
+      internalID: -1352224972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_29
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 416
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b8de0fdbb585849a0271dfcd9fb4e3
+      internalID: -1667375756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_30
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 417
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699d0632523c6e54592bda7b088d3889
+      internalID: 1588362722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_31
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 417
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b360b85054c2f4192f17181cd95fb3
+      internalID: -265165486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_32
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 416
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bb719edd4d65044ba48003e5174302
+      internalID: -1377729090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_33
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 413
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dd354f6780e2449b94d13607efe85b
+      internalID: 1683234575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_34
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 415
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a212a9d4d559cfd4e89e3dcad12dc539
+      internalID: -2132839996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 142
+        width: 181
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e34999f7214ec04f9fd0b70eddb4351
+      internalID: 1081606866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 295
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e0c68350131948913a470375ea62d
+      internalID: 1845320854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 360
+        width: 125
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d79a1d9b116aac48b4e09a3d3afc670
+      internalID: 425889294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 305
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ae935f65860446ba774fb7089c857
+      internalID: 789833777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 269
+        width: 95
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57df9bf171ae60a4290d3f64684e4cc6
+      internalID: 1956673802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_40
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 278
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06685e6c2dd12144db38aab5f0713093
+      internalID: -664818876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_41
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 371
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee59b0fe48fb084b975bf59c1f1999d
+      internalID: 1373822236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_42
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 370
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b0ef19eebfc6c41a1d39598554020d
+      internalID: 609006375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_43
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 273
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0172a706394a4e49a6f9b75f9f7fce6
+      internalID: -1058094397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_44
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 375
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36371941e3386b4484b85a1a4205113
+      internalID: -837589159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_45
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 262
+        width: 130
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13efe6690a734aa44a7652eab72e704a
+      internalID: 1120942594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_46
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 267
+        width: 145
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae02b07ddde870d459aa948797a6ef51
+      internalID: -1216542825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_47
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 343
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ae2c4f170eba3429e162fbce604169
+      internalID: -1850709328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_48
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 352
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159a7ef23ad37d440aa9201340c189b8
+      internalID: 1853212874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_49
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 352
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f8705dc275caa4bb5fcaeda5189a25
+      internalID: -2047435940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_50
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 348
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54cb1bf793312349b008cd5e3cba1ce
+      internalID: -1788176592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_51
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 345
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0bc5def61c4d489e52fc8d1090861
+      internalID: 956739251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_52
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 342
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b032b5ca355cb70499c6d8603098a5ac
+      internalID: 2115749938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_53
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 336
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98effd2275bad8a4791fab40fad9ccb3
+      internalID: -844515226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_54
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 324
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645e39971031bc04aaaa8805eeb39908
+      internalID: 1671097403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_55
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 330
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d3bba70364d5046b0fa5fcfbc35a0d
+      internalID: -1995933036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_56
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 315
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732486828cd5d0440963175eff8071a1
+      internalID: 1765435956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_57
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 304
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7387fb80a5f0f5347bacb91e1bbd23a0
+      internalID: -242455725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_58
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 314
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22595099dcb454d4dbf910eb3b84171a
+      internalID: -1307748339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_59
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 278
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e13c2af7e59e448874f0e2081d3444
+      internalID: -1718577433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_60
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 278
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a3d4d19cd147b4d91daeaba88d7277
+      internalID: 60673797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_61
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 295
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474180e510788b94082a250581ce31a1
+      internalID: 1098898101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_62
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 145
+        width: 131
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef829c51205bc9e4182488d868989f77
+      internalID: -11263465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_63
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 146
+        width: 122
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c9d2612c5df0d43af944bd4047c7d5
+      internalID: 1958402076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_64
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 146
+        width: 116
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23a2318b9510044eac276e860275221
+      internalID: -1051426487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_65
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 149
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda18da7d0f8a148bf1d3a2ab14a4bc
+      internalID: 1185715172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_66
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 147
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af73900c3365f479f3663795c6be19
+      internalID: -1950239047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_67
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 147
+        width: 127
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab81979374fdb6d4587b6509706f4b2b
+      internalID: 1385209635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 84
+        width: 237
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605fb641e1da30e43b2fc07c57135254
+      internalID: 1725775026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_69
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 122
+        width: 89
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50b1c28752128d4f8774780c7aa623c
+      internalID: -885393657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_70
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 14
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40265bf47628c98478c4053dcc7833e0
+      internalID: -1360580676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_71
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 71
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d379e0cc9cc9840ae4a6e836f9217a
+      internalID: -45708414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_72
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 78
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337bb77450a6aec4495d1085bae4794c
+      internalID: -674691123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_73
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 77
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ec4b70106b804d9470684939577ce
+      internalID: -215157960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 80
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002a61e9c38c8b46ae6c93c8c1ad6f0
+      internalID: 1186805944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_75
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 54
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d781655d6d4e05a489fbf9f2ed4e3283
+      internalID: -898870719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_76
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 75
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e56753c6b2833246a81980d4319353c
+      internalID: -1669386377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_77
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 27
+        width: 134
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cff1d67b5451344a252d1a9d57ee38
+      internalID: 850363118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 89
+        width: 89
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b5eda8894ed83419636a743e92270a
+      internalID: -1606924088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_79
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 53
+        width: 129
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c3e93edc5c2cd43a3fc471f66a95ea
+      internalID: 1345937782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_80
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 23
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b036d620e590488dc631a4e2464ae
+      internalID: 161510753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_81
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 14
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6816d55a56f9a4a4996eb460cb602ba2
+      internalID: 1069211266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_82
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 14
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a2e1cfabc601b4784b36fead884151
+      internalID: -510034600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_83
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 14
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25494d73e4f3d3749b8a81e0fec63531
+      internalID: -784653402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740928851e8cad548bd512c4de09cd0f
+      internalID: -406344849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_85
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 13
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c28c07d545613644b9f2968b9dc55a3
+      internalID: 1903178090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_86
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 13
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9632f96bfa53e7844802a7edc61c83a8
+      internalID: -571339182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_87
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 13
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d8137e6307304392c6e5c6d71c246
+      internalID: -1359606731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingGameplayUi_88
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 13
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260984e70d81ecf47bf812af19a99ff9
+      internalID: 1504771200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5cb066ec8665bd40982d83ce3e0fe69
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      teaBrewingGameplayUi_0: 781863010
+      teaBrewingGameplayUi_1: -1105402163
+      teaBrewingGameplayUi_10: 1523288576
+      teaBrewingGameplayUi_11: 1864326933
+      teaBrewingGameplayUi_12: 353690127
+      teaBrewingGameplayUi_13: -866203819
+      teaBrewingGameplayUi_14: 1319663279
+      teaBrewingGameplayUi_15: -1996317527
+      teaBrewingGameplayUi_16: 1691157052
+      teaBrewingGameplayUi_17: -1342067947
+      teaBrewingGameplayUi_18: 1951918166
+      teaBrewingGameplayUi_19: 957207627
+      teaBrewingGameplayUi_2: -1365040923
+      teaBrewingGameplayUi_20: -2003040359
+      teaBrewingGameplayUi_21: -1846296987
+      teaBrewingGameplayUi_22: -1943737628
+      teaBrewingGameplayUi_23: 1890950546
+      teaBrewingGameplayUi_24: -579929869
+      teaBrewingGameplayUi_25: 1871451574
+      teaBrewingGameplayUi_26: -1757244149
+      teaBrewingGameplayUi_27: -1886841636
+      teaBrewingGameplayUi_28: -1352224972
+      teaBrewingGameplayUi_29: -1667375756
+      teaBrewingGameplayUi_3: -62759343
+      teaBrewingGameplayUi_30: 1588362722
+      teaBrewingGameplayUi_31: -265165486
+      teaBrewingGameplayUi_32: -1377729090
+      teaBrewingGameplayUi_33: 1683234575
+      teaBrewingGameplayUi_34: -2132839996
+      teaBrewingGameplayUi_35: 1081606866
+      teaBrewingGameplayUi_36: 1845320854
+      teaBrewingGameplayUi_37: 425889294
+      teaBrewingGameplayUi_38: 789833777
+      teaBrewingGameplayUi_39: 1956673802
+      teaBrewingGameplayUi_4: -1319406878
+      teaBrewingGameplayUi_40: -664818876
+      teaBrewingGameplayUi_41: 1373822236
+      teaBrewingGameplayUi_42: 609006375
+      teaBrewingGameplayUi_43: -1058094397
+      teaBrewingGameplayUi_44: -837589159
+      teaBrewingGameplayUi_45: 1120942594
+      teaBrewingGameplayUi_46: -1216542825
+      teaBrewingGameplayUi_47: -1850709328
+      teaBrewingGameplayUi_48: 1853212874
+      teaBrewingGameplayUi_49: -2047435940
+      teaBrewingGameplayUi_5: -872206137
+      teaBrewingGameplayUi_50: -1788176592
+      teaBrewingGameplayUi_51: 956739251
+      teaBrewingGameplayUi_52: 2115749938
+      teaBrewingGameplayUi_53: -844515226
+      teaBrewingGameplayUi_54: 1671097403
+      teaBrewingGameplayUi_55: -1995933036
+      teaBrewingGameplayUi_56: 1765435956
+      teaBrewingGameplayUi_57: -242455725
+      teaBrewingGameplayUi_58: -1307748339
+      teaBrewingGameplayUi_59: -1718577433
+      teaBrewingGameplayUi_6: -926003871
+      teaBrewingGameplayUi_60: 60673797
+      teaBrewingGameplayUi_61: 1098898101
+      teaBrewingGameplayUi_62: -11263465
+      teaBrewingGameplayUi_63: 1958402076
+      teaBrewingGameplayUi_64: -1051426487
+      teaBrewingGameplayUi_65: 1185715172
+      teaBrewingGameplayUi_66: -1950239047
+      teaBrewingGameplayUi_67: 1385209635
+      teaBrewingGameplayUi_68: 1725775026
+      teaBrewingGameplayUi_69: -885393657
+      teaBrewingGameplayUi_7: -1635897121
+      teaBrewingGameplayUi_70: -1360580676
+      teaBrewingGameplayUi_71: -45708414
+      teaBrewingGameplayUi_72: -674691123
+      teaBrewingGameplayUi_73: -215157960
+      teaBrewingGameplayUi_74: 1186805944
+      teaBrewingGameplayUi_75: -898870719
+      teaBrewingGameplayUi_76: -1669386377
+      teaBrewingGameplayUi_77: 850363118
+      teaBrewingGameplayUi_78: -1606924088
+      teaBrewingGameplayUi_79: 1345937782
+      teaBrewingGameplayUi_8: -1426799678
+      teaBrewingGameplayUi_80: 161510753
+      teaBrewingGameplayUi_81: 1069211266
+      teaBrewingGameplayUi_82: -510034600
+      teaBrewingGameplayUi_83: -784653402
+      teaBrewingGameplayUi_84: -406344849
+      teaBrewingGameplayUi_85: 1903178090
+      teaBrewingGameplayUi_86: -571339182
+      teaBrewingGameplayUi_87: -1359606731
+      teaBrewingGameplayUi_88: 1504771200
+      teaBrewingGameplayUi_9: 1816149618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

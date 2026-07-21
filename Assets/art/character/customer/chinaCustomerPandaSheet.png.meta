@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: f41d39b49b423f8448f4cd920543c7a2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 861
+        width: 80
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb7ae51da4b0f54087e444535cb7c85
+      internalID: -1564889950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 859
+        width: 80
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00328ac24794ad44693417efe53b1072
+      internalID: -1386126956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 857
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7632bd0481039f94dbf634dd6779172c
+      internalID: -6686396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_3
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 858
+        width: 83
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda0bfb6aa246de4cb7b34187b66ccd9
+      internalID: -2005239266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_4
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 863
+        width: 107
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaecd0c002a35141bb998175dea649b
+      internalID: 978209849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_5
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 859
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce986f74b3fb5694a9be3ffc3ba0f010
+      internalID: -766196418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 749
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a747ecca2ab1e248bdbfd230300dd44
+      internalID: 892509890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 746
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dfc0bfc26db2646a5f4e49e7e9f516
+      internalID: 612449610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 746
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac23aca143134864ba0d2453f6a94419
+      internalID: -64124482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 746
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3586f14a13b01646838abbb7fc54f61
+      internalID: 132706650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 740
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ee96856bc8a5042aa108335199d671
+      internalID: -70840715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 745
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814244726b24ea46b0d7d1710a45e89
+      internalID: -851560873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 632
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae58e094eed434bacffca28fd4ab5d
+      internalID: 1934131309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 630
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b653ecb9b32fa54b906bb6d6825cf0a
+      internalID: -730700517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 626
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fec4135d7985f478bd76de6e7388d5
+      internalID: -987782773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 632
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffad19c2328040640a116a793dedf064
+      internalID: 1253319203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_16
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 625
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b045fd4f0e2bc4da4c5897cef3a10a
+      internalID: -669624617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_17
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 692
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddbf96f45a965342959d364de47d50e
+      internalID: -678647976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_18
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 627
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9611ce3e2d2216489dbda57d1382253
+      internalID: -1123744185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_19
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 693
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1102fd475e2c4f9e4ca45a2e08344
+      internalID: 241896429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_20
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 673
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bb2fda6e6d3eb44ae5be30d6d2ef30
+      internalID: 1888529318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_21
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 670
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a464eb3912eaa1f4a94248c6c85f2678
+      internalID: 33433845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_22
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 651
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88cb8b20a625e8408f7c0decb856de0
+      internalID: -1768773856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 491
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc472d8fd587e4644a39c0361ac96054
+      internalID: -1619984293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 490
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574e76ea2f38cf54195e76eec20095b0
+      internalID: -1175330286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 490
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8d7973cc87cc04bb379ace4d686f0a
+      internalID: 362580840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_26
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 487
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c3f43fca8b6164fa7b3d7b8a9a410d
+      internalID: -1745190660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_27
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 488
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8560e38dc7b8aab448198cb7abebe75c
+      internalID: -2001905590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_28
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 568
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ea8186d8b01234fb0df622fd4d44a5
+      internalID: -584119533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_29
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 487
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67cb2a94bf7b054aaf18cf90d30e305
+      internalID: 465010176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_30
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 549
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8648e9580286bd94299fa20c9b79fa28
+      internalID: -1592316245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 359
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed4003f2ef20d940b5df130594c3eca
+      internalID: -244903579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_32
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 359
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac83ad1623b344a40831b1434b63e687
+      internalID: 236929220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 361
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2922e2a955c034a408de6d45659d02b0
+      internalID: -1114955199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 354
+        width: 73
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e54a830391e1f4ca7fb625b8077703
+      internalID: -2078223508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_35
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 352
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55307f32a121ec54d86c52f36dc32b85
+      internalID: 1006245516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_36
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 352
+        width: 69
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fabcd9845e17f42b5d7a8f04c669a0
+      internalID: 1064059052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 254
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279326db63e38d94787bfc74b429473d
+      internalID: -415065084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 115
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf4595c831c5748a8e5dc8bd38cc2e
+      internalID: -1954032110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 318
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea14cd58ac52384d87e71224303e70f
+      internalID: -1381185876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_40
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 125
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d05eac58d0794194b157227dbd31f
+      internalID: 1675964552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 125
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4afbe5965158c4d9a46a357d86e4f8
+      internalID: -1636375723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_42
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 126
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6683013c04c905644b4b3ade10ae94e3
+      internalID: -1738414405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_43
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 125
+        width: 102
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32822864df377e54e950ab69cc0400be
+      internalID: 414697776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_44
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 125
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeedbf413bf2854990bffc54b66452a
+      internalID: 928425566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_45
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 125
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347ab853ba2b55f44b1bb7ef5ed9da39
+      internalID: 173365421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675f7f1ab9aad4145a6d3a79593b47e8
+      internalID: -1199911263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_47
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 27
+        width: 100
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d656d153c1d3284a89e242068e8bf80
+      internalID: -1369028837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_48
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 20
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668fcc29e84cc3641bf23eccfae54fd0
+      internalID: 646166386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_49
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 18
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148d2b6433cfb1e478810259053cee49
+      internalID: -1065037763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_50
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 19
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43baa64a406ab504e9a5f081b49de947
+      internalID: 858618093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_51
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 18
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101f76d0656283498ca4601d3d70e71
+      internalID: -1371140199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaCustomerPandaSheet_52
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 22
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f38b871fc6446d4992df1805bf2513d
+      internalID: -268753065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 692d6a7a669245a4697c103155203dc2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      chinaCustomerPandaSheet_0: -1564889950
+      chinaCustomerPandaSheet_1: -1386126956
+      chinaCustomerPandaSheet_10: -70840715
+      chinaCustomerPandaSheet_11: -851560873
+      chinaCustomerPandaSheet_12: 1934131309
+      chinaCustomerPandaSheet_13: -730700517
+      chinaCustomerPandaSheet_14: -987782773
+      chinaCustomerPandaSheet_15: 1253319203
+      chinaCustomerPandaSheet_16: -669624617
+      chinaCustomerPandaSheet_17: -678647976
+      chinaCustomerPandaSheet_18: -1123744185
+      chinaCustomerPandaSheet_19: 241896429
+      chinaCustomerPandaSheet_2: -6686396
+      chinaCustomerPandaSheet_20: 1888529318
+      chinaCustomerPandaSheet_21: 33433845
+      chinaCustomerPandaSheet_22: -1768773856
+      chinaCustomerPandaSheet_23: -1619984293
+      chinaCustomerPandaSheet_24: -1175330286
+      chinaCustomerPandaSheet_25: 362580840
+      chinaCustomerPandaSheet_26: -1745190660
+      chinaCustomerPandaSheet_27: -2001905590
+      chinaCustomerPandaSheet_28: -584119533
+      chinaCustomerPandaSheet_29: 465010176
+      chinaCustomerPandaSheet_3: -2005239266
+      chinaCustomerPandaSheet_30: -1592316245
+      chinaCustomerPandaSheet_31: -244903579
+      chinaCustomerPandaSheet_32: 236929220
+      chinaCustomerPandaSheet_33: -1114955199
+      chinaCustomerPandaSheet_34: -2078223508
+      chinaCustomerPandaSheet_35: 1006245516
+      chinaCustomerPandaSheet_36: 1064059052
+      chinaCustomerPandaSheet_37: -415065084
+      chinaCustomerPandaSheet_38: -1954032110
+      chinaCustomerPandaSheet_39: -1381185876
+      chinaCustomerPandaSheet_4: 978209849
+      chinaCustomerPandaSheet_40: 1675964552
+      chinaCustomerPandaSheet_41: -1636375723
+      chinaCustomerPandaSheet_42: -1738414405
+      chinaCustomerPandaSheet_43: 414697776
+      chinaCustomerPandaSheet_44: 928425566
+      chinaCustomerPandaSheet_45: 173365421
+      chinaCustomerPandaSheet_46: -1199911263
+      chinaCustomerPandaSheet_47: -1369028837
+      chinaCustomerPandaSheet_48: 646166386
+      chinaCustomerPandaSheet_49: -1065037763
+      chinaCustomerPandaSheet_5: -766196418
+      chinaCustomerPandaSheet_50: 858618093
+      chinaCustomerPandaSheet_51: -1371140199
+      chinaCustomerPandaSheet_52: -268753065
+      chinaCustomerPandaSheet_6: 892509890
+      chinaCustomerPandaSheet_7: 612449610
+      chinaCustomerPandaSheet_8: -64124482
+      chinaCustomerPandaSheet_9: 132706650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

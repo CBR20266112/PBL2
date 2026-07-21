@@ -1,0 +1,2524 @@
+fileFormatVersion: 2
+guid: 8ec2db52e58e5af4fa10acfef2217320
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: achievementSheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 825
+        width: 158
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e77f67c68882b840b69e730d591531b
+      internalID: -1248368177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 819
+        width: 290
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4094efd2a7ce5c74b8bf9fc6f0023fd2
+      internalID: 636017110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 861
+        width: 28
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f169726551859f409103a5e223204e2
+      internalID: -1165223776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 860
+        width: 27
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d4201041699f74597634ed04ccc2b7
+      internalID: -442264232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 861
+        width: 27
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defa86f06b005294b910e0c918490555
+      internalID: 1950110857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 861
+        width: 28
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c089062e2668b5e448bfce4960e32aab
+      internalID: -1593400324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 855
+        width: 97
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf520c948a63a74684fa238f6348cf6
+      internalID: -159040180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_7
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 885
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaf9e75fa6df1148a973eb86d9e2532
+      internalID: 627230205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_8
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 885
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d0c3c196756fc44a6b3cd338c0ec59
+      internalID: 2140148554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_9
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 886
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614e418976ad3ac40ae807a93edb3199
+      internalID: 1681871138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_10
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 860
+        width: 74
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b246147bfe0ffca46a542ea155f57e02
+      internalID: 848017403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_11
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 860
+        width: 74
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b0f741472a0d74d8027a5b28a0f73a
+      internalID: -1650477113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_12
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 860
+        width: 74
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfa8d61f58d50143ba40cc65c0afee6
+      internalID: -1210517219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 637
+        width: 131
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01520f50e5cae44b948da09303acef4
+      internalID: 510262638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 638
+        width: 119
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18142b1ae3e04af4bbd2839e7a44841a
+      internalID: 728724763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 638
+        width: 103
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4e2fc0f896f04f86231e24d91dfa1
+      internalID: 37369276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 637
+        width: 93
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58d530e971cb1448819403317f54c06
+      internalID: 108099359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 635
+        width: 102
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea935fb6b3cc06146b64e3214b7818c0
+      internalID: -1092313337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 637
+        width: 72
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47937043d3ecac449f7622f80474fca
+      internalID: -401121264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_19
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 506
+        width: 350
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9ef2f59e481ef49a6a6fa1a6652db9
+      internalID: -297272440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 513
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f79ddd47482148b601e859565997f
+      internalID: 955077962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 509
+        width: 96
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55954773f26989a49a338a92bac73d51
+      internalID: -243729880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 512
+        width: 85
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847ec497a38c94f41894ea60b9ac25c9
+      internalID: 412071924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 511
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb606965cb9be954881afec44a9b10a1
+      internalID: -30082837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 509
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037d3535d57f16e4eb1c64734a06c631
+      internalID: 1798512175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 509
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168eda3b9bdcadd439ee4424b2da2c22
+      internalID: -413790528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 511
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e9c9a5c789f942897b5f7ce9a3e5d
+      internalID: 1762285587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 433
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85147b93eb0820e4489452f3b1406ba0
+      internalID: 30980889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 433
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a98a06e0a486545a743374dfa44def
+      internalID: 863137586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 433
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1e8381ebbd3984ea755f5a63f2c331
+      internalID: -1086980826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 434
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5491fc86bea0224b8f9443a543dbbb5
+      internalID: -927092669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 434
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16597156c93a3e4498f2ade1f2429396
+      internalID: 1190083211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 433
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61642159f9d8cfc468c9b929bec640c4
+      internalID: 1734302820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_33
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 433
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9425d4ffb7dece7408ce3d42c4c99fbc
+      internalID: -1925311310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 433
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54d6f92e89bf0b478b90c73ca46eb04
+      internalID: 340890307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 433
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7513bfa2ab6bd541b33e7db4c0d7608
+      internalID: 890159679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_36
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 434
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52ead5e5152d5d49b1ec7a4f4b581da
+      internalID: -1898777291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_37
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 424
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ef98c56fdf6114b9f15033abd22de2
+      internalID: -504487937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_38
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 424
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9220e3a6f3b2f438e32ab87c589d86
+      internalID: 1894111820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_39
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 424
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e4fbd9cbf9974098f8a08babd304e
+      internalID: 279696758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_40
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 423
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137936c54f90f0a4897758ada93a94f0
+      internalID: -1882810477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_41
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 342
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e4b1480836e848a90c664a4730b04
+      internalID: -616109391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 342
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d17f78a0d156f458c825c33b484bc5
+      internalID: -417178415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_43
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 342
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13136e287c9c48458534fc74baf69cb
+      internalID: 1656308047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 342
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baf135045b834c4b8c0fc3c61ba12d3
+      internalID: 2069080899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 342
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5410f837de5727a43b0e3205f4a21a7c
+      internalID: -1320955188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_46
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 340
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7d6e83c359024d8e2bc9e692d76f6
+      internalID: -919789086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_47
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 337
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38665c7a926084441b40077a603ce532
+      internalID: -1619401251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_48
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 343
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1789a698cfb836243be934aeb3203d97
+      internalID: -385061667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_49
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 343
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864dcb5bf894a5043b0ea201740ef5e5
+      internalID: -154767793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_50
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 342
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af51731d1ad05464e9751dd8af59a7c7
+      internalID: -738750545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 301
+        width: 136
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196461e268deeb24986ddfacc697da86
+      internalID: 1351130098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_52
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 302
+        width: 132
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eccdd2ded560be43ae6717b10784c26
+      internalID: 1801779830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 238
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08588cbd79312c941a8a6d71949dc187
+      internalID: 498535371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 239
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493d92bf7fb297640a64d5b4bb6c2659
+      internalID: 384153776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_55
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 290
+        width: 103
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ace28f64efaa845b4989e03ab3da13
+      internalID: -504300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_56
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 291
+        width: 106
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e008e3bb234aa4baee7e6b0c6e4a77
+      internalID: 551538535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_57
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 206
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da52c2dda0ce0b54e99f91b586e73f59
+      internalID: 1143806669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_58
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 249
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f8962e89a12445ab61a841994eed5
+      internalID: -671719803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_59
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 298
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6161fa1f32b3a5244bcd48c59212f8e6
+      internalID: 298234848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_60
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 261
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6936bd3780224f4468a4be83bb08e81d
+      internalID: -1969060733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_61
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 306
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07669b6abb3bec46b2eb3eb0a35a508
+      internalID: 1354970166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 269
+        width: 136
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bb66cbfef90ef48854f641eff25239
+      internalID: 152462496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 264
+        width: 140
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51bf7ef01dfdd04ea297861e573dca7
+      internalID: 1894546660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_64
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 204
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf70b46f42bfb7f4a98dc6b1c262f19b
+      internalID: 557206022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_65
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 202
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1768551cc006e8e42920d19543b32587
+      internalID: 767820055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_66
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 206
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b80d30c4303d41b498c701e581f6d
+      internalID: 1751658836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_67
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 252
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6473a5e45e9a39547b614a2ad6b78698
+      internalID: 390224405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_68
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 267
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e002db82d59944db3fbec2bdc605f7
+      internalID: 1565152144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_69
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 229
+        width: 136
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5628e7b512f59b54bab18e9541e1db28
+      internalID: 1145822395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 228
+        width: 132
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db818b3ad555e5446bcfe29cc81242f5
+      internalID: -557525930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_71
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 220
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252b90a1136b58c489f24826e99e73e0
+      internalID: 1302965381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_72
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 194
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfe1bd2256b22c46962d98aaae2c69d
+      internalID: -339768961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_73
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 223
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9559d9d7c06370478ead33f8a2faf96
+      internalID: 340520219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 155
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a30ffa74699af44d81d59ad1c960d70
+      internalID: 991726232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_75
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 147
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a369ee0bca92c9448f1698eac78dd77
+      internalID: 2123964176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_76
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 144
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b102f43cf3ec447a0af2c30c09f4ee
+      internalID: 1710238737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_77
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 148
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f41dd56934ad644799fe364d8d6ac8a
+      internalID: -921568623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_78
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 142
+        width: 146
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4746c15b8331ede4484fe507212dae78
+      internalID: 1034379162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_79
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 150
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265b819e73b76d147986c350857624f1
+      internalID: -406149058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_80
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 196
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8d175a6a597bb4a83008ad60ea1168
+      internalID: -1979858591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_81
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 193
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45a8690c75d5764281956fdb5c41efa
+      internalID: -1905925814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_82
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 165
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a67849e4830cb4091779623d720f63
+      internalID: -1223861426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_83
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 145
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30440a88b4c6954a972735e9854f410
+      internalID: 1702953573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_84
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 146
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d614bf08a03590c4bbae322d8488b633
+      internalID: -1025415644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_85
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 144
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e2831d989b44e4c87ee0c4b3ef1521
+      internalID: 543586304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_86
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 148
+        width: 234
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec938ece4bd4b4eb1c05e9c70b6d2b
+      internalID: -2132022638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b48ef71d9f4a8499acc8ae897d6520
+      internalID: 664606917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 13
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e6d1ccbbfaa27408482b689d4688d7
+      internalID: -2034917333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_89
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 13
+        width: 79
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aba23fd061a2414ba695eb602cdd0de
+      internalID: 1906157637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_90
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c14d41ca7c01f4da3f891a0c83a693
+      internalID: 1119849683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_91
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 13
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0100d974cad670444af3a66c2f6c9bdb
+      internalID: 1252842298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_92
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 13
+        width: 79
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c2fa050063adf46bb4b6476e4c9848
+      internalID: -350666098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_93
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 13
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937e7b854bf872a44af716b319c278ed
+      internalID: 1735789940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_94
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 13
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a15051bbfaa2fd4b80eac94f701b119
+      internalID: 1099615661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_95
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 78
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aabd8cd97001841a6fdd235f743fe7
+      internalID: -1398904012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_96
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 92
+        width: 108
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f737ac95dd549f45808b3cab500c4f6
+      internalID: 933796806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_97
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 71
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0473457244a76be4392849ad8ba35ff8
+      internalID: 676761667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_98
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 13
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee07853e1c0baf5429741a970805fd20
+      internalID: 1967381413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_99
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 53
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e498676aac7e274f9e28dfd247f692e
+      internalID: -368137619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_100
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 14
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a198775c670a4479d03952e9431c37
+      internalID: 438293110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_101
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 16
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b764b97f2ce804428ec96221771a25f
+      internalID: -158121610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_102
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 31
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1547a85da702fa4a9570df22f90b63c
+      internalID: 891433982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievementSheet_103
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45376e2a16650c41afd04de63924886
+      internalID: -1116349937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b5f801a9ca0ba4b4f93a55d7927e5e67
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      achievementSheet_0: -1248368177
+      achievementSheet_1: 636017110
+      achievementSheet_10: 848017403
+      achievementSheet_100: 438293110
+      achievementSheet_101: -158121610
+      achievementSheet_102: 891433982
+      achievementSheet_103: -1116349937
+      achievementSheet_11: -1650477113
+      achievementSheet_12: -1210517219
+      achievementSheet_13: 510262638
+      achievementSheet_14: 728724763
+      achievementSheet_15: 37369276
+      achievementSheet_16: 108099359
+      achievementSheet_17: -1092313337
+      achievementSheet_18: -401121264
+      achievementSheet_19: -297272440
+      achievementSheet_2: -1165223776
+      achievementSheet_20: 955077962
+      achievementSheet_21: -243729880
+      achievementSheet_22: 412071924
+      achievementSheet_23: -30082837
+      achievementSheet_24: 1798512175
+      achievementSheet_25: -413790528
+      achievementSheet_26: 1762285587
+      achievementSheet_27: 30980889
+      achievementSheet_28: 863137586
+      achievementSheet_29: -1086980826
+      achievementSheet_3: -442264232
+      achievementSheet_30: -927092669
+      achievementSheet_31: 1190083211
+      achievementSheet_32: 1734302820
+      achievementSheet_33: -1925311310
+      achievementSheet_34: 340890307
+      achievementSheet_35: 890159679
+      achievementSheet_36: -1898777291
+      achievementSheet_37: -504487937
+      achievementSheet_38: 1894111820
+      achievementSheet_39: 279696758
+      achievementSheet_4: 1950110857
+      achievementSheet_40: -1882810477
+      achievementSheet_41: -616109391
+      achievementSheet_42: -417178415
+      achievementSheet_43: 1656308047
+      achievementSheet_44: 2069080899
+      achievementSheet_45: -1320955188
+      achievementSheet_46: -919789086
+      achievementSheet_47: -1619401251
+      achievementSheet_48: -385061667
+      achievementSheet_49: -154767793
+      achievementSheet_5: -1593400324
+      achievementSheet_50: -738750545
+      achievementSheet_51: 1351130098
+      achievementSheet_52: 1801779830
+      achievementSheet_53: 498535371
+      achievementSheet_54: 384153776
+      achievementSheet_55: -504300318
+      achievementSheet_56: 551538535
+      achievementSheet_57: 1143806669
+      achievementSheet_58: -671719803
+      achievementSheet_59: 298234848
+      achievementSheet_6: -159040180
+      achievementSheet_60: -1969060733
+      achievementSheet_61: 1354970166
+      achievementSheet_62: 152462496
+      achievementSheet_63: 1894546660
+      achievementSheet_64: 557206022
+      achievementSheet_65: 767820055
+      achievementSheet_66: 1751658836
+      achievementSheet_67: 390224405
+      achievementSheet_68: 1565152144
+      achievementSheet_69: 1145822395
+      achievementSheet_7: 627230205
+      achievementSheet_70: -557525930
+      achievementSheet_71: 1302965381
+      achievementSheet_72: -339768961
+      achievementSheet_73: 340520219
+      achievementSheet_74: 991726232
+      achievementSheet_75: 2123964176
+      achievementSheet_76: 1710238737
+      achievementSheet_77: -921568623
+      achievementSheet_78: 1034379162
+      achievementSheet_79: -406149058
+      achievementSheet_8: 2140148554
+      achievementSheet_80: -1979858591
+      achievementSheet_81: -1905925814
+      achievementSheet_82: -1223861426
+      achievementSheet_83: 1702953573
+      achievementSheet_84: -1025415644
+      achievementSheet_85: 543586304
+      achievementSheet_86: -2132022638
+      achievementSheet_87: 664606917
+      achievementSheet_88: -2034917333
+      achievementSheet_89: 1906157637
+      achievementSheet_9: 1681871138
+      achievementSheet_90: 1119849683
+      achievementSheet_91: 1252842298
+      achievementSheet_92: -350666098
+      achievementSheet_93: 1735789940
+      achievementSheet_94: 1099615661
+      achievementSheet_95: -1398904012
+      achievementSheet_96: 933796806
+      achievementSheet_97: 676761667
+      achievementSheet_98: 1967381413
+      achievementSheet_99: -368137619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

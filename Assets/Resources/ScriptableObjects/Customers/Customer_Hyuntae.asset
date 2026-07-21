@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 906dfd8f24f5263478158079ca4cd6a7, type: 3}
+  m_Name: Customer_Hyuntae
+  m_EditorClassIdentifier: Assembly-CSharp::CustomerData
+  customerName: Hyuntae
+  characterType: hyuntae
+  characterSprite: {fileID: 21300000, guid: 89bb11e00ed946e790be6a676ff1c56a, type: 3}
+  preferredTea: chai
+  preferredTemperature: 2
+  preferredSteepTime: 2
+  personality: "\uD65C\uBC1C\uD568, \uC790\uC2E0\uAC10"
+  storyBit: "\uD68C\uC758 \uC0AC\uC774 \uC7A0\uAE50 \uBC29\uBB38"

@@ -1,0 +1,3352 @@
+fileFormatVersion: 2
+guid: 8c4fb6229beb05544b1d9ff4dd41d4e4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teaDrinkIcon_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 929
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a0ee087f6fa7244b2a74b15f3facd2
+      internalID: -356023608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 925
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc3453b30441d47aafe3af30204d33
+      internalID: -1287420163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 927
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c93bd37be50a43a568c3cedb33f28
+      internalID: -1730743145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 925
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22efb1c0346cbcb4eba5a7c0884bd96a
+      internalID: -692002601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 926
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb4e1f7a54102f4b9ea669c6cf9f429
+      internalID: 827262257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 923
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e7f992b529d04daf0547957a16dd9
+      internalID: -509933379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_6
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 923
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d1791b866da8045a8ef19959ce7c76
+      internalID: -994581433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_7
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 926
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c7a0c7b594abd44b836ec39717c69c
+      internalID: -1266400060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_8
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 925
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e784317f23e804da3ba02167f2cfac
+      internalID: -1705725203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_9
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 918
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e737adcb79794b4d9a57bbf3f6a66bc
+      internalID: -2033758636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_10
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 922
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b8959ed93d2848acf0889b8e6a6ea
+      internalID: 1107261911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 843
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43910c29c0a2544b8de186f3d919917
+      internalID: -800009717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 839
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d369d4ed58e8543a65a5278df6f3d2
+      internalID: 513329749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 839
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177e8c5537354a4988387a603d5b032
+      internalID: 1632723386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 843
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b3baed1a117d45bae4bec86ae9647
+      internalID: -1914044986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 842
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b0ddf10f4848749910f909773d0bea
+      internalID: 607331790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_16
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 841
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9f266158aa92b4599e44108fe0cdc3
+      internalID: 93013471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 840
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209dbbbbbf82dec44b87790db9b3f6ff
+      internalID: -1489664610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 839
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646689e855971b44685fa8d9f9152dbe
+      internalID: 1627379802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 836
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddd475d7b90911428d5f19be101907a
+      internalID: -1888903480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 837
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da632022a6aa20b43a7f7123b2033d44
+      internalID: 1249869503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_21
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 836
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f36c9d6e94a124c969b42edf2bcce0
+      internalID: 802113496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 755
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785467dc75d707d43a0df12aecdbd9e1
+      internalID: 995295101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 754
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea0f0d2de6129145bab989f1eda0221
+      internalID: -450564125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 754
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc13aed1b913547b52ddf2b2e36b4a
+      internalID: -1496249552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 753
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc87028926eb514096329f7b0f951ee
+      internalID: -944935480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_26
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 752
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f194fe5a423e54588468d3bf73020e
+      internalID: -401329895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 753
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcb542a9b4660a4c8be9fed72138895
+      internalID: 57303062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_28
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 750
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a462e8c1d98565b4b93e1fcd4c6ddcfc
+      internalID: 634833132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_29
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 748
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802259e777222914b87bb4b157d8e532
+      internalID: -1403990067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_30
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 748
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e9930b76cd36c469fdb04d9212be0f
+      internalID: -639796186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_31
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 746
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1530a4154760aee459bddec504839b6d
+      internalID: -976029312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_32
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 748
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31568ce98c62d1245ab3b59d7543614f
+      internalID: 744534985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 668
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581408cce026545469ae20d8b06d76b7
+      internalID: 649217946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 669
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f47361952e45478ed93dcf74a91aa
+      internalID: 1293505624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 668
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccfd5da77997434ab8ee39fdaf8f37a
+      internalID: -765383280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_36
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 666
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b003c228cf3e84490db2564c8ea373
+      internalID: -1452815178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 665
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a61bcacafd1f874181c6b4452483074
+      internalID: -207013603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_38
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 664
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc52c591bda1ec4d9e5ad507534504d
+      internalID: -1100376634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_39
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 661
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9b9fc2f6820c04986282fe0fa6910f
+      internalID: 1676934781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_40
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 661
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b091f52ae3bc41442bbc891c3d44d011
+      internalID: -256280240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_41
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 662
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48104fd3dab0a1548ad05ed973d01924
+      internalID: 746057534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_42
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 661
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccebc3f300508d4aa8f233c1b8193d1
+      internalID: 2038245979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_43
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 661
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e2d36abfed04d49bcc7519d4135855
+      internalID: -320324576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 577
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad76fddc67f722848b9ba7f2c21e2724
+      internalID: 1790302096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 575
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01de1f19ea7cd048a81986607a8089f
+      internalID: 779339627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 574
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ef516633941342bfe4e7ead2cd01b
+      internalID: 106269966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_47
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 575
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401c58363ec9f8446be7834b1ee026d2
+      internalID: 266838616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_48
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 574
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71507b663dc14d94aa873c62069a89f0
+      internalID: 1095147370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_49
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 574
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63096aa32af44b44bdf95d153149b84
+      internalID: 1968269582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_50
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 573
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218e98f9270f62f42b90f121fef55090
+      internalID: 883794285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_51
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 572
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd347d4dba1d88d44aecb481062b3ee4
+      internalID: 461737824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_52
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 572
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1482332993b5fa248a6c1a5777c0fac1
+      internalID: 1488318251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_53
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 574
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0773d5f68b60440b8a3caf3169546c
+      internalID: -758173100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_54
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 573
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf0049edbf8ca34caac4f2226d7b83a
+      internalID: -83089556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 497
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5208d8c176eb2d4b8163e3b7959fd7f
+      internalID: 89281163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 492
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5819728a9de7554aabe696fd641b28d
+      internalID: -1286540444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 490
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b29b84b7a7838d4aafaebc4d4830631
+      internalID: 1892207465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_58
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 490
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762800c2957f84d4ca8a95aa412f8790
+      internalID: 496002506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_59
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 491
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b75dad22c8fd9e45a2ab9404b61a60f
+      internalID: -993890975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 489
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c37b23ee71a054a88ea18a61c646b2
+      internalID: 988506596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_61
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 490
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13645747bfcd864089f3d10864ecd1b
+      internalID: 814715313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_62
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 490
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2698c9722c669c2499d7d102dc88790a
+      internalID: 186215680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_63
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 490
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785e7e78d533b5c4aad4c9df20286594
+      internalID: 315474582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_64
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 490
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c9725c63457da468ae8fb20e99e863
+      internalID: 1940202215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_65
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 490
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ee1be0a9cd9994cbf6281f6615e560
+      internalID: 1098671256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 405
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd02a25d60047d45bd161d8e7ba0c8b
+      internalID: 368761789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 405
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979045d0c2109934a9b951a29588ff48
+      internalID: -1850065670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_68
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 404
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17336f391f22ca48bb6c83c79a9bd6d
+      internalID: 1154147753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_69
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 405
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb3cb095981f04fb329a69ba701ba9
+      internalID: 2037041666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_70
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 406
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0eeb2e5755f1c4c8bca507d160f374
+      internalID: 554181292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_71
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 406
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111d65756deed394c9686a53a5e4bbc2
+      internalID: 890724653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_72
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 456
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c87920e0e5331447bd5eadfc069d681
+      internalID: -2113869665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_73
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 406
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea32e3819cdb62d4ba88a88dd0690741
+      internalID: -1539321771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_74
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 402
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da124aee1c0fb1d419db9844254558b7
+      internalID: -1404175881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_75
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 403
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fbae2ec58c91e488178110c4db2d59
+      internalID: 289952275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_76
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 402
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0bd3f0cd4d7e54fa7dfcd6085e67c1
+      internalID: -2077952509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_77
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 402
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55793f3c6fc4eab4f8efab55d42ed29c
+      internalID: 433963049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_78
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 310
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc5973ef050ad8468bdaa686c07fa43
+      internalID: -1851109938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 310
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e392c55605d73847b7dd9800df554f8
+      internalID: -904531504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_80
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 310
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3610e213a430051429d02d22923a4b39
+      internalID: -1038084458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_81
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 309
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a75641a0fd6804eb793fa7452f4709
+      internalID: 481060402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_82
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 308
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb627b0c1ddc63d45b94ab7b11549703
+      internalID: -687988718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 309
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a07c4f75efda544aa2714fea961784e
+      internalID: 754712476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_84
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 308
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c94288eae0e784ba33a1dbd632e28e
+      internalID: 1035234466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_85
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 307
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf0cb3a6db4c1b409028c009b8fc6c0
+      internalID: 1602806636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_86
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 307
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a890f3bea2540dd4e8ffe2de1e2b5d05
+      internalID: -1722356689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_87
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 295
+        width: 375
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae11e23c002d534d889837209a9884c
+      internalID: -1558291246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_88
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 298
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d3da0b7b4100844ab634efc19931a3
+      internalID: 450943260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_89
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 217
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06013b2674555da44b1d28f7c59603f5
+      internalID: 2035988959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_90
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 220
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f696d1b690fc8d7429b33d0da3d8e9eb
+      internalID: 1722229194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_91
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 219
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b481c910abf6134ba77507cf192b529
+      internalID: 1650834365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_92
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 212
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ac2a28ac7b5f4468d9c9a38130511a
+      internalID: 1743226844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_93
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 211
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f54c4a3eccc2594e963c676aea81eae
+      internalID: -957433614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_94
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 216
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e975b1d120fc3942bef080e1a6429a5
+      internalID: 2092523602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_95
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 244
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a47e186fed21d74ca3c762edea0d7cc
+      internalID: 1279542419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_96
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 258
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e29cbb14715684a83d2562a415eb0a
+      internalID: 252990974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_97
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 248
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43440e5569d90e64da5c97acd46396c2
+      internalID: -881766090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_98
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 214
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3292d0316d071a746b6ce7c22de8bfa4
+      internalID: 348644413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_99
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 214
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3704ca29281c724dbe1b1db2025d29d
+      internalID: -259083515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_100
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 205
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af33ffaa246cd4f8fe5860c2e6fd5b
+      internalID: -1817032909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_101
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 203
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd042324107fd0408b01e03379a0500
+      internalID: -2139453904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_102
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 204
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc72c0c5498b29499b947ed248b1918
+      internalID: -54569812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_103
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 205
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98e0d3b20774cf4d8fb25d58de7dca5
+      internalID: -158146360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_104
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 216
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f561cd25709994dbd582ef0df00fa7
+      internalID: 450150553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_105
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 241
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f441ddf2b6f854a448ed2800a1d3d92c
+      internalID: -1009575226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 223
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b6891f95d881a448cac7d0b5193ba3
+      internalID: 2119987047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_107
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 209
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220d3e9f16515b14b82d3555157b36e3
+      internalID: 1530326613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_108
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 214
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b8335700617784faed07362b7e88fb
+      internalID: -117881365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_109
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 138
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5678bab2d7984f92f6a5c7a714bbf
+      internalID: -847077181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_110
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 137
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021db18ffbf6ab140bcccc39118fe03d
+      internalID: -821354026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_111
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 136
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f80f0a1220ca543bdd4e31b20626e0
+      internalID: -1392554451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_112
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 135
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018ce0a36b538dd419313fedc5d4af5f
+      internalID: -675554961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_113
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 137
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3ca458c08d3d245b6af32608772b56
+      internalID: 1197893204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_114
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 126
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9faed078bc6fb4ab68b670736c9392
+      internalID: 2019770619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_115
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 132
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6eb2f1c773e14b9432a0943aad238
+      internalID: 437777037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_116
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 131
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6144e730b4c91044ebe9970d66c04856
+      internalID: -387971259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_117
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 130
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7b83fdcbfc56e48918e9a90e0bd1ed
+      internalID: -34667436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_118
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 134
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad43c0ad8f924f54492cea83df61aef1
+      internalID: 958938883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_119
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 133
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d07b1fe43859284186788f47099366a
+      internalID: 728936790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_120
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 132
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10f24d1d2fcec4498a34c73ea6bce2b
+      internalID: -45238116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_121
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 132
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcc74f24faf40742949fc9b81b831c0
+      internalID: -1153756171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_122
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9486777b61678cb4f923212aad724dee
+      internalID: 561609250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_123
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d4fa674c2ed744cb4c2398f3bf8dfe
+      internalID: 246064419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_124
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 101
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e11bcc037e596a4ebc7065941178c7b
+      internalID: -1924888500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_125
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 36
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2092dd822deae7d4cab01a734f2a0b31
+      internalID: 1862507840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_126
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 24
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b0b6386614db4a98611be8649f405
+      internalID: 1572372816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 23
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d95460f214dac49ad65c8684812faf
+      internalID: -307886200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_128
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 20
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f6c62e35211ed419be10d8377f7d58
+      internalID: -1287097870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_129
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 19
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31204a26b3d11d94090d7f5980eb5714
+      internalID: 947072724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_130
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 17
+        width: 310
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e474954d44f6bda4aa957485baa2f161
+      internalID: 2094593931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_131
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 37
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f32fccb7fe492647b08dc9f5b8b436f
+      internalID: -47041937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_132
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 88
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cfd9611e526cf429b9ba6cf98ae50c
+      internalID: -645101092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_133
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c474728c5572e04c959856ed0b6ba5b
+      internalID: -1181914260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_134
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 53
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a5233eb159954aba5d3092890bdd6
+      internalID: -1631202451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_135
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 37
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec4c1744e7d1b542961b9a7d4d3241d
+      internalID: -958843299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_136
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b333efa765ec9047b37d5008427aeb0
+      internalID: 104078441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_137
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 58
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5404c34a8149b3443a4c82f413b713a4
+      internalID: -1394086881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_138
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 53
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a1c1bf90aa55f4697d7ddd259a35d8
+      internalID: 848505315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaDrinkIcon_139
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 40
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53710d3a26e0dbe4a90d3c331df005a2
+      internalID: -778195176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bb274fd29dc2f7443b0d2c23a40e3252
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      teaDrinkIcon_0: -356023608
+      teaDrinkIcon_1: -1287420163
+      teaDrinkIcon_10: 1107261911
+      teaDrinkIcon_100: -1817032909
+      teaDrinkIcon_101: -2139453904
+      teaDrinkIcon_102: -54569812
+      teaDrinkIcon_103: -158146360
+      teaDrinkIcon_104: 450150553
+      teaDrinkIcon_105: -1009575226
+      teaDrinkIcon_106: 2119987047
+      teaDrinkIcon_107: 1530326613
+      teaDrinkIcon_108: -117881365
+      teaDrinkIcon_109: -847077181
+      teaDrinkIcon_11: -800009717
+      teaDrinkIcon_110: -821354026
+      teaDrinkIcon_111: -1392554451
+      teaDrinkIcon_112: -675554961
+      teaDrinkIcon_113: 1197893204
+      teaDrinkIcon_114: 2019770619
+      teaDrinkIcon_115: 437777037
+      teaDrinkIcon_116: -387971259
+      teaDrinkIcon_117: -34667436
+      teaDrinkIcon_118: 958938883
+      teaDrinkIcon_119: 728936790
+      teaDrinkIcon_12: 513329749
+      teaDrinkIcon_120: -45238116
+      teaDrinkIcon_121: -1153756171
+      teaDrinkIcon_122: 561609250
+      teaDrinkIcon_123: 246064419
+      teaDrinkIcon_124: -1924888500
+      teaDrinkIcon_125: 1862507840
+      teaDrinkIcon_126: 1572372816
+      teaDrinkIcon_127: -307886200
+      teaDrinkIcon_128: -1287097870
+      teaDrinkIcon_129: 947072724
+      teaDrinkIcon_13: 1632723386
+      teaDrinkIcon_130: 2094593931
+      teaDrinkIcon_131: -47041937
+      teaDrinkIcon_132: -645101092
+      teaDrinkIcon_133: -1181914260
+      teaDrinkIcon_134: -1631202451
+      teaDrinkIcon_135: -958843299
+      teaDrinkIcon_136: 104078441
+      teaDrinkIcon_137: -1394086881
+      teaDrinkIcon_138: 848505315
+      teaDrinkIcon_139: -778195176
+      teaDrinkIcon_14: -1914044986
+      teaDrinkIcon_15: 607331790
+      teaDrinkIcon_16: 93013471
+      teaDrinkIcon_17: -1489664610
+      teaDrinkIcon_18: 1627379802
+      teaDrinkIcon_19: -1888903480
+      teaDrinkIcon_2: -1730743145
+      teaDrinkIcon_20: 1249869503
+      teaDrinkIcon_21: 802113496
+      teaDrinkIcon_22: 995295101
+      teaDrinkIcon_23: -450564125
+      teaDrinkIcon_24: -1496249552
+      teaDrinkIcon_25: -944935480
+      teaDrinkIcon_26: -401329895
+      teaDrinkIcon_27: 57303062
+      teaDrinkIcon_28: 634833132
+      teaDrinkIcon_29: -1403990067
+      teaDrinkIcon_3: -692002601
+      teaDrinkIcon_30: -639796186
+      teaDrinkIcon_31: -976029312
+      teaDrinkIcon_32: 744534985
+      teaDrinkIcon_33: 649217946
+      teaDrinkIcon_34: 1293505624
+      teaDrinkIcon_35: -765383280
+      teaDrinkIcon_36: -1452815178
+      teaDrinkIcon_37: -207013603
+      teaDrinkIcon_38: -1100376634
+      teaDrinkIcon_39: 1676934781
+      teaDrinkIcon_4: 827262257
+      teaDrinkIcon_40: -256280240
+      teaDrinkIcon_41: 746057534
+      teaDrinkIcon_42: 2038245979
+      teaDrinkIcon_43: -320324576
+      teaDrinkIcon_44: 1790302096
+      teaDrinkIcon_45: 779339627
+      teaDrinkIcon_46: 106269966
+      teaDrinkIcon_47: 266838616
+      teaDrinkIcon_48: 1095147370
+      teaDrinkIcon_49: 1968269582
+      teaDrinkIcon_5: -509933379
+      teaDrinkIcon_50: 883794285
+      teaDrinkIcon_51: 461737824
+      teaDrinkIcon_52: 1488318251
+      teaDrinkIcon_53: -758173100
+      teaDrinkIcon_54: -83089556
+      teaDrinkIcon_55: 89281163
+      teaDrinkIcon_56: -1286540444
+      teaDrinkIcon_57: 1892207465
+      teaDrinkIcon_58: 496002506
+      teaDrinkIcon_59: -993890975
+      teaDrinkIcon_6: -994581433
+      teaDrinkIcon_60: 988506596
+      teaDrinkIcon_61: 814715313
+      teaDrinkIcon_62: 186215680
+      teaDrinkIcon_63: 315474582
+      teaDrinkIcon_64: 1940202215
+      teaDrinkIcon_65: 1098671256
+      teaDrinkIcon_66: 368761789
+      teaDrinkIcon_67: -1850065670
+      teaDrinkIcon_68: 1154147753
+      teaDrinkIcon_69: 2037041666
+      teaDrinkIcon_7: -1266400060
+      teaDrinkIcon_70: 554181292
+      teaDrinkIcon_71: 890724653
+      teaDrinkIcon_72: -2113869665
+      teaDrinkIcon_73: -1539321771
+      teaDrinkIcon_74: -1404175881
+      teaDrinkIcon_75: 289952275
+      teaDrinkIcon_76: -2077952509
+      teaDrinkIcon_77: 433963049
+      teaDrinkIcon_78: -1851109938
+      teaDrinkIcon_79: -904531504
+      teaDrinkIcon_8: -1705725203
+      teaDrinkIcon_80: -1038084458
+      teaDrinkIcon_81: 481060402
+      teaDrinkIcon_82: -687988718
+      teaDrinkIcon_83: 754712476
+      teaDrinkIcon_84: 1035234466
+      teaDrinkIcon_85: 1602806636
+      teaDrinkIcon_86: -1722356689
+      teaDrinkIcon_87: -1558291246
+      teaDrinkIcon_88: 450943260
+      teaDrinkIcon_89: 2035988959
+      teaDrinkIcon_9: -2033758636
+      teaDrinkIcon_90: 1722229194
+      teaDrinkIcon_91: 1650834365
+      teaDrinkIcon_92: 1743226844
+      teaDrinkIcon_93: -957433614
+      teaDrinkIcon_94: 2092523602
+      teaDrinkIcon_95: 1279542419
+      teaDrinkIcon_96: 252990974
+      teaDrinkIcon_97: -881766090
+      teaDrinkIcon_98: 348644413
+      teaDrinkIcon_99: -259083515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

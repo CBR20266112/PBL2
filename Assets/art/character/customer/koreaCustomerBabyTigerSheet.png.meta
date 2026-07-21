@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 1eca6ed704e5e8144a22cca17f59c795
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 793
+        width: 135
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc05dfd7cb2934eb2f1eb767a2da80
+      internalID: -1059512176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 793
+        width: 148
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecffc032ea2b4df4a92ccb1b0f2e5218
+      internalID: -1372368630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 793
+        width: 143
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d958d98af4a9fc4a863e71170b691e3
+      internalID: 890152428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 793
+        width: 109
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195545ba6ed9d74aa62fa9de6a5ccd7
+      internalID: -309930654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_4
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 795
+        width: 134
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39724980e53b9a43b825391ff0f43d0
+      internalID: -1443330977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_5
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 795
+        width: 152
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d211d8985e2a054a96adf8dc9b15b94
+      internalID: -757729159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 637
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4782b66e89e26a445811cc9805e823b8
+      internalID: -978421275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 637
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c063e5d0cfe86a947948c51d306d79d4
+      internalID: -133551992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 635
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c3100bfe5e3d4e9481e8f6729e6a8
+      internalID: -1995715796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 635
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834c041c7f58bf74cabe96df65f01d27
+      internalID: 1007457749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_10
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 635
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8ee8ccffc16f641bb24902fc9fc0b3
+      internalID: -770007713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_11
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 635
+        width: 126
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3696e885afc1b4aa3d809db05f7ed0
+      internalID: -379286389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 497
+        width: 130
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de09f5186e2c5d4dac545b2de681070
+      internalID: 596664377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 561
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5001b549e69a94a9ae4d1da152150a
+      internalID: 1114913987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 497
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ecb02ed190b3841bfd87a8f3a321a3
+      internalID: 1431487560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 593
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9616f737b27f104eaf9cb928135298c
+      internalID: -1198638038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 497
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5041fd704de38cd4b8284e4807e9d9c2
+      internalID: -1795505886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_17
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 587
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef17e8c8b7456243a30328bd05008a1
+      internalID: 1566762845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 497
+        width: 126
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eb7a04a27084045a6187c35634f1cd
+      internalID: 288790154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_19
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 497
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ec57eadabe9bc43b86777b5df35801
+      internalID: 212079098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_20
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 495
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eb471821a43944cb52d915a9fcf9db
+      internalID: 1107965798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_21
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 575
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9220f1a4a7275c43bb562feef475d64
+      internalID: 1359501451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_22
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 559
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6f10667c6272b4eb062b3829a85030
+      internalID: -1820894931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 281
+        width: 112
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419968d4a4a2535498bc5822416b2783
+      internalID: -61860889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 281
+        width: 100
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2613d8494eacebd4abbedcbbba69a4ee
+      internalID: -1145837913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_25
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 281
+        width: 102
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18c46acd18c55a4aa5d74c7d9d2d83e
+      internalID: -868749460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_26
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 281
+        width: 117
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1cdde6c556434f8c0fecdeefa452a
+      internalID: -657401761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_27
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 281
+        width: 96
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0473a341f39c7488bb3d736ad52b12
+      internalID: -1785513615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_28
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 281
+        width: 102
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf2fe0885ff02a4c9fb8e076bcdd632
+      internalID: 1856811286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 399
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a08181267b1684a983020644ce0417
+      internalID: 920705587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_30
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 391
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a35cd7ac5eed134ea8d5b512015e60a
+      internalID: 1852863861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_31
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 391
+        width: 134
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fb984b51748ad4f960c4113bb618a2
+      internalID: 430920505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 309
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282f52c46ac794843b053d76a52260d8
+      internalID: -1457481111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_33
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 309
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4e4afcdd28e9145b05a2ae238e9f94
+      internalID: -368994248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_34
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 311
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2426f67a9224a046a45385afaff8040
+      internalID: 1579136754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_35
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 253
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6848d783c0a72f4789940060386c461
+      internalID: 1076142446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_36
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 243
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae14a27996aba240981f944725d2245
+      internalID: -625505415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_37
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 246
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a6722d65a4fa843ac7d9c880df42a8
+      internalID: 1774419916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 133
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f2d7fe4adfe645b92b2029d0e1c96
+      internalID: 124975375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_39
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 129
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3065f6f5bca2f43a8d2ccf480925e5
+      internalID: 35803344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_40
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 127
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c79eb766fbb2ad46b9a1bd57823d6f6
+      internalID: 123935109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_41
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 129
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a611b970addac0f4191d55abaa7e4eae
+      internalID: -2040694753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_42
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f615c7ae921da64fa7badcacc264148
+      internalID: -728721456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_43
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 55
+        width: 230
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4645737b892f9334ca150fd678dc2bc7
+      internalID: 1975069303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_44
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 53
+        width: 342
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f0bcb09594f841afe3c32a4580502
+      internalID: 83040515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 122
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222bb3031b2fff6489d588ab1bd416d6
+      internalID: 2010781594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_46
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 11
+        width: 122
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ed76f1d078cd4587624594ca0c8d5
+      internalID: 1383809067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_47
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 11
+        width: 122
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ecdb00e3f92764c852308aea48715a
+      internalID: 695532544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_48
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 11
+        width: 122
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc97cbdb996937444bbbcc8402a1833c
+      internalID: 59519508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_49
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 11
+        width: 116
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948af006fe3a96e429bb317ca968fba5
+      internalID: -1964073190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koreaCustomerBabyTigerSheet_50
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 11
+        width: 98
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc7a90da6d7b70498fec0ef22b081d5
+      internalID: -507508934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fca5c56d32163d641b7ea4a8571e5390
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      koreaCustomerBabyTigerSheet_0: -1059512176
+      koreaCustomerBabyTigerSheet_1: -1372368630
+      koreaCustomerBabyTigerSheet_10: -770007713
+      koreaCustomerBabyTigerSheet_11: -379286389
+      koreaCustomerBabyTigerSheet_12: 596664377
+      koreaCustomerBabyTigerSheet_13: 1114913987
+      koreaCustomerBabyTigerSheet_14: 1431487560
+      koreaCustomerBabyTigerSheet_15: -1198638038
+      koreaCustomerBabyTigerSheet_16: -1795505886
+      koreaCustomerBabyTigerSheet_17: 1566762845
+      koreaCustomerBabyTigerSheet_18: 288790154
+      koreaCustomerBabyTigerSheet_19: 212079098
+      koreaCustomerBabyTigerSheet_2: 890152428
+      koreaCustomerBabyTigerSheet_20: 1107965798
+      koreaCustomerBabyTigerSheet_21: 1359501451
+      koreaCustomerBabyTigerSheet_22: -1820894931
+      koreaCustomerBabyTigerSheet_23: -61860889
+      koreaCustomerBabyTigerSheet_24: -1145837913
+      koreaCustomerBabyTigerSheet_25: -868749460
+      koreaCustomerBabyTigerSheet_26: -657401761
+      koreaCustomerBabyTigerSheet_27: -1785513615
+      koreaCustomerBabyTigerSheet_28: 1856811286
+      koreaCustomerBabyTigerSheet_29: 920705587
+      koreaCustomerBabyTigerSheet_3: -309930654
+      koreaCustomerBabyTigerSheet_30: 1852863861
+      koreaCustomerBabyTigerSheet_31: 430920505
+      koreaCustomerBabyTigerSheet_32: -1457481111
+      koreaCustomerBabyTigerSheet_33: -368994248
+      koreaCustomerBabyTigerSheet_34: 1579136754
+      koreaCustomerBabyTigerSheet_35: 1076142446
+      koreaCustomerBabyTigerSheet_36: -625505415
+      koreaCustomerBabyTigerSheet_37: 1774419916
+      koreaCustomerBabyTigerSheet_38: 124975375
+      koreaCustomerBabyTigerSheet_39: 35803344
+      koreaCustomerBabyTigerSheet_4: -1443330977
+      koreaCustomerBabyTigerSheet_40: 123935109
+      koreaCustomerBabyTigerSheet_41: -2040694753
+      koreaCustomerBabyTigerSheet_42: -728721456
+      koreaCustomerBabyTigerSheet_43: 1975069303
+      koreaCustomerBabyTigerSheet_44: 83040515
+      koreaCustomerBabyTigerSheet_45: 2010781594
+      koreaCustomerBabyTigerSheet_46: 1383809067
+      koreaCustomerBabyTigerSheet_47: 695532544
+      koreaCustomerBabyTigerSheet_48: 59519508
+      koreaCustomerBabyTigerSheet_49: -1964073190
+      koreaCustomerBabyTigerSheet_5: -757729159
+      koreaCustomerBabyTigerSheet_50: -507508934
+      koreaCustomerBabyTigerSheet_6: -978421275
+      koreaCustomerBabyTigerSheet_7: -133551992
+      koreaCustomerBabyTigerSheet_8: -1995715796
+      koreaCustomerBabyTigerSheet_9: 1007457749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

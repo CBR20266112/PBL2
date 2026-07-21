@@ -1,0 +1,3766 @@
+fileFormatVersion: 2
+guid: 6d37c4a9b1e807e4683c89f0ab6756be
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 934
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d2d9512e13af746b6022d0fd4d4fee
+      internalID: -1313623993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1011
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b032f8f78c329b449b1cd8b0ba4bae0
+      internalID: -636765911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1011
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb3c095fe9c2c42970798a803c459b
+      internalID: 1286970210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1006
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7479e80c5b0459043a527dd657e1ca85
+      internalID: -1446928892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 934
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4062bc83711d0b4e9c5da06da4b0553
+      internalID: -879684485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 945
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120e721acd912d0418a34ff2d7290fd0
+      internalID: 1411011697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_6
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 934
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d39b9542e7af0489832a6383c0c2bf
+      internalID: 1679118770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 934
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3f5054ba4190e42bf2934726983e34
+      internalID: -639172491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_8
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 934
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73557548d59b9a4c8fc306e5b8e9bc5
+      internalID: -1243248093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 934
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0133ffa5959641241b6956d1ba9a633a
+      internalID: 1105672799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1000
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d76c4dcf0223f24f8d4302ccd3b22dc
+      internalID: -1440882584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 934
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8941391ad129e47919f3a96cc24365
+      internalID: -837574775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_12
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 934
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c338ac18c07664db28b7abb66ffbf7
+      internalID: -212602540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 946
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49de8d196a56413488d7a54bc4835662
+      internalID: -1554101306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_14
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 934
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67941ef1d2736b14b9bbb75ff78e8ef5
+      internalID: -885990717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_15
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 941
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc41703dccc16e244893d4aca5797068
+      internalID: -1649015267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 949
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fffb0141759d548844575d35271fc0
+      internalID: -199307762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 950
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fd6f3d3d2fef044b0eb0a132c470df
+      internalID: -274346883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 881
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc26a77f2b1ca4f8db8530c0fa197c
+      internalID: 518409721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 883
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71237c5172d5574b9e512abaa1ca3c9
+      internalID: 1788141603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_20
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 875
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3e61d72254786439e477c26c67446a
+      internalID: 1964920058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_21
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 882
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486d908091b566c488ac08329169a27d
+      internalID: -1788328876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_22
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 874
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df43165ae6e1c6442983b1974536d43b
+      internalID: -1044911919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_23
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 869
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00033a050cd77884887ffc5f574e36a2
+      internalID: 120567005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_24
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 933
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c361d2ae3b4a449b8b2b50ac6eb776
+      internalID: 1734156253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 885
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c838d051215aae48a70ecde10d79e29
+      internalID: -2006476764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 884
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e632dab53e4c114485bba901b6e7fff
+      internalID: -1844108891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 882
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135b17b749c26c4b95b68365801fdb2
+      internalID: 39970139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 883
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f1e129c39bacb48900afde5391c22e
+      internalID: 1745243772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_29
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 883
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0838f11b49a45643aa3e6052eb708ad
+      internalID: 588431335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 883
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab224bdae5f34e49a41cd96b160d261
+      internalID: 419131923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 879
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd7795a7d25274190ff872ed533b77
+      internalID: -1071012919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_32
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 875
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b1628b605c7a04cbadeaac9580d12e
+      internalID: -2115483025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_33
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 869
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb212c2c8151d4aad7232557f02ecc
+      internalID: -382932317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_34
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 869
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3afa690b742094b9066bb911acb91e
+      internalID: -1993806273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_35
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 869
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f1d2e273cc344692252b0882f64df
+      internalID: 1347348213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_36
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 869
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357051f0ce2d1a74586bc5ff715e23a9
+      internalID: 814806981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 763
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02494104174f78347a034ba4606c6155
+      internalID: 1321896820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 812
+        width: 105
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e679e34300fa352408f0005942e4776a
+      internalID: -1200164446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 759
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8b440021ecfb4db7795fa1b0b7b11
+      internalID: -1248862268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 815
+        width: 113
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d981dc1b195651446a8a3e06dc7b59b5
+      internalID: -758502309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 759
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa99c49802872e48a51e8bb8cdff0b5
+      internalID: -1419908478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_42
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 748
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d17cf5e4708b13419b73aeca71011ac
+      internalID: 1655860155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_43
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 815
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f681343a8d13c1c44b484e8a64b6500c
+      internalID: 1089891017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_44
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 748
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb16a92abb693ec4cba9067b4d526c51
+      internalID: 1001492732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_45
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 811
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8adcb0d9c7fe04fba7518fde0f575b
+      internalID: 1809439406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_46
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 748
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0867111ad299147b638771a047d208
+      internalID: 81267257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 770
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31d12d4830e79d428ad80dd641b8711
+      internalID: 531525234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_48
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 765
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efa3ce65762bbc419bf16390f26c7f8
+      internalID: -1165457896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 802
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cff3af34c60c247a3c3703cf84ab28
+      internalID: -1860923267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_50
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 751
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d93e6873eb55a744b59380fb3313c4e
+      internalID: -1072351432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_51
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 798
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6536584d55e064eb111a65c8dccd15
+      internalID: 2039213238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_52
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 798
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10013011877010c4db246fc39dbb274e
+      internalID: -2019954939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_53
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 676
+        width: 77
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b847b0402fead49a0acb93567da098
+      internalID: 610461823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_54
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 799
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfc149d25360c448ba27c62d42610c1
+      internalID: 1767342686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_55
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 686
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e61fac3075221a419bd339eb1e264bc
+      internalID: 177999468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_56
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 799
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775abe6167546dd42965c71293641f93
+      internalID: -1953762570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_57
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 797
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd2f6c2e7988324e89482c974be1abf
+      internalID: -103901994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_58
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 675
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845fbec35fc3ec6479c0bca083473c9a
+      internalID: -1610020370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_59
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 798
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59389c3cf3983d418023c550b3af5e0
+      internalID: 181964653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_60
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 797
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c2eaae9c7cf224ca8b9fdff6b790b7
+      internalID: -473790725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_61
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 680
+        width: 124
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dfb5288072cb74c89bca0deef2f5a1
+      internalID: 167291335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_62
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 792
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7912cb9815595c46bb5b777bbcfb806
+      internalID: 817451249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 682
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ce534c34e83c945b57973e98744947
+      internalID: -98746392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 675
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0269556bad1d84bb03e6a2f9704271
+      internalID: 353700884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_65
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 675
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12adb84d09c3a3c47ae793dc94e65dad
+      internalID: -188275473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_66
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 674
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefcba16d144fc04bb20785dca1d19ae
+      internalID: -228110606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 675
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef199cd8a945d694d95c6a8bf534aaed
+      internalID: -119061438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_68
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 684
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558dd82479946484d82db264d2c7de94
+      internalID: 2109908106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_69
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 674
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e08056074d9e40af27089585234b4
+      internalID: -1156702382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_70
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 674
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc62948b419254180c7f5294a15c88
+      internalID: 136700163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_71
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 674
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaa114bdbaa1bd47b9445b498657e5c
+      internalID: -500921036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 693
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e9975d02e9f84eb2ef4b92e9ae994
+      internalID: 592143961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_73
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 675
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e432f17028e0549b6c1ca17923f39b
+      internalID: -1245124303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 595
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611ac6bf5b2415a42b62022e40ceaa89
+      internalID: -50095235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_75
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 592
+        width: 215
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edd4282f2787d54f9421189873580fd
+      internalID: -687493356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 596
+        width: 327
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbcc4d6ead8e7744875e49d4506aa41
+      internalID: 2020367580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_77
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 605
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152a0aebcd138640a4f75b749ec4d96
+      internalID: 116419253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_78
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 603
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491dd706d84f23c4d8b4e5d7d3bd80bb
+      internalID: -1016225499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_79
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 604
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8758fd08571b840a9003c9da5f38c8
+      internalID: -505283034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_80
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 595
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f40eaaa5676f409c2032a69fea47f
+      internalID: 912303147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_81
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 596
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0b411a87f4e746877d63f790d662e
+      internalID: -925473823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_82
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 600
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f4ff9148c5e3046b97f8392fba4df8
+      internalID: 1444643999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 608
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb3b1c71504ca14081ebdad0dfe3119
+      internalID: -436021772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_84
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 605
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46c5ebb17ab5c44fa8a2623e421745d
+      internalID: -858588192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_85
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 520
+        width: 121
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7af98dd9a0540479f090e879f27803
+      internalID: 965134624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_86
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 515
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fff5a60894f20c4a97174412d9bcb56
+      internalID: -1524370688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_87
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 515
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013eb0cd574977a46aa4e8c22a07c787
+      internalID: -1672867143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_88
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 512
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aab35a396d8c047b54e4d4344fa42b
+      internalID: -871896524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_89
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 515
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e978f35c191c054cbd1ee27b6789242
+      internalID: -1246435810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_90
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 522
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32635f4c0ef2a4546bbc5bd3c1b615db
+      internalID: 612807285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_91
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 522
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544c8d81055cb1a43998a4652c54738a
+      internalID: 1798858356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_92
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 332
+        width: 70
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044e73aa6a49bd4408b0750bdae41463
+      internalID: -1788548613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_93
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 515
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65f557e1cdfec440bbbbedbd109da0a
+      internalID: -1065293217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_94
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 515
+        width: 229
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b4e91e8fca54428e6aee2db70b22a
+      internalID: 99415648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_95
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 524
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae731be0f6a8f4199df796a88d8da6
+      internalID: -992280785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_96
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 524
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8a69cac776c69488a41e311251816e
+      internalID: 1749019827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_97
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 449
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f6db61370b34c4686725ecef64aa8e
+      internalID: -1335644819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 251
+        width: 188
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db870642e7cda5644bad21151e3d08bf
+      internalID: 408790690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_99
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 513
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e0d1d5a349a084d976bd02dca2b268
+      internalID: -789621144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_100
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 513
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b7efcddc3ba7c489a1a332e257c1c4
+      internalID: 2021112703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_101
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 394
+        width: 221
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3c5cfa9d92b54895dfa23f5b9ec97
+      internalID: 1732057330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_102
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 453
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3842a0f511ad9748b6d784c037f7a9a
+      internalID: -148469015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_103
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 444
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7081597dbf6dc4047bbb24f20768cea2
+      internalID: -200646693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_104
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 449
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62efa45ea76660745916abd34a3855b8
+      internalID: 209225721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_105
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 445
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845b9854f3b6c494eb921d5c2b38e528
+      internalID: 876688547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_106
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 448
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509b727448764be4ca86fd2047c5f8af
+      internalID: 156838461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_107
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 444
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95586c6abc853f043825af7cf6837fc4
+      internalID: 1204926366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_108
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 455
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979feaaf07dbd7e41900541190ba932d
+      internalID: 2007956425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_109
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 442
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f14457208ee77648af6a0ab27f11618
+      internalID: -1410077942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 397
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91dcfdc033492b4fa6d8f5446076c43
+      internalID: -1654799572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_111
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 391
+        width: 115
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d37972c064f31438c99e2158587967
+      internalID: 120964475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_112
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 391
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b0fa390893b940b742607484f9bf9
+      internalID: -975370922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_113
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 391
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6603e8b211f502645b76f75896d63851
+      internalID: -1489165529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_114
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 391
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a7b52fd068ec43b77dd64e43aab93
+      internalID: 93650278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_115
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 404
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d93630a5c12e047869c531648f30b8
+      internalID: 1393233951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_116
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 399
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e81e732c43404d8b4cf0809d9d539
+      internalID: 2064077862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_117
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 401
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255cbba3772efee47ac21519754693b2
+      internalID: -458848431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_118
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 323
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d33c2684b8999e408bb2c476eeb047c
+      internalID: 774274039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_119
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 334
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29f03d899246b44a953ba3ac928cba
+      internalID: 1073747771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_120
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 332
+        width: 152
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c793ad5546425438ca78ea7b10c61b
+      internalID: 119529871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_121
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 392
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9d773bfdfa0224695dc3e14809ce2a
+      internalID: 1656611756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_122
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 323
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89249f77bc99da4d909528684d5a1e5
+      internalID: -311876030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_123
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 322
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c8b98ed031df4c89fc547f769a297
+      internalID: -613570572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_124
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 320
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d851de0f4d8d42ad89821736de706
+      internalID: -1704476107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_125
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 316
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c0ef2be27ff084fbd1622c9b816c24
+      internalID: -140500636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_126
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 264
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95834ea9a82992d489fcb63f777d0ad1
+      internalID: -375279512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_127
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 330
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eabe433ce112914c865517390617e44
+      internalID: -1337869262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_128
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 327
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc491c644f106b64aa0bb41af1eef324
+      internalID: 1819594661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_129
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 258
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a369a60841dadc4e80d7b456cc59403
+      internalID: 1823474435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_130
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 257
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041f9ae4326a1554bac0d723d104f9bb
+      internalID: 346452769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_131
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 254
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac991d7f4c1a53438dceeab819ab129
+      internalID: 567411804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_132
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 254
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac4e022148a5ec489f7a130243a5bb3
+      internalID: -347655436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_133
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 252
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6623dde40b4c127459ab5aa8ae814eac
+      internalID: -327276003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_134
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 267
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d373fb75cb4c5604b906dde517ff174b
+      internalID: -1549221181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_135
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 266
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a946e860ba76f9e478a2f09d6f3dcad3
+      internalID: -503258804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_136
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 265
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96a7d722827be409fa840213b04e46
+      internalID: 1997113719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_137
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 263
+        width: 128
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f776de5cdeb6140b3f7d8dbc4379d7
+      internalID: -1334481876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_138
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 250
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee6ba7de482184c8dc3caf4068ff32
+      internalID: -1208525969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_139
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 126
+        width: 758
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1747ceebd78fa6841b2bec6067d52ca4
+      internalID: 446204107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_140
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 18
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a19fd294ac125949a03c9b98da832cd
+      internalID: 1520726812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_141
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 25
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021419ad40676e49b710b4bbada3d20
+      internalID: 583815385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_142
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45e35cebf391974dad3fadd71be8a5a
+      internalID: -482811703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_143
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 67
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b14060712aa1aa4ea1185b09dd3b3d9
+      internalID: -894422848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_144
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 72
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cb335f28f843d428dae424bd2cd134
+      internalID: -353474621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_145
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 72
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348469b53d8b86e4c8f2b838230e7b43
+      internalID: 891945530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_146
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 23
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdf27c1be085e843a7e60b5619557c4
+      internalID: -1905162715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_147
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 18
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d6e55157ff5664f9c78d447f04d2a0
+      internalID: 504856666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_148
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 23
+        width: 23
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57f79b9e41ddb140b72929b3a2066ac
+      internalID: -1619110806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_149
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 9
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c705acecb9416d243bbb716f5fea9b54
+      internalID: 547532301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_150
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 21
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b902f7f947ab248a56b51cb949ed5b
+      internalID: -191613610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_151
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 22
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaf37cf641bd4946a05e2c10f0356db
+      internalID: 456574316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_152
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 23
+        width: 28
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830a3c94d8f80c4f9d64500b42cf22e
+      internalID: 1363768513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_153
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 25
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d2aedbddbd9a49a0e5e0a4395280a
+      internalID: -290380899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_154
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 23
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bce5a821b21f6438a0ea7e647062d7
+      internalID: 1547857061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_155
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 14
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ae29cc9db6004686f12c75dc4c98e
+      internalID: 921997822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_156
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c3ad56fbf268641b6091c1ddbf9d6c
+      internalID: -688428430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaBrewingEquipmentKitchen_157
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 29
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23838a66a4c803a44bd1446b381c9e1d
+      internalID: -609928345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 42a21dd259fbf5f4f85290663307a489
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      teaBrewingEquipmentKitchen_0: -1313623993
+      teaBrewingEquipmentKitchen_1: -636765911
+      teaBrewingEquipmentKitchen_10: -1440882584
+      teaBrewingEquipmentKitchen_100: 2021112703
+      teaBrewingEquipmentKitchen_101: 1732057330
+      teaBrewingEquipmentKitchen_102: -148469015
+      teaBrewingEquipmentKitchen_103: -200646693
+      teaBrewingEquipmentKitchen_104: 209225721
+      teaBrewingEquipmentKitchen_105: 876688547
+      teaBrewingEquipmentKitchen_106: 156838461
+      teaBrewingEquipmentKitchen_107: 1204926366
+      teaBrewingEquipmentKitchen_108: 2007956425
+      teaBrewingEquipmentKitchen_109: -1410077942
+      teaBrewingEquipmentKitchen_11: -837574775
+      teaBrewingEquipmentKitchen_110: -1654799572
+      teaBrewingEquipmentKitchen_111: 120964475
+      teaBrewingEquipmentKitchen_112: -975370922
+      teaBrewingEquipmentKitchen_113: -1489165529
+      teaBrewingEquipmentKitchen_114: 93650278
+      teaBrewingEquipmentKitchen_115: 1393233951
+      teaBrewingEquipmentKitchen_116: 2064077862
+      teaBrewingEquipmentKitchen_117: -458848431
+      teaBrewingEquipmentKitchen_118: 774274039
+      teaBrewingEquipmentKitchen_119: 1073747771
+      teaBrewingEquipmentKitchen_12: -212602540
+      teaBrewingEquipmentKitchen_120: 119529871
+      teaBrewingEquipmentKitchen_121: 1656611756
+      teaBrewingEquipmentKitchen_122: -311876030
+      teaBrewingEquipmentKitchen_123: -613570572
+      teaBrewingEquipmentKitchen_124: -1704476107
+      teaBrewingEquipmentKitchen_125: -140500636
+      teaBrewingEquipmentKitchen_126: -375279512
+      teaBrewingEquipmentKitchen_127: -1337869262
+      teaBrewingEquipmentKitchen_128: 1819594661
+      teaBrewingEquipmentKitchen_129: 1823474435
+      teaBrewingEquipmentKitchen_13: -1554101306
+      teaBrewingEquipmentKitchen_130: 346452769
+      teaBrewingEquipmentKitchen_131: 567411804
+      teaBrewingEquipmentKitchen_132: -347655436
+      teaBrewingEquipmentKitchen_133: -327276003
+      teaBrewingEquipmentKitchen_134: -1549221181
+      teaBrewingEquipmentKitchen_135: -503258804
+      teaBrewingEquipmentKitchen_136: 1997113719
+      teaBrewingEquipmentKitchen_137: -1334481876
+      teaBrewingEquipmentKitchen_138: -1208525969
+      teaBrewingEquipmentKitchen_139: 446204107
+      teaBrewingEquipmentKitchen_14: -885990717
+      teaBrewingEquipmentKitchen_140: 1520726812
+      teaBrewingEquipmentKitchen_141: 583815385
+      teaBrewingEquipmentKitchen_142: -482811703
+      teaBrewingEquipmentKitchen_143: -894422848
+      teaBrewingEquipmentKitchen_144: -353474621
+      teaBrewingEquipmentKitchen_145: 891945530
+      teaBrewingEquipmentKitchen_146: -1905162715
+      teaBrewingEquipmentKitchen_147: 504856666
+      teaBrewingEquipmentKitchen_148: -1619110806
+      teaBrewingEquipmentKitchen_149: 547532301
+      teaBrewingEquipmentKitchen_15: -1649015267
+      teaBrewingEquipmentKitchen_150: -191613610
+      teaBrewingEquipmentKitchen_151: 456574316
+      teaBrewingEquipmentKitchen_152: 1363768513
+      teaBrewingEquipmentKitchen_153: -290380899
+      teaBrewingEquipmentKitchen_154: 1547857061
+      teaBrewingEquipmentKitchen_155: 921997822
+      teaBrewingEquipmentKitchen_156: -688428430
+      teaBrewingEquipmentKitchen_157: -609928345
+      teaBrewingEquipmentKitchen_16: -199307762
+      teaBrewingEquipmentKitchen_17: -274346883
+      teaBrewingEquipmentKitchen_18: 518409721
+      teaBrewingEquipmentKitchen_19: 1788141603
+      teaBrewingEquipmentKitchen_2: 1286970210
+      teaBrewingEquipmentKitchen_20: 1964920058
+      teaBrewingEquipmentKitchen_21: -1788328876
+      teaBrewingEquipmentKitchen_22: -1044911919
+      teaBrewingEquipmentKitchen_23: 120567005
+      teaBrewingEquipmentKitchen_24: 1734156253
+      teaBrewingEquipmentKitchen_25: -2006476764
+      teaBrewingEquipmentKitchen_26: -1844108891
+      teaBrewingEquipmentKitchen_27: 39970139
+      teaBrewingEquipmentKitchen_28: 1745243772
+      teaBrewingEquipmentKitchen_29: 588431335
+      teaBrewingEquipmentKitchen_3: -1446928892
+      teaBrewingEquipmentKitchen_30: 419131923
+      teaBrewingEquipmentKitchen_31: -1071012919
+      teaBrewingEquipmentKitchen_32: -2115483025
+      teaBrewingEquipmentKitchen_33: -382932317
+      teaBrewingEquipmentKitchen_34: -1993806273
+      teaBrewingEquipmentKitchen_35: 1347348213
+      teaBrewingEquipmentKitchen_36: 814806981
+      teaBrewingEquipmentKitchen_37: 1321896820
+      teaBrewingEquipmentKitchen_38: -1200164446
+      teaBrewingEquipmentKitchen_39: -1248862268
+      teaBrewingEquipmentKitchen_4: -879684485
+      teaBrewingEquipmentKitchen_40: -758502309
+      teaBrewingEquipmentKitchen_41: -1419908478
+      teaBrewingEquipmentKitchen_42: 1655860155
+      teaBrewingEquipmentKitchen_43: 1089891017
+      teaBrewingEquipmentKitchen_44: 1001492732
+      teaBrewingEquipmentKitchen_45: 1809439406
+      teaBrewingEquipmentKitchen_46: 81267257
+      teaBrewingEquipmentKitchen_47: 531525234
+      teaBrewingEquipmentKitchen_48: -1165457896
+      teaBrewingEquipmentKitchen_49: -1860923267
+      teaBrewingEquipmentKitchen_5: 1411011697
+      teaBrewingEquipmentKitchen_50: -1072351432
+      teaBrewingEquipmentKitchen_51: 2039213238
+      teaBrewingEquipmentKitchen_52: -2019954939
+      teaBrewingEquipmentKitchen_53: 610461823
+      teaBrewingEquipmentKitchen_54: 1767342686
+      teaBrewingEquipmentKitchen_55: 177999468
+      teaBrewingEquipmentKitchen_56: -1953762570
+      teaBrewingEquipmentKitchen_57: -103901994
+      teaBrewingEquipmentKitchen_58: -1610020370
+      teaBrewingEquipmentKitchen_59: 181964653
+      teaBrewingEquipmentKitchen_6: 1679118770
+      teaBrewingEquipmentKitchen_60: -473790725
+      teaBrewingEquipmentKitchen_61: 167291335
+      teaBrewingEquipmentKitchen_62: 817451249
+      teaBrewingEquipmentKitchen_63: -98746392
+      teaBrewingEquipmentKitchen_64: 353700884
+      teaBrewingEquipmentKitchen_65: -188275473
+      teaBrewingEquipmentKitchen_66: -228110606
+      teaBrewingEquipmentKitchen_67: -119061438
+      teaBrewingEquipmentKitchen_68: 2109908106
+      teaBrewingEquipmentKitchen_69: -1156702382
+      teaBrewingEquipmentKitchen_7: -639172491
+      teaBrewingEquipmentKitchen_70: 136700163
+      teaBrewingEquipmentKitchen_71: -500921036
+      teaBrewingEquipmentKitchen_72: 592143961
+      teaBrewingEquipmentKitchen_73: -1245124303
+      teaBrewingEquipmentKitchen_74: -50095235
+      teaBrewingEquipmentKitchen_75: -687493356
+      teaBrewingEquipmentKitchen_76: 2020367580
+      teaBrewingEquipmentKitchen_77: 116419253
+      teaBrewingEquipmentKitchen_78: -1016225499
+      teaBrewingEquipmentKitchen_79: -505283034
+      teaBrewingEquipmentKitchen_8: -1243248093
+      teaBrewingEquipmentKitchen_80: 912303147
+      teaBrewingEquipmentKitchen_81: -925473823
+      teaBrewingEquipmentKitchen_82: 1444643999
+      teaBrewingEquipmentKitchen_83: -436021772
+      teaBrewingEquipmentKitchen_84: -858588192
+      teaBrewingEquipmentKitchen_85: 965134624
+      teaBrewingEquipmentKitchen_86: -1524370688
+      teaBrewingEquipmentKitchen_87: -1672867143
+      teaBrewingEquipmentKitchen_88: -871896524
+      teaBrewingEquipmentKitchen_89: -1246435810
+      teaBrewingEquipmentKitchen_9: 1105672799
+      teaBrewingEquipmentKitchen_90: 612807285
+      teaBrewingEquipmentKitchen_91: 1798858356
+      teaBrewingEquipmentKitchen_92: -1788548613
+      teaBrewingEquipmentKitchen_93: -1065293217
+      teaBrewingEquipmentKitchen_94: 99415648
+      teaBrewingEquipmentKitchen_95: -992280785
+      teaBrewingEquipmentKitchen_96: 1749019827
+      teaBrewingEquipmentKitchen_97: -1335644819
+      teaBrewingEquipmentKitchen_98: 408790690
+      teaBrewingEquipmentKitchen_99: -789621144
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

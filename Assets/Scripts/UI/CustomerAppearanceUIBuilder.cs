@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
@@ -77,27 +77,43 @@ public class CustomerAppearanceUIBuilder
         displayRect.sizeDelta = new Vector2(300, 300);
 
         Image displayImage = displayObj.AddComponent<Image>();
-        
-        // 罹먮┃????낅퀎 ?됱긽
-        Color characterColor = GetCharacterColor(customer.data.characterType);
-        displayImage.color = characterColor;
 
-        // 罹먮┃???대쫫 ?띿뒪??
-        GameObject textObj = new GameObject("CharacterType");
-        textObj.transform.SetParent(displayObj.transform, false);
-        RectTransform textRect = textObj.AddComponent<RectTransform>();
-        textRect.anchorMin = Vector2.zero;
-        textRect.anchorMax = Vector2.one;
-        textRect.offsetMin = Vector2.zero;
-        textRect.offsetMax = Vector2.zero;
+        // ── Sprite 우선 렌더링 ──────────────────────────────────────────────
+        // CustomerData.characterSprite 가 연결되어 있으면 실제 이미지를 사용합니다.
+        // 없으면 기존 색상 Placeholder 를 유지하여 게임이 깨지지 않도록 합니다.
+        bool hasSpriteAsset = customer.data.characterSprite != null;
 
-        Text text = textObj.AddComponent<Text>();
-        text.text = customer.data.characterType.ToUpper();
-        text.font = FontHelper.GetDefaultFont();
-        text.fontSize = 40;
-        text.fontStyle = FontStyle.Bold;
-        text.alignment = TextAnchor.MiddleCenter;
-        text.color = Color.white;
+        if (hasSpriteAsset)
+        {
+            displayImage.sprite        = customer.data.characterSprite;
+            displayImage.color         = Color.white;               // 스프라이트 색상 보정 없이 원본 출력
+            displayImage.preserveAspect = true;
+        }
+        else
+        {
+            // Placeholder: 캐릭터 타입별 색상
+            displayImage.color = GetCharacterColor(customer.data.characterType);
+        }
+
+        // 캐릭터 타입 텍스트 레이블 (스프라이트가 없을 때만 표시)
+        if (!hasSpriteAsset)
+        {
+            GameObject textObj = new GameObject("CharacterType");
+            textObj.transform.SetParent(displayObj.transform, false);
+            RectTransform textRect = textObj.AddComponent<RectTransform>();
+            textRect.anchorMin = Vector2.zero;
+            textRect.anchorMax = Vector2.one;
+            textRect.offsetMin = Vector2.zero;
+            textRect.offsetMax = Vector2.zero;
+
+            Text text = textObj.AddComponent<Text>();
+            text.text      = customer.data.characterType.ToUpper();
+            text.font      = FontHelper.GetDefaultFont();
+            text.fontSize  = 40;
+            text.fontStyle = FontStyle.Bold;
+            text.alignment = TextAnchor.MiddleCenter;
+            text.color     = Color.white;
+        }
     }
 
     private void CreateCustomerName(GameObject parent, Customer customer)

@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: d4c70c53afbd08146846aa0684884c02
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 840
+        width: 130
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bf74daf63ff524784830c4b7a1b288
+      internalID: 1033813473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 841
+        width: 132
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d3a0499465a254a8ed29360b555eb6
+      internalID: 292985594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 840
+        width: 128
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bcd227a23f0fd4ca111d0411018e32
+      internalID: 1371022785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_3
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 838
+        width: 133
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3038b3171fcc5904b967fea2d3da13c0
+      internalID: -2100772164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 839
+        width: 117
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d320e5ac2fb764da8d4f329ccd5147
+      internalID: -978872660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_5
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 838
+        width: 125
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89889b7fbd8499f48a9337c76af51935
+      internalID: -1823421883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 716
+        width: 119
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c39e637397ce749a8f3e3e66c3cdfa
+      internalID: -1062698235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 717
+        width: 117
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa165b2b3d92b2a439fcaa72a340b28c
+      internalID: 92114156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 716
+        width: 111
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfae9d17315587b49a792e34fd79312b
+      internalID: -1017759696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 714
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce441235761e7b443a67e064cfa5a5be
+      internalID: 821890608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 705
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf111bda97f264bac0f4e99b75ea2b
+      internalID: 603024171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 713
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad0c1ef50c76cd43be54a096c8493c2
+      internalID: 1840928997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_12
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 713
+        width: 113
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26a481bd35312c428b3cced75c71337
+      internalID: 2042444170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_13
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 714
+        width: 118
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8174a049cf366134180c94d20c41c874
+      internalID: -681908303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_14
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 733
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b0a5f993ab9440a12197eb41b746a
+      internalID: -1642683847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 740
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da01d6601c3d34d8d29c8bd2a1973b
+      internalID: -905950946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 602
+        width: 116
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3341f8fa9d0e779458417dfb2ffa8f5f
+      internalID: -1700332251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 602
+        width: 121
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a632942fe24eb44c8944f6e1ebe08b4
+      internalID: 1173111734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_18
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 672
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae07dd8e98c0e468f6b9d7ac520a44
+      internalID: -711474721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 599
+        width: 118
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7043f30dcac3f7b4da812082f5491ca7
+      internalID: 115521713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 454
+        width: 110
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd2d5914c2ad5246a161dcdfa69a641
+      internalID: 1242518876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 553
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9297ffff24d2f44ae2dfac5cbb14f6
+      internalID: 1992819271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 457
+        width: 113
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427ae4969569dfc408c2f3fec0fbce96
+      internalID: -512498023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 565
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1857c8bd54283444856e6cc53c171d0
+      internalID: -580764016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_24
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 455
+        width: 106
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb48d0a06e6babd4bb0ca3d988f7c88f
+      internalID: -1683966994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_25
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 452
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e564e65577f1b4488936faa65f51c1
+      internalID: -295190020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_26
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 452
+        width: 115
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4434c93b6234fc048b12a3615e8a1714
+      internalID: 1169024399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_27
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 456
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c05cf13e60ab4b92dae31905b1024
+      internalID: -345306483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 307
+        width: 108
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309440aea7f01004cb065bf0db86311b
+      internalID: 269255548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 402
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5344e353c3e03e46ab389ff46daaada
+      internalID: -960256475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 313
+        width: 100
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996842a3a4dc6654fa66258805c14688
+      internalID: -1350641492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 305
+        width: 101
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7446456774b163e45a6e2cf7abb93ca5
+      internalID: 51488079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 307
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214e41dfc973fee4a8e4d2737730c535
+      internalID: 533024915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_33
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 307
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040f9de23bf3e254e8d418e60ac859d7
+      internalID: -1850760283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_34
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 312
+        width: 186
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224fc02a8b44194180c5175a6e67864
+      internalID: -626857257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 144
+        width: 109
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92fee7558c177547b3f12d10277bbaf
+      internalID: 1189729420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 143
+        width: 105
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81016b73cb1d0da44bd32e7a988efa53
+      internalID: 1395167625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_37
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 143
+        width: 106
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379f9a9c6e463c1409847653f11883c2
+      internalID: -1731207786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_38
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 143
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d06de7a86151448cb129e9f2969d7
+      internalID: 784751158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_39
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 142
+        width: 106
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d6b5b16df5be2449a9336bbfb50086
+      internalID: 1062581799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_40
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 142
+        width: 117
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c4f23f741608488a1ffd207142cc6
+      internalID: -125596606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 41
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865e000efe3ef1846aad4d03f0f63963
+      internalID: 307490358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 39
+        width: 124
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb4838fd422494690a88e9fd3a417e
+      internalID: -1833747992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 35
+        width: 117
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57b1f1f45897a842899a08ea7d0ee29
+      internalID: 1095867007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_44
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 37
+        width: 120
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2169904ea6c117b40b5b568d2dca2ad9
+      internalID: 889428130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_45
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 30
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5d3186e7aa4a64cb088a9cf91f2563
+      internalID: -832005687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_46
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 24
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89c3b5dd0e7c0446ab863396c2fc4c9
+      internalID: 301340044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vietnamCustomerWaterBuffaloSheet_47
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 12
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b637555fe280e4aa0728473d387b94
+      internalID: 875768143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf94f81250a69af469fac94880467105
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      vietnamCustomerWaterBuffaloSheet_0: 1033813473
+      vietnamCustomerWaterBuffaloSheet_1: 292985594
+      vietnamCustomerWaterBuffaloSheet_10: 603024171
+      vietnamCustomerWaterBuffaloSheet_11: 1840928997
+      vietnamCustomerWaterBuffaloSheet_12: 2042444170
+      vietnamCustomerWaterBuffaloSheet_13: -681908303
+      vietnamCustomerWaterBuffaloSheet_14: -1642683847
+      vietnamCustomerWaterBuffaloSheet_15: -905950946
+      vietnamCustomerWaterBuffaloSheet_16: -1700332251
+      vietnamCustomerWaterBuffaloSheet_17: 1173111734
+      vietnamCustomerWaterBuffaloSheet_18: -711474721
+      vietnamCustomerWaterBuffaloSheet_19: 115521713
+      vietnamCustomerWaterBuffaloSheet_2: 1371022785
+      vietnamCustomerWaterBuffaloSheet_20: 1242518876
+      vietnamCustomerWaterBuffaloSheet_21: 1992819271
+      vietnamCustomerWaterBuffaloSheet_22: -512498023
+      vietnamCustomerWaterBuffaloSheet_23: -580764016
+      vietnamCustomerWaterBuffaloSheet_24: -1683966994
+      vietnamCustomerWaterBuffaloSheet_25: -295190020
+      vietnamCustomerWaterBuffaloSheet_26: 1169024399
+      vietnamCustomerWaterBuffaloSheet_27: -345306483
+      vietnamCustomerWaterBuffaloSheet_28: 269255548
+      vietnamCustomerWaterBuffaloSheet_29: -960256475
+      vietnamCustomerWaterBuffaloSheet_3: -2100772164
+      vietnamCustomerWaterBuffaloSheet_30: -1350641492
+      vietnamCustomerWaterBuffaloSheet_31: 51488079
+      vietnamCustomerWaterBuffaloSheet_32: 533024915
+      vietnamCustomerWaterBuffaloSheet_33: -1850760283
+      vietnamCustomerWaterBuffaloSheet_34: -626857257
+      vietnamCustomerWaterBuffaloSheet_35: 1189729420
+      vietnamCustomerWaterBuffaloSheet_36: 1395167625
+      vietnamCustomerWaterBuffaloSheet_37: -1731207786
+      vietnamCustomerWaterBuffaloSheet_38: 784751158
+      vietnamCustomerWaterBuffaloSheet_39: 1062581799
+      vietnamCustomerWaterBuffaloSheet_4: -978872660
+      vietnamCustomerWaterBuffaloSheet_40: -125596606
+      vietnamCustomerWaterBuffaloSheet_41: 307490358
+      vietnamCustomerWaterBuffaloSheet_42: -1833747992
+      vietnamCustomerWaterBuffaloSheet_43: 1095867007
+      vietnamCustomerWaterBuffaloSheet_44: 889428130
+      vietnamCustomerWaterBuffaloSheet_45: -832005687
+      vietnamCustomerWaterBuffaloSheet_46: 301340044
+      vietnamCustomerWaterBuffaloSheet_47: 875768143
+      vietnamCustomerWaterBuffaloSheet_5: -1823421883
+      vietnamCustomerWaterBuffaloSheet_6: -1062698235
+      vietnamCustomerWaterBuffaloSheet_7: 92114156
+      vietnamCustomerWaterBuffaloSheet_8: -1017759696
+      vietnamCustomerWaterBuffaloSheet_9: 821890608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
