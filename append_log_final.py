@@ -10,10 +10,10 @@ except FileNotFoundError:
     exit(1)
 
 new_row = {
-    '버전': 'v1.1',
+    '버전': 'v1.46.0',
     '날짜': datetime.now().strftime('%Y-%m-%d'),
     '담당자': 'AI Assistant',
-    '수정 내용': '최종 개선 적용: AudioManager.Awake()에서 SfxDatabase 및 ThemeDatabase의 Pre-warming 적용으로 첫 재생 지연(Hitch) 방지'
+    '수정 내용': '사용자 리포트 버그 C# 수정 시도 및 Play Mode 미검증/미해결 상태 기록 갱신'
 }
 
 df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)

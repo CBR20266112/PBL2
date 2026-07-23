@@ -50,8 +50,12 @@ public class GameManager : Singleton<GameManager>
         _ = AudioManager.Instance;
 
         // 타이틀 화면으로 이동
-        CurrentState = GameState.Title;
-        LoadScene(GameConstants.SCENE_TITLE);
+        // GameManager can first be created after the Title scene loads Main.
+        // Do not reload Title here, or that transition is immediately cancelled.
+        string activeSceneName = UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
+        CurrentState = activeSceneName == GameConstants.SCENE_MAIN
+            ? GameState.Playing
+            : GameState.Title;
     }
 
     public void LoadScene(string sceneName)

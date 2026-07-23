@@ -16,7 +16,10 @@ public class IngredientData : ScriptableObject
     [Tooltip("재료의 고유 ID. 코드 및 저장 데이터에서 이 값을 키로 사용합니다. (예: green_tea_leaves, milk)")]
     public string ingredientId;
 
-    [Tooltip("UI에 표시될 이름.")]
+    [Tooltip("LocalizationManager에서 이름을 조회하기 위한 키. (예: ingredient_green_tea_leaves) 비어 있으면 displayName을 대신 사용합니다.")]
+    public string localizationKey;
+
+    [Tooltip("UI에 표시될 이름. localizationKey가 없거나 미등록 시 대체 텍스트.")]
     public string displayName;
 
     [Tooltip("인벤토리 및 샵 UI에 표시될 스프라이트 아이콘.")]

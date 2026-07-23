@@ -1,120 +1,133 @@
-using UnityEngine;
 using System.Collections.Generic;
+using UnityEngine;
 
 /// <summary>
-/// 손님 매니저
-/// 손님 데이터 로드 및 관리
+/// 손님 생명주기(선택, 대기열, 현재 손님) 관리 매니저입니다.
+/// Instantiate(화면 렌더링)나 주문 생성(OrderManager)은 담당하지 않고, 데이터 상태 관리 및 Hook만 노출합니다.
 /// </summary>
 public class CustomerManager : Singleton<CustomerManager>
 {
-    [Header("Customer Data")]
-    [Tooltip("Inspector에서 CustomerData ScriptableObject를 직접 연결합니다.\nAssets/Sprites/Character/Customers/ 에셋과 함께 설정하세요.")]
-    [SerializeField] private List<CustomerData> _customerDataList = new List<CustomerData>();
+    [Header("데이터베이스 연결")]
+    [Tooltip("Inspector에서 CustomerDatabase 에셋을 연결합니다.")]
+    [SerializeField] private CustomerDatabase _customerDatabase;
 
-    private List<CustomerData> _allCustomers = new List<CustomerData>();
-    private Queue<Customer> _waitingCustomers = new Queue<Customer>();
-    private Customer _currentCustomer;
+    private readonly Queue<CustomerData> _waitingCustomerQueue = new Queue<CustomerData>();
+    private CustomerData _currentCustomerData;
+
+    // 손님 도착/준비 완료 이벤트 (향후 OrderManager 및 View/Spawner 연동용)
+    public delegate void CustomerArrivedHandler(CustomerData customerData);
+    public event CustomerArrivedHandler OnCustomerArrived;
 
     protected override void Awake()
     {
         base.Awake();
-        LoadAllCustomers();
-    }
-
-    private void LoadAllCustomers()
-    {
-        _allCustomers.Clear();
-
-        // 1순위: Inspector에서 직접 연결된 CustomerData 사용
-        if (_customerDataList != null && _customerDataList.Count > 0)
+        if (_customerDatabase == null)
         {
-            _allCustomers.AddRange(_customerDataList);
-            Debug.Log($"[CustomerManager] Inspector 연결 데이터 {_allCustomers.Count}명 로드");
-            return;
+            Debug.LogError("[CustomerManager] _customerDatabase 참조가 할당되지 않았습니다. Inspector를 확인해 주세요.");
         }
-
-        // 2순위(폴백): Resources 폴더에서 로드 시도
-        CustomerData[] loadedCustomers = Resources.LoadAll<CustomerData>("ScriptableObjects/Customers");
-        if (loadedCustomers.Length > 0)
-        {
-            _allCustomers.AddRange(loadedCustomers);
-            Debug.Log($"[CustomerManager] Resources 폴더에서 {_allCustomers.Count}명 로드");
-            return;
-        }
-
-        // 3순위(폴백): 하드코딩 기본 데이터 (에셋 미연결 시 임시 동작 보장)
-        Debug.LogWarning("[CustomerManager] CustomerData 없음 — 기본 데이터로 실행합니다. Inspector에서 CustomerData를 연결해 주세요.");
-        _allCustomers.AddRange(CustomerDataHelper.CreateDefaultCustomers());
-        Debug.Log($"[CustomerManager] 기본 데이터 {_allCustomers.Count}명 로드");
     }
 
     /// <summary>
-    /// 무작위 손님 생성 및 대기 큐에 추가
+    /// 무작위 손님 데이터를 선택하여 대기열(Queue)에 추가합니다.
+    /// DayState.Operating 상태에서만 손님을 대기열에 추가할 수 있습니다.
     /// </summary>
-    public void SpawnRandomCustomer()
+    /// <returns>대기열에 새로 추가된 CustomerData (실패 시 null)</returns>
+    public CustomerData SpawnCustomer()
     {
-        if (_allCustomers.Count == 0)
+        // DayManager 상태 확인 (Operating 상태에서만 대기열 추가)
+        if (DayManager.Instance != null && DayManager.Instance.CurrentState != DayState.Operating)
         {
-            Debug.LogWarning("No customers loaded!");
-            return;
-        }
-
-        // 무작위 손님 선택
-        CustomerData randomData = _allCustomers[Random.Range(0, _allCustomers.Count)];
-
-        // Customer GameObject 생성
-        GameObject customerObj = new GameObject(randomData.customerName);
-        Customer customer = customerObj.AddComponent<Customer>();
-        customer.Initialize(randomData);
-
-        // 대기 큐에 추가
-        _waitingCustomers.Enqueue(customer);
-        Debug.Log($"Customer spawned: {randomData.customerName}, Queue count: {_waitingCustomers.Count}");
-    }
-
-    /// <summary>
-    /// 대기 중인 손님을 현재 손님으로 호출
-    /// </summary>
-    public Customer CallNextCustomer()
-    {
-        if (_waitingCustomers.Count == 0)
-        {
-            Debug.LogWarning("No waiting customers!");
+            Debug.LogWarning("[CustomerManager] 영업 중(Operating) 상태가 아니므로 손님을 추가하지 않습니다.");
             return null;
         }
 
-        _currentCustomer = _waitingCustomers.Dequeue();
-        _currentCustomer.OnVisited();
-        Debug.Log($"Customer called: {_currentCustomer.data.customerName}");
-        return _currentCustomer;
-    }
-
-    /// <summary>
-    /// 현재 손님 반환
-    /// </summary>
-    public Customer GetCurrentCustomer()
-    {
-        return _currentCustomer;
-    }
-
-    /// <summary>
-    /// 현재 손님 제거 (손님 서빙 완료)
-    /// </summary>
-    public void RemoveCurrentCustomer()
-    {
-        if (_currentCustomer != null)
+        if (_customerDatabase == null)
         {
-            Destroy(_currentCustomer.gameObject);
-            _currentCustomer = null;
-            Debug.Log("Current customer removed");
+            Debug.LogWarning("[CustomerManager] CustomerDatabase가 연결되어 있지 않습니다.");
+            return null;
+        }
+
+        CustomerData randomData = _customerDatabase.GetRandomCustomer();
+        if (randomData == null)
+        {
+            Debug.LogWarning("[CustomerManager] 손님 데이터가 존재하지 않습니다.");
+            return null;
+        }
+
+        _waitingCustomerQueue.Enqueue(randomData);
+        Debug.Log($"[CustomerManager] 손님 대기열 추가: {randomData.customerId} (대기 수: {_waitingCustomerQueue.Count})");
+        return randomData;
+    }
+
+    /// <summary>
+    /// 현재 선택되어 서빙 중인 손님을 제거/완료 처리합니다.
+    /// </summary>
+    public void RemoveCustomer()
+    {
+        if (_currentCustomerData != null)
+        {
+            Debug.Log($"[CustomerManager] 현재 손님 퇴장 완료: {_currentCustomerData.customerId}");
+            _currentCustomerData = null;
         }
     }
 
     /// <summary>
-    /// 대기 중인 손님 수
+    /// 대기열의 다음 손님을 현재 손님으로 전환하고 OrderManager/View 알림 Hook을 발생시킵니다.
     /// </summary>
-    public int GetWaitingCustomerCount()
+    public CustomerData CallNextCustomer()
     {
-        return _waitingCustomers.Count;
+        if (_waitingCustomerQueue.Count == 0)
+        {
+            return null;
+        }
+
+        _currentCustomerData = _waitingCustomerQueue.Dequeue();
+        
+        // OrderManager 및 View 계층에 알리기 위한 Hook 호출
+        NotifyCustomerReady(_currentCustomerData);
+
+        return _currentCustomerData;
     }
+
+    /// <summary>
+    /// 현재 활성화된 손님 데이터를 반환합니다.
+    /// </summary>
+    public CustomerData GetCurrentCustomerData()
+    {
+        return _currentCustomerData;
+    }
+
+    /// <summary>
+    /// 현재 서빙 중이거나 대기열에 손님이 존재하는지 여부를 반환합니다.
+    /// </summary>
+    public bool HasCustomer()
+    {
+        return _currentCustomerData != null || _waitingCustomerQueue.Count > 0;
+    }
+
+    /// <summary>
+    /// 손님이 준비되었음을 OrderManager 및 View 계층에 알리는 Hook 메서드입니다.
+    /// </summary>
+    public void NotifyCustomerReady(CustomerData customerData)
+    {
+        // TODO: 향후 OrderManager.Instance.GenerateOrder(customerData) 호출 연동 지점
+        Debug.Log($"[CustomerManager] 손님 준비 알림 (NotifyCustomerReady): {customerData?.customerId}");
+        OnCustomerArrived?.Invoke(customerData);
+    }
+
+    // ──────────────────────────────────────────────────────────────────────
+    // 기존 호환용 API (하위 호환성 및 래퍼)
+    // ──────────────────────────────────────────────────────────────────────
+
+    public void SpawnRandomCustomer() => SpawnCustomer();
+
+    public Customer GetCurrentCustomer()
+    {
+        // 기존 Customer 컴포넌트 호환용 (단순 래퍼)
+        return null;
+    }
+
+    public void RemoveCurrentCustomer() => RemoveCustomer();
+
+    public int GetWaitingCustomerCount() => _waitingCustomerQueue.Count;
 }

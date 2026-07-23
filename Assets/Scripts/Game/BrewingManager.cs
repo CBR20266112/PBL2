@@ -1,5 +1,7 @@
 using UnityEngine;
 
+// DrinkDatabase, RecipeDatabase는 Inspector에서 연결합니다.
+
 /// <summary>
 /// 차 제조 데이터
 /// 온도, 우림시간, 재료 등
@@ -27,11 +29,27 @@ public class BrewingData
 /// </summary>
 public class BrewingManager : Singleton<BrewingManager>
 {
+    // ──────────────────────────────────────────────────────────────────────
+    // 데이터베이스 연결 (Inspector에서 에셋을 드래그 앤 드롭으로 연결)
+    // ──────────────────────────────────────────────────────────────────────
+    [Header("데이터베이스 연결")]
+    [Tooltip("DrinkDatabase 에셋을 연결합니다.")]
+    [SerializeField] private DrinkDatabase _drinkDatabase;
+
+    [Tooltip("RecipeDatabase 에셋을 연결합니다.")]
+    [SerializeField] private RecipeDatabase _recipeDatabase;
+
+    // ──────────────────────────────────────────────────────────────────────
+    // 상태
+    // ──────────────────────────────────────────────────────────────────────
     public BrewingData CurrentBrewingData { get; private set; } = new BrewingData();
 
     // 제조 완료 이벤트
     public delegate void BrewingCompleteHandler();
     public event BrewingCompleteHandler OnBrewingComplete;
+
+    // 제조 진행도 변경 이벤트
+    public event System.Action<float> OnBrewingProgressChanged;
 
     private float _brewingDuration = 5f; // 기본 우림시간 5초
     private float _brewingTimer = 0f;
@@ -43,6 +61,7 @@ public class BrewingManager : Singleton<BrewingManager>
 
         _brewingTimer += Time.deltaTime;
         CurrentBrewingData.brewingProgress = Mathf.Clamp01(_brewingTimer / _brewingDuration);
+        OnBrewingProgressChanged?.Invoke(CurrentBrewingData.brewingProgress);
 
         if (_brewingTimer >= _brewingDuration)
         {
@@ -75,6 +94,64 @@ public class BrewingManager : Singleton<BrewingManager>
     public bool IsBrewing()
     {
         return _isBrewing;
+    }
+
+    /// <summary>
+    /// 현재 선택된 차의 레시피가 존재하고 재료 재고가 충분한지 검증합니다.
+    /// 데이터베이스나 인벤토리 매니저가 연결되지 않은 경우에는 항상 true를 반환하여 기존 동작을 유지합니다.
+    /// </summary>
+    /// <param name="failReason">제조 불가 시 사유. 성공하면 빈 문자열.</param>
+    /// <returns>제조 가능 여부</returns>
+    public bool CanBrew(out string failReason)
+    {
+        if (_recipeDatabase == null)
+        {
+            // DB가 연결되지 않은 경우 기존 동작과 동일하게 항상 허용
+            failReason = string.Empty;
+            return true;
+        }
+
+        RecipeData recipe = _recipeDatabase.GetRecipe(CurrentBrewingData.selectedTea);
+        if (recipe == null)
+        {
+            failReason = $"'{CurrentBrewingData.selectedTea}'에 해당하는 레시피가 등록되어 있지 않습니다.";
+            return false;
+        }
+
+        // 인벤토리 매니저를 통한 요구 재료 재고 검증
+        if (InventoryManager.Instance != null)
+        {
+            foreach (var req in recipe.requiredIngredients)
+            {
+                if (req.ingredient == null) continue;
+                if (!InventoryManager.Instance.HasEnoughIngredient(req.ingredient.ingredientId, req.amount))
+                {
+                    failReason = $"재료 부족: {req.ingredient.displayName} (필요: {req.amount}개)";
+                    return false;
+                }
+            }
+        }
+
+        failReason = string.Empty;
+        return true;
+    }
+
+    /// <summary>
+    /// 레시피 유효성을 검증한 뒤 제조를 시작합니다.
+    /// 레시피가 없으면 제조를 시작하지 않고 false를 반환합니다.
+    /// 기존 StartBrewing()은 수정하지 않습니다.
+    /// </summary>
+    /// <returns>제조 시작 성공 여부</returns>
+    public bool StartBrewingWithValidation()
+    {
+        if (!CanBrew(out string failReason))
+        {
+            Debug.LogWarning($"[BrewingManager] 제조 불가: {failReason}");
+            return false;
+        }
+
+        StartBrewing();
+        return true;
     }
 
     /// <summary>

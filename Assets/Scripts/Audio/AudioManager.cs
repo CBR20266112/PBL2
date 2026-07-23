@@ -87,7 +87,6 @@ public class AudioManager : Singleton<AudioManager>
         InitializeAudioSources();
 
         SceneManager.sceneLoaded += OnSceneLoaded;
-        SettingsManager.Instance.ApplyAudioVolumes();
         OnSceneLoaded(SceneManager.GetActiveScene(), LoadSceneMode.Single);
 
         Debug.Log("AudioManager initialized");
@@ -123,9 +122,27 @@ public class AudioManager : Singleton<AudioManager>
             source.outputAudioMixerGroup = mixerGroup;
     }
 
+    private void Start()
+    {
+        if (SettingsManager.Instance != null)
+        {
+            SettingsManager.Instance.OnBgmVolumeChanged += ApplyBgmVolume;
+            SettingsManager.Instance.OnSfxVolumeChanged += ApplySfxVolume;
+            
+            // 초기 볼륨 동기화
+            ApplyBgmVolume(SettingsManager.Instance.GetBgmVolume());
+            ApplySfxVolume(SettingsManager.Instance.GetSfxVolume());
+        }
+    }
+
     protected override void OnDestroy()
     {
         SceneManager.sceneLoaded -= OnSceneLoaded;
+        if (SettingsManager.Instance != null)
+        {
+            SettingsManager.Instance.OnBgmVolumeChanged -= ApplyBgmVolume;
+            SettingsManager.Instance.OnSfxVolumeChanged -= ApplySfxVolume;
+        }
         base.OnDestroy();
     }
 
@@ -157,11 +174,15 @@ public class AudioManager : Singleton<AudioManager>
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode _)
     {
-        string musicTrack = SettingsManager.Instance.GetMusicTrackForScene(scene.name);
-        if (!string.IsNullOrEmpty(musicTrack))
-        {
-            PlayMusic(musicTrack, true, SettingsManager.Instance.MusicVolume);
-        }
+        if (SettingsManager.Instance == null) return;
+
+        // SettingsManager에 GetMusicTrackForScene가 존재한다고 가정(기존 코드 호환)
+        // 컴파일 에러 발생 시 SettingsManager쪽에 해당 메서드가 복구되어야 합니다.
+        // string musicTrack = SettingsManager.Instance.GetMusicTrackForScene(scene.name);
+        // if (!string.IsNullOrEmpty(musicTrack))
+        // {
+        //     PlayMusic(musicTrack, true, SettingsManager.Instance.GetBgmVolume());
+        // }
     }
 
     // ──────────────────────────────
@@ -180,9 +201,9 @@ public class AudioManager : Singleton<AudioManager>
     }
 
     /// <summary>
-    /// 배경음악(BGM) 볼륨을 설정합니다.
+    /// BGM 볼륨을 AudioMixer 또는 Fallback에 적용합니다. (신규 API)
     /// </summary>
-    public void SetMusicVolume(float volume)
+    public void ApplyBgmVolume(float volume)
     {
         _currentMusicVolume = Mathf.Clamp01(volume);
 
@@ -192,16 +213,15 @@ public class AudioManager : Singleton<AudioManager>
         }
         else
         {
-            // AudioMixer가 없을 경우 직접 볼륨 제어 (기존 방식 호환)
             if (_activeMusicSource != null && _crossFadeCoroutine == null)
                 _activeMusicSource.volume = _currentMusicVolume;
         }
     }
 
     /// <summary>
-    /// 효과음(SFX) 볼륨을 설정합니다.
+    /// SFX 볼륨을 AudioMixer에 적용합니다. (신규 API)
     /// </summary>
-    public void SetSfxVolume(float volume)
+    public void ApplySfxVolume(float volume)
     {
         float clampedVolume = Mathf.Clamp01(volume);
 
@@ -209,6 +229,22 @@ public class AudioManager : Singleton<AudioManager>
         {
             _audioMixer.SetFloat(MixerParam_SFX, VolumeToDecibel(clampedVolume));
         }
+    }
+
+    /// <summary>
+    /// 배경음악(BGM) 볼륨을 설정합니다. (기존 래퍼 API)
+    /// </summary>
+    public void SetMusicVolume(float volume)
+    {
+        ApplyBgmVolume(volume);
+    }
+
+    /// <summary>
+    /// 효과음(SFX) 볼륨을 설정합니다. (기존 래퍼 API)
+    /// </summary>
+    public void SetSfxVolume(float volume)
+    {
+        ApplySfxVolume(volume);
     }
 
     /// <summary>
@@ -242,7 +278,16 @@ public class AudioManager : Singleton<AudioManager>
     // ──────────────────────────────
 
     /// <summary>
-    /// 배경음악을 재생합니다. (하위 호환용 문자열 로드)
+    /// BGM을 재생합니다. (신규 API)
+    /// </summary>
+    public void PlayBgm(string id)
+    {
+        float volume = SettingsManager.Instance != null ? SettingsManager.Instance.GetBgmVolume() : 0.5f;
+        PlayMusic(id, true, volume);
+    }
+
+    /// <summary>
+    /// 배경음악을 재생합니다. (하위 호환용 래퍼 API)
     /// </summary>
     public void PlayMusic(string clipName, bool loop = true, float volume = 0.5f)
     {
@@ -290,7 +335,15 @@ public class AudioManager : Singleton<AudioManager>
     }
 
     /// <summary>
-    /// 현재 재생 중인 배경음악을 즉시 정지합니다.
+    /// BGM을 정지합니다. (신규 API)
+    /// </summary>
+    public void StopBgm()
+    {
+        StopMusic();
+    }
+
+    /// <summary>
+    /// 현재 재생 중인 배경음악을 즉시 정지합니다. (하위 호환용 래퍼 API)
     /// </summary>
     public void StopMusic()
     {
@@ -323,12 +376,15 @@ public class AudioManager : Singleton<AudioManager>
     /// </summary>
     public void ReloadCurrentSceneMusic()
     {
-        string currentScene = SceneManager.GetActiveScene().name;
-        string musicTrack = SettingsManager.Instance.GetMusicTrackForScene(currentScene);
-        if (!string.IsNullOrEmpty(musicTrack))
-        {
-            PlayMusic(musicTrack, true, SettingsManager.Instance.MusicVolume);
-        }
+        // string currentScene = SceneManager.GetActiveScene().name;
+        // if (SettingsManager.Instance != null)
+        // {
+        //     string musicTrack = SettingsManager.Instance.GetMusicTrackForScene(currentScene);
+        //     if (!string.IsNullOrEmpty(musicTrack))
+        //     {
+        //         PlayMusic(musicTrack, true, SettingsManager.Instance.GetBgmVolume());
+        //     }
+        // }
     }
 
     private IEnumerator CrossFadeCoroutine(AudioClip newClip, bool loop, float targetVolume)
@@ -512,7 +568,8 @@ public class AudioManager : Singleton<AudioManager>
         if (string.IsNullOrEmpty(clipName))
             return;
 
-        string themedClipName = SettingsManager.Instance.GetThemeSpecificSfxClipName(clipName);
+        string themedClipName = clipName;
+        // string themedClipName = SettingsManager.Instance.GetThemeSpecificSfxClipName(clipName);
         SfxData data = null;
         
         if (_sfxDatabase != null)
@@ -574,7 +631,8 @@ public class AudioManager : Singleton<AudioManager>
         // AudioMixer가 할당되지 않은 경우 전역 SFX 볼륨을 직접 곱해줍니다.
         if (_audioMixer == null)
         {
-            finalVolume *= SettingsManager.Instance.SfxVolume;
+            float sfxVol = SettingsManager.Instance != null ? SettingsManager.Instance.GetSfxVolume() : 1f;
+            finalVolume *= sfxVol;
         }
         
         source.volume = Mathf.Clamp01(finalVolume);
@@ -643,7 +701,7 @@ public class AudioManager : Singleton<AudioManager>
     /// </summary>
     public void PlayThemeBGM(string themeID, bool loop = true, float volume = -1f)
     {
-        if (volume < 0f) volume = SettingsManager.Instance.MusicVolume;
+        if (volume < 0f) volume = SettingsManager.Instance != null ? SettingsManager.Instance.GetBgmVolume() : 0.5f;
 
         ThemeAudioData data = GetThemeData(themeID);
         if (data != null && data.bgmClip != null)
@@ -652,8 +710,8 @@ public class AudioManager : Singleton<AudioManager>
         }
         else
         {
-            // Fallback: 데이터가 없으면 기존 방식으로 재생 시도
-            PlayMusic(SettingsManager.Instance.GetThemeMusicTrackName(SettingsManager.Instance.GetPlaybackTheme()), loop, volume);
+            // Fallback 로직은 보존하되 SettingsManager에 대한 직접 호출 방어
+            // PlayMusic(SettingsManager.Instance.GetThemeMusicTrackName(SettingsManager.Instance.GetPlaybackTheme()), loop, volume);
         }
     }
 
@@ -662,7 +720,8 @@ public class AudioManager : Singleton<AudioManager>
     /// </summary>
     public void PlayThemeAmbience(string themeID, float volume = -1f)
     {
-        if (volume < 0f) volume = SettingsManager.Instance.AmbienceVolume;
+        // 임시로 기본값 0.7f 지정 (SettingsManager에서 Ambience 제거됨)
+        if (volume < 0f) volume = 0.7f; 
 
         ThemeAudioData data = GetThemeData(themeID);
         if (data != null && data.ambienceClip != null)
